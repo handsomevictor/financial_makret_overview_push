@@ -1,0 +1,14 @@
+# 这个是备选方案，是用于其他市场的
+#
+# from pytickersymbols import PyTickerSymbols
+# stock_data = PyTickerSymbols()
+# countries = stock_data.get_all_countries()
+# indices = stock_data.get_all_indices()
+# industries = stock_data.get_all_industries()
+
+
+from get_all_tickers import get_tickers as gt
+
+list_of_tickers = gt.get_tickers()
+# or if you want to save them to a CSV file
+get.save_tickers()
