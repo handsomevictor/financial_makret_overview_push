@@ -1,7 +1,7 @@
 # Import packages
 import yfinance as yf
 import pandas as pd
-from data_source_url_total import sp500_tickers_csv_url
+from data_source_total import sp500_tickers_csv_url
 
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context  # ignore ssl certificate errors
