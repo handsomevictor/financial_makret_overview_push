@@ -2,6 +2,10 @@
 1. 时间，尤其是地域，可以用pytz然后给一些地区的选择，让大家选
 2. 数据来源，首批cover的应该有
     - 1. 美股，A股，英股，加密货币，原油和天然气，外汇
+加几列特征，是否为中概股，是否是大票等
+
+美股下载数据的时候，采用多个来源，如果yfinance不行，则改为datareader，并且给我发送邮件，把logging写到正文
+
 3. 如果input的时间内是某个地区的某个市场正在交易，则自动忽略该市场
 4. 需要加上使用的是local还是cloud，关系到时区
 5. 之后加上业绩报告和真实对比
@@ -17,6 +21,9 @@
     美股还得专门列出中概股单独为一列
     加上中国的一些基金和国外的etf吧，主要靠爬虫来获取，推送的时候加上数据来源
 
+9.5
+可以用：import pandas_datareader as web
+web.get_quote_yahoo('tsla')的marketState来判断美股现在开盘了没！！！
 
 10. 关于时间：先确定一下，各个时间和utc时间差异一直是一致的！确保虚拟机一直是用的utc时间！
     定义一个now (utc) 然后再转成纽约，再判断是否当天市场结束，在crontab里每小时的第1分钟就执行一次，执行完有数据的话，就在当前文件
@@ -27,10 +34,21 @@
 13. 最后循环执行的main里面，加入try，并且任何一个有问题的都给我发送邮件
 14. 想一下如何按照market cap排序，每个都看info太慢了！
 15. 散列值判断文件
+以后更多的功能要经常加入try和isinstance经常做判断！
 
 16. Overview中添加新闻头条：Top news选择一些网站去爬虫一下，当作overview正文，只要标题
 17. Subscription的人可以自己选哪些市场，也可以选择推送消息的时间！
-18.
+18. 投资组合理论，去寻找最好的组合，每天跑一次
+19. 做功能集合的时候，class里面放多种执行的信息，但在介绍的时候不要放上传到storage的！然后在加上一个user=admin的选项，有了这个，就执行上传，
+    然后将secret.json存放在虚拟机单独的文件夹里，手动上传到vm上
+20. 投融资信息
+21. dividend的信息可以从这里看：https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#naver-finance-data，最后一行
+22. 一定要比较财务数据，用yfinance.info来做！ yf.Ticker(ticker).info() 这里有非常多的财务数据！
+
+
+实时需求：
+1. 加入crypto价格过量变化的提醒，还有美股什么的实时提醒
+
 
 
 !!总体逻辑：
@@ -40,3 +58,11 @@
 对于不同的市场，每次运行的结果都储存到当前文件夹里，然后用单独的一个dir作为处理数据的py文件，然后统一获取数据然后处理。
 
 搜索一下python如何定时发送！
+
+将我的google secret加密！不然太蠢了！用一些算法加密吧
+
+
+
+
+
+印度市场：https://blog.quantinsti.com/stock-market-data-analysis-python/
