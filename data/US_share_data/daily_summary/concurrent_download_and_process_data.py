@@ -55,7 +55,7 @@ def get_processed_data(which_market='us', auto_save=True):
     if auto_save:
         file_name = os.path.join(os.getcwd(), 'temp_data_csv_for_convenience',
                                  f'tickers_processed_result_of_{which_market}.pkl')
-        temp.to_pickle(file_name, index=False)
+        tickers_processed_result.to_pickle(file_name, index=False)
 
     # 建议每次都保存一下到当前文件夹，然后再在别的地方用！也容易debug
     return tickers_processed_result
