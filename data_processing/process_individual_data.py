@@ -178,6 +178,8 @@ def calculate_individual_stock_single_result(ticker):
     # 第二种方法
     features['trend_30_days_second_method'], features['trend_60_days_second_method'] = judge_trend_using_MA_second_method(data, score_standard)
 
+    # 保存结果到temp_database中，因为一次执行一万多个太多了，所以直接每一个执行完直接保存
+
     return features
 
 

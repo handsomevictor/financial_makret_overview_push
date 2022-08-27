@@ -55,7 +55,7 @@ def get_processed_data(which_market='us', auto_save=True):
     tickers_processed_result = return_rate.merge(return_cap_and_industry, on='ticker')
 
     if auto_save:
-        file_name = os.path.join(os.getcwd(), 'temp_data_csv_for_convenience',
+        file_name = os.path.join(os.getcwd(), 'temp_database_for_convenience',
                                  f'tickers_processed_result_of_{which_market}.pkl')
         tickers_processed_result.to_pickle(file_name, index=False)
 
