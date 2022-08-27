@@ -39,14 +39,16 @@ def get_processed_data(which_market='us', auto_save=True):
     # sp500_ticker_list = tickers_sp500()
 
     # 进行calculate_individual_stock_single_result第一轮concurrent处理，并将解决放入DataFrame中
-    with concurrent.futures.ProcessPoolExecutor(200) as executor:
+    with concurrent.futures.ProcessPoolExecutor(30) as executor:
         return_rate = pd.DataFrame(list(tqdm(executor.map(calculate_individual_stock_single_result, all_tickers),
                                              total=len(all_tickers))))
 
     # 进行第二次处理，加入market cap和industry
         return_cap_and_industry = pd.DataFrame(list(tqdm(executor.map(US_data_get_cap_and_industry, all_tickers),
-                                                         total=len(all_tickers))),
-                                               columns=['ticker', 'sector', 'market_cap', 'financialCurrency'])
+                                                         total=len(all_tickers))), columns=['ticker',
+                                                                                            'sector',
+                                                                                            'market_cap',
+                                                                                            'financialCurrency'])
     # format: [('SDAC', 'Financial Services', 388987008), ('NWS', 'Communication Services', 10432429056)]
 
     # 进行merge
