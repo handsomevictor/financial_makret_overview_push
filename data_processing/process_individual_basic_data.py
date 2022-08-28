@@ -18,9 +18,18 @@ import numpy as np
 import scipy.stats as stats
 from collections import defaultdict
 import pandas_datareader as web
+import datetime
+import platform
+import pickle
+# import gzip
+
+import warnings
+warnings.filterwarnings("ignore")
 
 from data_processing.market_trend_manually_set import get_trend_bull_bear_threshold
 from parameters import score_standard
+
+platform_name = platform.system()
 
 
 # For the output of p-value
@@ -88,10 +97,12 @@ def judge_trend_using_MA_first_method(data, score_standard):
     try:
         # 第一种：绝对boolean来判断trend
         MA_days = [5, 10, 20, 30, 40, 50, 60, 90, 120]
-        MA5, MA10, MA20, MA30, MA40, MA50, MA60, MA90, MA120 = [data['Close'].rolling(window=i).mean()[-1] for i in MA_days]
+        MA5, MA10, MA20, MA30, MA40, MA50, MA60, MA90, MA120 = [data['Close'].rolling(window=i).mean()[-1] for i in
+                                                                MA_days]
 
         status_trend_lambda = (lambda x: 1 if x else -1)
-        scenario = [MA5 > MA10, MA10 > MA20, MA20 > MA30, MA30 > MA40, MA40 > MA50, MA50 > MA60, MA60 > MA90, MA90 > MA120]
+        scenario = [MA5 > MA10, MA10 > MA20, MA20 > MA30, MA30 > MA40, MA40 > MA50, MA50 > MA60, MA60 > MA90,
+                    MA90 > MA120]
         scenario = [status_trend_lambda(i) for i in scenario]
 
         score_30_first_method = np.sum(np.array([*score_standard.values()][:-4]) * np.array(scenario[:-4]))
@@ -109,7 +120,8 @@ def judge_trend_using_MA_second_method(data, score_standard):
     try:
         # 用各个MA超出百分比乘上每个level的weights来做相对比较
         MA_days = [5, 10, 20, 30, 40, 50, 60, 90, 120]
-        MA5, MA10, MA20, MA30, MA40, MA50, MA60, MA90, MA120 = [data['Close'].rolling(window=i).mean()[-1] for i in MA_days]
+        MA5, MA10, MA20, MA30, MA40, MA50, MA60, MA90, MA120 = [data['Close'].rolling(window=i).mean()[-1] for i in
+                                                                MA_days]
 
         temp1 = [MA5, MA10, MA20, MA30, MA40, MA50, MA60, MA90]
         temp2 = [MA10, MA20, MA30, MA40, MA50, MA60, MA90, MA120]
@@ -124,12 +136,64 @@ def judge_trend_using_MA_second_method(data, score_standard):
         score_60_second_method = np.sum(np.array(list(score_standard.values())) * np.array(scenario2))
 
         return trend_result(score_30_second_method, trend_threshold_second_method, which_trend='30'), \
-                 trend_result(score_60_second_method, trend_threshold_second_method, which_trend='60')
+               trend_result(score_60_second_method, trend_threshold_second_method, which_trend='60')
     except IndexError:
         return 'not_available', 'not_available'
 
 
+def save_individual_processed_basic_res(ticker, features, platform_name):
+    if platform_name == 'Linux':
+
+        # 保存结果到temp_database中，因为一次执行一万多个太多了，所以直接每一个执行完直接保存
+        file_dir = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
+                                'US_individual_stock_single_result')
+    else:
+        file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
+
+    file_name = os.path.join(file_dir, f'{ticker}_without_cap_industry.json')
+
+    if not os.path.exists(file_dir):
+        os.makedirs(file_dir)
+
+    with open(file_name, 'w') as fp:
+        json.dump(features, fp, indent=4)
+        print(f'Basic_data_{ticker} saved!')
+
+
+def judge_if_individual_processed_already_exists(ticker, platform_name, file_kind='without_cap_industry'):
+    if platform_name == 'Linux':
+        file_dir = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
+                                'US_individual_stock_single_result')
+    else:
+        file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
+    file_name = os.path.join(file_dir, f'{ticker}_{file_kind}.json')
+
+    m_time = os.path.getmtime(file_name)
+    dt_m = datetime.datetime.fromtimestamp(m_time)
+    days_diff = (datetime.datetime.now() - dt_m).seconds / 3600
+    if days_diff < 8:
+        with open(file_name, 'rb') as f:
+            try:
+                basic_ticker_data = json.load(f)
+                print(f'Basic {ticker} json file exists, data loaded!')
+            except EOFError:  # EOFError: Ran out of input - means it is an empty file!
+                print(f'Basic {ticker} json file exists, but is empty!')
+                return False, None
+        return True, basic_ticker_data
+    else:
+        return False, None
+
+
+# 该函数主要目的为下载并保存个股的数据到本地
 def calculate_individual_stock_single_result(ticker, save_as_json=True):
+    platform_name = platform.system()
+    # First judge whether the single processed basic result (modified less than 12 hours) is in the database, if true,
+    # do nothing.
+    res = judge_if_individual_processed_already_exists(ticker, platform_name)
+    if res[0]:
+        return res[1]
+    print(f'Basic - {ticker} json file not exists, start downloading!')
+
     # ------------------------------------------------------------------------------------------------------------------
     # features指的是对于单个股票分析的方面：
     features = {
@@ -173,21 +237,15 @@ def calculate_individual_stock_single_result(ticker, save_as_json=True):
     # ------------------------------------------------------------------------------------------------------------------
     # 计算trend - 2种方法：1：用boolean来做绝对比较；2：用各个MA超出百分比乘上每个level的weights来做相对比较
     # 第一种方法
-    features['trend_30_days_first_method'], features['trend_60_days_first_method'] = judge_trend_using_MA_first_method(data, score_standard)
+    features['trend_30_days_first_method'], features['trend_60_days_first_method'] = judge_trend_using_MA_first_method(
+        data, score_standard)
     # 第二种方法
-    features['trend_30_days_second_method'], features['trend_60_days_second_method'] = judge_trend_using_MA_second_method(data, score_standard)
+    features['trend_30_days_second_method'], features[
+        'trend_60_days_second_method'] = judge_trend_using_MA_second_method(data, score_standard)
 
     # 保存结果到temp_database中，因为一次执行一万多个太多了，所以直接每一个执行完直接保存
     if save_as_json:
-        file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
-        file_name = os.path.join(file_dir, f'{ticker}_without_cap_industry.json')
-
-        if not os.path.exists(file_dir):
-            os.makedirs(file_dir)
-
-        with open(file_name, 'w') as fp:
-            json.dump(features, fp, indent=4)
-            print(f'Basic_data_{ticker} saved!')
+        save_individual_processed_basic_res(ticker, features, platform_name)
 
     return features
 

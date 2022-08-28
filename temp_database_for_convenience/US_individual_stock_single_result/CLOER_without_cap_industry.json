@@ -1,13 +1,13 @@
 {
     "ticker": "CLOER",
-    "close_price": 0.057500001043081284,
-    "daily_return": 0.0,
+    "close_price": -1,
+    "daily_return": -1,
     "return_5_days": -1,
     "return_30_days": -1,
-    "outlier_daily_return": false,
+    "outlier_daily_return": -1,
     "data_p_value": 0,
-    "trend_30_days_first_method": "BEAR",
-    "trend_60_days_first_method": "BEAR",
-    "trend_30_days_second_method": "FLAT",
-    "trend_60_days_second_method": "FLAT"
+    "trend_30_days_first_method": "not_available",
+    "trend_60_days_first_method": "not_available",
+    "trend_30_days_second_method": "not_available",
+    "trend_60_days_second_method": "not_available"
 }

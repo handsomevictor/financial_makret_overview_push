@@ -1,13 +1,13 @@
 {
     "ticker": "MS",
-    "close_price": -1,
-    "daily_return": -1,
-    "return_5_days": -1,
-    "return_30_days": -1,
-    "outlier_daily_return": -1,
+    "close_price": 86.80999755859375,
+    "daily_return": -0.03447898984817921,
+    "return_5_days": -0.03555165539040317,
+    "return_30_days": 0.11223567154798064,
+    "outlier_daily_return": true,
     "data_p_value": 0,
-    "trend_30_days_first_method": "not_available",
-    "trend_60_days_first_method": "not_available",
-    "trend_30_days_second_method": "not_available",
-    "trend_60_days_second_method": "not_available"
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
 }
