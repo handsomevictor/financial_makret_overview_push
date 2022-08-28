@@ -44,9 +44,13 @@ web.get_quote_yahoo('tsla')的marketState来判断美股现在开盘了没！！
 20. 投融资信息
 21. dividend的信息可以从这里看：https://pandas-datareader.readthedocs.io/en/latest/remote_data.html#naver-finance-data，最后一行
 22. 一定要比较财务数据，用yfinance.info来做！ yf.Ticker(ticker).info() 这里有非常多的财务数据！
+23. 写好使用说明，加入8小时以内已经下载过的pkl的数据和json不会自动下载！
 
 
-在commit的时候，一定要把temp for convenience给删掉，不然linux就不下载数据了！第一次一定要下载的！
+在commit的时候，一定要把temp for convenience的US_individual_stock_single_result给删掉，不然linux就不下载数据了！第一次一定要下载的！
+
+
+
 
 实时需求：
 1. 加入crypto价格过量变化的提醒，还有美股什么的实时提醒
@@ -65,9 +69,12 @@ web.get_quote_yahoo('tsla')的marketState来判断美股现在开盘了没！！
 
 
 
-
-
 印度市场：https://blog.quantinsti.com/stock-market-data-analysis-python/
+
+
+定时执行文件：
+1. stock outstanding shares每周执行一次！
+
 
 
 

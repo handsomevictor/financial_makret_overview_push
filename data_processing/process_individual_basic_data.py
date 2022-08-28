@@ -194,6 +194,7 @@ def judge_if_individual_processed_already_exists(ticker, platform_name, basic_or
         else:
             return False, None
     except FileNotFoundError:
+        # start downloading
         return False, None
 
 
@@ -227,6 +228,7 @@ def calculate_individual_stock_single_result(ticker, save_as_json=True):
     # 获取数据，如果没有数据，则返回default feature value
     try:
         data = yf.Ticker(ticker).history(period='120d', interval='1d')
+
     except IndexError:
         return features  # !!!!!!! 这里有很多项，所有项都要做到-1！
 
@@ -264,4 +266,4 @@ def calculate_individual_stock_single_result(ticker, save_as_json=True):
 
 
 if __name__ == '__main__':
-    print(calculate_individual_stock_single_result('baba'))
+    print(calculate_individual_stock_single_result('aapl'))

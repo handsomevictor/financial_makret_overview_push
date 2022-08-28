@@ -22,7 +22,7 @@ def get_trend_bull_bear_threshold(score_list=None):
     temp_60 = []
 
     for i in range(3000):
-        temp_30.append(sum([random_ch() * score for score in score_list[:-1]]))
+        temp_30.append(sum([random_ch() * score for score in score_list[:-4]]))
         temp_60.append(sum([random_ch() * score for score in score_list]))
 
     possible_score_30 = list(Counter(temp_30).keys())

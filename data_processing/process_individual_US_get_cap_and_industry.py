@@ -1,4 +1,7 @@
 # Only run once, and save the dict to pickle file
+# sharesOutstanding 是总股本！换手率用volume/sharesOutstanding！
+# 本文件每周只执行一次！把结果保存到temp_convenience_database root中！
+
 
 import yfinance as yf
 import pandas as pd

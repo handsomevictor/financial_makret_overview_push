@@ -12,8 +12,9 @@ from data_processing.process_individual_basic_data import calculate_individual_s
 from data_processing.process_individual_US_get_cap_and_industry import US_data_get_cap_and_industry
 from data_source.data_source_total import us_common_total_ticker_list
 
+
 if __name__ == '__main__':
-    US_get_processed_data(only_for_common_tickers=True, auto_save=True)
-    # calculate_individual_stock_single_result('BABA')
+    # US_get_processed_data(only_for_common_tickers=True, auto_save=True)
+    print(calculate_individual_stock_single_result('AAPL'))
     # US_data_get_cap_and_industry('BABA')
     # print(us_common_total_ticker_list)
