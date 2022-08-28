@@ -6,6 +6,7 @@ import os
 import json
 import platform
 import warnings
+
 warnings.filterwarnings("ignore")
 
 from data_processing.process_individual_basic_data import judge_if_individual_processed_already_exists
@@ -32,7 +33,8 @@ def save_as_json_func(ticker, data):
 def US_data_get_cap_and_industry(ticker, save_as_json=True):
     platform_name = platform.system()
     # 先判断是否再8个小时内已经下载过改数据
-    res = judge_if_individual_processed_already_exists(ticker, platform_name, file_kind='cap_industry')
+    res = judge_if_individual_processed_already_exists(ticker, platform_name, basic_or_cap='Cap_industry',
+                                                       file_kind='cap_industry')
     if res[0]:
         return res[1]
     print(f'Cap Industry - {ticker} json file not exists, start downloading!')
@@ -40,7 +42,8 @@ def US_data_get_cap_and_industry(ticker, save_as_json=True):
     try:
         dhr = yf.Ticker(ticker)
         info = dhr.info
-        result = dict((key, value) for key, value in info.items() if key in ['symbol', 'sector', 'marketCap', 'financialCurrency'])
+        result = dict((key, value) for key, value in info.items() if
+                      key in ['symbol', 'sector', 'marketCap', 'financialCurrency'])
 
     except KeyError:  # doesn't exist in yahoo finance
         result = {

@@ -163,7 +163,7 @@ def save_individual_processed_basic_res(ticker, features, platform_name):
         print(f'Basic_data_{ticker} saved!')
 
 
-def judge_if_individual_processed_already_exists(ticker, platform_name, file_kind='without_cap_industry'):
+def judge_if_individual_processed_already_exists(ticker, platform_name, basic_or_cap, file_kind='without_cap_industry'):
     if platform_name == 'Linux':
         file_dir = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
                                 'US_individual_stock_single_result')
@@ -178,15 +178,17 @@ def judge_if_individual_processed_already_exists(ticker, platform_name, file_kin
     m_time = os.path.getmtime(file_name)
     dt_m = datetime.datetime.fromtimestamp(m_time)
     days_diff = (datetime.datetime.now() - dt_m).seconds / 3600
+
     if days_diff < 8:
         with open(file_name, 'rb') as f:
             try:
                 basic_ticker_data = json.load(f)
-                print(f'Basic {ticker} json file exists, data loaded!')
+                print(f'{basic_or_cap} {ticker} json file exists, data loaded!')
             except EOFError:  # EOFError: Ran out of input - means it is an empty file!
-                print(f'Basic {ticker} json file exists, but is empty!')
+                print(f'{basic_or_cap} {ticker} json file exists, but is empty!')
                 return False, None
         return True, basic_ticker_data
+
     else:
         return False, None
 
@@ -196,7 +198,7 @@ def calculate_individual_stock_single_result(ticker, save_as_json=True):
     platform_name = platform.system()
     # First judge whether the single processed basic result (modified less than 12 hours) is in the database, if true,
     # do nothing.
-    res = judge_if_individual_processed_already_exists(ticker, platform_name)
+    res = judge_if_individual_processed_already_exists(ticker, platform_name, basic_or_cap='Basic')
     if res[0]:
         return res[1]
     print(f'Basic - {ticker} json file not exists, start downloading!')
