@@ -66,3 +66,9 @@ web.get_quote_yahoo('tsla')的marketState来判断美股现在开盘了没！！
 
 
 印度市场：https://blog.quantinsti.com/stock-market-data-analysis-python/
+
+
+
+
+残留问题：
+1. 处理US市场时，只做了common tickers的！没有合理的自动切换！详见：data_source.data_source_total的us_common_tickers函数

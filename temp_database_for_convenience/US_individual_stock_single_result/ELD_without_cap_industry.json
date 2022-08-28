@@ -2,12 +2,12 @@
     "ticker": "ELD",
     "close_price": 26.0,
     "daily_return": -0.0034496033752979827,
-    "return_5_days": 0.0005687865864134611,
-    "return_30_days": 0.052338758655275486,
+    "return_5_days": -0.00383143218422044,
+    "return_30_days": 0.04292016372747809,
     "outlier_daily_return": false,
     "data_p_value": 0,
     "trend_30_days_first_method": "BULL",
     "trend_60_days_first_method": "BULL",
-    "trend_30_days_second_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
     "trend_60_days_second_method": "BULL"
 }

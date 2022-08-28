@@ -2,12 +2,12 @@
     "ticker": "RE",
     "close_price": 272.9200134277344,
     "daily_return": -0.014124095416630622,
-    "return_5_days": -0.030479526011600866,
-    "return_30_days": 0.03700897113388102,
+    "return_5_days": -0.024619965714078873,
+    "return_30_days": 0.043276336242975555,
     "outlier_daily_return": false,
     "data_p_value": 0,
-    "trend_30_days_first_method": "BEAR",
-    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
     "trend_30_days_second_method": "FLAT",
     "trend_60_days_second_method": "FLAT"
 }

@@ -3,7 +3,7 @@
     "close_price": 65.95999908447266,
     "daily_return": -0.06545767394057034,
     "return_5_days": -0.06888759889457796,
-    "return_30_days": 0.05739015638118161,
+    "return_30_days": 0.06184844709969384,
     "outlier_daily_return": true,
     "data_p_value": 0,
     "trend_30_days_first_method": "FLAT",
