@@ -4,13 +4,19 @@ import yfinance as yf
 import pandas as pd
 import os
 import json
+import platform
 import warnings
 warnings.filterwarnings("ignore")
 
 
 def save_as_json_func(ticker, data):
     # 保存结果到temp_database中，因为一次执行一万多个太多了，所以直接每一个执行完直接保存
-    file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
+    if platform.system() == 'Linux':
+        file_dir = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
+                                'US_individual_stock_single_result')
+    else:
+        file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
+
     file_name = os.path.join(file_dir, f'{ticker}_cap_industry.json')
 
     if not os.path.exists(file_dir):

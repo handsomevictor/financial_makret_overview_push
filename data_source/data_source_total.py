@@ -5,6 +5,7 @@ import os
 from tqdm import tqdm
 import pickle
 import datetime
+import platform
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -33,7 +34,12 @@ def us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tick
     # 先判断是否已经下载了common tickers，如果有，直接读取并return，没有则重新读取上一次运行完之后的两万多个json文件提取common tickers！
     # 如果这个文件是5天前的，则重新下载！
     try:
-        file_loc = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'us_common_tickers.pkl')
+        if platform.system() == 'Linux':
+            file_loc = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
+                                    'us_common_tickers.pkl')
+        else:
+            file_loc = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'us_common_tickers.pkl')
+
         # 查看文件创建时间
         m_time = os.path.getmtime(file_loc)
         dt_m = datetime.datetime.fromtimestamp(m_time)
@@ -53,7 +59,12 @@ def us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tick
         # 重新下载uncommon文件！
         # 这里没有下载！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
 
-        file_name = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'us_uncommon_tickers_processed_result.pkl')
+        if platform.system() == 'Linux':
+            file_name = os.path.join(os.getcwd(), 'financial_makret_overview_push', 'temp_database_for_convenience',
+                                     'us_uncommon_tickers_processed_result.pkl')
+        else:
+            file_name = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'us_uncommon_tickers_processed_result.pkl')
+
         with open(file_name, 'rb') as f:
             tickers_processed_result = pickle.load(f)
 
