@@ -1,0 +1,13 @@
+{
+    "ticker": "GLNG",
+    "close_price": 29.350000381469727,
+    "daily_return": -0.019706083569262067,
+    "return_5_days": 0.04597294868423174,
+    "return_30_days": 0.3676608403355368,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

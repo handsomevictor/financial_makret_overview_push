@@ -1,0 +1,13 @@
+{
+    "ticker": "FWRG",
+    "close_price": 18.059999465942383,
+    "daily_return": -0.01847826954547782,
+    "return_5_days": -0.02378381265176288,
+    "return_30_days": 0.24465879952188807,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

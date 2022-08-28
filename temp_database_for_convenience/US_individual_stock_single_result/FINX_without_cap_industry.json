@@ -1,0 +1,13 @@
+{
+    "ticker": "FINX",
+    "close_price": 23.84000015258789,
+    "daily_return": -0.044105868400747816,
+    "return_5_days": -0.04448900105848297,
+    "return_30_days": 0.08412916783653324,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "VNSE",
+    "close_price": 26.31399917602539,
+    "daily_return": -0.026885144053101384,
+    "return_5_days": -0.032644676834051034,
+    "return_30_days": 0.05399341481112829,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

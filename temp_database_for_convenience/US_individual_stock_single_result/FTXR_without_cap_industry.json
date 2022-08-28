@@ -1,0 +1,13 @@
+{
+    "ticker": "FTXR",
+    "close_price": 28.54599952697754,
+    "daily_return": -0.03400903684737244,
+    "return_5_days": -0.031025104748793275,
+    "return_30_days": 0.111431222162375,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

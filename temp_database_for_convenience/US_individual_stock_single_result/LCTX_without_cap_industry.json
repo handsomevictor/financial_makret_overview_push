@@ -1,0 +1,13 @@
+{
+    "ticker": "LCTX",
+    "close_price": 1.4500000476837158,
+    "daily_return": -0.03973506169436036,
+    "return_5_days": 2.220446049250313e-16,
+    "return_30_days": -0.115853621749066,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

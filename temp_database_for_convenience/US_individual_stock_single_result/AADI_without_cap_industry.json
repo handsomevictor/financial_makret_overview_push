@@ -1,0 +1,13 @@
+{
+    "ticker": "AADI",
+    "close_price": 13.1899995803833,
+    "daily_return": -0.0251293539762123,
+    "return_5_days": 0.017746878206738925,
+    "return_30_days": 0.025660958982585358,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

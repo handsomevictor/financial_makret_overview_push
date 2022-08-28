@@ -1,0 +1,13 @@
+{
+    "ticker": "TIGO",
+    "close_price": 15.15999984741211,
+    "daily_return": -0.031928480515446944,
+    "return_5_days": -0.026332681788581058,
+    "return_30_days": 0.14156627652433706,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

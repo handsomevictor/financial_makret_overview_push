@@ -1,0 +1,13 @@
+{
+    "ticker": "AMG",
+    "close_price": 130.5399932861328,
+    "daily_return": -0.03859188054406604,
+    "return_5_days": -0.04513212731126659,
+    "return_30_days": 0.11965003333402224,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

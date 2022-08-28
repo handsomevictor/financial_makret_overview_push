@@ -1,0 +1,13 @@
+{
+    "ticker": "FXG",
+    "close_price": 63.7400016784668,
+    "daily_return": -0.020590044789280726,
+    "return_5_days": -0.026573023660093176,
+    "return_30_days": 0.026905139227539454,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

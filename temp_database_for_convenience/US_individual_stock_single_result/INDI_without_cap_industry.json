@@ -1,0 +1,13 @@
+{
+    "ticker": "INDI",
+    "close_price": 8.039999961853027,
+    "daily_return": -0.01831497267589033,
+    "return_5_days": 0.060686021474531726,
+    "return_30_days": 0.33999999364217093,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

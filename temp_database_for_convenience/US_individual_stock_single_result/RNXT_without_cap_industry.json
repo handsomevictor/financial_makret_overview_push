@@ -1,0 +1,13 @@
+{
+    "ticker": "RNXT",
+    "close_price": 2.200000047683716,
+    "daily_return": -0.07949792840200598,
+    "return_5_days": 0.07317077992999343,
+    "return_30_days": 0.13402060968790575,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

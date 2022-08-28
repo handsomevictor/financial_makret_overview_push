@@ -1,0 +1,13 @@
+{
+    "ticker": "AKBA",
+    "close_price": 0.37599998712539673,
+    "daily_return": -0.060000046193599,
+    "return_5_days": -0.01570683814288465,
+    "return_30_days": -0.10900475071628002,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

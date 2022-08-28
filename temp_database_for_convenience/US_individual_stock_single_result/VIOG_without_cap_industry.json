@@ -1,0 +1,13 @@
+{
+    "ticker": "VIOG",
+    "close_price": 199.8800048828125,
+    "daily_return": -0.03374260711081989,
+    "return_5_days": -0.03621194140960493,
+    "return_30_days": 0.08271493538798391,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

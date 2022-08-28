@@ -1,0 +1,13 @@
+{
+    "ticker": "GVAL",
+    "close_price": 18.200000762939453,
+    "daily_return": -0.007092152826387865,
+    "return_5_days": -0.005464397720770564,
+    "return_30_days": 0.07501479237276865,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

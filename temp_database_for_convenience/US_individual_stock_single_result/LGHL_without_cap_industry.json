@@ -1,0 +1,13 @@
+{
+    "ticker": "LGHL",
+    "close_price": 1.5299999713897705,
+    "daily_return": 0.0,
+    "return_5_days": 0.16793896047311008,
+    "return_30_days": 0.033783751129669914,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

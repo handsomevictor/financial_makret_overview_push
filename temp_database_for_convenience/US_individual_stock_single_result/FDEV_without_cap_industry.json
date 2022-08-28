@@ -1,0 +1,13 @@
+{
+    "ticker": "FDEV",
+    "close_price": 23.8799991607666,
+    "daily_return": -0.023233016791580297,
+    "return_5_days": -0.026101194333152278,
+    "return_30_days": 0.01968480818315177,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

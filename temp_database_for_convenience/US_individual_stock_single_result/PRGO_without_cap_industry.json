@@ -1,0 +1,13 @@
+{
+    "ticker": "PRGO",
+    "close_price": 39.15999984741211,
+    "daily_return": -0.028046687576017026,
+    "return_5_days": -0.03594286368448485,
+    "return_30_days": -0.04511091318796023,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

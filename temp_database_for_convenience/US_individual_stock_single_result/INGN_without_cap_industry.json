@@ -1,0 +1,13 @@
+{
+    "ticker": "INGN",
+    "close_price": 29.489999771118164,
+    "daily_return": -0.051768507736445146,
+    "return_5_days": -0.028656153548849428,
+    "return_30_days": 0.02466987725966696,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

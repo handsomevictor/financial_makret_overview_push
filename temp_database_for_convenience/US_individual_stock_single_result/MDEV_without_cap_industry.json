@@ -1,0 +1,13 @@
+{
+    "ticker": "MDEV",
+    "close_price": 18.344999313354492,
+    "daily_return": -0.03872355557616647,
+    "return_5_days": -0.04208656441089087,
+    "return_30_days": -0.009930380588586196,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

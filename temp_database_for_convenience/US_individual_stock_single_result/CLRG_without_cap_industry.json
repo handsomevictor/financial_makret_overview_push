@@ -1,0 +1,13 @@
+{
+    "ticker": "CLRG",
+    "close_price": 31.445999145507812,
+    "daily_return": -0.03132803704262088,
+    "return_5_days": -0.04002200522624144,
+    "return_30_days": 0.048165051874339726,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

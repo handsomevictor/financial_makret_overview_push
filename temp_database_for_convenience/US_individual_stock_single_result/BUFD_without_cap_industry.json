@@ -1,0 +1,13 @@
+{
+    "ticker": "BUFD",
+    "close_price": 20.0,
+    "daily_return": -0.013320199884862771,
+    "return_5_days": -0.013806739505186072,
+    "return_30_days": 0.0206685736584582,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

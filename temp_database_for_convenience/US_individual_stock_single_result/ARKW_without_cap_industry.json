@@ -1,0 +1,13 @@
+{
+    "ticker": "ARKW",
+    "close_price": 52.5099983215332,
+    "daily_return": -0.05472548978001046,
+    "return_5_days": -0.06248884315096326,
+    "return_30_days": 0.016060333039012775,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

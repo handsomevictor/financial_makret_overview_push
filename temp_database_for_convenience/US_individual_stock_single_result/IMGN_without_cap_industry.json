@@ -1,0 +1,13 @@
+{
+    "ticker": "IMGN",
+    "close_price": 5.889999866485596,
+    "daily_return": -0.05305465190311309,
+    "return_5_days": 0.027923184446686955,
+    "return_30_days": 0.09479549092866013,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HIFS",
+    "close_price": 296.70001220703125,
+    "daily_return": -0.03039211697048616,
+    "return_5_days": -0.05734706209044904,
+    "return_30_days": -0.05449323215786539,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

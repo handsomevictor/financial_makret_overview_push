@@ -1,0 +1,13 @@
+{
+    "ticker": "LQDI",
+    "close_price": 27.020000457763672,
+    "daily_return": -0.005337767453591047,
+    "return_5_days": 0.0029695590987428577,
+    "return_30_days": 0.019238031855096205,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

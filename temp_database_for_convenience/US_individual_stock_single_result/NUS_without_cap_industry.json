@@ -1,0 +1,13 @@
+{
+    "ticker": "NUS",
+    "close_price": 42.279998779296875,
+    "daily_return": -0.02625516899408309,
+    "return_5_days": -0.07240023956097019,
+    "return_30_days": 0.014882355596630648,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IDN",
+    "close_price": 2.8399999141693115,
+    "daily_return": -0.06885247260003746,
+    "return_5_days": 0.14056221015745485,
+    "return_30_days": 0.1983122579347114,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

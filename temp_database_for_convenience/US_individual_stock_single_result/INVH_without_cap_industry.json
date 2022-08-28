@@ -1,0 +1,13 @@
+{
+    "ticker": "INVH",
+    "close_price": 37.279998779296875,
+    "daily_return": -0.024849614813358678,
+    "return_5_days": -0.03867973303807293,
+    "return_30_days": 0.04075932710528862,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

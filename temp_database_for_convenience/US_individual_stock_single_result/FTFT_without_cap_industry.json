@@ -1,0 +1,13 @@
+{
+    "ticker": "FTFT",
+    "close_price": 0.46000000834465027,
+    "daily_return": -0.0416666278615585,
+    "return_5_days": -0.021276575507703344,
+    "return_30_days": 0.09523814930126573,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

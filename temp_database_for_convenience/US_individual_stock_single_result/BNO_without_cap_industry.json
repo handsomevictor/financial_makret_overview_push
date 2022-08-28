@@ -1,0 +1,13 @@
+{
+    "ticker": "BNO",
+    "close_price": 31.1200008392334,
+    "daily_return": -0.0035222127638575573,
+    "return_5_days": 0.034918561857847585,
+    "return_30_days": 0.028080620040153104,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

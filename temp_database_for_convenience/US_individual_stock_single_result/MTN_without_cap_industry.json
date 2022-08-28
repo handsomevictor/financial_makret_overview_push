@@ -1,0 +1,13 @@
+{
+    "ticker": "MTN",
+    "close_price": 229.0,
+    "daily_return": -0.03942950560882119,
+    "return_5_days": -0.0388247639034629,
+    "return_30_days": 0.05729721534668242,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

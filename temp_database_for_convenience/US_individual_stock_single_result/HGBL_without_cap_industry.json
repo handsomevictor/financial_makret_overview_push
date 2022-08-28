@@ -1,0 +1,13 @@
+{
+    "ticker": "HGBL",
+    "close_price": 1.649999976158142,
+    "daily_return": -0.07303370636019069,
+    "return_5_days": -0.023668686217741874,
+    "return_30_days": -0.023668686217741652,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BLKC",
+    "close_price": 11.574999809265137,
+    "daily_return": -0.044336247976729415,
+    "return_5_days": -0.04646182820129463,
+    "return_30_days": 0.07594342880034244,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

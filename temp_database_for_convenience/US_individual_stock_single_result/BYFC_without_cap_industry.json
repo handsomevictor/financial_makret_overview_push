@@ -1,0 +1,13 @@
+{
+    "ticker": "BYFC",
+    "close_price": 1.1299999952316284,
+    "daily_return": -0.01739128812274282,
+    "return_5_days": 0.04629625030505968,
+    "return_30_days": 0.15306119718237876,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HOLX",
+    "close_price": 67.70999908447266,
+    "daily_return": -0.048749665718262225,
+    "return_5_days": -0.052476910831850576,
+    "return_30_days": -0.04079894323315125,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

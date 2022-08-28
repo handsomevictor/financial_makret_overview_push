@@ -1,0 +1,13 @@
+{
+    "ticker": "SRS",
+    "close_price": 15.229999542236328,
+    "daily_return": 0.0503447960162986,
+    "return_5_days": 0.0755649510137375,
+    "return_30_days": -0.09291252461149846,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

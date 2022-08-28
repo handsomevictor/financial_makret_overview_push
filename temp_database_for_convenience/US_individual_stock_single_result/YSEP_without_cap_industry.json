@@ -1,0 +1,13 @@
+{
+    "ticker": "YSEP",
+    "close_price": 17.41900062561035,
+    "daily_return": -0.02305099830927393,
+    "return_5_days": -0.027631960707382164,
+    "return_30_days": 0.020863910566665034,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PENN",
+    "close_price": 32.18000030517578,
+    "daily_return": -0.059064339552665435,
+    "return_5_days": -0.06290040296488875,
+    "return_30_days": 0.024840786500684775,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

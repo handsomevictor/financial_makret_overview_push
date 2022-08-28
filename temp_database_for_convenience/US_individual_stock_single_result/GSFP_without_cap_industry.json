@@ -1,0 +1,13 @@
+{
+    "ticker": "GSFP",
+    "close_price": 30.812999725341797,
+    "daily_return": -0.03000066108128041,
+    "return_5_days": -0.03280181062215626,
+    "return_30_days": 0.08420125413876867,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

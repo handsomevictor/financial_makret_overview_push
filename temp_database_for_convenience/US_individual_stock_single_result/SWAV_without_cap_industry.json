@@ -1,0 +1,13 @@
+{
+    "ticker": "SWAV",
+    "close_price": 304.44000244140625,
+    "daily_return": -0.019611620010403508,
+    "return_5_days": 0.02439516787389051,
+    "return_30_days": 0.45040500854681187,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

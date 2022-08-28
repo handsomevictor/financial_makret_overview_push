@@ -1,0 +1,13 @@
+{
+    "ticker": "ARCT",
+    "close_price": 15.010000228881836,
+    "daily_return": -0.09469238251198275,
+    "return_5_days": -0.09469238251198298,
+    "return_30_days": -0.10388058335033867,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IMTB",
+    "close_price": 44.95000076293945,
+    "daily_return": -0.0006669359626984006,
+    "return_5_days": -0.004539874253112086,
+    "return_30_days": -0.0001557036583487159,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

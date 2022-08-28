@@ -1,0 +1,13 @@
+{
+    "ticker": "PDD",
+    "close_price": 57.56999969482422,
+    "daily_return": -0.037773726676662345,
+    "return_5_days": 0.2580857038129212,
+    "return_30_days": 0.05227564719815936,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

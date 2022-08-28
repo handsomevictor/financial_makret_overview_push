@@ -1,0 +1,13 @@
+{
+    "ticker": "DZSI",
+    "close_price": 14.170000076293945,
+    "daily_return": -0.027453646321788705,
+    "return_5_days": -0.04256757475147277,
+    "return_30_days": -0.12746303719200724,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

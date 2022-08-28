@@ -1,0 +1,13 @@
+{
+    "ticker": "COTY",
+    "close_price": 7.940000057220459,
+    "daily_return": -0.02815177685748793,
+    "return_5_days": 0.058666674296061094,
+    "return_30_days": 0.08767121229638919,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

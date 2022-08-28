@@ -1,0 +1,13 @@
+{
+    "ticker": "RHI",
+    "close_price": 77.7699966430664,
+    "daily_return": -0.03797624732678617,
+    "return_5_days": -0.04447724258175212,
+    "return_30_days": 0.014479427705866854,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

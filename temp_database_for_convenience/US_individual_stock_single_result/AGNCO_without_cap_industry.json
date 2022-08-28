@@ -1,0 +1,13 @@
+{
+    "ticker": "AGNCO",
+    "close_price": 22.049999237060547,
+    "daily_return": 0.002272692593661141,
+    "return_5_days": -0.009434006723361033,
+    "return_30_days": 0.03764702292049549,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

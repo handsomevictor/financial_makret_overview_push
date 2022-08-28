@@ -1,0 +1,13 @@
+{
+    "ticker": "W",
+    "close_price": 53.47999954223633,
+    "daily_return": -0.0707211077112101,
+    "return_5_days": -0.06191894199659276,
+    "return_30_days": 0.02846152965839166,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

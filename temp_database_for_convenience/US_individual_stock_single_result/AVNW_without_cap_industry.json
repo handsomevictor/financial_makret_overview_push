@@ -1,0 +1,13 @@
+{
+    "ticker": "AVNW",
+    "close_price": 32.599998474121094,
+    "daily_return": -0.012121258359966802,
+    "return_5_days": -0.017480464910188842,
+    "return_30_days": 0.24999994514909973,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BGH",
+    "close_price": 14.100000381469727,
+    "daily_return": -0.016050212383870388,
+    "return_5_days": -0.00423725046532053,
+    "return_30_days": 0.09984404969699656,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

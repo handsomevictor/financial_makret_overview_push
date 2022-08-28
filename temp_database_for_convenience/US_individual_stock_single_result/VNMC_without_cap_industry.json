@@ -1,0 +1,13 @@
+{
+    "ticker": "VNMC",
+    "close_price": 29.040000915527344,
+    "daily_return": -0.024291891304392355,
+    "return_5_days": -0.02781960317111165,
+    "return_30_days": 0.06647085581046519,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

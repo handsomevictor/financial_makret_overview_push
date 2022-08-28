@@ -1,0 +1,13 @@
+{
+    "ticker": "SPAX",
+    "close_price": 20.55500030517578,
+    "daily_return": 0.0009252535902570802,
+    "return_5_days": -0.0003404323212197191,
+    "return_30_days": 0.004397759683207658,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

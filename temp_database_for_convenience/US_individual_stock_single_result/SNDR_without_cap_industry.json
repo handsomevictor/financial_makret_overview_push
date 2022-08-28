@@ -1,0 +1,13 @@
+{
+    "ticker": "SNDR",
+    "close_price": 23.989999771118164,
+    "daily_return": -0.02637985530159337,
+    "return_5_days": -0.0326612697927805,
+    "return_30_days": 0.05682814823005611,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

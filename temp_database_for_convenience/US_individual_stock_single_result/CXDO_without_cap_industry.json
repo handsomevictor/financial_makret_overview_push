@@ -1,0 +1,13 @@
+{
+    "ticker": "CXDO",
+    "close_price": 2.880000114440918,
+    "daily_return": -0.039999961853027344,
+    "return_5_days": -0.07096767643859825,
+    "return_30_days": -0.046357571976753054,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

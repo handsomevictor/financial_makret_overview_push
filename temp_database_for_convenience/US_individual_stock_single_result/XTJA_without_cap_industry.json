@@ -1,0 +1,13 @@
+{
+    "ticker": "XTJA",
+    "close_price": 20.863000869750977,
+    "daily_return": -0.03456731695985049,
+    "return_5_days": -0.044646877159774445,
+    "return_30_days": 0.05560619986743953,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

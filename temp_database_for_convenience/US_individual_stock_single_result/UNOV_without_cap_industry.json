@@ -1,0 +1,13 @@
+{
+    "ticker": "UNOV",
+    "close_price": 27.649999618530273,
+    "daily_return": -0.007893836170733914,
+    "return_5_days": -0.011440818830175226,
+    "return_30_days": 0.007285932605905376,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

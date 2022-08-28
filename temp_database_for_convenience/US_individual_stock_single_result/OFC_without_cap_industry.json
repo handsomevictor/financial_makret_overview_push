@@ -1,0 +1,13 @@
+{
+    "ticker": "OFC",
+    "close_price": 26.360000610351562,
+    "daily_return": -0.015315645887230556,
+    "return_5_days": -0.03230540264907211,
+    "return_30_days": 0.00457320275457751,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

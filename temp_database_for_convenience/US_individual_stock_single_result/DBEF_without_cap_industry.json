@@ -1,0 +1,13 @@
+{
+    "ticker": "DBEF",
+    "close_price": 35.9900016784668,
+    "daily_return": -0.021212911873439655,
+    "return_5_days": -0.024132303792634424,
+    "return_30_days": 0.02535621775031971,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LCI",
+    "close_price": 0.5379999876022339,
+    "daily_return": -0.051146359265069385,
+    "return_5_days": -0.06597220353828093,
+    "return_30_days": -0.09274874812654976,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

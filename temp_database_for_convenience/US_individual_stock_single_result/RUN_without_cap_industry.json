@@ -1,0 +1,13 @@
+{
+    "ticker": "RUN",
+    "close_price": 33.349998474121094,
+    "daily_return": -0.04468637582668622,
+    "return_5_days": 0.01769905426473728,
+    "return_30_days": 0.4155347720754772,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

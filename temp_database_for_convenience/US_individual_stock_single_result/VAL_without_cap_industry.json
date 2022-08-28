@@ -1,0 +1,13 @@
+{
+    "ticker": "VAL",
+    "close_price": 49.33000183105469,
+    "daily_return": -0.014385562776846661,
+    "return_5_days": 0.007145820581654805,
+    "return_30_days": 0.24163106970622406,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

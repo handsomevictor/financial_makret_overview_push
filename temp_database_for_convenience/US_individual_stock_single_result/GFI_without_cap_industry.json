@@ -1,0 +1,13 @@
+{
+    "ticker": "GFI",
+    "close_price": 8.600000381469727,
+    "daily_return": -0.04444440205891931,
+    "return_5_days": -0.006928344919118312,
+    "return_30_days": -0.021615424483260814,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IVOV",
+    "close_price": 157.64999389648438,
+    "daily_return": -0.026371074115290383,
+    "return_5_days": -0.029368331032113892,
+    "return_30_days": 0.07721207599387547,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

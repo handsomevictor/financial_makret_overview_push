@@ -1,0 +1,13 @@
+{
+    "ticker": "WFG",
+    "close_price": 94.19999694824219,
+    "daily_return": -0.029166256484159825,
+    "return_5_days": 0.013884331452877818,
+    "return_30_days": 0.1458459797749121,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

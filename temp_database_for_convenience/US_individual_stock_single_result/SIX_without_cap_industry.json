@@ -1,0 +1,13 @@
+{
+    "ticker": "SIX",
+    "close_price": 24.059999465942383,
+    "daily_return": -0.07532670858337653,
+    "return_5_days": 0.01049979023971015,
+    "return_30_days": 0.12377392047719171,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

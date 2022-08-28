@@ -1,0 +1,13 @@
+{
+    "ticker": "KIND",
+    "close_price": 3.259999990463257,
+    "daily_return": -0.04117650028743458,
+    "return_5_days": -0.02395207358140039,
+    "return_30_days": -0.006097555213708916,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

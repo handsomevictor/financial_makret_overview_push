@@ -1,0 +1,13 @@
+{
+    "ticker": "CPB",
+    "close_price": 50.689998626708984,
+    "daily_return": -0.009767532983271487,
+    "return_5_days": -0.012083467744843257,
+    "return_30_days": 0.04022161097649635,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

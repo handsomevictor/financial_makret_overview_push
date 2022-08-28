@@ -1,0 +1,13 @@
+{
+    "ticker": "AKYA",
+    "close_price": 13.930000305175781,
+    "daily_return": 0.0007184072433208399,
+    "return_5_days": 0.11618596283054217,
+    "return_30_days": 0.04344568592755338,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

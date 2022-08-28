@@ -1,0 +1,13 @@
+{
+    "ticker": "YANG",
+    "close_price": 14.09000015258789,
+    "daily_return": 0.024727283824573787,
+    "return_5_days": -0.152226267081356,
+    "return_30_days": 0.002846972335232234,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

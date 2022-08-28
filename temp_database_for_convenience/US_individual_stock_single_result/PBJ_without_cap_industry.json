@@ -1,0 +1,13 @@
+{
+    "ticker": "PBJ",
+    "close_price": 46.720001220703125,
+    "daily_return": -0.01807483348582506,
+    "return_5_days": -0.017868372494725615,
+    "return_30_days": 0.05296376708113093,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

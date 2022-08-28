@@ -1,0 +1,13 @@
+{
+    "ticker": "KW",
+    "close_price": 18.1200008392334,
+    "daily_return": -0.03974562621325617,
+    "return_5_days": -0.09535695366628494,
+    "return_30_days": -0.04430370705698916,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

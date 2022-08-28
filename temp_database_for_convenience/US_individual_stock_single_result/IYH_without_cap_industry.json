@@ -1,0 +1,13 @@
+{
+    "ticker": "IYH",
+    "close_price": 266.739990234375,
+    "daily_return": -0.028234180756036342,
+    "return_5_days": -0.04071066468967133,
+    "return_30_days": -0.02418150986481926,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

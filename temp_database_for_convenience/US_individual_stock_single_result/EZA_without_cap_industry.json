@@ -1,0 +1,13 @@
+{
+    "ticker": "EZA",
+    "close_price": 42.599998474121094,
+    "daily_return": -0.023383779980289843,
+    "return_5_days": 0.015736763686773347,
+    "return_30_days": 0.0660660523056491,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

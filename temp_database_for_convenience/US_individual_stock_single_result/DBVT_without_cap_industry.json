@@ -1,0 +1,13 @@
+{
+    "ticker": "DBVT",
+    "close_price": 2.0999999046325684,
+    "daily_return": -0.049773815210716665,
+    "return_5_days": -0.07894739869118639,
+    "return_30_days": -0.0625000465661284,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

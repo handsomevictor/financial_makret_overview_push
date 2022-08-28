@@ -1,0 +1,13 @@
+{
+    "ticker": "MFH",
+    "close_price": 0.8799999952316284,
+    "daily_return": 0.08108106129070847,
+    "return_5_days": 0.023255791388182123,
+    "return_30_days": 0.2571428717399129,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ENFR",
+    "close_price": 23.010000228881836,
+    "daily_return": -0.014138814119479148,
+    "return_5_days": 0.013210090554970577,
+    "return_30_days": 0.14250252861023016,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

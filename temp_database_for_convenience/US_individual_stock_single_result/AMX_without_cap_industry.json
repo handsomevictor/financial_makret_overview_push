@@ -1,0 +1,13 @@
+{
+    "ticker": "AMX",
+    "close_price": 18.030000686645508,
+    "daily_return": -0.02593190363592579,
+    "return_5_days": -0.05897699215896535,
+    "return_30_days": -0.035312992431938195,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

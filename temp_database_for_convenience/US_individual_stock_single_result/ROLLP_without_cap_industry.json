@@ -1,0 +1,13 @@
+{
+    "ticker": "ROLLP",
+    "close_price": 119.9800033569336,
+    "daily_return": -0.01615410939407158,
+    "return_5_days": -0.02455281823631228,
+    "return_30_days": 0.1445197105910081,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

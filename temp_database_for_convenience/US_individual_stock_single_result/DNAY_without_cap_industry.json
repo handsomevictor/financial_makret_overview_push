@@ -1,0 +1,13 @@
+{
+    "ticker": "DNAY",
+    "close_price": 1.9700000286102295,
+    "daily_return": 0.005102035851341613,
+    "return_5_days": -0.03902435393506365,
+    "return_30_days": 0.1588235137371874,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

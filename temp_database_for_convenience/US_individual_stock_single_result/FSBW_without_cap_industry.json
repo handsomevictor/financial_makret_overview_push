@@ -1,0 +1,13 @@
+{
+    "ticker": "FSBW",
+    "close_price": 30.3799991607666,
+    "daily_return": -0.007189582286291407,
+    "return_5_days": -0.023151164368863553,
+    "return_30_days": 0.09477474453212986,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

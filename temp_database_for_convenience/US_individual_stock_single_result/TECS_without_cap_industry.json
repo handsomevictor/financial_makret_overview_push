@@ -1,0 +1,13 @@
+{
+    "ticker": "TECS",
+    "close_price": 35.400001525878906,
+    "daily_return": 0.12846670637016122,
+    "return_5_days": 0.17024798432657517,
+    "return_30_days": -0.1950886335984977,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

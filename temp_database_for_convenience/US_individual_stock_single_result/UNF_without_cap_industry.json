@@ -1,0 +1,13 @@
+{
+    "ticker": "UNF",
+    "close_price": 183.10000610351562,
+    "daily_return": -0.02905926224589017,
+    "return_5_days": -0.05306161809293408,
+    "return_30_days": 0.036395584995825736,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

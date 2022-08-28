@@ -1,0 +1,13 @@
+{
+    "ticker": "WTRE",
+    "close_price": 18.739999771118164,
+    "daily_return": -0.024973962507002456,
+    "return_5_days": -0.039466963030773794,
+    "return_30_days": 0.02125337229105906,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

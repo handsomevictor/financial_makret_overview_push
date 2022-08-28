@@ -1,0 +1,13 @@
+{
+    "ticker": "KINS",
+    "close_price": 3.869999885559082,
+    "daily_return": -0.0051414444230678535,
+    "return_5_days": 0.005194800369332064,
+    "return_30_days": 0.02652517377678909,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FR",
+    "close_price": 51.880001068115234,
+    "daily_return": -0.021685795543155972,
+    "return_5_days": -0.05068619177351674,
+    "return_30_days": 0.10265678872211703,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

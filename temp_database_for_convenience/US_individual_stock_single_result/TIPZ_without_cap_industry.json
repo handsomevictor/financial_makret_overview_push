@@ -1,0 +1,13 @@
+{
+    "ticker": "TIPZ",
+    "close_price": 58.810001373291016,
+    "daily_return": -0.00016998166584625274,
+    "return_5_days": 0.0008509709527932952,
+    "return_30_days": 0.013092198901275554,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

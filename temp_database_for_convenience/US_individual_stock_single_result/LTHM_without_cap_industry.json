@@ -1,0 +1,13 @@
+{
+    "ticker": "LTHM",
+    "close_price": 32.88999938964844,
+    "daily_return": -0.014974543550156816,
+    "return_5_days": 0.1512075513114839,
+    "return_30_days": 0.6249999882204267,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

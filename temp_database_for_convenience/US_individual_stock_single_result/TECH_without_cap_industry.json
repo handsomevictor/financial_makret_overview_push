@@ -1,0 +1,13 @@
+{
+    "ticker": "TECH",
+    "close_price": 338.739990234375,
+    "daily_return": -0.05538208458202787,
+    "return_5_days": -0.04534564987960421,
+    "return_30_days": -0.016291609611454927,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

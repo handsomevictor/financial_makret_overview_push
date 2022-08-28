@@ -1,0 +1,13 @@
+{
+    "ticker": "ONTO",
+    "close_price": 76.12000274658203,
+    "daily_return": -0.0603629090322102,
+    "return_5_days": -0.04215425220414337,
+    "return_30_days": 0.07407929725603402,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

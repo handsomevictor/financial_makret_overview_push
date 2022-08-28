@@ -1,0 +1,13 @@
+{
+    "ticker": "FORTY",
+    "close_price": 102.51000213623047,
+    "daily_return": 0.019898517137520555,
+    "return_5_days": -0.003983638165653947,
+    "return_30_days": -0.004273869111748763,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

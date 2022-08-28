@@ -1,0 +1,13 @@
+{
+    "ticker": "RESI",
+    "close_price": 12.333000183105469,
+    "daily_return": -0.02173397003403632,
+    "return_5_days": -0.042022637061426615,
+    "return_30_days": 0.03179119152162624,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

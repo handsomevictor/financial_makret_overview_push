@@ -1,0 +1,13 @@
+{
+    "ticker": "ACV",
+    "close_price": 21.899999618530273,
+    "daily_return": -0.03268550313903762,
+    "return_5_days": -0.03268550313903751,
+    "return_30_days": 0.08523286855022238,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

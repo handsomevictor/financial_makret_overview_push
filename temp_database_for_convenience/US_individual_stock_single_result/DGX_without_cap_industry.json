@@ -1,0 +1,13 @@
+{
+    "ticker": "DGX",
+    "close_price": 127.0999984741211,
+    "daily_return": -0.026799444608144762,
+    "return_5_days": -0.061854129891403264,
+    "return_30_days": -0.06447815469509899,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

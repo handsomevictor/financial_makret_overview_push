@@ -1,0 +1,13 @@
+{
+    "ticker": "BHF",
+    "close_price": 48.45000076293945,
+    "daily_return": -0.04021392230002674,
+    "return_5_days": -0.022791468866131814,
+    "return_30_days": 0.20883229913925638,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

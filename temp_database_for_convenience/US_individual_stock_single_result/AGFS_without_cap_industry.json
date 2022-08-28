@@ -1,0 +1,13 @@
+{
+    "ticker": "AGFS",
+    "close_price": 1.6299999952316284,
+    "daily_return": 0.01874998183921006,
+    "return_5_days": -0.08938545811797949,
+    "return_30_days": 0.05844158156361767,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

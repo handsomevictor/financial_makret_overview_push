@@ -1,0 +1,13 @@
+{
+    "ticker": "CTRM",
+    "close_price": 1.440000057220459,
+    "daily_return": -0.07096767643859847,
+    "return_5_days": -0.0886075834761142,
+    "return_30_days": 0.05109492861930476,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

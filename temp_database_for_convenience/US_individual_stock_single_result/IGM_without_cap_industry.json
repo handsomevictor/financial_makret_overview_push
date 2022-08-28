@@ -1,0 +1,13 @@
+{
+    "ticker": "IGM",
+    "close_price": 322.7300109863281,
+    "daily_return": -0.043904539601791526,
+    "return_5_days": -0.052020888638450224,
+    "return_30_days": 0.056849121219255894,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

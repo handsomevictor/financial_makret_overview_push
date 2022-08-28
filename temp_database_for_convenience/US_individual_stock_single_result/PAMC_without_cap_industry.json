@@ -1,0 +1,13 @@
+{
+    "ticker": "PAMC",
+    "close_price": 31.84600067138672,
+    "daily_return": -0.02441567401921685,
+    "return_5_days": -0.03417944730446809,
+    "return_30_days": 0.058006653414923726,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

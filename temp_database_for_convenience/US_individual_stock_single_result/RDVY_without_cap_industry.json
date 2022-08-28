@@ -1,0 +1,13 @@
+{
+    "ticker": "RDVY",
+    "close_price": 44.099998474121094,
+    "daily_return": -0.033954063525695966,
+    "return_5_days": -0.033106821223934935,
+    "return_30_days": 0.0555289555435281,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

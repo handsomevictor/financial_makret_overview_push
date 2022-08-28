@@ -1,0 +1,13 @@
+{
+    "ticker": "KEYS",
+    "close_price": 167.0800018310547,
+    "daily_return": -0.03203753409271026,
+    "return_5_days": -0.051920751962286626,
+    "return_30_days": 0.1635908217302855,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

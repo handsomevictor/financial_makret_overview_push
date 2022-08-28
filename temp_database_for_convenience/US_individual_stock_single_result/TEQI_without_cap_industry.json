@@ -1,0 +1,13 @@
+{
+    "ticker": "TEQI",
+    "close_price": 34.77000045776367,
+    "daily_return": -0.02386295619341605,
+    "return_5_days": -0.026595765130848714,
+    "return_30_days": 0.06028729406706579,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

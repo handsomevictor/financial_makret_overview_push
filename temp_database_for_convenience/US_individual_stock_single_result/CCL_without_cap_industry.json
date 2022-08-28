@@ -1,0 +1,13 @@
+{
+    "ticker": "CCL",
+    "close_price": 9.970000267028809,
+    "daily_return": -0.05407966763635619,
+    "return_5_days": 0.010131751026262847,
+    "return_30_days": 0.08605663786390272,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

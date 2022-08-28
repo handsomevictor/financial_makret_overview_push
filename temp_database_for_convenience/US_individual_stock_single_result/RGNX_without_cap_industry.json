@@ -1,0 +1,13 @@
+{
+    "ticker": "RGNX",
+    "close_price": 31.190000534057617,
+    "daily_return": -0.07912602546037384,
+    "return_5_days": -0.003195921334093077,
+    "return_30_days": -0.012662222747646834,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

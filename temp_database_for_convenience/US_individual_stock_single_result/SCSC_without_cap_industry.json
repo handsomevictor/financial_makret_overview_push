@@ -1,0 +1,13 @@
+{
+    "ticker": "SCSC",
+    "close_price": 28.65999984741211,
+    "daily_return": -0.020840471500223834,
+    "return_5_days": -0.16903454761773884,
+    "return_30_days": -0.06401048132271603,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

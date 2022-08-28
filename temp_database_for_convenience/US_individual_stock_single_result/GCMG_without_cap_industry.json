@@ -1,0 +1,13 @@
+{
+    "ticker": "GCMG",
+    "close_price": 7.96999979019165,
+    "daily_return": -0.026862002620683167,
+    "return_5_days": -0.043217303338730195,
+    "return_30_days": 0.12889516356764208,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

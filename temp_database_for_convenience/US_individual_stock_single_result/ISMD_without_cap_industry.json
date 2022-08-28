@@ -1,0 +1,13 @@
+{
+    "ticker": "ISMD",
+    "close_price": 31.351999282836914,
+    "daily_return": -0.02931980896632791,
+    "return_5_days": -0.03585713198079998,
+    "return_30_days": 0.08184954375667153,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

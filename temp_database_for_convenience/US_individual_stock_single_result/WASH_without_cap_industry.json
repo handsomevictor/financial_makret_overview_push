@@ -1,0 +1,13 @@
+{
+    "ticker": "WASH",
+    "close_price": 52.38999938964844,
+    "daily_return": -0.01946473721855091,
+    "return_5_days": -0.045023718432789406,
+    "return_30_days": 0.07246675590793927,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FXY",
+    "close_price": 68.0199966430664,
+    "daily_return": -0.007152320506277343,
+    "return_5_days": -0.0046824657882929,
+    "return_30_days": 0.00680874927613373,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

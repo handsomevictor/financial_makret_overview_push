@@ -1,0 +1,13 @@
+{
+    "ticker": "DLHC",
+    "close_price": 15.609999656677246,
+    "daily_return": -0.08445745717414821,
+    "return_5_days": -0.12597989231703766,
+    "return_30_days": -0.02437502145767212,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

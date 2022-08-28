@@ -1,0 +1,13 @@
+{
+    "ticker": "BFS",
+    "close_price": 45.689998626708984,
+    "daily_return": -0.03648248859210801,
+    "return_5_days": -0.053449384847472636,
+    "return_30_days": -0.03444634570218563,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

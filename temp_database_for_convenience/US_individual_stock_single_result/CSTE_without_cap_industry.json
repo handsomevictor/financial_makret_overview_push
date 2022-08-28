@@ -1,0 +1,13 @@
+{
+    "ticker": "CSTE",
+    "close_price": 10.399999618530273,
+    "daily_return": -0.017941504373933936,
+    "return_5_days": 0.009708682130449509,
+    "return_30_days": 0.12676057793286444,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

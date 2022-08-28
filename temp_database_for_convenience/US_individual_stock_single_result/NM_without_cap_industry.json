@@ -1,0 +1,13 @@
+{
+    "ticker": "NM",
+    "close_price": 2.2899999618530273,
+    "daily_return": -0.004347822030685733,
+    "return_5_days": 0.022321407189022535,
+    "return_30_days": 0.05045866592997439,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

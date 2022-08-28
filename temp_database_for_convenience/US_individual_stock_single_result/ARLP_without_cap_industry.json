@@ -1,0 +1,13 @@
+{
+    "ticker": "ARLP",
+    "close_price": 25.489999771118164,
+    "daily_return": 0.00157167021530924,
+    "return_5_days": 0.05070072261466829,
+    "return_30_days": 0.22254193308179504,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

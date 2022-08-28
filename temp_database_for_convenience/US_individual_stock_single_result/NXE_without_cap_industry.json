@@ -1,0 +1,13 @@
+{
+    "ticker": "NXE",
+    "close_price": 4.090000152587891,
+    "daily_return": -0.046620002574253805,
+    "return_5_days": 0.12672176959912296,
+    "return_30_days": 0.11444143530320328,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

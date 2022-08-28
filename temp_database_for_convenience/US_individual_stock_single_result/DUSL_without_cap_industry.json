@@ -1,0 +1,13 @@
+{
+    "ticker": "DUSL",
+    "close_price": 31.450000762939453,
+    "daily_return": -0.10245433957728711,
+    "return_5_days": -0.10219806283502453,
+    "return_30_days": 0.30389716702592806,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

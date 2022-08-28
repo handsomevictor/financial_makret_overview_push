@@ -1,0 +1,13 @@
+{
+    "ticker": "PGP",
+    "close_price": 7.880000114440918,
+    "daily_return": -0.002531643124693339,
+    "return_5_days": -0.03785097458184172,
+    "return_30_days": 0.06630585342464257,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

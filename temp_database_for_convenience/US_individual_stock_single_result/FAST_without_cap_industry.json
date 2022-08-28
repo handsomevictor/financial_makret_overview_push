@@ -1,0 +1,13 @@
+{
+    "ticker": "FAST",
+    "close_price": 50.959999084472656,
+    "daily_return": -0.04426107696659731,
+    "return_5_days": -0.07697880946343427,
+    "return_30_days": 0.06078264182550308,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EFSC",
+    "close_price": 46.9900016784668,
+    "daily_return": -0.016534054437280288,
+    "return_5_days": -0.0323311295392128,
+    "return_30_days": 0.12712888525648292,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

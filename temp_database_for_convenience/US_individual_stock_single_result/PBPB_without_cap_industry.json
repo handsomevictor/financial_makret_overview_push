@@ -1,0 +1,13 @@
+{
+    "ticker": "PBPB",
+    "close_price": 6.0,
+    "daily_return": -0.02439025903112113,
+    "return_5_days": -0.03691814099026136,
+    "return_30_days": 0.19760473570659198,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TARA",
+    "close_price": 3.380000114440918,
+    "daily_return": -0.039772689558011276,
+    "return_5_days": 0.02424247372139532,
+    "return_30_days": 0.07987220155250796,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

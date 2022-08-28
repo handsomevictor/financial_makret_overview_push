@@ -1,0 +1,13 @@
+{
+    "ticker": "RKLY",
+    "close_price": 1.4600000381469727,
+    "daily_return": -0.020134208857554126,
+    "return_5_days": 0.03546104447461973,
+    "return_30_days": -0.3733905210500078,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

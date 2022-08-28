@@ -1,0 +1,13 @@
+{
+    "ticker": "INTA",
+    "close_price": 14.359999656677246,
+    "daily_return": -0.06327464265207305,
+    "return_5_days": -0.026440701242220643,
+    "return_30_days": -0.03559440392378366,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

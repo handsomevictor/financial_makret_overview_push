@@ -1,0 +1,13 @@
+{
+    "ticker": "FDHY",
+    "close_price": 47.029998779296875,
+    "daily_return": -0.01610879644463825,
+    "return_5_days": -0.015078559595877117,
+    "return_30_days": 0.007929681377940812,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

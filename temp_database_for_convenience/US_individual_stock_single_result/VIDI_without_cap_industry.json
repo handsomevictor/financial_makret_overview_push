@@ -1,0 +1,13 @@
+{
+    "ticker": "VIDI",
+    "close_price": 22.350000381469727,
+    "daily_return": -0.015418518489265676,
+    "return_5_days": -0.011936359316811695,
+    "return_30_days": 0.04439255980719059,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

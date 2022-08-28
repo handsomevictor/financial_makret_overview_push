@@ -1,0 +1,13 @@
+{
+    "ticker": "RKT",
+    "close_price": 8.4399995803833,
+    "daily_return": -0.10687833325579477,
+    "return_5_days": -0.13257965288213513,
+    "return_30_days": -0.06117911064934867,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

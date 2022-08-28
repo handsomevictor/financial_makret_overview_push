@@ -1,0 +1,13 @@
+{
+    "ticker": "FLTN",
+    "close_price": 24.420000076293945,
+    "daily_return": 0.00020475775462380774,
+    "return_5_days": -0.002654708288230001,
+    "return_30_days": -0.010334312812605995,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

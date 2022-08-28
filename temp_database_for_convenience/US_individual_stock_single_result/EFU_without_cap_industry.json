@@ -1,0 +1,13 @@
+{
+    "ticker": "EFU",
+    "close_price": 13.710000038146973,
+    "daily_return": 0.052187284659346966,
+    "return_5_days": 0.06114550752229064,
+    "return_30_days": -0.05513440235117861,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

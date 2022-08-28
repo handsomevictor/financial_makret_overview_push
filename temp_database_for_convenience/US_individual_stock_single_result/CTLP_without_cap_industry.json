@@ -1,0 +1,13 @@
+{
+    "ticker": "CTLP",
+    "close_price": 5.690000057220459,
+    "daily_return": -0.05638476629484179,
+    "return_5_days": -0.06568145900578604,
+    "return_30_days": 0.023381315787554646,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

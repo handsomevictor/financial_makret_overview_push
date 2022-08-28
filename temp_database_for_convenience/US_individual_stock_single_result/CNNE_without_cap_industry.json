@@ -1,0 +1,13 @@
+{
+    "ticker": "CNNE",
+    "close_price": 21.829999923706055,
+    "daily_return": -0.03577736253441488,
+    "return_5_days": -0.011770041968577116,
+    "return_30_days": 0.06487804505883177,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

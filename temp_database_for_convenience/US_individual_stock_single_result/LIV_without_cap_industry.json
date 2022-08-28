@@ -1,0 +1,13 @@
+{
+    "ticker": "LIV",
+    "close_price": 18.347999572753906,
+    "daily_return": -0.03725474712919419,
+    "return_5_days": -0.039120176353091285,
+    "return_30_days": 0.05935334272764958,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

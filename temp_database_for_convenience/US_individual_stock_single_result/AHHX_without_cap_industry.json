@@ -1,0 +1,13 @@
+{
+    "ticker": "AHHX",
+    "close_price": 8.685999870300293,
+    "daily_return": -0.01775421625833995,
+    "return_5_days": -0.012393428658113548,
+    "return_30_days": 0.011764686278921355,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

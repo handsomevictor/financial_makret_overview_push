@@ -1,0 +1,13 @@
+{
+    "ticker": "IESC",
+    "close_price": 30.959999084472656,
+    "daily_return": -0.0716641528935309,
+    "return_5_days": -0.06408714114978742,
+    "return_30_days": -0.009596965521836198,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

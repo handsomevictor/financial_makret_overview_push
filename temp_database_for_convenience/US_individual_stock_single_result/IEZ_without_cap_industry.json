@@ -1,0 +1,13 @@
+{
+    "ticker": "IEZ",
+    "close_price": 17.059999465942383,
+    "daily_return": -0.024585495185989403,
+    "return_5_days": 0.04662578309536691,
+    "return_30_days": 0.20480223515399776,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

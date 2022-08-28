@@ -1,0 +1,13 @@
+{
+    "ticker": "TRUP",
+    "close_price": 69.91000366210938,
+    "daily_return": -0.09781900129854282,
+    "return_5_days": -0.027406700981960852,
+    "return_30_days": 0.10774842316579614,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

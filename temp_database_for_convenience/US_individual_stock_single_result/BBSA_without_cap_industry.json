@@ -1,0 +1,13 @@
+{
+    "ticker": "BBSA",
+    "close_price": 47.90999984741211,
+    "daily_return": -0.001063336654818725,
+    "return_5_days": -0.002602269186990025,
+    "return_30_days": -0.002706100450410198,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

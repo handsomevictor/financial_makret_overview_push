@@ -1,0 +1,13 @@
+{
+    "ticker": "EVGO",
+    "close_price": 9.210000038146973,
+    "daily_return": -0.0780780531373213,
+    "return_5_days": -0.02950471440719571,
+    "return_30_days": 0.27034483284785815,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

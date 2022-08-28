@@ -1,0 +1,13 @@
+{
+    "ticker": "LNDC",
+    "close_price": 10.1899995803833,
+    "daily_return": -0.044985988048592884,
+    "return_5_days": -0.07782810819068142,
+    "return_30_days": 0.014940201105597017,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

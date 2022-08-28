@@ -1,0 +1,13 @@
+{
+    "ticker": "BIDS",
+    "close_price": 14.822999954223633,
+    "daily_return": -0.03746751159736117,
+    "return_5_days": -0.021584136801342524,
+    "return_30_days": 0.09629465679997096,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

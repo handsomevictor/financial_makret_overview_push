@@ -1,0 +1,13 @@
+{
+    "ticker": "BOCT",
+    "close_price": 32.0099983215332,
+    "daily_return": -0.014773879105451804,
+    "return_5_days": -0.019001002950866264,
+    "return_30_days": 0.03324721738270586,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

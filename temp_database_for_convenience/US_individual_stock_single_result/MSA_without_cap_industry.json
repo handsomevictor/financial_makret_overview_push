@@ -1,0 +1,13 @@
+{
+    "ticker": "MSA",
+    "close_price": 121.81999969482422,
+    "daily_return": -0.046194812633015614,
+    "return_5_days": -0.07036015005874019,
+    "return_30_days": -0.006929147198244667,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

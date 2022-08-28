@@ -1,0 +1,13 @@
+{
+    "ticker": "FVAL",
+    "close_price": 45.57899856567383,
+    "daily_return": -0.03085265258951686,
+    "return_5_days": -0.03679207819903729,
+    "return_30_days": 0.040854021757102066,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

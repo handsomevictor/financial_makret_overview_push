@@ -1,0 +1,13 @@
+{
+    "ticker": "PSCT",
+    "close_price": 126.5999984741211,
+    "daily_return": -0.03835925299270471,
+    "return_5_days": -0.03872436288761172,
+    "return_30_days": 0.07324516324776553,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

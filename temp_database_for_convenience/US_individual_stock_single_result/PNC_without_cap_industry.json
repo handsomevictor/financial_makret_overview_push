@@ -1,0 +1,13 @@
+{
+    "ticker": "PNC",
+    "close_price": 162.19000244140625,
+    "daily_return": -0.03972760034077061,
+    "return_5_days": -0.05035418457051255,
+    "return_30_days": 0.05716337098898627,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

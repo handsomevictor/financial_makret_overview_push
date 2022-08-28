@@ -1,0 +1,13 @@
+{
+    "ticker": "DRUG",
+    "close_price": 2.549999952316284,
+    "daily_return": -0.11764710735163253,
+    "return_5_days": 1.039999961853027,
+    "return_30_days": 1.9929576972123217,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BAM",
+    "close_price": 49.18000030517578,
+    "daily_return": -0.04541925721654905,
+    "return_5_days": -0.04782190024651878,
+    "return_30_days": 0.09899442022739202,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

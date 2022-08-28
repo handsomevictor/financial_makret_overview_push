@@ -1,0 +1,13 @@
+{
+    "ticker": "CCCC",
+    "close_price": 10.949999809265137,
+    "daily_return": -0.033539286584268524,
+    "return_5_days": -0.029255313077842682,
+    "return_30_days": 0.09281430229685106,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

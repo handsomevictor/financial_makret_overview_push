@@ -1,0 +1,13 @@
+{
+    "ticker": "MXL",
+    "close_price": 38.54999923706055,
+    "daily_return": -0.052825589326196076,
+    "return_5_days": -0.02306132459516963,
+    "return_30_days": 0.09829062429968727,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

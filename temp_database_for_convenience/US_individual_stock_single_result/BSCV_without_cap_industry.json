@@ -1,0 +1,13 @@
+{
+    "ticker": "BSCV",
+    "close_price": 16.56999969482422,
+    "daily_return": -0.006594760691786661,
+    "return_5_days": -0.007189984145807959,
+    "return_30_days": -0.004505903326933791,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

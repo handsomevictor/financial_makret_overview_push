@@ -1,0 +1,13 @@
+{
+    "ticker": "NFTZ",
+    "close_price": 7.300000190734863,
+    "daily_return": -0.06145534773678296,
+    "return_5_days": -0.07183720239358327,
+    "return_30_days": 0.1288078215745696,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

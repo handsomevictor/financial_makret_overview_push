@@ -1,0 +1,13 @@
+{
+    "ticker": "XME",
+    "close_price": 52.04999923706055,
+    "daily_return": -0.02619273163508773,
+    "return_5_days": 0.03540876791501946,
+    "return_30_days": 0.21300394831391856,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

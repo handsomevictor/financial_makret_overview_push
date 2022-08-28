@@ -1,0 +1,13 @@
+{
+    "ticker": "MCK",
+    "close_price": 356.7900085449219,
+    "daily_return": -0.02752870260912843,
+    "return_5_days": -0.03832781015716047,
+    "return_30_days": 0.08118184407552098,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

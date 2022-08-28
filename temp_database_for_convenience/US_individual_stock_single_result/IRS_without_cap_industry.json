@@ -1,0 +1,13 @@
+{
+    "ticker": "IRS",
+    "close_price": 4.110000133514404,
+    "daily_return": -0.039719642046830095,
+    "return_5_days": 0.053846162310718926,
+    "return_30_days": 0.21597632969140812,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

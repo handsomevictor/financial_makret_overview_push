@@ -1,0 +1,13 @@
+{
+    "ticker": "FSIG",
+    "close_price": 18.875,
+    "daily_return": -0.0010585052807159379,
+    "return_5_days": -0.004483074292037759,
+    "return_30_days": 0.0021237545777381683,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TTEK",
+    "close_price": 140.0500030517578,
+    "daily_return": -0.028577340428065257,
+    "return_5_days": -0.03287062072430402,
+    "return_30_days": 0.017805209589882187,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

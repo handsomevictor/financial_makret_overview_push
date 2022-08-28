@@ -1,0 +1,13 @@
+{
+    "ticker": "BFC",
+    "close_price": 80.16999816894531,
+    "daily_return": -0.003975645463002997,
+    "return_5_days": -0.019327239523604822,
+    "return_30_days": 0.040088171568331665,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

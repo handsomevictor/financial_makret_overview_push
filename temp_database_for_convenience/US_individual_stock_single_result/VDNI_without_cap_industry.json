@@ -1,0 +1,13 @@
+{
+    "ticker": "VDNI",
+    "close_price": 21.736000061035156,
+    "daily_return": -0.032665744314602674,
+    "return_5_days": -0.041368957139417906,
+    "return_30_days": 0.04289420629785634,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

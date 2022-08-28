@@ -1,0 +1,13 @@
+{
+    "ticker": "ELS",
+    "close_price": 72.52999877929688,
+    "daily_return": -0.02526548569127174,
+    "return_5_days": -0.04477810499425405,
+    "return_30_days": -0.010639732714128769,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

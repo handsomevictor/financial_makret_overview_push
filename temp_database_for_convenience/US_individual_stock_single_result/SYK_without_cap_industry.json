@@ -1,0 +1,13 @@
+{
+    "ticker": "SYK",
+    "close_price": 207.0,
+    "daily_return": -0.04471827187332489,
+    "return_5_days": -0.05106811873483996,
+    "return_30_days": 0.06284661038401462,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

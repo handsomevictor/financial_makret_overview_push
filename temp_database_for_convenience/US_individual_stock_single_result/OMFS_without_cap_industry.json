@@ -1,0 +1,13 @@
+{
+    "ticker": "OMFS",
+    "close_price": 35.869998931884766,
+    "daily_return": -0.023679986576917833,
+    "return_5_days": -0.03479265210622362,
+    "return_30_days": 0.06915051408589745,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

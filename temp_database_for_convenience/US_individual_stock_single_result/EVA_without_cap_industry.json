@@ -1,0 +1,13 @@
+{
+    "ticker": "EVA",
+    "close_price": 71.93000030517578,
+    "daily_return": -0.015197160411256072,
+    "return_5_days": 0.003627768143897203,
+    "return_30_days": 0.20931406958231058,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

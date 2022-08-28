@@ -1,0 +1,13 @@
+{
+    "ticker": "MVRL",
+    "close_price": 30.34000015258789,
+    "daily_return": -0.01859940953942052,
+    "return_5_days": -0.020057500760358282,
+    "return_30_days": 0.08310727883126856,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

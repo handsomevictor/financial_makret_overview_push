@@ -1,0 +1,13 @@
+{
+    "ticker": "AIQ",
+    "close_price": 22.06999969482422,
+    "daily_return": -0.034135696876313903,
+    "return_5_days": -0.03876304116450613,
+    "return_30_days": 0.04696393618127237,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "VLTA",
+    "close_price": 2.2699999809265137,
+    "daily_return": -0.03813555854656392,
+    "return_5_days": 0.055813897784304345,
+    "return_30_days": 0.48366014599632057,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

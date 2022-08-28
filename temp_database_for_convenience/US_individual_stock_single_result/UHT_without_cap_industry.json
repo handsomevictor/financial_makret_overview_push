@@ -1,0 +1,13 @@
+{
+    "ticker": "UHT",
+    "close_price": 52.43000030517578,
+    "daily_return": -0.008509847841338014,
+    "return_5_days": -0.04983689715097839,
+    "return_30_days": 0.010211922229570236,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

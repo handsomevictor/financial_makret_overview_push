@@ -1,0 +1,13 @@
+{
+    "ticker": "JHME",
+    "close_price": 33.7140007019043,
+    "daily_return": -0.01030377040818331,
+    "return_5_days": 0.041809605337205014,
+    "return_30_days": 0.22954050357760059,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SSKN",
+    "close_price": 1.0,
+    "daily_return": 0.010101000370632551,
+    "return_5_days": 0.02040814340536623,
+    "return_30_days": -0.09090911061310547,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

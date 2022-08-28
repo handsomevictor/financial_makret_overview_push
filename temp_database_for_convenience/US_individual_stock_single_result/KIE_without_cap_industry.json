@@ -1,0 +1,13 @@
+{
+    "ticker": "KIE",
+    "close_price": 38.959999084472656,
+    "daily_return": -0.02331412182014525,
+    "return_5_days": -0.029397118164383618,
+    "return_30_days": 0.05783321063052349,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDV",
+    "close_price": 21.670000076293945,
+    "daily_return": -0.005507151637973884,
+    "return_5_days": -0.004136036380570918,
+    "return_30_days": -0.0014744995165271169,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

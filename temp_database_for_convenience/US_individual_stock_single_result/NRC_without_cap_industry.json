@@ -1,0 +1,13 @@
+{
+    "ticker": "NRC",
+    "close_price": 33.81999969482422,
+    "daily_return": -0.034541796364200295,
+    "return_5_days": -0.06574588447389795,
+    "return_30_days": -0.09402630495749142,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

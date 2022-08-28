@@ -1,0 +1,13 @@
+{
+    "ticker": "JUNZ",
+    "close_price": 24.53499984741211,
+    "daily_return": -0.022081423691384328,
+    "return_5_days": -0.026852294488517447,
+    "return_30_days": 0.03856244822691823,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

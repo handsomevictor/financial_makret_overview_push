@@ -1,0 +1,13 @@
+{
+    "ticker": "MORF",
+    "close_price": 28.639999389648438,
+    "daily_return": -0.08615190650267124,
+    "return_5_days": -0.06282722872536983,
+    "return_30_days": 0.182982258269353,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

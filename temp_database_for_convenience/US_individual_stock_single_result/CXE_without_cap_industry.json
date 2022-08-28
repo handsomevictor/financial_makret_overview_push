@@ -1,0 +1,13 @@
+{
+    "ticker": "CXE",
+    "close_price": 3.9200000762939453,
+    "daily_return": 0.0,
+    "return_5_days": -0.002544526792211288,
+    "return_30_days": -0.002544526792211288,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

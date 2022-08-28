@@ -1,0 +1,13 @@
+{
+    "ticker": "PSR",
+    "close_price": 100.16000366210938,
+    "daily_return": -0.02282923256478664,
+    "return_5_days": -0.037663317640101335,
+    "return_30_days": 0.04409468720397092,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

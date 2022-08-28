@@ -1,0 +1,13 @@
+{
+    "ticker": "SPRB",
+    "close_price": 2.0950000286102295,
+    "daily_return": -0.021028072003744236,
+    "return_5_days": -0.043379007364411915,
+    "return_30_days": 0.10846563199309966,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

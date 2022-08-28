@@ -1,0 +1,13 @@
+{
+    "ticker": "DFE",
+    "close_price": 53.31999969482422,
+    "daily_return": -0.027717003164376197,
+    "return_5_days": -0.04461568925275894,
+    "return_30_days": 0.00338728466773075,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

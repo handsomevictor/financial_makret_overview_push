@@ -1,0 +1,13 @@
+{
+    "ticker": "SKIL",
+    "close_price": 3.930000066757202,
+    "daily_return": -0.002538068608636368,
+    "return_5_days": -0.09862386550217772,
+    "return_30_days": -0.005063286249386456,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

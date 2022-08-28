@@ -1,0 +1,13 @@
+{
+    "ticker": "GRNR",
+    "close_price": 21.0049991607666,
+    "daily_return": -0.019374459105937936,
+    "return_5_days": -0.027095923468586247,
+    "return_30_days": -0.004738231871059484,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

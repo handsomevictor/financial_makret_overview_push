@@ -1,0 +1,13 @@
+{
+    "ticker": "FCSH",
+    "close_price": 23.524999618530273,
+    "daily_return": -0.002120939248824283,
+    "return_5_days": -0.002966717391875373,
+    "return_30_days": 0.00234343019961214,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

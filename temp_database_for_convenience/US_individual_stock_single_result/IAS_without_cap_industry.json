@@ -1,0 +1,13 @@
+{
+    "ticker": "IAS",
+    "close_price": 8.369999885559082,
+    "daily_return": -0.04013765719630913,
+    "return_5_days": -0.054237341832852004,
+    "return_30_days": -0.14417176747547267,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BALY",
+    "close_price": 24.81999969482422,
+    "daily_return": -0.04317659275923713,
+    "return_5_days": -0.003613012972267904,
+    "return_30_days": 0.15818942330251295,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

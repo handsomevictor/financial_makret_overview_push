@@ -1,0 +1,13 @@
+{
+    "ticker": "ZGN",
+    "close_price": 10.539999961853027,
+    "daily_return": -0.029465902849036274,
+    "return_5_days": -0.033027492594150054,
+    "return_30_days": -0.040072823199196805,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ZUMZ",
+    "close_price": 27.389999389648438,
+    "daily_return": -0.02003582676225024,
+    "return_5_days": -0.06422962209474714,
+    "return_30_days": 0.05834622402812695,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

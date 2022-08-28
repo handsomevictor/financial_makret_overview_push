@@ -1,0 +1,13 @@
+{
+    "ticker": "FMTX",
+    "close_price": 12.489999771118164,
+    "daily_return": 0.01133598261733626,
+    "return_5_days": 0.05311974137252351,
+    "return_30_days": 0.4160997962899686,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

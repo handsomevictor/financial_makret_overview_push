@@ -1,0 +1,13 @@
+{
+    "ticker": "HCAT",
+    "close_price": 12.039999961853027,
+    "daily_return": -0.02272725161582778,
+    "return_5_days": 0.01775148262901971,
+    "return_30_days": -0.25217393313167524,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

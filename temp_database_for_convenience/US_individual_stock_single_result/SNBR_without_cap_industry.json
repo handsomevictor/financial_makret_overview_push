@@ -1,0 +1,13 @@
+{
+    "ticker": "SNBR",
+    "close_price": 41.5099983215332,
+    "daily_return": -0.04728027054670203,
+    "return_5_days": -0.06340255849819343,
+    "return_30_days": 0.263237904763054,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

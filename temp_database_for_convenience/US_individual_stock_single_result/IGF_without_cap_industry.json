@@ -1,0 +1,13 @@
+{
+    "ticker": "IGF",
+    "close_price": 48.439998626708984,
+    "daily_return": -0.01963167827764989,
+    "return_5_days": -0.016247015119572494,
+    "return_30_days": 0.05327238223149067,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

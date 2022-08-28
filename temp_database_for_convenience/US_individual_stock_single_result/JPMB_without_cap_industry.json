@@ -1,0 +1,13 @@
+{
+    "ticker": "JPMB",
+    "close_price": 39.34199905395508,
+    "daily_return": -0.012822160908758096,
+    "return_5_days": -0.0005843420178055503,
+    "return_30_days": 0.05627451974458664,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

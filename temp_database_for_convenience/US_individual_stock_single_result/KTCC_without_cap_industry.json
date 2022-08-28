@@ -1,0 +1,13 @@
+{
+    "ticker": "KTCC",
+    "close_price": 4.949999809265137,
+    "daily_return": -0.023668709730421456,
+    "return_5_days": -0.05534350658781495,
+    "return_30_days": 0.12756263321434824,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

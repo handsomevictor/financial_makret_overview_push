@@ -1,0 +1,13 @@
+{
+    "ticker": "PFFD",
+    "close_price": 21.639999389648438,
+    "daily_return": -0.010968911349343746,
+    "return_5_days": -0.020371243088775248,
+    "return_30_days": 0.0013881896552330186,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

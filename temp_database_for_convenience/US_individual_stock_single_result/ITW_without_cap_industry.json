@@ -1,0 +1,13 @@
+{
+    "ticker": "ITW",
+    "close_price": 199.47000122070312,
+    "daily_return": -0.040179029011816136,
+    "return_5_days": -0.06658865667174318,
+    "return_30_days": 0.10436278713929559,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

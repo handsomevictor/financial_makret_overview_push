@@ -1,0 +1,13 @@
+{
+    "ticker": "LYEL",
+    "close_price": 6.289999961853027,
+    "daily_return": -0.1756225599593032,
+    "return_5_days": -0.10653409148635695,
+    "return_30_days": 0.06610167121722887,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

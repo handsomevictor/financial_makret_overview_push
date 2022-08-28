@@ -1,0 +1,13 @@
+{
+    "ticker": "NICE",
+    "close_price": 213.1199951171875,
+    "daily_return": -0.03430154171224231,
+    "return_5_days": -0.03974050296114284,
+    "return_30_days": 0.07598317380951913,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

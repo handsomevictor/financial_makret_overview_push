@@ -1,0 +1,13 @@
+{
+    "ticker": "MEI",
+    "close_price": 40.25,
+    "daily_return": -0.050707581332671614,
+    "return_5_days": -0.05715621234952206,
+    "return_30_days": 0.13990366566356682,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

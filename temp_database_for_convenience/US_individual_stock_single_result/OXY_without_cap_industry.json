@@ -1,0 +1,13 @@
+{
+    "ticker": "OXY",
+    "close_price": 73.55000305175781,
+    "daily_return": -0.012486577111428199,
+    "return_5_days": 0.0317015304700079,
+    "return_30_days": 0.2527679134508787,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

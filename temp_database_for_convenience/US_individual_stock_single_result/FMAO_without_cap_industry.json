@@ -1,0 +1,13 @@
+{
+    "ticker": "FMAO",
+    "close_price": 29.889999389648438,
+    "daily_return": -0.019356960677454182,
+    "return_5_days": -0.06622927344731033,
+    "return_30_days": -0.030804175040179183,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

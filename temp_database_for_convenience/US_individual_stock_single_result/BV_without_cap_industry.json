@@ -1,0 +1,13 @@
+{
+    "ticker": "BV",
+    "close_price": 10.40999984741211,
+    "daily_return": -0.039667924273333655,
+    "return_5_days": -0.03521780498464966,
+    "return_30_days": -0.13753105960093193,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

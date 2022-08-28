@@ -1,0 +1,13 @@
+{
+    "ticker": "PDEC",
+    "close_price": 29.950000762939453,
+    "daily_return": -0.010898279928097776,
+    "return_5_days": -0.012984415420333018,
+    "return_30_days": 0.02793798367402278,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

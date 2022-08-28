@@ -1,0 +1,13 @@
+{
+    "ticker": "TSLI",
+    "close_price": 24.947999954223633,
+    "daily_return": 0.025695843488725112,
+    "return_5_days": 0.027216176565174832,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

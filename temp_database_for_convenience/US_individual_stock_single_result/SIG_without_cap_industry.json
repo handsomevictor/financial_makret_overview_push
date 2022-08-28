@@ -1,0 +1,13 @@
+{
+    "ticker": "SIG",
+    "close_price": 68.4000015258789,
+    "daily_return": -0.03294219879075233,
+    "return_5_days": 0.0008780390869735921,
+    "return_30_days": 0.23599568733792786,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

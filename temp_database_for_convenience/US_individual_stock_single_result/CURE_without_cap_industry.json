@@ -1,0 +1,13 @@
+{
+    "ticker": "CURE",
+    "close_price": 98.81999969482422,
+    "daily_return": -0.08287703299467086,
+    "return_5_days": -0.12548672836438768,
+    "return_30_days": -0.07997396587293315,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

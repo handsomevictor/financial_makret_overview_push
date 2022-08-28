@@ -1,0 +1,13 @@
+{
+    "ticker": "FLQS",
+    "close_price": 34.196998596191406,
+    "daily_return": -0.026946345997938326,
+    "return_5_days": -0.035617611982237674,
+    "return_30_days": 0.07113318169416116,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

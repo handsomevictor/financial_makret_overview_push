@@ -1,0 +1,13 @@
+{
+    "ticker": "BLDP",
+    "close_price": 7.989999771118164,
+    "daily_return": -0.05106891939186842,
+    "return_5_days": 0.06108891746252998,
+    "return_30_days": 0.26424043577482736,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

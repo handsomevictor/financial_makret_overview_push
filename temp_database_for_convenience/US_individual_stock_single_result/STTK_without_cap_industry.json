@@ -1,0 +1,13 @@
+{
+    "ticker": "STTK",
+    "close_price": 3.180000066757202,
+    "daily_return": -0.05637977010505413,
+    "return_5_days": -0.05637977010505402,
+    "return_30_days": -0.39428570157005693,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

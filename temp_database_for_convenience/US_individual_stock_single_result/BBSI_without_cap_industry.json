@@ -1,0 +1,13 @@
+{
+    "ticker": "BBSI",
+    "close_price": 81.69000244140625,
+    "daily_return": -0.026804859835101835,
+    "return_5_days": -0.04734691030430027,
+    "return_30_days": 0.09842677725543947,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

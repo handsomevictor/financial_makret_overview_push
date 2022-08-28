@@ -1,0 +1,13 @@
+{
+    "ticker": "NBCC",
+    "close_price": 19.58099937438965,
+    "daily_return": -0.030019363551963663,
+    "return_5_days": -0.030211510614261528,
+    "return_30_days": 0.05138524467603478,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

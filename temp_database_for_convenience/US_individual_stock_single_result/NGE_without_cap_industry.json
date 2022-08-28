@@ -1,0 +1,13 @@
+{
+    "ticker": "NGE",
+    "close_price": 8.289999961853027,
+    "daily_return": -0.008373169581210371,
+    "return_5_days": -0.03716605198422396,
+    "return_30_days": -0.06853929020482119,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

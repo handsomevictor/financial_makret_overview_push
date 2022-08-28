@@ -1,0 +1,13 @@
+{
+    "ticker": "ZIG",
+    "close_price": 26.150999069213867,
+    "daily_return": -0.030439012647958785,
+    "return_5_days": -0.028962930961216826,
+    "return_30_days": 0.0372852568406683,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

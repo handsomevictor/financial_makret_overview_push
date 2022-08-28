@@ -1,0 +1,13 @@
+{
+    "ticker": "ACWX",
+    "close_price": 45.040000915527344,
+    "daily_return": -0.022781497799617356,
+    "return_5_days": -0.01937729988536807,
+    "return_30_days": 0.02666975181511222,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

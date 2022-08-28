@@ -1,0 +1,13 @@
+{
+    "ticker": "FDVV",
+    "close_price": 38.279998779296875,
+    "daily_return": -0.025706340358758295,
+    "return_5_days": -0.028672952867048518,
+    "return_30_days": 0.057166521600710896,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

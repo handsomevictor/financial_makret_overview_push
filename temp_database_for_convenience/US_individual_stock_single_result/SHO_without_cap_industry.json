@@ -1,0 +1,13 @@
+{
+    "ticker": "SHO",
+    "close_price": 11.109999656677246,
+    "daily_return": -0.056074832235973204,
+    "return_5_days": -0.05446811432534093,
+    "return_30_days": 0.13483143002733722,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

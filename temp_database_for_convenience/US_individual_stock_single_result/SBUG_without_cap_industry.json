@@ -1,0 +1,13 @@
+{
+    "ticker": "SBUG",
+    "close_price": 25.617000579833984,
+    "daily_return": -0.014692871318565559,
+    "return_5_days": -0.014162017389792725,
+    "return_30_days": -0.10881893087754146,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

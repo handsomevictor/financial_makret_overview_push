@@ -1,0 +1,13 @@
+{
+    "ticker": "IOCT",
+    "close_price": 23.503000259399414,
+    "daily_return": -0.016487387969105094,
+    "return_5_days": -0.018581914801855337,
+    "return_30_days": 0.023516131644686356,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

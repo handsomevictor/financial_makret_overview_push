@@ -1,0 +1,13 @@
+{
+    "ticker": "DGIN",
+    "close_price": 30.030000686645508,
+    "daily_return": -0.018146098232479924,
+    "return_5_days": -0.03266331395858579,
+    "return_30_days": 0.07261495749120273,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

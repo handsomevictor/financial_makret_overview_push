@@ -1,0 +1,13 @@
+{
+    "ticker": "FRME",
+    "close_price": 40.63999938964844,
+    "daily_return": -0.016218880691583948,
+    "return_5_days": -0.0415094828512268,
+    "return_30_days": 0.1499716812160925,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

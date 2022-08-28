@@ -1,0 +1,13 @@
+{
+    "ticker": "KFY",
+    "close_price": 62.709999084472656,
+    "daily_return": -0.044491822202434084,
+    "return_5_days": -0.049272286917982355,
+    "return_30_days": 0.060544528186857294,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

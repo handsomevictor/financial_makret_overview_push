@@ -1,0 +1,13 @@
+{
+    "ticker": "IYK",
+    "close_price": 200.33999633789062,
+    "daily_return": -0.0214428734492369,
+    "return_5_days": -0.030393954736738227,
+    "return_30_days": 0.028703447177871544,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IBHD",
+    "close_price": 22.739999771118164,
+    "daily_return": -0.00958185200901307,
+    "return_5_days": -0.006553063456965713,
+    "return_30_days": 0.007978737120429624,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

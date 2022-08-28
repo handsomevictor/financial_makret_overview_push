@@ -1,0 +1,13 @@
+{
+    "ticker": "TMUS",
+    "close_price": 143.02000427246094,
+    "daily_return": -0.027537926498021448,
+    "return_5_days": -0.022887141876615336,
+    "return_30_days": 0.04112986355174253,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

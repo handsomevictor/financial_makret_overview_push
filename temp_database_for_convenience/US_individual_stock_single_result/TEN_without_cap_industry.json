@@ -1,0 +1,13 @@
+{
+    "ticker": "TEN",
+    "close_price": 18.920000076293945,
+    "daily_return": 0.001058225299859883,
+    "return_5_days": -0.00734519378652676,
+    "return_30_days": -0.016632000968346494,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PRPC",
+    "close_price": 9.914999961853027,
+    "daily_return": -0.0005040437905707851,
+    "return_5_days": 0.0025277672055037392,
+    "return_30_days": 0.004559278299464342,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

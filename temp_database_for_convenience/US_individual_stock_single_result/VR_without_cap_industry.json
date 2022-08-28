@@ -1,0 +1,13 @@
+{
+    "ticker": "VR",
+    "close_price": 21.299999237060547,
+    "daily_return": -0.037940387341683146,
+    "return_5_days": -0.037070595436797804,
+    "return_30_days": 0.02576450099386096,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

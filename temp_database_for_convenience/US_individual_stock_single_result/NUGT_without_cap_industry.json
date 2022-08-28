@@ -1,0 +1,13 @@
+{
+    "ticker": "NUGT",
+    "close_price": 27.68000030517578,
+    "daily_return": -0.09424081188143407,
+    "return_5_days": -0.03284418261683031,
+    "return_30_days": -0.06801348167924282,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PSCW",
+    "close_price": 21.106000900268555,
+    "daily_return": -0.015440563985108513,
+    "return_5_days": -0.019647844374380274,
+    "return_30_days": 0.023073279634794774,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

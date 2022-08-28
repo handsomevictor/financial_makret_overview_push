@@ -1,0 +1,13 @@
+{
+    "ticker": "IQIN",
+    "close_price": 27.118999481201172,
+    "daily_return": -0.02467185097807434,
+    "return_5_days": -0.027539702119286136,
+    "return_30_days": 0.026534947121577224,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SHYG",
+    "close_price": 41.470001220703125,
+    "daily_return": -0.011913271037823026,
+    "return_5_days": -0.010970643480197384,
+    "return_30_days": 0.009985383187999464,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

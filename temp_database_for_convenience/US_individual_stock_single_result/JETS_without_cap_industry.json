@@ -1,0 +1,13 @@
+{
+    "ticker": "JETS",
+    "close_price": 17.719999313354492,
+    "daily_return": -0.03275111307121037,
+    "return_5_days": -0.02099453370753923,
+    "return_30_days": 0.03807847862629732,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

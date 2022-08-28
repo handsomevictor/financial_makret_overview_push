@@ -1,0 +1,13 @@
+{
+    "ticker": "IDR",
+    "close_price": 5.449999809265137,
+    "daily_return": 0.028301813798515152,
+    "return_5_days": -0.07627123369974653,
+    "return_30_days": -0.16666669097029385,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

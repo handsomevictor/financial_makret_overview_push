@@ -1,0 +1,13 @@
+{
+    "ticker": "UYM",
+    "close_price": 21.700000762939453,
+    "daily_return": -0.05775075484375847,
+    "return_5_days": -0.010487895076866205,
+    "return_30_days": 0.2294618261723469,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

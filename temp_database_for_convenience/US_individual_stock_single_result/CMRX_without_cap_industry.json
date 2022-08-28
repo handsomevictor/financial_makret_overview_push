@@ -1,0 +1,13 @@
+{
+    "ticker": "CMRX",
+    "close_price": 2.1600000858306885,
+    "daily_return": -0.07692300638503313,
+    "return_5_days": -0.11111110020948456,
+    "return_30_days": -4.440892098500626e-16,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

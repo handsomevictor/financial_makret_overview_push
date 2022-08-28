@@ -1,0 +1,13 @@
+{
+    "ticker": "CNSP",
+    "close_price": 0.25699999928474426,
+    "daily_return": -0.02651514894952456,
+    "return_5_days": 0.04048585267432725,
+    "return_30_days": -0.048148188620435683,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

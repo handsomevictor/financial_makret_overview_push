@@ -1,0 +1,13 @@
+{
+    "ticker": "PLCE",
+    "close_price": 44.33000183105469,
+    "daily_return": -0.026142324576932774,
+    "return_5_days": -0.06298878579020084,
+    "return_30_days": 0.08785280567005338,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

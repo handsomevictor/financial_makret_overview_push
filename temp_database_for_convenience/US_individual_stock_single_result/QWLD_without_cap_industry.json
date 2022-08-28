@@ -1,0 +1,13 @@
+{
+    "ticker": "QWLD",
+    "close_price": 94.64099884033203,
+    "daily_return": -0.0277475698950318,
+    "return_5_days": -0.035476271877398546,
+    "return_30_days": 0.027734652126296,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

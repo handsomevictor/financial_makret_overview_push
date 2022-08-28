@@ -1,0 +1,13 @@
+{
+    "ticker": "CLPR",
+    "close_price": 8.4399995803833,
+    "daily_return": -0.011709646594427858,
+    "return_5_days": -0.03432496551387032,
+    "return_30_days": 0.016867395955570297,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

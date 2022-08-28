@@ -1,0 +1,13 @@
+{
+    "ticker": "MNTK",
+    "close_price": 17.299999237060547,
+    "daily_return": -0.06738544751541864,
+    "return_5_days": -0.017603711672150135,
+    "return_30_days": 0.6828793469297487,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

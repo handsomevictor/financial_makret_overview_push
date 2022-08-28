@@ -1,0 +1,13 @@
+{
+    "ticker": "ARQQ",
+    "close_price": 5.75,
+    "daily_return": -0.02542374456658214,
+    "return_5_days": 0.005244792116914532,
+    "return_30_days": 0.05311354575584426,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

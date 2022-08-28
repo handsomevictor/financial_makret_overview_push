@@ -1,0 +1,13 @@
+{
+    "ticker": "XELAP",
+    "close_price": 5.14300012588501,
+    "daily_return": 0.008431416089514476,
+    "return_5_days": -0.06490906802090735,
+    "return_30_days": -0.16101141437677247,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

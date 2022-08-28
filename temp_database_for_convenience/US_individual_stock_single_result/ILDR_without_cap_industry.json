@@ -1,0 +1,13 @@
+{
+    "ticker": "ILDR",
+    "close_price": 15.645000457763672,
+    "daily_return": -0.03876865615234226,
+    "return_5_days": -0.03782286361999998,
+    "return_30_days": 0.10253706274888175,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

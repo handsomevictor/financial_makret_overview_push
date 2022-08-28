@@ -1,0 +1,13 @@
+{
+    "ticker": "BDN",
+    "close_price": 8.069999694824219,
+    "daily_return": -0.028880952186949527,
+    "return_5_days": -0.06812934907431933,
+    "return_30_days": -0.11610081120810722,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

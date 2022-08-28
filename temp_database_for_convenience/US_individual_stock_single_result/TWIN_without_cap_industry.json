@@ -1,0 +1,13 @@
+{
+    "ticker": "TWIN",
+    "close_price": 9.319999694824219,
+    "daily_return": 0.006479423807706386,
+    "return_5_days": -0.06706707624067876,
+    "return_30_days": 0.16791975846465057,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

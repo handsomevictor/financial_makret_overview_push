@@ -1,0 +1,13 @@
+{
+    "ticker": "DGZ",
+    "close_price": 10.619999885559082,
+    "daily_return": 0.016267950181513058,
+    "return_5_days": 0.010466189750877763,
+    "return_30_days": -0.01848427124825236,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

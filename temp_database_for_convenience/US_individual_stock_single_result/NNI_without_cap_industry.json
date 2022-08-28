@@ -1,0 +1,13 @@
+{
+    "ticker": "NNI",
+    "close_price": 85.61000061035156,
+    "daily_return": -0.0010501323348351965,
+    "return_5_days": -0.03287388322492424,
+    "return_30_days": -0.051938009777452776,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

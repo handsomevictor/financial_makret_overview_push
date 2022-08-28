@@ -1,0 +1,13 @@
+{
+    "ticker": "TCS",
+    "close_price": 7.090000152587891,
+    "daily_return": -0.0405953612067349,
+    "return_5_days": -0.044474382791499734,
+    "return_30_days": 0.058209008123170314,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

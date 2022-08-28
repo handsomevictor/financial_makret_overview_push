@@ -1,0 +1,13 @@
+{
+    "ticker": "BYM",
+    "close_price": 12.789999961853027,
+    "daily_return": -0.007757981288303739,
+    "return_5_days": -0.018419015812476625,
+    "return_30_days": -0.025152433428698107,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

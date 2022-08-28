@@ -1,0 +1,13 @@
+{
+    "ticker": "GIS",
+    "close_price": 76.31999969482422,
+    "daily_return": -0.0202824364583587,
+    "return_5_days": -0.021162004617755303,
+    "return_30_days": 0.01868661986245468,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

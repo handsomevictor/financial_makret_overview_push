@@ -1,0 +1,13 @@
+{
+    "ticker": "IYG",
+    "close_price": 160.0,
+    "daily_return": -0.034049742878717426,
+    "return_5_days": -0.04059485578354016,
+    "return_30_days": 0.0504891508415124,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

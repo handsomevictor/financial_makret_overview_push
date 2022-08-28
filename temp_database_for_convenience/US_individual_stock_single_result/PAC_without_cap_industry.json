@@ -1,0 +1,13 @@
+{
+    "ticker": "PAC",
+    "close_price": 151.92999267578125,
+    "daily_return": 0.0011861131847199502,
+    "return_5_days": 0.014422036066653598,
+    "return_30_days": 0.0885576033742721,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

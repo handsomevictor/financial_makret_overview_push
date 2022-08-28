@@ -1,0 +1,13 @@
+{
+    "ticker": "BRG",
+    "close_price": 25.360000610351562,
+    "daily_return": -0.008212713608876765,
+    "return_5_days": -0.018195869715165625,
+    "return_30_days": -0.03279934117179428,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

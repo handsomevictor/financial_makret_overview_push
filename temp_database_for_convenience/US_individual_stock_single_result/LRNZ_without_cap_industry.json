@@ -1,0 +1,13 @@
+{
+    "ticker": "LRNZ",
+    "close_price": 30.96500015258789,
+    "daily_return": -0.041093759192095014,
+    "return_5_days": 0.010145521980367445,
+    "return_30_days": 0.09100839214582579,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

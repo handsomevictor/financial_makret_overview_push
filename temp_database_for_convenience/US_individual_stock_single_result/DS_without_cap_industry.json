@@ -1,0 +1,13 @@
+{
+    "ticker": "DS",
+    "close_price": 1.1299999952316284,
+    "daily_return": -0.04237284282951548,
+    "return_5_days": -0.06611573586217279,
+    "return_30_days": -0.16911765930458744,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ODFL",
+    "close_price": 285.6499938964844,
+    "daily_return": -0.05071286956202492,
+    "return_5_days": -0.0383450522514881,
+    "return_30_days": 0.11883591174657182,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

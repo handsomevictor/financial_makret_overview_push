@@ -1,0 +1,13 @@
+{
+    "ticker": "ARKK",
+    "close_price": 42.84000015258789,
+    "daily_return": -0.06422015520102076,
+    "return_5_days": -0.04139625265093294,
+    "return_30_days": -0.02879166719996884,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

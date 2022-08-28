@@ -1,0 +1,13 @@
+{
+    "ticker": "QMCO",
+    "close_price": 1.649999976158142,
+    "daily_return": -0.023668686217741874,
+    "return_5_days": -0.07821228417790338,
+    "return_30_days": 0.12244894152695274,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

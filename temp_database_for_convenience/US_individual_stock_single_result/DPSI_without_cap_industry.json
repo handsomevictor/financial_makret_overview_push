@@ -1,0 +1,13 @@
+{
+    "ticker": "DPSI",
+    "close_price": 6.349999904632568,
+    "daily_return": -0.03274945174622268,
+    "return_5_days": -0.04797603718157384,
+    "return_30_days": 0.49764156778667923,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

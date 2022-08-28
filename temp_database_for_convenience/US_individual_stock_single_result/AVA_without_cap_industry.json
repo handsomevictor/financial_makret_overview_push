@@ -1,0 +1,13 @@
+{
+    "ticker": "AVA",
+    "close_price": 42.63999938964844,
+    "daily_return": -0.004436199703089505,
+    "return_5_days": -0.04458887812773327,
+    "return_30_days": 0.010666053035958134,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MBINN",
+    "close_price": 23.0,
+    "daily_return": -0.00043460359766900325,
+    "return_5_days": -0.027484128076728842,
+    "return_30_days": 0.012769745804420474,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

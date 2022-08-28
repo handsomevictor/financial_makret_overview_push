@@ -1,0 +1,13 @@
+{
+    "ticker": "VEGI",
+    "close_price": 45.029998779296875,
+    "daily_return": -0.015952787784365263,
+    "return_5_days": 0.03256129669964403,
+    "return_30_days": 0.18906786504775197,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

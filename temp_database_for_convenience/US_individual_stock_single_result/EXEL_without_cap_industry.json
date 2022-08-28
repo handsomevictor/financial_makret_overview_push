@@ -1,0 +1,13 @@
+{
+    "ticker": "EXEL",
+    "close_price": 18.229999542236328,
+    "daily_return": -0.03083465923304307,
+    "return_5_days": -0.056906383125263305,
+    "return_30_days": -0.14573573515061167,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

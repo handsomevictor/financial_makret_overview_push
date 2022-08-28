@@ -1,0 +1,13 @@
+{
+    "ticker": "AZBJ",
+    "close_price": 25.46500015258789,
+    "daily_return": -0.008989687134244195,
+    "return_5_days": -0.010683745958647406,
+    "return_30_days": 0.021296227520820832,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

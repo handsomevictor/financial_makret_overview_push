@@ -1,0 +1,13 @@
+{
+    "ticker": "CAPR",
+    "close_price": 5.710000038146973,
+    "daily_return": 0.014209577634084924,
+    "return_5_days": 0.11089497791195613,
+    "return_30_days": 0.13069303415532518,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AGMH",
+    "close_price": 2.319999933242798,
+    "daily_return": -0.023157922845137735,
+    "return_5_days": 0.1513646711959491,
+    "return_30_days": 0.24064167236735812,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

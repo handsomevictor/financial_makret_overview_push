@@ -1,0 +1,13 @@
+{
+    "ticker": "TXMD",
+    "close_price": 9.130000114440918,
+    "daily_return": -0.038947356374640196,
+    "return_5_days": -0.08608605369176969,
+    "return_30_days": 0.537037041496794,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BPRN",
+    "close_price": 29.5,
+    "daily_return": -0.0006775222714608953,
+    "return_5_days": -0.010067088749702302,
+    "return_30_days": 0.05281939750383713,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

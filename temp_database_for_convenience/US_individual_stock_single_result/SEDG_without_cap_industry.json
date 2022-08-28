@@ -1,0 +1,13 @@
+{
+    "ticker": "SEDG",
+    "close_price": 287.92999267578125,
+    "daily_return": -0.04259492576497914,
+    "return_5_days": -0.041287898148328006,
+    "return_30_days": 0.08305430154351079,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

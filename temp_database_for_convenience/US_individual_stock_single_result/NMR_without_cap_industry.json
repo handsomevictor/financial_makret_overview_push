@@ -1,0 +1,13 @@
+{
+    "ticker": "NMR",
+    "close_price": 3.6600000858306885,
+    "daily_return": -0.029177691154468333,
+    "return_5_days": -0.02399997711181656,
+    "return_30_days": -0.010810800361493733,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "NHS",
+    "close_price": 9.15999984741211,
+    "daily_return": -0.005428902337433983,
+    "return_5_days": -0.00865800061555344,
+    "return_30_days": 0.10761781624968725,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

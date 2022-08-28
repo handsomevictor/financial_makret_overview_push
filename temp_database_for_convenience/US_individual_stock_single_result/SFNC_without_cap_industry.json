@@ -1,0 +1,13 @@
+{
+    "ticker": "SFNC",
+    "close_price": 24.280000686645508,
+    "daily_return": -0.013008117474065717,
+    "return_5_days": -0.02996404232622152,
+    "return_30_days": 0.16227866903035482,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TSQ",
+    "close_price": 8.640000343322754,
+    "daily_return": -0.04635762216793737,
+    "return_5_days": -0.07196563330783712,
+    "return_30_days": 0.08406531628214653,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

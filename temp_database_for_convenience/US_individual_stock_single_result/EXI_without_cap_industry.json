@@ -1,0 +1,13 @@
+{
+    "ticker": "EXI",
+    "close_price": 102.66000366210938,
+    "daily_return": -0.03022857481383079,
+    "return_5_days": -0.03596576465857193,
+    "return_30_days": 0.0703784771375906,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

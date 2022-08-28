@@ -1,0 +1,13 @@
+{
+    "ticker": "PAYO",
+    "close_price": 6.369999885559082,
+    "daily_return": -0.06461087531828535,
+    "return_5_days": 0.0031496033428162207,
+    "return_30_days": 0.14981948184498473,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

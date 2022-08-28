@@ -1,0 +1,13 @@
+{
+    "ticker": "SMCI",
+    "close_price": 69.81999969482422,
+    "daily_return": -0.061180622343958824,
+    "return_5_days": -0.00014323551436634663,
+    "return_30_days": 0.6560721050170966,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

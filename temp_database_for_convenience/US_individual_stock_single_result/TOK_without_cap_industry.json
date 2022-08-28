@@ -1,0 +1,13 @@
+{
+    "ticker": "TOK",
+    "close_price": 83.87999725341797,
+    "daily_return": -0.030064824266766932,
+    "return_5_days": -0.036083653307043106,
+    "return_30_days": 0.049680808526742615,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RUBY",
+    "close_price": 0.6850000023841858,
+    "daily_return": -0.0805369154364508,
+    "return_5_days": -0.025604561086408628,
+    "return_30_days": -0.17964069462612364,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

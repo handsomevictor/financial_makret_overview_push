@@ -1,0 +1,13 @@
+{
+    "ticker": "MC",
+    "close_price": 43.560001373291016,
+    "daily_return": -0.029844100379719518,
+    "return_5_days": -0.05653014726367955,
+    "return_30_days": 0.06686258681869428,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

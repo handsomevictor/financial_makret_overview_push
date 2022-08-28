@@ -1,0 +1,13 @@
+{
+    "ticker": "PZZA",
+    "close_price": 82.02999877929688,
+    "daily_return": -0.046717072979567065,
+    "return_5_days": -0.0711131123645441,
+    "return_30_days": -0.03152300194977442,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

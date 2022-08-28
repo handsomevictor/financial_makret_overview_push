@@ -1,0 +1,13 @@
+{
+    "ticker": "QQD",
+    "close_price": 24.170000076293945,
+    "daily_return": -0.028419854059504313,
+    "return_5_days": -0.03666799803502796,
+    "return_30_days": 0.05096099340041471,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

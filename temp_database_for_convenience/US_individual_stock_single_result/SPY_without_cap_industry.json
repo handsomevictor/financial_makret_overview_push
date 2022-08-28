@@ -1,0 +1,13 @@
+{
+    "ticker": "SPY",
+    "close_price": 405.30999755859375,
+    "daily_return": -0.033849042636585946,
+    "return_5_days": -0.03986832924109307,
+    "return_30_days": 0.05239787193916934,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

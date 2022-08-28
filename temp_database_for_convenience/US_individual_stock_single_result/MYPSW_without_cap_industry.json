@@ -1,0 +1,13 @@
+{
+    "ticker": "MYPSW",
+    "close_price": 0.7599999904632568,
+    "daily_return": 0.6521738623400952,
+    "return_5_days": 0.24590159449260907,
+    "return_30_days": -0.105882389240198,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PARAP",
+    "close_price": 40.099998474121094,
+    "daily_return": -0.02123511644276932,
+    "return_5_days": -0.011828569129493371,
+    "return_30_days": 0.0032523705140801162,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

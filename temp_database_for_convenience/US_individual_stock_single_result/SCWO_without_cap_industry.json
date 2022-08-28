@@ -1,0 +1,13 @@
+{
+    "ticker": "SCWO",
+    "close_price": 3.869999885559082,
+    "daily_return": -0.012755150449418995,
+    "return_5_days": 0.05163038460738578,
+    "return_30_days": 0.9158415455944846,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

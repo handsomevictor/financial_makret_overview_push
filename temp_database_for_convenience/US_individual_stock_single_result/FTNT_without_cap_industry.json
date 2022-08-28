@@ -1,0 +1,13 @@
+{
+    "ticker": "FTNT",
+    "close_price": 49.56999969482422,
+    "daily_return": -0.025555322672627834,
+    "return_5_days": -0.03353482530709839,
+    "return_30_days": -0.17685156609092745,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

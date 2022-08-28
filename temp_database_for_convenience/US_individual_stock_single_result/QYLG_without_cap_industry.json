@@ -1,0 +1,13 @@
+{
+    "ticker": "QYLG",
+    "close_price": 24.950000762939453,
+    "daily_return": -0.03294567826576167,
+    "return_5_days": -0.043328188806452506,
+    "return_30_days": 0.01012145717724433,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

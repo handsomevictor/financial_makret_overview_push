@@ -1,0 +1,13 @@
+{
+    "ticker": "CRMD",
+    "close_price": 3.7300000190734863,
+    "daily_return": -0.023560187367048124,
+    "return_5_days": -0.04603582168949283,
+    "return_30_days": -0.19088939022872808,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

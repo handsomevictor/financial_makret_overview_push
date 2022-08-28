@@ -1,0 +1,13 @@
+{
+    "ticker": "GM",
+    "close_price": 39.22999954223633,
+    "daily_return": -0.028719976849254536,
+    "return_5_days": -0.01183882145266546,
+    "return_30_days": 0.19348952896320926,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PML",
+    "close_price": 11.170000076293945,
+    "daily_return": -0.005342784362254216,
+    "return_5_days": -0.020175399116897474,
+    "return_30_days": -0.00445634487922375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

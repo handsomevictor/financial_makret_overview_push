@@ -1,0 +1,13 @@
+{
+    "ticker": "GLUE",
+    "close_price": 8.609999656677246,
+    "daily_return": -0.03475340997367993,
+    "return_5_days": -0.04333337148030603,
+    "return_30_days": -0.16000003349490277,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

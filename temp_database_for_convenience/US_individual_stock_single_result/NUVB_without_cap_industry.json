@@ -1,0 +1,13 @@
+{
+    "ticker": "NUVB",
+    "close_price": 2.930000066757202,
+    "daily_return": -0.020066870430825556,
+    "return_5_days": 0.035335740546661,
+    "return_30_days": -0.18836560889167953,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

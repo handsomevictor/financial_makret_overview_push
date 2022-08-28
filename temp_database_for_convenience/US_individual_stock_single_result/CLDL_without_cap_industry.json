@@ -1,0 +1,13 @@
+{
+    "ticker": "CLDL",
+    "close_price": 8.229999542236328,
+    "daily_return": -0.07319826169231014,
+    "return_5_days": -0.09391177184557775,
+    "return_30_days": 0.10767156559633229,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

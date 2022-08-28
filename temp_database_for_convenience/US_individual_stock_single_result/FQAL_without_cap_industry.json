@@ -1,0 +1,13 @@
+{
+    "ticker": "FQAL",
+    "close_price": 47.099998474121094,
+    "daily_return": -0.033647992364970514,
+    "return_5_days": -0.04151406066067376,
+    "return_30_days": 0.03767347670118415,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

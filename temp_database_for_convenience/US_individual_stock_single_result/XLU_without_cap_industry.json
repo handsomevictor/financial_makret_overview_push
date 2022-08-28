@@ -1,0 +1,13 @@
+{
+    "ticker": "XLU",
+    "close_price": 75.70999908447266,
+    "daily_return": -0.015346603128399083,
+    "return_5_days": -0.02561129912392568,
+    "return_30_days": 0.08529238483426016,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

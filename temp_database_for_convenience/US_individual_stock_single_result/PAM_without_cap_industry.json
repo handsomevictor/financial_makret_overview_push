@@ -1,0 +1,13 @@
+{
+    "ticker": "PAM",
+    "close_price": 26.1299991607666,
+    "daily_return": -0.013217537293060189,
+    "return_5_days": 0.0788604418481118,
+    "return_30_days": 0.24192005816325168,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "USA",
+    "close_price": 6.590000152587891,
+    "daily_return": -0.029455053076400284,
+    "return_5_days": -0.032305402649072,
+    "return_30_days": 0.00721171890839889,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PCK",
+    "close_price": 7.139999866485596,
+    "daily_return": -0.02857143413221186,
+    "return_5_days": -0.027247994815338017,
+    "return_30_days": 0.005633797519761785,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

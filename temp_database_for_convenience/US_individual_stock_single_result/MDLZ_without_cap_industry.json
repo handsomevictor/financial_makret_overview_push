@@ -1,0 +1,13 @@
+{
+    "ticker": "MDLZ",
+    "close_price": 62.72999954223633,
+    "daily_return": -0.026838342643617175,
+    "return_5_days": -0.04023869405684655,
+    "return_30_days": 0.032762558590363255,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

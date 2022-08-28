@@ -1,0 +1,13 @@
+{
+    "ticker": "WBAT",
+    "close_price": 36.05400085449219,
+    "daily_return": -0.025304157380438563,
+    "return_5_days": -0.009940671904612453,
+    "return_30_days": 0.05211857175728185,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

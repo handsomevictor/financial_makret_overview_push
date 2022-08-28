@@ -1,0 +1,13 @@
+{
+    "ticker": "MCD",
+    "close_price": 256.95001220703125,
+    "daily_return": -0.021366489197618743,
+    "return_5_days": -0.03597957541250085,
+    "return_30_days": 0.007607614375848337,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

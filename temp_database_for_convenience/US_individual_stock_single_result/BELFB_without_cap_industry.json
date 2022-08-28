@@ -1,0 +1,13 @@
+{
+    "ticker": "BELFB",
+    "close_price": 26.700000762939453,
+    "daily_return": -0.04198062580058848,
+    "return_5_days": -0.03400863413408861,
+    "return_30_days": 0.5541327292581943,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TIME",
+    "close_price": 19.79400062561035,
+    "daily_return": -0.030703634292673976,
+    "return_5_days": -0.009309255299670638,
+    "return_30_days": 0.11015147001167547,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

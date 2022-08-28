@@ -1,0 +1,13 @@
+{
+    "ticker": "HUT",
+    "close_price": 2.069999933242798,
+    "daily_return": -0.08407082213372608,
+    "return_5_days": -0.10775862379037238,
+    "return_30_days": 0.3101265044419417,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

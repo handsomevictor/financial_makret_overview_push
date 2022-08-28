@@ -1,0 +1,13 @@
+{
+    "ticker": "ACT",
+    "close_price": 26.15999984741211,
+    "daily_return": -0.011337840039329139,
+    "return_5_days": -0.011337840039329139,
+    "return_30_days": 0.1901729022852603,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

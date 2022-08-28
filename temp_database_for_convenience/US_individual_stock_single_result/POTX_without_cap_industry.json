@@ -1,0 +1,13 @@
+{
+    "ticker": "POTX",
+    "close_price": 17.309999465942383,
+    "daily_return": -0.0379057965713947,
+    "return_5_days": -0.008591043894364936,
+    "return_30_days": 0.037769733167876796,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

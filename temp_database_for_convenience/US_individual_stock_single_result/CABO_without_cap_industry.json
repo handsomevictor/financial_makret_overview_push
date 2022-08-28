@@ -1,0 +1,13 @@
+{
+    "ticker": "CABO",
+    "close_price": 1192.4599609375,
+    "daily_return": -0.03927619140534333,
+    "return_5_days": -0.10484715713433634,
+    "return_30_days": -0.13403488989533352,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

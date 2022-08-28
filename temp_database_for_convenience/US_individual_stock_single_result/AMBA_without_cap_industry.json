@@ -1,0 +1,13 @@
+{
+    "ticker": "AMBA",
+    "close_price": 84.31999969482422,
+    "daily_return": -0.03897878108289232,
+    "return_5_days": -0.022376815132472583,
+    "return_30_days": 0.2356389556628633,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

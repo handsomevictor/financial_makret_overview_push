@@ -1,0 +1,13 @@
+{
+    "ticker": "FRTY",
+    "close_price": 13.46399974822998,
+    "daily_return": -0.03573734431589837,
+    "return_5_days": -0.03241108263452608,
+    "return_30_days": 0.04388277214451697,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

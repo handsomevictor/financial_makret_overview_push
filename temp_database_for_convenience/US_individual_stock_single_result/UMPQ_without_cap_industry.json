@@ -1,0 +1,13 @@
+{
+    "ticker": "UMPQ",
+    "close_price": 18.290000915527344,
+    "daily_return": -0.025053267996815287,
+    "return_5_days": -0.037874766159160744,
+    "return_30_days": 0.07147048872373674,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

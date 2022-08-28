@@ -1,0 +1,13 @@
+{
+    "ticker": "KOCG",
+    "close_price": 21.104000091552734,
+    "daily_return": -0.025984203170704157,
+    "return_5_days": -0.023731344521488285,
+    "return_30_days": 0.0517292986943505,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

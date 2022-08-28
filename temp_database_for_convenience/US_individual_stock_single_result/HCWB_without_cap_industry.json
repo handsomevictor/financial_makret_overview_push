@@ -1,0 +1,13 @@
+{
+    "ticker": "HCWB",
+    "close_price": 2.5999999046325684,
+    "daily_return": 0.035856539645922725,
+    "return_5_days": 0.23222750421724103,
+    "return_30_days": 0.14537441695103603,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

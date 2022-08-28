@@ -1,0 +1,13 @@
+{
+    "ticker": "QQQA",
+    "close_price": 33.42399978637695,
+    "daily_return": -0.03264640000070662,
+    "return_5_days": -0.020369873249277193,
+    "return_30_days": 0.01284847837505887,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

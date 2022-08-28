@@ -1,0 +1,13 @@
+{
+    "ticker": "HON",
+    "close_price": 193.05999755859375,
+    "daily_return": -0.03677091945569899,
+    "return_5_days": -0.04217106619843569,
+    "return_30_days": 0.11724533651059943,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

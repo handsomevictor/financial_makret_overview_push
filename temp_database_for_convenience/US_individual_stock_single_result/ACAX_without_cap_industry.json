@@ -1,0 +1,13 @@
+{
+    "ticker": "ACAX",
+    "close_price": 9.899999618530273,
+    "daily_return": -0.0020161751622832513,
+    "return_5_days": -0.001009104847206177,
+    "return_30_days": 0.0010110490253185667,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

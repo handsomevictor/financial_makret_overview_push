@@ -1,0 +1,13 @@
+{
+    "ticker": "RWO",
+    "close_price": 45.56999969482422,
+    "daily_return": -0.023778933228252086,
+    "return_5_days": -0.0361674942602036,
+    "return_30_days": 0.036624218468653824,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

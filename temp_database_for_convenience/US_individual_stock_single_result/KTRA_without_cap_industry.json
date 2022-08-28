@@ -1,0 +1,13 @@
+{
+    "ticker": "KTRA",
+    "close_price": 0.1589999943971634,
+    "daily_return": -0.04790420069990842,
+    "return_5_days": -0.04790420069990853,
+    "return_30_days": -0.3536585772141504,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

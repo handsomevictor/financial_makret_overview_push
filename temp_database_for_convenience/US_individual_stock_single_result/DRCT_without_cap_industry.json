@@ -1,0 +1,13 @@
+{
+    "ticker": "DRCT",
+    "close_price": 3.130000114440918,
+    "daily_return": -0.018808759154637977,
+    "return_5_days": 0.03986715094945659,
+    "return_30_days": 1.0866667429606123,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "APOG",
+    "close_price": 42.22999954223633,
+    "daily_return": -0.04564972785906607,
+    "return_5_days": -0.057576472929824596,
+    "return_30_days": 0.10810807834953651,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

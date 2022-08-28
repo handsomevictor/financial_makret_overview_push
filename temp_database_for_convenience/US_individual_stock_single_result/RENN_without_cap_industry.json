@@ -1,0 +1,13 @@
+{
+    "ticker": "RENN",
+    "close_price": 28.56999969482422,
+    "daily_return": -0.006951712191769599,
+    "return_5_days": -0.022245025113098005,
+    "return_30_days": 0.0028080001526413767,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

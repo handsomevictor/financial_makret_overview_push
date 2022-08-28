@@ -1,0 +1,13 @@
+{
+    "ticker": "NDP",
+    "close_price": 32.47999954223633,
+    "daily_return": -0.009151898969868788,
+    "return_5_days": 0.016906668727288077,
+    "return_30_days": 0.25502320693561487,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

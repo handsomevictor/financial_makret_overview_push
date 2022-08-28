@@ -1,0 +1,13 @@
+{
+    "ticker": "TRU",
+    "close_price": 77.63999938964844,
+    "daily_return": -0.04230911950274452,
+    "return_5_days": -0.03010622823525866,
+    "return_30_days": -0.06716332742787834,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

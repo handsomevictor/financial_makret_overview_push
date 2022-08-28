@@ -1,0 +1,13 @@
+{
+    "ticker": "ORLY",
+    "close_price": 698.7899780273438,
+    "daily_return": -0.020932289311420327,
+    "return_5_days": -0.051266051716015726,
+    "return_30_days": 0.02281903621451975,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

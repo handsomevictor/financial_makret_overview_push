@@ -1,0 +1,13 @@
+{
+    "ticker": "IHTA",
+    "close_price": 8.550000190734863,
+    "daily_return": -0.0023336645042629778,
+    "return_5_days": -0.019495420996342383,
+    "return_30_days": 0.009802785287667648,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ICMB",
+    "close_price": 4.429999828338623,
+    "daily_return": -0.022722295214061328,
+    "return_5_days": 0.006818120982037268,
+    "return_30_days": 0.020737251748036645,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

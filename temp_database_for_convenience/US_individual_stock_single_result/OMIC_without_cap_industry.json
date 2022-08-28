@@ -1,0 +1,13 @@
+{
+    "ticker": "OMIC",
+    "close_price": 2.799999952316284,
+    "daily_return": -0.08794787843572249,
+    "return_5_days": -0.03780073205152601,
+    "return_30_days": -0.32367148729084927,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

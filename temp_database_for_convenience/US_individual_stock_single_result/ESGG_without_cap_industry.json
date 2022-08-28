@@ -1,0 +1,13 @@
+{
+    "ticker": "ESGG",
+    "close_price": 124.10900115966797,
+    "daily_return": -0.029890626638122586,
+    "return_5_days": -0.03649558642982964,
+    "return_30_days": 0.04104312845100533,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

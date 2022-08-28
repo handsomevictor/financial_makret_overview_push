@@ -1,0 +1,13 @@
+{
+    "ticker": "AZAL",
+    "close_price": 28.356000900268555,
+    "daily_return": -0.018653730713137806,
+    "return_5_days": -0.022510250626090134,
+    "return_30_days": 0.035457391392045956,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

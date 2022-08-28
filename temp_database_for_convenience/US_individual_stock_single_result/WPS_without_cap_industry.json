@@ -1,0 +1,13 @@
+{
+    "ticker": "WPS",
+    "close_price": 29.149999618530273,
+    "daily_return": -0.017526136044035523,
+    "return_5_days": -0.030272783219544852,
+    "return_30_days": 0.01180146334226162,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

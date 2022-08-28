@@ -1,0 +1,13 @@
+{
+    "ticker": "RDIB",
+    "close_price": 21.09000015258789,
+    "daily_return": 0.0033301471598381482,
+    "return_5_days": -0.28989900300256477,
+    "return_30_days": 0.03433059263821403,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

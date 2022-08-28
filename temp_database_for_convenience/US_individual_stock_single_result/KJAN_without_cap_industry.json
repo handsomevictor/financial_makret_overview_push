@@ -1,0 +1,13 @@
+{
+    "ticker": "KJAN",
+    "close_price": 30.280000686645508,
+    "daily_return": -0.014515366397974683,
+    "return_5_days": -0.012393971384793812,
+    "return_30_days": 0.053363959551150586,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

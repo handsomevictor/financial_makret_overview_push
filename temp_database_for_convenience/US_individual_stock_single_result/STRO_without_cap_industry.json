@@ -1,0 +1,13 @@
+{
+    "ticker": "STRO",
+    "close_price": 5.960000038146973,
+    "daily_return": -0.03715670709973551,
+    "return_5_days": -0.096969678141416,
+    "return_30_days": 0.018803441932929932,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

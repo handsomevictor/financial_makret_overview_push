@@ -1,0 +1,13 @@
+{
+    "ticker": "SIO",
+    "close_price": 25.299999237060547,
+    "daily_return": -0.004093847201278922,
+    "return_5_days": -0.006089203972110657,
+    "return_30_days": -1,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MIDD",
+    "close_price": 147.9499969482422,
+    "daily_return": -0.031487285490695016,
+    "return_5_days": -0.04028286563535888,
+    "return_30_days": 0.16030110947825005,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

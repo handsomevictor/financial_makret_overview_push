@@ -1,0 +1,13 @@
+{
+    "ticker": "TCPC",
+    "close_price": 13.8100004196167,
+    "daily_return": -0.005759533601776501,
+    "return_5_days": -0.0036074486507263748,
+    "return_30_days": 0.09777428484660033,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

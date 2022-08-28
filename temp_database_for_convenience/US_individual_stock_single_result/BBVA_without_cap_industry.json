@@ -1,0 +1,13 @@
+{
+    "ticker": "BBVA",
+    "close_price": 4.389999866485596,
+    "daily_return": -0.03090515161999896,
+    "return_5_days": -0.061965806087641906,
+    "return_30_days": 0.06553397777336922,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

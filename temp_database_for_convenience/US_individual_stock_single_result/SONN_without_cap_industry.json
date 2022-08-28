@@ -1,0 +1,13 @@
+{
+    "ticker": "SONN",
+    "close_price": 0.2199999988079071,
+    "daily_return": -0.08333331781129005,
+    "return_5_days": -0.12000000476837158,
+    "return_30_days": -0.26666669978035684,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RVACU",
+    "close_price": 11.75,
+    "daily_return": -0.06000000000000005,
+    "return_5_days": 0.11904761904761885,
+    "return_30_days": 0.10796798747642544,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

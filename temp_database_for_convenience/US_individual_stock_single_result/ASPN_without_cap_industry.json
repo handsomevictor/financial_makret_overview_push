@@ -1,0 +1,13 @@
+{
+    "ticker": "ASPN",
+    "close_price": 13.09000015258789,
+    "daily_return": -0.05962643097391662,
+    "return_5_days": 0.016304350642941667,
+    "return_30_days": 0.36070689275555456,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

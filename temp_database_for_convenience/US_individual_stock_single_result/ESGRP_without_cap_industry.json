@@ -1,0 +1,13 @@
+{
+    "ticker": "ESGRP",
+    "close_price": 24.43000030517578,
+    "daily_return": -0.005697980927445001,
+    "return_5_days": -0.0040766562849782195,
+    "return_30_days": 0.030366986440528265,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

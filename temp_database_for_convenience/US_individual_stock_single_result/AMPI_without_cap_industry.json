@@ -1,0 +1,13 @@
+{
+    "ticker": "AMPI",
+    "close_price": 9.8100004196167,
+    "daily_return": -0.001526655464592741,
+    "return_5_days": -0.004060909675524194,
+    "return_30_days": 0.0020429476855572393,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

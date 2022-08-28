@@ -1,0 +1,13 @@
+{
+    "ticker": "MDV",
+    "close_price": 14.96500015258789,
+    "daily_return": -0.04863314761035764,
+    "return_5_days": -0.06293050079127493,
+    "return_30_days": -0.035138624645477345,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

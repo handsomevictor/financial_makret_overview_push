@@ -1,0 +1,13 @@
+{
+    "ticker": "BLDG",
+    "close_price": 27.257999420166016,
+    "daily_return": -0.01921417675038628,
+    "return_5_days": -0.02923897001409448,
+    "return_30_days": 0.015460231785168865,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

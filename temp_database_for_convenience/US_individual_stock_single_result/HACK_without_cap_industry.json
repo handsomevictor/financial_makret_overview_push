@@ -1,0 +1,13 @@
+{
+    "ticker": "HACK",
+    "close_price": 48.810001373291016,
+    "daily_return": -0.026719842708208263,
+    "return_5_days": -0.02555397834692852,
+    "return_30_days": 0.05058119533204475,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

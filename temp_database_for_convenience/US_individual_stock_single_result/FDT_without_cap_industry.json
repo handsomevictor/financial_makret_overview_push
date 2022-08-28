@@ -1,0 +1,13 @@
+{
+    "ticker": "FDT",
+    "close_price": 48.369998931884766,
+    "daily_return": -0.024405059590216327,
+    "return_5_days": -0.009623284587115588,
+    "return_30_days": 0.05958373088911961,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

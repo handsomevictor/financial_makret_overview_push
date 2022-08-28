@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDT",
+    "close_price": 25.079999923706055,
+    "daily_return": -0.00712590275315883,
+    "return_5_days": -0.007911422369743515,
+    "return_30_days": 0.0007981028806829382,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

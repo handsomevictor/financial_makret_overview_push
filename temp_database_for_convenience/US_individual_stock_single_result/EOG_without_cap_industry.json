@@ -1,0 +1,13 @@
+{
+    "ticker": "EOG",
+    "close_price": 124.56999969482422,
+    "daily_return": -0.005190876214202111,
+    "return_5_days": 0.04901052374588821,
+    "return_30_days": 0.280530440563032,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "YCS",
+    "close_price": 58.61000061035156,
+    "daily_return": 0.014189300602760468,
+    "return_5_days": 0.010168909823042638,
+    "return_30_days": -0.015785031717078346,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FNK",
+    "close_price": 44.36000061035156,
+    "daily_return": -0.028896665630596674,
+    "return_5_days": -0.03144101857416137,
+    "return_30_days": 0.08274345346944667,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IPA",
+    "close_price": 5.980000019073486,
+    "daily_return": -0.02764228839963756,
+    "return_5_days": -0.029220752077492973,
+    "return_30_days": 0.5736842352927893,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

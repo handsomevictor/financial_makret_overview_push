@@ -1,0 +1,13 @@
+{
+    "ticker": "NWL",
+    "close_price": 19.559999465942383,
+    "daily_return": -0.03740158662873494,
+    "return_5_days": -0.06142037798817168,
+    "return_30_days": 0.02947365610223107,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

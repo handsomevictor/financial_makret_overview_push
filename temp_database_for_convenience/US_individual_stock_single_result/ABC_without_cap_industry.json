@@ -1,0 +1,13 @@
+{
+    "ticker": "ABC",
+    "close_price": 146.19000244140625,
+    "daily_return": -0.02812123240945741,
+    "return_5_days": -0.03841344724582041,
+    "return_30_days": 0.02791450700764786,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

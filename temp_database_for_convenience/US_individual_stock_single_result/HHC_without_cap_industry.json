@@ -1,0 +1,13 @@
+{
+    "ticker": "HHC",
+    "close_price": 66.12000274658203,
+    "daily_return": -0.052178888735411544,
+    "return_5_days": -0.04215552780203158,
+    "return_30_days": -0.009141324436755749,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

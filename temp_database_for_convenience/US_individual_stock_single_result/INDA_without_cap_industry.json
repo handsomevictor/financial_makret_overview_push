@@ -1,0 +1,13 @@
+{
+    "ticker": "INDA",
+    "close_price": 42.61000061035156,
+    "daily_return": -0.012743263183619402,
+    "return_5_days": -0.015935303438028958,
+    "return_30_days": 0.059686684419888225,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

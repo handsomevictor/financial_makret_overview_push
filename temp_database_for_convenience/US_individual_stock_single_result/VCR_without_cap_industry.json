@@ -1,0 +1,13 @@
+{
+    "ticker": "VCR",
+    "close_price": 264.1700134277344,
+    "daily_return": -0.038402692727469656,
+    "return_5_days": -0.04679945347176262,
+    "return_30_days": 0.10245396382109351,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

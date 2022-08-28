@@ -1,0 +1,13 @@
+{
+    "ticker": "ARDX",
+    "close_price": 1.0099999904632568,
+    "daily_return": -0.05607482153980292,
+    "return_5_days": -0.009803912402207238,
+    "return_30_days": 0.4449213005511765,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

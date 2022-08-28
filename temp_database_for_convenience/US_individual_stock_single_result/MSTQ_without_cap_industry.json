@@ -1,0 +1,13 @@
+{
+    "ticker": "MSTQ",
+    "close_price": 22.95599937438965,
+    "daily_return": -0.03477280152876594,
+    "return_5_days": -0.04445557717263182,
+    "return_30_days": 0.05061780199591559,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SRLP",
+    "close_price": 18.969999313354492,
+    "daily_return": -0.0005268824616977419,
+    "return_5_days": 0.0005274382576330172,
+    "return_30_days": -0.005243858577348437,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

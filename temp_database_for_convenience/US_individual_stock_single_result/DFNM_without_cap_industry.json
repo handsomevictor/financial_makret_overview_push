@@ -1,0 +1,13 @@
+{
+    "ticker": "DFNM",
+    "close_price": 47.9900016784668,
+    "daily_return": -0.0002082983652750281,
+    "return_5_days": -0.0039435165111150194,
+    "return_30_days": -0.011127078393013634,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

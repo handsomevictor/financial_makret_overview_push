@@ -1,0 +1,13 @@
+{
+    "ticker": "GLPI",
+    "close_price": 50.31999969482422,
+    "daily_return": -0.02386032125005444,
+    "return_5_days": -0.03712205681242098,
+    "return_30_days": 0.009833390442786305,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

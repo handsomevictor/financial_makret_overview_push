@@ -1,0 +1,13 @@
+{
+    "ticker": "AKR",
+    "close_price": 16.600000381469727,
+    "daily_return": -0.020070846627444072,
+    "return_5_days": -0.03432228820580652,
+    "return_30_days": 0.037500023841857466,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

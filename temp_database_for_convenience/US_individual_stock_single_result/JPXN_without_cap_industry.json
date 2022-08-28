@@ -1,0 +1,13 @@
+{
+    "ticker": "JPXN",
+    "close_price": 57.810001373291016,
+    "daily_return": -0.022819446883080907,
+    "return_5_days": -0.018839050070428187,
+    "return_30_days": 0.03453830115040968,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

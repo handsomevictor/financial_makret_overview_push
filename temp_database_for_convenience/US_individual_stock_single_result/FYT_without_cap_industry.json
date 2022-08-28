@@ -1,0 +1,13 @@
+{
+    "ticker": "FYT",
+    "close_price": 47.880001068115234,
+    "daily_return": -0.03116141557847707,
+    "return_5_days": -0.0373944621549297,
+    "return_30_days": 0.07523023536160167,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

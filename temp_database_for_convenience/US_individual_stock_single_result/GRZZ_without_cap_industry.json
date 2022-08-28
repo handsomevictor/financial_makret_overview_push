@@ -1,0 +1,13 @@
+{
+    "ticker": "GRZZ",
+    "close_price": 23.864999771118164,
+    "daily_return": -0.022046474183614495,
+    "return_5_days": -0.0029662871997118145,
+    "return_30_days": 0.13416024991869158,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "VTNR",
+    "close_price": 8.75,
+    "daily_return": 0.03183967834183021,
+    "return_5_days": 0.17449667436476002,
+    "return_30_days": -0.1760828536450244,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

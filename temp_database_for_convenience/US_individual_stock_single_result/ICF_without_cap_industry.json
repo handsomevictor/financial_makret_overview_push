@@ -1,0 +1,13 @@
+{
+    "ticker": "ICF",
+    "close_price": 63.650001525878906,
+    "daily_return": -0.023922674137334954,
+    "return_5_days": -0.037938361506893004,
+    "return_30_days": 0.04567114576599618,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

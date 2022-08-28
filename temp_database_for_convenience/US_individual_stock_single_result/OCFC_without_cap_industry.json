@@ -1,0 +1,13 @@
+{
+    "ticker": "OCFC",
+    "close_price": 19.940000534057617,
+    "daily_return": -0.022548975150706307,
+    "return_5_days": -0.05631796847955073,
+    "return_30_days": 0.04863440241658412,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

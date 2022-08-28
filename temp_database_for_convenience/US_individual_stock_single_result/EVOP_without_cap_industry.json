@@ -1,0 +1,13 @@
+{
+    "ticker": "EVOP",
+    "close_price": 33.279998779296875,
+    "daily_return": -0.00329441786050666,
+    "return_5_days": -0.0056767981618335295,
+    "return_30_days": 0.2824661965646551,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

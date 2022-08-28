@@ -1,0 +1,13 @@
+{
+    "ticker": "FAZE",
+    "close_price": 16.760000228881836,
+    "daily_return": -0.03511805301550486,
+    "return_5_days": 0.023824029911699185,
+    "return_30_days": 0.6536753675762776,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

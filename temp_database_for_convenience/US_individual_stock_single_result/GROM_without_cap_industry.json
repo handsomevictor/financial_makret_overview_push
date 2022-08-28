@@ -1,0 +1,13 @@
+{
+    "ticker": "GROM",
+    "close_price": 0.4099999964237213,
+    "daily_return": -0.028436006573460237,
+    "return_5_days": -0.17835674179280492,
+    "return_30_days": 0.03797464629737046,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BRD",
+    "close_price": 9.930000305175781,
+    "daily_return": -0.0020100004495208212,
+    "return_5_days": -0.0041118657804986025,
+    "return_30_days": -1.1102230246251565e-16,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

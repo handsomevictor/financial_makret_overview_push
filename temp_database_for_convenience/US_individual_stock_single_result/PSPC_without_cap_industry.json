@@ -1,0 +1,13 @@
+{
+    "ticker": "PSPC",
+    "close_price": 9.710000038146973,
+    "daily_return": 0.001030951451389095,
+    "return_5_days": -0.0030800547922136268,
+    "return_30_days": -2.220446049250313e-16,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

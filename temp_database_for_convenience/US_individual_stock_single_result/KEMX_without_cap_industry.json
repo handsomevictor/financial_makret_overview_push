@@ -1,0 +1,13 @@
+{
+    "ticker": "KEMX",
+    "close_price": 25.229000091552734,
+    "daily_return": -0.01798294708119086,
+    "return_5_days": -0.01271819488423942,
+    "return_30_days": 0.05892966563078739,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

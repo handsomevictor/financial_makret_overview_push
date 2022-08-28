@@ -1,0 +1,13 @@
+{
+    "ticker": "CHT",
+    "close_price": 40.36000061035156,
+    "daily_return": -0.005176216072277806,
+    "return_5_days": -0.0024715392086963606,
+    "return_30_days": -0.01919807742973012,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

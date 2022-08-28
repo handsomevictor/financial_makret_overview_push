@@ -1,0 +1,13 @@
+{
+    "ticker": "SYNA",
+    "close_price": 123.70999908447266,
+    "daily_return": -0.07630847569781651,
+    "return_5_days": -0.08653912888680582,
+    "return_30_days": -0.0006462705425557269,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "INSW",
+    "close_price": 29.68000030517578,
+    "daily_return": -0.007025730637698957,
+    "return_5_days": -0.005028482028626158,
+    "return_30_days": 0.46062995821479635,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

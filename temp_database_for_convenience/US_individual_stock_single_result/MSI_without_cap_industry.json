@@ -1,0 +1,13 @@
+{
+    "ticker": "MSI",
+    "close_price": 248.32000732421875,
+    "daily_return": -0.023822617510308897,
+    "return_5_days": -0.019466900990251723,
+    "return_30_days": 0.15486932559801292,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

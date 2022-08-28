@@ -1,0 +1,13 @@
+{
+    "ticker": "MIN",
+    "close_price": 2.9100000858306885,
+    "daily_return": -0.0034246541787590346,
+    "return_5_days": -0.016891875564834513,
+    "return_30_days": -0.010204071702683115,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

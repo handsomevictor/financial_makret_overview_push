@@ -1,0 +1,13 @@
+{
+    "ticker": "FIGS",
+    "close_price": 11.649999618530273,
+    "daily_return": -0.021830414123668596,
+    "return_5_days": 0.07870364933184071,
+    "return_30_days": 0.16499996185302757,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

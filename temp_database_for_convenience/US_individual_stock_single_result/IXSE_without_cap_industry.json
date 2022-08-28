@@ -1,0 +1,13 @@
+{
+    "ticker": "IXSE",
+    "close_price": 32.5099983215332,
+    "daily_return": -0.015236487423389455,
+    "return_5_days": -0.0144901375016393,
+    "return_30_days": 0.05778613627967211,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

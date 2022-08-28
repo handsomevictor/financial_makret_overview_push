@@ -1,0 +1,13 @@
+{
+    "ticker": "PFRL",
+    "close_price": 50.11000061035156,
+    "daily_return": -0.0028852940937587057,
+    "return_5_days": -0.00516176944702329,
+    "return_30_days": 0.02568828328470829,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

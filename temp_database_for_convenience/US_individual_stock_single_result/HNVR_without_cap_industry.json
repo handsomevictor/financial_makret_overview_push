@@ -1,0 +1,13 @@
+{
+    "ticker": "HNVR",
+    "close_price": 20.106000900268555,
+    "daily_return": 0.003293412261776485,
+    "return_5_days": -0.010531436898110313,
+    "return_30_days": 0.03319639497369575,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

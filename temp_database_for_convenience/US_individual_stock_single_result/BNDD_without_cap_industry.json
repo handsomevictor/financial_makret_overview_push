@@ -1,0 +1,13 @@
+{
+    "ticker": "BNDD",
+    "close_price": 22.597999572753906,
+    "daily_return": 0.013817794731987076,
+    "return_5_days": 0.007939317388681477,
+    "return_30_days": -0.011461112449796418,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

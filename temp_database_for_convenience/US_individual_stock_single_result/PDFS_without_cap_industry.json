@@ -1,0 +1,13 @@
+{
+    "ticker": "PDFS",
+    "close_price": 27.079999923706055,
+    "daily_return": -0.03732667146769775,
+    "return_5_days": 0.0014792532109619838,
+    "return_30_days": 0.19611310308107632,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

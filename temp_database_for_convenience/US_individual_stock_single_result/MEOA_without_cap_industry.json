@@ -1,0 +1,13 @@
+{
+    "ticker": "MEOA",
+    "close_price": 10.137999534606934,
+    "daily_return": 0.00029593543733241745,
+    "return_5_days": -0.0011822743225951005,
+    "return_30_days": 0.0027695231335833626,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

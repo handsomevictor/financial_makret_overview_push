@@ -1,0 +1,13 @@
+{
+    "ticker": "ROMO",
+    "close_price": 25.510000228881836,
+    "daily_return": -0.004565519808864771,
+    "return_5_days": -0.006426446468615454,
+    "return_30_days": -0.003515630908077938,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

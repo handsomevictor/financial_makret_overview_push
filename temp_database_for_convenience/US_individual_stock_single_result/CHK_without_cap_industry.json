@@ -1,0 +1,13 @@
+{
+    "ticker": "CHK",
+    "close_price": 103.66000366210938,
+    "daily_return": -0.0013487416717957723,
+    "return_5_days": 0.07609261592157135,
+    "return_30_days": 0.24621307143298088,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

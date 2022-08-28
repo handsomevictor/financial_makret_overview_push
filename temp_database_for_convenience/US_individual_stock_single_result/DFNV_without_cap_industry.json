@@ -1,0 +1,13 @@
+{
+    "ticker": "DFNV",
+    "close_price": 23.527000427246094,
+    "daily_return": -0.03288524060097442,
+    "return_5_days": -0.03998855606384644,
+    "return_30_days": 0.044530289998452766,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

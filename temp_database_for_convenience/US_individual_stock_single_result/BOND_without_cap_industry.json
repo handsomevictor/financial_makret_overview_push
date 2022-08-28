@@ -1,0 +1,13 @@
+{
+    "ticker": "BOND",
+    "close_price": 95.16000366210938,
+    "daily_return": -0.0033514839083945702,
+    "return_5_days": -0.006680577967233314,
+    "return_30_days": -0.0009448434424212948,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

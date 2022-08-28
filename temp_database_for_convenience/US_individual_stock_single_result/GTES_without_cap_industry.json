@@ -1,0 +1,13 @@
+{
+    "ticker": "GTES",
+    "close_price": 11.229999542236328,
+    "daily_return": -0.04180893460992241,
+    "return_5_days": -0.06650043295863617,
+    "return_30_days": 0.030275223417901787,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

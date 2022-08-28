@@ -1,0 +1,13 @@
+{
+    "ticker": "QDIV",
+    "close_price": 31.433000564575195,
+    "daily_return": -0.027534611445082513,
+    "return_5_days": -0.03265214912186498,
+    "return_30_days": 0.049235608934320885,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

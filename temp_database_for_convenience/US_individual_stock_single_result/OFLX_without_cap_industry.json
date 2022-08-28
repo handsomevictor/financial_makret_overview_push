@@ -1,0 +1,13 @@
+{
+    "ticker": "OFLX",
+    "close_price": 104.41000366210938,
+    "daily_return": -0.05297048832553852,
+    "return_5_days": -0.11178221223748352,
+    "return_30_days": -0.07976375370517519,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

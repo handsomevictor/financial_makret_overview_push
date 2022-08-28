@@ -1,0 +1,13 @@
+{
+    "ticker": "PSNL",
+    "close_price": 3.5299999713897705,
+    "daily_return": -0.06366048030529725,
+    "return_5_days": -0.13691935459801574,
+    "return_30_days": -0.12839510984090563,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

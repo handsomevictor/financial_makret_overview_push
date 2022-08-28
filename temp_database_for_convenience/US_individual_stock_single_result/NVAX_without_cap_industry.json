@@ -1,0 +1,13 @@
+{
+    "ticker": "NVAX",
+    "close_price": 35.20000076293945,
+    "daily_return": -0.05503353656538379,
+    "return_5_days": -0.028161248575017894,
+    "return_30_days": -0.35329780331468685,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

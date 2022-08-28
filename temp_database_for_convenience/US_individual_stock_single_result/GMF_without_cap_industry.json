@@ -1,0 +1,13 @@
+{
+    "ticker": "GMF",
+    "close_price": 101.27999877929688,
+    "daily_return": -0.012095180495242386,
+    "return_5_days": 0.005360342733554013,
+    "return_30_days": 0.022926942673357598,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

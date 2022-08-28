@@ -1,0 +1,13 @@
+{
+    "ticker": "CNF",
+    "close_price": 2.690000057220459,
+    "daily_return": 0.026717623938536716,
+    "return_5_days": 0.1255229870913801,
+    "return_30_days": 0.11618255660487153,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

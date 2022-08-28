@@ -1,0 +1,13 @@
+{
+    "ticker": "DFUS",
+    "close_price": 43.959999084472656,
+    "daily_return": -0.03278331470748319,
+    "return_5_days": -0.03849523379788322,
+    "return_30_days": 0.05723898866306443,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

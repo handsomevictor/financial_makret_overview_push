@@ -1,0 +1,13 @@
+{
+    "ticker": "ABEV",
+    "close_price": 3.0299999713897705,
+    "daily_return": -0.003289470588401344,
+    "return_5_days": 0.013377913620550297,
+    "return_30_days": 0.14339617447057162,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SBAC",
+    "close_price": 330.2799987792969,
+    "daily_return": -0.025579032646379507,
+    "return_5_days": -0.04124935951088249,
+    "return_30_days": 0.029711609600301836,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

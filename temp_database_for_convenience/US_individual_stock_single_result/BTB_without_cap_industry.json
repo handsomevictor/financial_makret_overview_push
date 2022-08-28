@@ -1,0 +1,13 @@
+{
+    "ticker": "BTB",
+    "close_price": 0.18799999356269836,
+    "daily_return": -0.060000046193599,
+    "return_5_days": -0.37748343651976757,
+    "return_30_days": -0.4268293037505314,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

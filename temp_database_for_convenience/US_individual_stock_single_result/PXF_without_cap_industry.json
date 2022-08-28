@@ -1,0 +1,13 @@
+{
+    "ticker": "PXF",
+    "close_price": 39.619998931884766,
+    "daily_return": -0.022693684333149666,
+    "return_5_days": -0.025098436837660998,
+    "return_30_days": 0.03177076451894534,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

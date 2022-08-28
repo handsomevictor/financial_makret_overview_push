@@ -1,0 +1,13 @@
+{
+    "ticker": "IHD",
+    "close_price": 5.710000038146973,
+    "daily_return": -0.005226434523942003,
+    "return_5_days": 0.025134625165341484,
+    "return_30_days": 0.0306859345603836,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

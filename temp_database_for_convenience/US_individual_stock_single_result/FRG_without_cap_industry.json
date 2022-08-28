@@ -1,0 +1,13 @@
+{
+    "ticker": "FRG",
+    "close_price": 36.5099983215332,
+    "daily_return": -0.02379687615065651,
+    "return_5_days": 0.0030218898638254554,
+    "return_30_days": 0.14992120697742362,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

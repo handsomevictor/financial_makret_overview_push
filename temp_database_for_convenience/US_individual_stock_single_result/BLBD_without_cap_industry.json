@@ -1,0 +1,13 @@
+{
+    "ticker": "BLBD",
+    "close_price": 11.920000076293945,
+    "daily_return": -0.03481783740031019,
+    "return_5_days": 0.005907147052389705,
+    "return_30_days": 0.3716916745545089,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

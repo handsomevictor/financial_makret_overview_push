@@ -1,0 +1,13 @@
+{
+    "ticker": "HIG",
+    "close_price": 66.19999694824219,
+    "daily_return": -0.021867661794623405,
+    "return_5_days": -0.03793054356860104,
+    "return_30_days": 0.05096039346309045,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

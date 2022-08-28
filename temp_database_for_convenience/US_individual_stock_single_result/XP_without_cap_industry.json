@@ -1,0 +1,13 @@
+{
+    "ticker": "XP",
+    "close_price": 21.31999969482422,
+    "daily_return": -0.036166415644535044,
+    "return_5_days": 0.04612367874220524,
+    "return_30_days": 0.2162007335838816,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

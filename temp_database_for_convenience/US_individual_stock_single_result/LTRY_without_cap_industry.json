@@ -1,0 +1,13 @@
+{
+    "ticker": "LTRY",
+    "close_price": 0.38999998569488525,
+    "daily_return": -0.14660832280415736,
+    "return_5_days": -0.18750001164153263,
+    "return_30_days": -0.596273315303443,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

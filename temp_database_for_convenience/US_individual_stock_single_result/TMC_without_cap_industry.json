@@ -1,0 +1,13 @@
+{
+    "ticker": "TMC",
+    "close_price": 0.8080000281333923,
+    "daily_return": -0.025331686548302867,
+    "return_5_days": -0.08700560808996027,
+    "return_30_days": -0.08286033562489858,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "OPTN",
+    "close_price": 3.6700000762939453,
+    "daily_return": -0.03166223925248035,
+    "return_5_days": 0.05157595021929384,
+    "return_30_days": 0.022284168255515713,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PSCC",
+    "close_price": 105.4800033569336,
+    "daily_return": -0.019520342427758686,
+    "return_5_days": -0.022699869742562107,
+    "return_30_days": 0.04913469660256653,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

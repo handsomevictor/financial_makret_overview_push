@@ -1,0 +1,13 @@
+{
+    "ticker": "AIZ",
+    "close_price": 161.5500030517578,
+    "daily_return": -0.025456965144110777,
+    "return_5_days": -0.05993600631910101,
+    "return_30_days": -0.031939127966813974,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

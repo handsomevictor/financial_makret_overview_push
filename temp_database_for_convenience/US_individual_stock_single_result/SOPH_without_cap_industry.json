@@ -1,0 +1,13 @@
+{
+    "ticker": "SOPH",
+    "close_price": 3.690000057220459,
+    "daily_return": -0.07052895953952665,
+    "return_5_days": -0.09336611754632962,
+    "return_30_days": 0.19032263572208752,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

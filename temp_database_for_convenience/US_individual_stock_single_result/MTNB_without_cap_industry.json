@@ -1,0 +1,13 @@
+{
+    "ticker": "MTNB",
+    "close_price": 0.7260000109672546,
+    "daily_return": -0.020242895765793856,
+    "return_5_days": -0.05591675316057687,
+    "return_30_days": -0.10810810612907029,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

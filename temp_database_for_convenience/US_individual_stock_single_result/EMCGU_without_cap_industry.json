@@ -1,0 +1,13 @@
+{
+    "ticker": "EMCGU",
+    "close_price": 10.055000305175781,
+    "daily_return": -0.0014895124233367252,
+    "return_5_days": -0.0014895124233368362,
+    "return_30_days": -1,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

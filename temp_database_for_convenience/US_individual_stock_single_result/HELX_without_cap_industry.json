@@ -1,0 +1,13 @@
+{
+    "ticker": "HELX",
+    "close_price": 33.11000061035156,
+    "daily_return": -0.039064331939762886,
+    "return_5_days": -0.040039444306870564,
+    "return_30_days": 0.014399547472178309,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

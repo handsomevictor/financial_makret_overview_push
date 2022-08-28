@@ -1,0 +1,13 @@
+{
+    "ticker": "BA",
+    "close_price": 164.52999877929688,
+    "daily_return": -0.028633876276430326,
+    "return_5_days": 0.00988215460622599,
+    "return_30_days": 0.11364554394110726,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

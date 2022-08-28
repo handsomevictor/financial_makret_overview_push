@@ -1,0 +1,13 @@
+{
+    "ticker": "MANT",
+    "close_price": 95.88999938964844,
+    "daily_return": -0.0005211908535061038,
+    "return_5_days": 0.0014621346177381422,
+    "return_30_days": 0.003138435644430615,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

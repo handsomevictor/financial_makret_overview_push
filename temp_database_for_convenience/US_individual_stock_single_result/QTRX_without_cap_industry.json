@@ -1,0 +1,13 @@
+{
+    "ticker": "QTRX",
+    "close_price": 9.479999542236328,
+    "daily_return": -0.05671648136126617,
+    "return_5_days": 0.02708559180918746,
+    "return_30_days": -0.4733333587646482,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

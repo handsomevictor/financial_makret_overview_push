@@ -1,0 +1,13 @@
+{
+    "ticker": "BKTI",
+    "close_price": 2.299999952316284,
+    "daily_return": -0.06882594102219408,
+    "return_5_days": -0.08000001907348642,
+    "return_30_days": -0.0800000190734862,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

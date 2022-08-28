@@ -1,0 +1,13 @@
+{
+    "ticker": "SEM",
+    "close_price": 26.5,
+    "daily_return": -0.0436665147762737,
+    "return_5_days": -0.007118790942516662,
+    "return_30_days": 0.0037878932922232877,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

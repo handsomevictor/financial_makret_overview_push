@@ -1,0 +1,13 @@
+{
+    "ticker": "FOSL",
+    "close_price": 4.400000095367432,
+    "daily_return": -0.049676028809614636,
+    "return_5_days": -0.10569105139490365,
+    "return_30_days": -0.2439862602080628,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

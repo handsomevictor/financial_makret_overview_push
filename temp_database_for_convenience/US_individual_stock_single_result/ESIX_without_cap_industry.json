@@ -1,0 +1,13 @@
+{
+    "ticker": "ESIX",
+    "close_price": 26.788999557495117,
+    "daily_return": -0.029243408256920067,
+    "return_5_days": -0.032992801743279454,
+    "return_30_days": 0.0774211394889055,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

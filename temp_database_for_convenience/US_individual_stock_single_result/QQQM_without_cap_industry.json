@@ -1,0 +1,13 @@
+{
+    "ticker": "QQQM",
+    "close_price": 126.52999877929688,
+    "daily_return": -0.04071262597177894,
+    "return_5_days": -0.04735738742708928,
+    "return_30_days": 0.054328776993647576,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

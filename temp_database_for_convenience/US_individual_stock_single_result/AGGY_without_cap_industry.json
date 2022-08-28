@@ -1,0 +1,13 @@
+{
+    "ticker": "AGGY",
+    "close_price": 44.86000061035156,
+    "daily_return": -0.0006682731054746816,
+    "return_5_days": -0.00861877104195452,
+    "return_30_days": -0.004659398400146619,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

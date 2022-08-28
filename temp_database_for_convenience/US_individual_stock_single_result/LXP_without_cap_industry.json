@@ -1,0 +1,13 @@
+{
+    "ticker": "LXP",
+    "close_price": 10.420000076293945,
+    "daily_return": -0.027077494007479275,
+    "return_5_days": -0.05530368734768143,
+    "return_30_days": 0.00676325528929822,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

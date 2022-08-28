@@ -1,0 +1,13 @@
+{
+    "ticker": "JHMH",
+    "close_price": 45.61000061035156,
+    "daily_return": -0.02965707086868763,
+    "return_5_days": -0.042892490600142,
+    "return_30_days": -0.017110566540590177,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

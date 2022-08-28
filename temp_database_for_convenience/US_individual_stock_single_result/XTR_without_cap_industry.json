@@ -1,0 +1,13 @@
+{
+    "ticker": "XTR",
+    "close_price": 24.604999542236328,
+    "daily_return": -0.03122297631840265,
+    "return_5_days": -0.03905487279351294,
+    "return_30_days": 0.04885118403755939,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SQZ",
+    "close_price": 3.069999933242798,
+    "daily_return": -0.049535629995625774,
+    "return_5_days": 0.006557370898095938,
+    "return_30_days": -0.06686931038331057,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

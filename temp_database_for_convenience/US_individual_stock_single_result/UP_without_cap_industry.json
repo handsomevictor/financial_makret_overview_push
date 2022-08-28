@@ -1,0 +1,13 @@
+{
+    "ticker": "UP",
+    "close_price": 2.0299999713897705,
+    "daily_return": -0.028708107772046687,
+    "return_5_days": -0.11739129848876817,
+    "return_30_days": -0.009756088483765857,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

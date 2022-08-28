@@ -1,0 +1,13 @@
+{
+    "ticker": "HISF",
+    "close_price": 45.560001373291016,
+    "daily_return": -0.0033905453085315562,
+    "return_5_days": -0.0074074104855136325,
+    "return_30_days": 0.007296083006733678,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PLTM",
+    "close_price": 8.475000381469727,
+    "daily_return": -0.021362525312014435,
+    "return_5_days": -0.031428527832031206,
+    "return_30_days": 0.026029073441926176,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

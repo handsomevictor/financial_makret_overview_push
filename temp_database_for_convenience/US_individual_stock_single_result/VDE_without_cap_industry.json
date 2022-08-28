@@ -1,0 +1,13 @@
+{
+    "ticker": "VDE",
+    "close_price": 116.83000183105469,
+    "daily_return": -0.010753570359653297,
+    "return_5_days": 0.041729828279100545,
+    "return_30_days": 0.2227106028219581,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

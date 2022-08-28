@@ -1,0 +1,13 @@
+{
+    "ticker": "FAB",
+    "close_price": 70.2300033569336,
+    "daily_return": -0.031844465528525934,
+    "return_5_days": -0.03397515398889317,
+    "return_30_days": 0.06344643221258739,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

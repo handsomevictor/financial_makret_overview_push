@@ -1,0 +1,13 @@
+{
+    "ticker": "EUSC",
+    "close_price": 30.777999877929688,
+    "daily_return": -0.025179744637715218,
+    "return_5_days": -0.03408236353200211,
+    "return_30_days": 0.010838147799598907,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

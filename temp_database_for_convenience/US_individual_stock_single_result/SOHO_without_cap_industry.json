@@ -1,0 +1,13 @@
+{
+    "ticker": "SOHO",
+    "close_price": 2.799999952316284,
+    "daily_return": -0.05084748913316417,
+    "return_5_days": -0.04436863873003116,
+    "return_30_days": 0.42857137643908794,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "WEX",
+    "close_price": 160.4199981689453,
+    "daily_return": -0.04014842648136152,
+    "return_5_days": -0.0377879258974928,
+    "return_30_days": 0.008486771751854416,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SPSM",
+    "close_price": 39.20000076293945,
+    "daily_return": -0.032098746594087624,
+    "return_5_days": -0.03376876860217359,
+    "return_30_days": 0.07988985087685996,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

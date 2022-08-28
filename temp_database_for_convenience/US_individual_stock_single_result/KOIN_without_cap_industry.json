@@ -1,0 +1,13 @@
+{
+    "ticker": "KOIN",
+    "close_price": 33.89099884033203,
+    "daily_return": -0.028382261510338402,
+    "return_5_days": -0.028772076350790265,
+    "return_30_days": 0.03765958080492804,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

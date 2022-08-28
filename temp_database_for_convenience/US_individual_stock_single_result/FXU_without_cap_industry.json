@@ -1,0 +1,13 @@
+{
+    "ticker": "FXU",
+    "close_price": 35.189998626708984,
+    "daily_return": -0.01648966385458006,
+    "return_5_days": -0.02086811431992175,
+    "return_30_days": 0.09762935493900438,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

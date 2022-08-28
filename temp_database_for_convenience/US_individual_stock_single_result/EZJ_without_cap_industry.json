@@ -1,0 +1,13 @@
+{
+    "ticker": "EZJ",
+    "close_price": 29.420000076293945,
+    "daily_return": -0.042317684443938686,
+    "return_5_days": -0.04325203003922151,
+    "return_30_days": 0.060562376317137456,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

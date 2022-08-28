@@ -1,0 +1,13 @@
+{
+    "ticker": "WLY",
+    "close_price": 49.86000061035156,
+    "daily_return": -0.039121194896406974,
+    "return_5_days": -0.05835694255080415,
+    "return_30_days": 0.0846203890874937,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

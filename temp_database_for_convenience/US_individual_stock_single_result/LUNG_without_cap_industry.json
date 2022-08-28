@@ -1,0 +1,13 @@
+{
+    "ticker": "LUNG",
+    "close_price": 19.190000534057617,
+    "daily_return": -0.07873256820236463,
+    "return_5_days": -0.02786217038691452,
+    "return_30_days": 0.20238098296932527,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

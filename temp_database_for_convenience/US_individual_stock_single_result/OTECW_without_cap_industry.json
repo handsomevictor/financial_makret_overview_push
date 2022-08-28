@@ -1,0 +1,13 @@
+{
+    "ticker": "OTECW",
+    "close_price": 0.0949999988079071,
+    "daily_return": -0.05000002607703169,
+    "return_5_days": -0.12844035693886935,
+    "return_30_days": 0.1445783424540117,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

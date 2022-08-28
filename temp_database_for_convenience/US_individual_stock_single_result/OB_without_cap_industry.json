@@ -1,0 +1,13 @@
+{
+    "ticker": "OB",
+    "close_price": 4.75,
+    "daily_return": -0.012474000726259704,
+    "return_5_days": 0.03485835339719978,
+    "return_30_days": -0.1171003905278517,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

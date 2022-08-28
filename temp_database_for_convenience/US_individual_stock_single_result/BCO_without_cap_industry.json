@@ -1,0 +1,13 @@
+{
+    "ticker": "BCO",
+    "close_price": 56.22999954223633,
+    "daily_return": -0.024631430113755348,
+    "return_5_days": -0.029680779949240566,
+    "return_30_days": -0.002129528573809769,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

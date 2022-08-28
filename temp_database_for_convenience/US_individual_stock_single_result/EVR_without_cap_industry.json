@@ -1,0 +1,13 @@
+{
+    "ticker": "EVR",
+    "close_price": 96.2699966430664,
+    "daily_return": -0.03720373337512628,
+    "return_5_days": -0.05292675653765544,
+    "return_30_days": 0.0769660733906965,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

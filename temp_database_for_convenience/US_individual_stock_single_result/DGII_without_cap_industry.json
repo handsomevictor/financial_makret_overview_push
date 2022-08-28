@@ -1,0 +1,13 @@
+{
+    "ticker": "DGII",
+    "close_price": 33.040000915527344,
+    "daily_return": -0.04701463338633782,
+    "return_5_days": -0.04065034166685233,
+    "return_30_days": 0.3295774812206753,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

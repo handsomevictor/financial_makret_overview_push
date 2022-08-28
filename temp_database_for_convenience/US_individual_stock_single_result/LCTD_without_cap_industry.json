@@ -1,0 +1,13 @@
+{
+    "ticker": "LCTD",
+    "close_price": 38.237998962402344,
+    "daily_return": -0.02384361027023374,
+    "return_5_days": -0.028925514151493692,
+    "return_30_days": 0.026606096346219354,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EBND",
+    "close_price": 20.399999618530273,
+    "daily_return": -0.0053632671440276836,
+    "return_5_days": -0.0019569919022601745,
+    "return_30_days": 0.023582504072136246,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

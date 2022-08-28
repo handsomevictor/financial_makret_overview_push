@@ -1,0 +1,13 @@
+{
+    "ticker": "NECB",
+    "close_price": 12.859999656677246,
+    "daily_return": -0.005413816461436127,
+    "return_5_days": -0.007716078794396841,
+    "return_30_days": 0.07435249538798483,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

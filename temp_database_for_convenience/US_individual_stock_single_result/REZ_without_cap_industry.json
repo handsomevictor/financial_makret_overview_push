@@ -1,0 +1,13 @@
+{
+    "ticker": "REZ",
+    "close_price": 84.1500015258789,
+    "daily_return": -0.019916131753049293,
+    "return_5_days": -0.034312576138538886,
+    "return_30_days": 0.05253289228210578,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

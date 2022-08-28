@@ -1,0 +1,13 @@
+{
+    "ticker": "FNKO",
+    "close_price": 22.600000381469727,
+    "daily_return": -0.033361796719213355,
+    "return_5_days": 0.02867551605849572,
+    "return_30_days": -0.03706855378516116,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

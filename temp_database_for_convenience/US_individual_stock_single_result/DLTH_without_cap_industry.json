@@ -1,0 +1,13 @@
+{
+    "ticker": "DLTH",
+    "close_price": 8.989999771118164,
+    "daily_return": -0.06158665524912099,
+    "return_5_days": -0.08358823786172409,
+    "return_30_days": -0.07415038766222382,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

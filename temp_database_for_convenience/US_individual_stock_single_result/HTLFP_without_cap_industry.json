@@ -1,0 +1,13 @@
+{
+    "ticker": "HTLFP",
+    "close_price": 26.0,
+    "daily_return": -0.00573612316322869,
+    "return_5_days": -0.005736123163228912,
+    "return_30_days": -0.009523809523809823,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

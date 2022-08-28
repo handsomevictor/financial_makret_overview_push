@@ -1,0 +1,13 @@
+{
+    "ticker": "CENTA",
+    "close_price": 40.09000015258789,
+    "daily_return": -0.023148166221897526,
+    "return_5_days": -0.0285922047997893,
+    "return_30_days": -0.027649755088660855,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

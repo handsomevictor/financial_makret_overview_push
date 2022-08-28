@@ -1,0 +1,13 @@
+{
+    "ticker": "DZZ",
+    "close_price": 2.9800000190734863,
+    "daily_return": 0.024054959167747025,
+    "return_5_days": 0.017064829753270727,
+    "return_30_days": -0.01973682353040862,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

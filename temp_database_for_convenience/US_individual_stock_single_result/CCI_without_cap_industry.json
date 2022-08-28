@@ -1,0 +1,13 @@
+{
+    "ticker": "CCI",
+    "close_price": 173.41000366210938,
+    "daily_return": -0.022601705265589578,
+    "return_5_days": -0.03735980765150271,
+    "return_30_days": 5.772644738932797e-05,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

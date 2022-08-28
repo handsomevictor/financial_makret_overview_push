@@ -1,0 +1,13 @@
+{
+    "ticker": "IYW",
+    "close_price": 86.5199966430664,
+    "daily_return": -0.044927694661158535,
+    "return_5_days": -0.05287358414595944,
+    "return_30_days": 0.0449274571763385,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

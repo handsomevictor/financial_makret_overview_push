@@ -1,0 +1,13 @@
+{
+    "ticker": "FLFR",
+    "close_price": 24.263999938964844,
+    "daily_return": -0.031763748760622934,
+    "return_5_days": -0.046601209761127915,
+    "return_30_days": 0.015697601446611475,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

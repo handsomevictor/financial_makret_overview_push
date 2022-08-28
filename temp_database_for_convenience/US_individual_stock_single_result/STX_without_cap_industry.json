@@ -1,0 +1,13 @@
+{
+    "ticker": "STX",
+    "close_price": 74.62000274658203,
+    "daily_return": -0.05830382687705593,
+    "return_5_days": -0.06690006743098631,
+    "return_30_days": -0.03815415074259221,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

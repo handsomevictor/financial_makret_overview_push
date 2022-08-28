@@ -1,0 +1,13 @@
+{
+    "ticker": "OBOR",
+    "close_price": 24.715999603271484,
+    "daily_return": -0.008186214783222456,
+    "return_5_days": -0.01737368412431972,
+    "return_30_days": 0.013532351678925858,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

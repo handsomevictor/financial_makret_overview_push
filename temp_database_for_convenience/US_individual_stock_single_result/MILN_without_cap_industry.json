@@ -1,0 +1,13 @@
+{
+    "ticker": "MILN",
+    "close_price": 28.950000762939453,
+    "daily_return": -0.04043749785446982,
+    "return_5_days": -0.0461284876749144,
+    "return_30_days": 0.07809183599685965,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

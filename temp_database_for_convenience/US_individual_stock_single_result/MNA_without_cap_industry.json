@@ -1,0 +1,13 @@
+{
+    "ticker": "MNA",
+    "close_price": 31.84000015258789,
+    "daily_return": -0.006552233680861552,
+    "return_5_days": -0.003754660053888026,
+    "return_30_days": 0.02149502966487038,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

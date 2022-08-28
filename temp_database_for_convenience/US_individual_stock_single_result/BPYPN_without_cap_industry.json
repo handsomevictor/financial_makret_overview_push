@@ -1,0 +1,13 @@
+{
+    "ticker": "BPYPN",
+    "close_price": 18.270000457763672,
+    "daily_return": -0.01243240768845022,
+    "return_5_days": -0.02037529053829279,
+    "return_30_days": 0.016694555140368328,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

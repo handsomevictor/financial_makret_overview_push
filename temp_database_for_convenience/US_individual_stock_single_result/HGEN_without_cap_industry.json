@@ -1,0 +1,13 @@
+{
+    "ticker": "HGEN",
+    "close_price": 0.2800000011920929,
+    "daily_return": -0.09677419664956521,
+    "return_5_days": -0.12499997671693497,
+    "return_30_days": -0.428571437260152,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

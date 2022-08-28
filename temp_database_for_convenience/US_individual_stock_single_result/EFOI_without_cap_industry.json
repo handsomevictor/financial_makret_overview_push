@@ -1,0 +1,13 @@
+{
+    "ticker": "EFOI",
+    "close_price": 0.7900000214576721,
+    "daily_return": -0.048192726093168936,
+    "return_5_days": 0.05333336194356275,
+    "return_30_days": -0.10227269802458072,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

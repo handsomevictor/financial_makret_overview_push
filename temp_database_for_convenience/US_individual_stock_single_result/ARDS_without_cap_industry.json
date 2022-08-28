@@ -1,0 +1,13 @@
+{
+    "ticker": "ARDS",
+    "close_price": 1.6200000047683716,
+    "daily_return": -0.024096363046584468,
+    "return_5_days": -0.08474575015510655,
+    "return_30_days": 0.47272724514165354,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

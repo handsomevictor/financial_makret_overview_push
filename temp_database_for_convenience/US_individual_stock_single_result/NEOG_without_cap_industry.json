@@ -1,0 +1,13 @@
+{
+    "ticker": "NEOG",
+    "close_price": 21.229999542236328,
+    "daily_return": 0.014818330057926987,
+    "return_5_days": 0.010471171392566925,
+    "return_30_days": -0.05644446478949661,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

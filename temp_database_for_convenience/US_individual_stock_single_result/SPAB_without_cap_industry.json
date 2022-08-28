@@ -1,0 +1,13 @@
+{
+    "ticker": "SPAB",
+    "close_price": 26.34000015258789,
+    "daily_return": -0.0018946282007175075,
+    "return_5_days": -0.004158813125846317,
+    "return_30_days": -0.005662499804693355,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

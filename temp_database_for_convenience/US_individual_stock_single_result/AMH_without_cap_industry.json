@@ -1,0 +1,13 @@
+{
+    "ticker": "AMH",
+    "close_price": 36.2599983215332,
+    "daily_return": -0.020793963898107726,
+    "return_5_days": -0.03589476912815548,
+    "return_30_days": 0.005267497319559444,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

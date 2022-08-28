@@ -1,0 +1,13 @@
+{
+    "ticker": "ITAQ",
+    "close_price": 9.949999809265137,
+    "daily_return": -0.0059940477767003175,
+    "return_5_days": -0.0059940477767003175,
+    "return_30_days": -0.001004039040515492,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

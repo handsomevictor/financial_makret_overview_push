@@ -1,0 +1,13 @@
+{
+    "ticker": "EAOR",
+    "close_price": 27.059999465942383,
+    "daily_return": -0.017964102113997127,
+    "return_5_days": -0.02094867666344924,
+    "return_30_days": 0.02562153834920755,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

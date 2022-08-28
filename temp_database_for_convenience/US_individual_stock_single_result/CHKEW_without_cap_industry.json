@@ -1,0 +1,13 @@
+{
+    "ticker": "CHKEW",
+    "close_price": 91.5,
+    "daily_return": -0.005110375279600676,
+    "return_5_days": 0.10520593052486737,
+    "return_30_days": 0.4484724181135378,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

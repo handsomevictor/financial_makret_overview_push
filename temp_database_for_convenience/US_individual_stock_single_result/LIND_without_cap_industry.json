@@ -1,0 +1,13 @@
+{
+    "ticker": "LIND",
+    "close_price": 8.850000381469727,
+    "daily_return": -0.048387075272691926,
+    "return_5_days": -0.1042509839109933,
+    "return_30_days": 0.26609451663172634,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ILAG",
+    "close_price": 2.930000066757202,
+    "daily_return": -0.051779887332172425,
+    "return_5_days": -0.06984127680941166,
+    "return_30_days": 0.3022222518920896,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

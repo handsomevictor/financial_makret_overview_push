@@ -1,0 +1,13 @@
+{
+    "ticker": "XL",
+    "close_price": 1.149999976158142,
+    "daily_return": -0.049586826526647365,
+    "return_5_days": -0.05737709082829168,
+    "return_30_days": -0.07258067152130454,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

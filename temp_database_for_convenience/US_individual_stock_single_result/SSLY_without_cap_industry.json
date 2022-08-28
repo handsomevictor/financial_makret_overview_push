@@ -1,0 +1,13 @@
+{
+    "ticker": "SSLY",
+    "close_price": 43.6879997253418,
+    "daily_return": -0.03156587608152994,
+    "return_5_days": -0.0349245895992053,
+    "return_30_days": 0.07236126473782534,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

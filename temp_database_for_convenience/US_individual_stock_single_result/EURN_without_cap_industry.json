@@ -1,0 +1,13 @@
+{
+    "ticker": "EURN",
+    "close_price": 16.350000381469727,
+    "daily_return": 0.008014862738508155,
+    "return_5_days": -0.0012217749992866622,
+    "return_30_days": 0.3174859454071006,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

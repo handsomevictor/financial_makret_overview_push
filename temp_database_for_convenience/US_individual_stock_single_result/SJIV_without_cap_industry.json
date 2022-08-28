@@ -1,0 +1,13 @@
+{
+    "ticker": "SJIV",
+    "close_price": 68.28600311279297,
+    "daily_return": -0.008911442663108171,
+    "return_5_days": -0.007326614275718235,
+    "return_30_days": 0.008209061395276551,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

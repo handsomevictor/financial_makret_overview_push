@@ -1,0 +1,13 @@
+{
+    "ticker": "SQFT",
+    "close_price": 3.140000104904175,
+    "daily_return": -0.027863750352276395,
+    "return_5_days": -0.021806832526770514,
+    "return_30_days": 0.03973514064091055,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

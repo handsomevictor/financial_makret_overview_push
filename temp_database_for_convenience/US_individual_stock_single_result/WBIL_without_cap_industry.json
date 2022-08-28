@@ -1,0 +1,13 @@
+{
+    "ticker": "WBIL",
+    "close_price": 28.996999740600586,
+    "daily_return": -0.028641282419161196,
+    "return_5_days": -0.03494528949586517,
+    "return_30_days": 0.010172437473284113,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

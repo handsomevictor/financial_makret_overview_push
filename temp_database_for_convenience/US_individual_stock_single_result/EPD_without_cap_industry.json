@@ -1,0 +1,13 @@
+{
+    "ticker": "EPD",
+    "close_price": 26.8799991607666,
+    "daily_return": -0.012853484662268988,
+    "return_5_days": -0.003706463423514106,
+    "return_30_days": 0.09624790615595957,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

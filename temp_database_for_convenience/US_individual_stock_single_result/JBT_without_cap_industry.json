@@ -1,0 +1,13 @@
+{
+    "ticker": "JBT",
+    "close_price": 107.6500015258789,
+    "daily_return": -0.048019103442254796,
+    "return_5_days": -0.08887007925852741,
+    "return_30_days": 0.01108293689909634,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

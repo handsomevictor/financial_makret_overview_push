@@ -1,0 +1,13 @@
+{
+    "ticker": "QCLR",
+    "close_price": 23.0939998626709,
+    "daily_return": -0.006709683325982874,
+    "return_5_days": -0.008202705002913757,
+    "return_30_days": 0.0290067747715661,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

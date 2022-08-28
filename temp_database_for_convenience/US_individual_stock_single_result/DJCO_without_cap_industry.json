@@ -1,0 +1,13 @@
+{
+    "ticker": "DJCO",
+    "close_price": 264.3999938964844,
+    "daily_return": -0.03714498172001557,
+    "return_5_days": 0.016141358541180262,
+    "return_30_days": 0.002350425051394156,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

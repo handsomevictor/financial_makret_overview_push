@@ -1,0 +1,13 @@
+{
+    "ticker": "TRVG",
+    "close_price": 1.5299999713897705,
+    "daily_return": -0.025477757787232713,
+    "return_5_days": -0.031645614030057834,
+    "return_30_days": 0.06249993791183073,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

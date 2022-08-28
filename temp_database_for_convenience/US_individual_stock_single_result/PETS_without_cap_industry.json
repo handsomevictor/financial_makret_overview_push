@@ -1,0 +1,13 @@
+{
+    "ticker": "PETS",
+    "close_price": 20.209999084472656,
+    "daily_return": -0.04579797954328091,
+    "return_5_days": -0.1049601792400896,
+    "return_30_days": -0.07674738931104019,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

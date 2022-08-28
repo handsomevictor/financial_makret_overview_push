@@ -1,0 +1,13 @@
+{
+    "ticker": "IWC",
+    "close_price": 118.29000091552734,
+    "daily_return": -0.030568725046354994,
+    "return_5_days": -0.02521629663840763,
+    "return_30_days": 0.0938598259956207,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

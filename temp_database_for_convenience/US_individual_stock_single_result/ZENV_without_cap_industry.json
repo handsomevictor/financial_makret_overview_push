@@ -1,0 +1,13 @@
+{
+    "ticker": "ZENV",
+    "close_price": 2.1700000762939453,
+    "daily_return": 0.07960203312926994,
+    "return_5_days": 0.10152286537011324,
+    "return_30_days": 0.0959596239344318,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

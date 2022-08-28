@@ -1,0 +1,13 @@
+{
+    "ticker": "VLD",
+    "close_price": 3.9700000286102295,
+    "daily_return": -0.11185677517894999,
+    "return_5_days": -0.08101854841282219,
+    "return_30_days": 0.5037878298699272,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ISZE",
+    "close_price": 23.48699951171875,
+    "daily_return": -0.02713116896958223,
+    "return_5_days": -0.03341702464285967,
+    "return_30_days": 0.02576757518895656,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MVT",
+    "close_price": 11.449999809265137,
+    "daily_return": -0.00779897338694957,
+    "return_5_days": -0.012931083385497866,
+    "return_30_days": -0.008797665337847649,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

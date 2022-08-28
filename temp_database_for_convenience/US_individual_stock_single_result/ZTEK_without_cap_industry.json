@@ -1,0 +1,13 @@
+{
+    "ticker": "ZTEK",
+    "close_price": 1.8899999856948853,
+    "daily_return": -0.05500000715255737,
+    "return_5_days": -0.08252425330423874,
+    "return_30_days": -0.17105262745120198,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

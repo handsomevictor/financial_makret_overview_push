@@ -1,0 +1,13 @@
+{
+    "ticker": "CSSEP",
+    "close_price": 24.1200008392334,
+    "daily_return": 0.0035365505454929558,
+    "return_5_days": 0.010050321897042025,
+    "return_30_days": 0.08209958943659146,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

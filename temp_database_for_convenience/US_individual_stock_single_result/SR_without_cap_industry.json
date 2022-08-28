@@ -1,0 +1,13 @@
+{
+    "ticker": "SR",
+    "close_price": 72.9800033569336,
+    "daily_return": -0.01987638659329083,
+    "return_5_days": -0.04563878394217491,
+    "return_30_days": 0.03210301657264991,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

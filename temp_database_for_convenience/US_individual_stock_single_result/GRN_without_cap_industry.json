@@ -1,0 +1,13 @@
+{
+    "ticker": "GRN",
+    "close_price": 35.599998474121094,
+    "daily_return": 0.023282481669387733,
+    "return_5_days": -0.08483298000804529,
+    "return_30_days": 0.06268652161555455,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BSBE",
+    "close_price": 23.950000762939453,
+    "daily_return": -0.0024989365002258124,
+    "return_5_days": -0.00041729223352438005,
+    "return_30_days": 0.002092098125826558,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

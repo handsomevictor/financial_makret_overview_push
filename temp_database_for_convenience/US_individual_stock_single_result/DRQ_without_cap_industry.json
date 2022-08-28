@@ -1,0 +1,13 @@
+{
+    "ticker": "DRQ",
+    "close_price": 23.6200008392334,
+    "daily_return": -0.06307014291875046,
+    "return_5_days": -0.01005866575770531,
+    "return_30_days": -0.005473648874383619,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

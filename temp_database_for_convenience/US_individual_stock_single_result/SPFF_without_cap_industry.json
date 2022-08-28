@@ -1,0 +1,13 @@
+{
+    "ticker": "SPFF",
+    "close_price": 10.420000076293945,
+    "daily_return": -0.0066729929791750076,
+    "return_5_days": -0.00950573926980458,
+    "return_30_days": 0.009689959731285613,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IVV",
+    "close_price": 407.2799987792969,
+    "daily_return": -0.03417203058806606,
+    "return_5_days": -0.04024881506703715,
+    "return_30_days": 0.052049682644940365,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

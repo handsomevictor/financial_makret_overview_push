@@ -1,0 +1,13 @@
+{
+    "ticker": "MYN",
+    "close_price": 10.579999923706055,
+    "daily_return": -0.0009443086626766961,
+    "return_5_days": -0.01946246884980618,
+    "return_30_days": 0.004748356315556146,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "QDEL",
+    "close_price": 82.05999755859375,
+    "daily_return": -0.030482063441156226,
+    "return_5_days": -0.04725414866610478,
+    "return_30_days": -0.19112863452860251,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "VRRM",
+    "close_price": 16.34000015258789,
+    "daily_return": -0.041079854772871016,
+    "return_5_days": -0.01684721254553312,
+    "return_30_days": 0.015537600847056687,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

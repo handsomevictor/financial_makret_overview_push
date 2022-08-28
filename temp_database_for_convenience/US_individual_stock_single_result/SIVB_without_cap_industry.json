@@ -1,0 +1,13 @@
+{
+    "ticker": "SIVB",
+    "close_price": 410.55999755859375,
+    "daily_return": -0.06373859566391649,
+    "return_5_days": -0.057029367359040295,
+    "return_30_days": 0.0047476933693608725,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

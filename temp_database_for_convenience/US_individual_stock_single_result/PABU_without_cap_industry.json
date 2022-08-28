@@ -1,0 +1,13 @@
+{
+    "ticker": "PABU",
+    "close_price": 44.680999755859375,
+    "daily_return": -0.03459231856388956,
+    "return_5_days": -0.04474705140625679,
+    "return_30_days": 0.049983523491485604,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

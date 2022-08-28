@@ -1,0 +1,13 @@
+{
+    "ticker": "PNNT",
+    "close_price": 6.480000019073486,
+    "daily_return": -0.0030769201425405734,
+    "return_5_days": -0.010687048797402343,
+    "return_30_days": 0.051948081101951926,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

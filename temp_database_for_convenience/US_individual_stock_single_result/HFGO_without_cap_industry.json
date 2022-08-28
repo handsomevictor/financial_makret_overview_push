@@ -1,0 +1,13 @@
+{
+    "ticker": "HFGO",
+    "close_price": 12.930000305175781,
+    "daily_return": -0.03536257588252756,
+    "return_5_days": -0.03579414971648609,
+    "return_30_days": 0.08792596181483314,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

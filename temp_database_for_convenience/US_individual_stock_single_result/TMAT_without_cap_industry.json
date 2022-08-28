@@ -1,0 +1,13 @@
+{
+    "ticker": "TMAT",
+    "close_price": 14.550999641418457,
+    "daily_return": -0.029609886464101898,
+    "return_5_days": -0.004174707229108399,
+    "return_30_days": 0.09208940632057616,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

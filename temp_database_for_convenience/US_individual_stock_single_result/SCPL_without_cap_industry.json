@@ -1,0 +1,13 @@
+{
+    "ticker": "SCPL",
+    "close_price": 12.25,
+    "daily_return": -0.008899648845687502,
+    "return_5_days": -0.049650917476839695,
+    "return_30_days": -0.06559875508762714,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

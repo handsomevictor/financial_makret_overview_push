@@ -1,0 +1,13 @@
+{
+    "ticker": "SID",
+    "close_price": 2.990000009536743,
+    "daily_return": -0.05974844441252203,
+    "return_5_days": -0.013201307666904194,
+    "return_30_days": 0.1500000458497286,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

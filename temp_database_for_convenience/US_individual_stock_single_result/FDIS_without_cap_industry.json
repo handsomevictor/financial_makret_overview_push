@@ -1,0 +1,13 @@
+{
+    "ticker": "FDIS",
+    "close_price": 68.3499984741211,
+    "daily_return": -0.03867791925482167,
+    "return_5_days": -0.046456498561345816,
+    "return_30_days": 0.10170853425978144,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

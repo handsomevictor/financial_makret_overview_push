@@ -1,0 +1,13 @@
+{
+    "ticker": "COMT",
+    "close_price": 39.970001220703125,
+    "daily_return": 0.0032630790064589466,
+    "return_5_days": 0.026714639285247532,
+    "return_30_days": 0.045240571817508846,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

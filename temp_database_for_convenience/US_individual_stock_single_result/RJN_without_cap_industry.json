@@ -1,0 +1,13 @@
+{
+    "ticker": "RJN",
+    "close_price": 4.409999847412109,
+    "daily_return": -0.006756803923811283,
+    "return_5_days": 0.009153309588224579,
+    "return_30_days": 0.0575539008938013,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

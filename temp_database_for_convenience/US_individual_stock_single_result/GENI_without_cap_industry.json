@@ -1,0 +1,13 @@
+{
+    "ticker": "GENI",
+    "close_price": 4.0,
+    "daily_return": -0.04988124376345704,
+    "return_5_days": -0.08675801472882438,
+    "return_30_days": 0.6393442238508082,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

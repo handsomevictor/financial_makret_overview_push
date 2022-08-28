@@ -1,0 +1,13 @@
+{
+    "ticker": "NNBR",
+    "close_price": 2.2799999713897705,
+    "daily_return": -0.025641002128344415,
+    "return_5_days": -0.10236220250711203,
+    "return_30_days": -0.12307690191551013,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

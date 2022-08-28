@@ -1,0 +1,13 @@
+{
+    "ticker": "MANU",
+    "close_price": 13.140000343322754,
+    "daily_return": -0.03168749898096701,
+    "return_5_days": -0.03947368054141931,
+    "return_30_days": 0.1923774770867206,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

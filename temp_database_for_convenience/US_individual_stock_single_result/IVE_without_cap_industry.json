@@ -1,0 +1,13 @@
+{
+    "ticker": "IVE",
+    "close_price": 144.5800018310547,
+    "daily_return": -0.027183376523106872,
+    "return_5_days": -0.03135463518703896,
+    "return_30_days": 0.04487972055363443,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

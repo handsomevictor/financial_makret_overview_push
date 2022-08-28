@@ -1,0 +1,13 @@
+{
+    "ticker": "LCII",
+    "close_price": 125.0,
+    "daily_return": -0.05317379219268281,
+    "return_5_days": -0.06099756171144188,
+    "return_30_days": 0.03143821669973046,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

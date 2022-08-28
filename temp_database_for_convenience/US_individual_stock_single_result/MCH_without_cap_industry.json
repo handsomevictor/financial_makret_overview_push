@@ -1,0 +1,13 @@
+{
+    "ticker": "MCH",
+    "close_price": 23.9060001373291,
+    "daily_return": -0.012597591987166368,
+    "return_5_days": 0.027949759375213823,
+    "return_30_days": -0.028882496882553732,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

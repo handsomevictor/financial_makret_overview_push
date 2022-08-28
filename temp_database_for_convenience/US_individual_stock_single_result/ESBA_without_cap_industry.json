@@ -1,0 +1,13 @@
+{
+    "ticker": "ESBA",
+    "close_price": 7.230000019073486,
+    "daily_return": -0.024291475309744626,
+    "return_5_days": -0.08712121850677235,
+    "return_30_days": -0.0013811812653045097,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

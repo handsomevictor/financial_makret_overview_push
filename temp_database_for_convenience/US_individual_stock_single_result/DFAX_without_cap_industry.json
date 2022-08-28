@@ -1,0 +1,13 @@
+{
+    "ticker": "DFAX",
+    "close_price": 21.59000015258789,
+    "daily_return": -0.02219201869616305,
+    "return_5_days": -0.01729627549581303,
+    "return_30_days": 0.03897976126935099,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

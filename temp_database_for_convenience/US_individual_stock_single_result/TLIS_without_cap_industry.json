@@ -1,0 +1,13 @@
+{
+    "ticker": "TLIS",
+    "close_price": 0.9369999766349792,
+    "daily_return": -0.09029125955149997,
+    "return_5_days": 0.022925729099494863,
+    "return_30_days": 0.07208233733677893,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

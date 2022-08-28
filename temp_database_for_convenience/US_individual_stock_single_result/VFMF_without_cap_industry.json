@@ -1,0 +1,13 @@
+{
+    "ticker": "VFMF",
+    "close_price": 99.00499725341797,
+    "daily_return": -0.022394965215979612,
+    "return_5_days": -0.02197970986596076,
+    "return_30_days": 0.09652227544048975,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

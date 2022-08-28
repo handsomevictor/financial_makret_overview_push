@@ -1,0 +1,13 @@
+{
+    "ticker": "VPG",
+    "close_price": 34.619998931884766,
+    "daily_return": -0.03214988848649303,
+    "return_5_days": -0.02175757194245387,
+    "return_30_days": 0.20041604537849533,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

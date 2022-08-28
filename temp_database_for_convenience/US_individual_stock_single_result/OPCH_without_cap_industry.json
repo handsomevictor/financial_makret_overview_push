@@ -1,0 +1,13 @@
+{
+    "ticker": "OPCH",
+    "close_price": 31.59000015258789,
+    "daily_return": -0.03600855321002061,
+    "return_5_days": -0.022586619713156564,
+    "return_30_days": 0.00031666335991120675,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

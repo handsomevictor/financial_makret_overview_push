@@ -1,0 +1,13 @@
+{
+    "ticker": "XCCC",
+    "close_price": 39.84000015258789,
+    "daily_return": -0.016781843472202906,
+    "return_5_days": -0.015129029882266942,
+    "return_30_days": 0.03292715757874598,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SIEN",
+    "close_price": 0.656000018119812,
+    "daily_return": -0.08635094301937041,
+    "return_5_days": -0.25875703368490877,
+    "return_30_days": -0.21624849653160827,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

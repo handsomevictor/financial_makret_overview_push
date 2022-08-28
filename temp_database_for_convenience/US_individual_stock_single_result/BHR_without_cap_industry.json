@@ -1,0 +1,13 @@
+{
+    "ticker": "BHR",
+    "close_price": 5.489999771118164,
+    "daily_return": -0.05507748275609914,
+    "return_5_days": 0.005494456549742788,
+    "return_30_days": 0.1705756298800194,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

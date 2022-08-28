@@ -1,0 +1,13 @@
+{
+    "ticker": "COKE",
+    "close_price": 494.3900146484375,
+    "daily_return": -0.025582869688129728,
+    "return_5_days": -0.062198828640884773,
+    "return_30_days": -0.013193583536052822,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

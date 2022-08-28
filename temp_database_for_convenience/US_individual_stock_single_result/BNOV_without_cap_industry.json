@@ -1,0 +1,13 @@
+{
+    "ticker": "BNOV",
+    "close_price": 30.4060001373291,
+    "daily_return": -0.01814777406295376,
+    "return_5_days": -0.020456822312113765,
+    "return_30_days": 0.042729776969720135,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

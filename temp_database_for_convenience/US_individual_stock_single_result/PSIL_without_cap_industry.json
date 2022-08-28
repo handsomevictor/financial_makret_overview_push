@@ -1,0 +1,13 @@
+{
+    "ticker": "PSIL",
+    "close_price": 3.9600000381469727,
+    "daily_return": -0.03414630969318089,
+    "return_5_days": 0.12181305106014206,
+    "return_30_days": 0.36316698008519555,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

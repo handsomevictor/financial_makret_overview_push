@@ -1,0 +1,13 @@
+{
+    "ticker": "EXFY",
+    "close_price": 18.389999389648438,
+    "daily_return": -0.05981595645394233,
+    "return_5_days": -0.11967448889629062,
+    "return_30_days": 0.050857107979911165,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

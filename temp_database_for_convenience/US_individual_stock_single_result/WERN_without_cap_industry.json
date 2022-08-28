@@ -1,0 +1,13 @@
+{
+    "ticker": "WERN",
+    "close_price": 41.5,
+    "daily_return": -0.0292397660818714,
+    "return_5_days": -0.04223405847500161,
+    "return_30_days": 0.045866927440190164,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

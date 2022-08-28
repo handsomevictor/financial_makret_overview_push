@@ -1,0 +1,13 @@
+{
+    "ticker": "MAA",
+    "close_price": 173.8800048828125,
+    "daily_return": -0.025117715363357385,
+    "return_5_days": -0.05433181323580294,
+    "return_30_days": 0.03815152653935039,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

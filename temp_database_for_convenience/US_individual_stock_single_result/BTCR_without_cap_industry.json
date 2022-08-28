@@ -1,0 +1,13 @@
+{
+    "ticker": "BTCR",
+    "close_price": 6.974999904632568,
+    "daily_return": -0.0007163487718130357,
+    "return_5_days": 0.042600873688261265,
+    "return_30_days": 0.06569897988177043,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BNY",
+    "close_price": 11.010000228881836,
+    "daily_return": -0.004520812733983304,
+    "return_5_days": -0.026525214819137055,
+    "return_30_days": -0.01959032255763371,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

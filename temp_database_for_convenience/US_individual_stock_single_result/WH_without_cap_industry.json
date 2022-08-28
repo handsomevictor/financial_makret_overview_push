@@ -1,0 +1,13 @@
+{
+    "ticker": "WH",
+    "close_price": 66.73999786376953,
+    "daily_return": -0.043839613957025736,
+    "return_5_days": -0.04820314818052773,
+    "return_30_days": 0.012746529870120371,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

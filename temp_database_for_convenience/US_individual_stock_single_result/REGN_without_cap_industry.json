@@ -1,0 +1,13 @@
+{
+    "ticker": "REGN",
+    "close_price": 596.1799926757812,
+    "daily_return": -0.012620065040147455,
+    "return_5_days": -0.035869062037012345,
+    "return_30_days": -0.018698333874994866,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

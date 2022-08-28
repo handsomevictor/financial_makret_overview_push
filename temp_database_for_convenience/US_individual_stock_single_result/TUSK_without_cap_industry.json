@@ -1,0 +1,13 @@
+{
+    "ticker": "TUSK",
+    "close_price": 4.809999942779541,
+    "daily_return": -0.05686273868154523,
+    "return_5_days": 0.1965174043784328,
+    "return_30_days": 1.1764705247754659,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

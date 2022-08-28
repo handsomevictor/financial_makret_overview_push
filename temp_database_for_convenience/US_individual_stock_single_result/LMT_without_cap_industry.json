@@ -1,0 +1,13 @@
+{
+    "ticker": "LMT",
+    "close_price": 431.1300048828125,
+    "daily_return": -0.017121123278377004,
+    "return_5_days": -0.020225879874495423,
+    "return_30_days": 0.08220794115817576,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

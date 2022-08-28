@@ -1,0 +1,13 @@
+{
+    "ticker": "HLVX",
+    "close_price": 11.020000457763672,
+    "daily_return": -0.02391492515514948,
+    "return_5_days": -0.10985457545277777,
+    "return_30_days": -0.16641450566018645,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

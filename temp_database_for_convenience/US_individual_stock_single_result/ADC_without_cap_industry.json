@@ -1,0 +1,13 @@
+{
+    "ticker": "ADC",
+    "close_price": 77.05000305175781,
+    "daily_return": -0.01483181238069009,
+    "return_5_days": -0.028495707683842353,
+    "return_30_days": 0.030355767712173076,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

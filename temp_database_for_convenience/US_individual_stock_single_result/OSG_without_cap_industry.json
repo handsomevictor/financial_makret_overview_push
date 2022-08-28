@@ -1,0 +1,13 @@
+{
+    "ticker": "OSG",
+    "close_price": 3.0399999618530273,
+    "daily_return": 0.016722392025688038,
+    "return_5_days": 0.05555550036607171,
+    "return_30_days": 0.4074073338214288,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RWAY",
+    "close_price": 12.489999771118164,
+    "daily_return": -0.012648209663005394,
+    "return_5_days": -0.041442822173404115,
+    "return_30_days": 0.017929853720200173,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

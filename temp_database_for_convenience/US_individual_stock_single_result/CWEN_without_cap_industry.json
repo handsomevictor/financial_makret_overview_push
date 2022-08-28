@@ -1,0 +1,13 @@
+{
+    "ticker": "CWEN",
+    "close_price": 38.209999084472656,
+    "daily_return": -0.020507543488381907,
+    "return_5_days": -0.03680360856723153,
+    "return_30_days": 0.09171425955636203,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

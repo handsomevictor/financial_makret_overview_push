@@ -1,0 +1,13 @@
+{
+    "ticker": "FTXL",
+    "close_price": 58.31999969482422,
+    "daily_return": -0.05493436136675334,
+    "return_5_days": -0.047214498168185015,
+    "return_30_days": 0.04310498755123282,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

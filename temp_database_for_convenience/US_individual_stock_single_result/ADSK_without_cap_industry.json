@@ -1,0 +1,13 @@
+{
+    "ticker": "ADSK",
+    "close_price": 207.77000427246094,
+    "daily_return": -0.056234340073816114,
+    "return_5_days": -0.06657977586258201,
+    "return_30_days": 0.1791044569326954,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

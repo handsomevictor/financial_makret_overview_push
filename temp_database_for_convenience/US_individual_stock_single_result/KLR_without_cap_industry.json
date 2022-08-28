@@ -1,0 +1,13 @@
+{
+    "ticker": "KLR",
+    "close_price": 1.7000000476837158,
+    "daily_return": -0.07103824709453421,
+    "return_5_days": -0.09574465319386105,
+    "return_30_days": -0.10052906849166665,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

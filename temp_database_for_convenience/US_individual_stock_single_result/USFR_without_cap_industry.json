@@ -1,0 +1,13 @@
+{
+    "ticker": "USFR",
+    "close_price": 50.25,
+    "daily_return": 0.0001990111703655817,
+    "return_5_days": -0.001986067073517339,
+    "return_30_days": -0.001787845695571999,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

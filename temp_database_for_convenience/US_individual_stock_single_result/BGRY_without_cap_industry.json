@@ -1,0 +1,13 @@
+{
+    "ticker": "BGRY",
+    "close_price": 2.1500000953674316,
+    "daily_return": -0.07327579429614361,
+    "return_5_days": -0.04017853294024065,
+    "return_30_days": 0.4144737647015633,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

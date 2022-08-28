@@ -1,0 +1,13 @@
+{
+    "ticker": "IMRA",
+    "close_price": 1.2100000381469727,
+    "daily_return": 0.043103511176128206,
+    "return_5_days": 0.06140355555304611,
+    "return_30_days": 0.05217396802848229,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

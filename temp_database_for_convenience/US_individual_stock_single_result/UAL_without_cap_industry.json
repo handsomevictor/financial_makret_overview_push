@@ -1,0 +1,13 @@
+{
+    "ticker": "UAL",
+    "close_price": 36.56999969482422,
+    "daily_return": -0.0444212370683309,
+    "return_5_days": -0.02480000813802108,
+    "return_30_days": -0.056988116401191835,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

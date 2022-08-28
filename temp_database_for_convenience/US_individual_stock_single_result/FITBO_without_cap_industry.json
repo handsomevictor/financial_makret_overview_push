@@ -1,0 +1,13 @@
+{
+    "ticker": "FITBO",
+    "close_price": 23.190000534057617,
+    "daily_return": -0.008550613972197585,
+    "return_5_days": -0.027265084495383896,
+    "return_30_days": 0.005201596914642392,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

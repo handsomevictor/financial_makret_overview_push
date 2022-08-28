@@ -1,0 +1,13 @@
+{
+    "ticker": "GMVD",
+    "close_price": 0.3630000054836273,
+    "daily_return": -0.013586943537799656,
+    "return_5_days": -0.08333331451873571,
+    "return_30_days": -0.6096774164604057,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

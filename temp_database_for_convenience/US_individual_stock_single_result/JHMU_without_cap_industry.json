@@ -1,0 +1,13 @@
+{
+    "ticker": "JHMU",
+    "close_price": 37.75,
+    "daily_return": -0.014051353551057133,
+    "return_5_days": -0.027788472675875253,
+    "return_30_days": 0.07497791316716329,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

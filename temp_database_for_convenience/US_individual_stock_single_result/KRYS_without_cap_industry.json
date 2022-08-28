@@ -1,0 +1,13 @@
+{
+    "ticker": "KRYS",
+    "close_price": 70.31999969482422,
+    "daily_return": -0.037766859155408894,
+    "return_5_days": -0.07801228805722116,
+    "return_30_days": -0.028997494162070092,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

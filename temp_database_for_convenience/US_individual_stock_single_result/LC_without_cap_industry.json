@@ -1,0 +1,13 @@
+{
+    "ticker": "LC",
+    "close_price": 13.819999694824219,
+    "daily_return": -0.05147563594434579,
+    "return_5_days": -0.03558968817844477,
+    "return_30_days": 0.07048798281701929,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

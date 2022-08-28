@@ -1,0 +1,13 @@
+{
+    "ticker": "XSLV",
+    "close_price": 46.369998931884766,
+    "daily_return": -0.01820877871452209,
+    "return_5_days": -0.036367415603586584,
+    "return_30_days": 0.041788377454323955,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

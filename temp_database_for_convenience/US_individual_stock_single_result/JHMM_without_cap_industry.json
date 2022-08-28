@@ -1,0 +1,13 @@
+{
+    "ticker": "JHMM",
+    "close_price": 48.279998779296875,
+    "daily_return": -0.030716774780386813,
+    "return_5_days": -0.03052209801305583,
+    "return_30_days": 0.0793650631207472,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

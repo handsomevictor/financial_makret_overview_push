@@ -1,0 +1,13 @@
+{
+    "ticker": "NOVV",
+    "close_price": 10.16100025177002,
+    "daily_return": 0.0,
+    "return_5_days": -0.0008849384912891223,
+    "return_30_days": 0.009036798381689692,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

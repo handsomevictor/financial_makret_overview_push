@@ -1,0 +1,13 @@
+{
+    "ticker": "BGRYW",
+    "close_price": 0.24300000071525574,
+    "daily_return": -0.24062498079147143,
+    "return_5_days": -0.1900000298023211,
+    "return_30_days": 0.13023254266618234,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

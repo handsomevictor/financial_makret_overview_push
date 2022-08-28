@@ -1,0 +1,13 @@
+{
+    "ticker": "B",
+    "close_price": 32.470001220703125,
+    "daily_return": -0.04274755384773865,
+    "return_5_days": -0.04975115713606326,
+    "return_30_days": 0.05046914852772488,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PBUS",
+    "close_price": 40.56399917602539,
+    "daily_return": -0.031631234091768046,
+    "return_5_days": -0.03865388151665039,
+    "return_30_days": 0.057152560159948296,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

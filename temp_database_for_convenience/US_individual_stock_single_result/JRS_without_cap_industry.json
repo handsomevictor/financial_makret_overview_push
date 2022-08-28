@@ -1,0 +1,13 @@
+{
+    "ticker": "JRS",
+    "close_price": 9.770000457763672,
+    "daily_return": -0.022021953793284976,
+    "return_5_days": -0.030753915504833418,
+    "return_30_days": 0.0393617930051835,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

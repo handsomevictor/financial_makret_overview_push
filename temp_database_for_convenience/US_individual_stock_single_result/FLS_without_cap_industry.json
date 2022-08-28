@@ -1,0 +1,13 @@
+{
+    "ticker": "FLS",
+    "close_price": 31.389999389648438,
+    "daily_return": -0.044153494403232796,
+    "return_5_days": -0.06799290067629327,
+    "return_30_days": 0.12147194163390473,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "DVA",
+    "close_price": 88.6500015258789,
+    "daily_return": -0.03808595916618407,
+    "return_5_days": -0.04892176379554736,
+    "return_30_days": 0.03720604024521146,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

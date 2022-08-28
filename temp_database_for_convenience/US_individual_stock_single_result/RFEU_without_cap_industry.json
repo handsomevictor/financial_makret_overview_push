@@ -1,0 +1,13 @@
+{
+    "ticker": "RFEU",
+    "close_price": 57.099998474121094,
+    "daily_return": -0.02095264482500281,
+    "return_5_days": -0.028085132355385345,
+    "return_30_days": 0.016737867330181677,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MUR",
+    "close_price": 38.650001525878906,
+    "daily_return": -0.01074988923025133,
+    "return_5_days": 0.07004437067579161,
+    "return_30_days": 0.36717371418593725,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

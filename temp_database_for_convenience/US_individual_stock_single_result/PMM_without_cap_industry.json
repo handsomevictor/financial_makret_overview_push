@@ -1,0 +1,13 @@
+{
+    "ticker": "PMM",
+    "close_price": 6.599999904632568,
+    "daily_return": -0.01197603679070025,
+    "return_5_days": -0.03333172235956616,
+    "return_30_days": -0.0644266092609792,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

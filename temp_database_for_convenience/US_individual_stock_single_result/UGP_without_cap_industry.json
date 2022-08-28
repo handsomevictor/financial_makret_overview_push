@@ -1,0 +1,13 @@
+{
+    "ticker": "UGP",
+    "close_price": 2.7799999713897705,
+    "daily_return": -0.00358422602149977,
+    "return_5_days": 0.04905655522412866,
+    "return_30_days": 0.24663674780809886,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

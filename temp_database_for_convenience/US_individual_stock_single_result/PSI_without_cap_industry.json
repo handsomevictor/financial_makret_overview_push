@@ -1,0 +1,13 @@
+{
+    "ticker": "PSI",
+    "close_price": 106.91999816894531,
+    "daily_return": -0.05764146807949655,
+    "return_5_days": -0.047822626260567214,
+    "return_30_days": 0.04485484467662415,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

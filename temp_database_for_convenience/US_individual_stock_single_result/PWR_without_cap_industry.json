@@ -1,0 +1,13 @@
+{
+    "ticker": "PWR",
+    "close_price": 144.6300048828125,
+    "daily_return": -0.021116718221235176,
+    "return_5_days": 0.01837769702741543,
+    "return_30_days": 0.1298336933768791,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

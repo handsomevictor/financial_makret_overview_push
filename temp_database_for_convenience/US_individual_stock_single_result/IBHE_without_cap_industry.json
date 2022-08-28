@@ -1,0 +1,13 @@
+{
+    "ticker": "IBHE",
+    "close_price": 22.93000030517578,
+    "daily_return": -0.011211738805266158,
+    "return_5_days": -0.008218015880656848,
+    "return_30_days": 0.009687416537745852,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

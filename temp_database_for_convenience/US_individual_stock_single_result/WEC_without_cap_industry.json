@@ -1,0 +1,13 @@
+{
+    "ticker": "WEC",
+    "close_price": 104.79000091552734,
+    "daily_return": -0.013462627459441823,
+    "return_5_days": -0.026929162040429833,
+    "return_30_days": 0.04009926467024649,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

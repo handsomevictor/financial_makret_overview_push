@@ -1,0 +1,13 @@
+{
+    "ticker": "VGK",
+    "close_price": 52.06999969482422,
+    "daily_return": -0.02981178551719965,
+    "return_5_days": -0.040361199676629544,
+    "return_30_days": 0.010087302918713181,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

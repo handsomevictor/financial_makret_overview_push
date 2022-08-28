@@ -1,0 +1,13 @@
+{
+    "ticker": "PZG",
+    "close_price": 0.3610000014305115,
+    "daily_return": -0.10864197440017309,
+    "return_5_days": -0.06958765262168276,
+    "return_30_days": -0.18876402869005982,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

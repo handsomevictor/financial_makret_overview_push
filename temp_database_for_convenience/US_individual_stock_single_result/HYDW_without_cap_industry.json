@@ -1,0 +1,13 @@
+{
+    "ticker": "HYDW",
+    "close_price": 45.53300094604492,
+    "daily_return": -0.014330528263938214,
+    "return_5_days": -0.011956399013165364,
+    "return_30_days": -0.007152027093908386,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

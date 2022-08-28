@@ -1,0 +1,13 @@
+{
+    "ticker": "TOMZ",
+    "close_price": 0.8899999856948853,
+    "daily_return": -0.11000001430511475,
+    "return_5_days": -0.06315789803903848,
+    "return_30_days": 0.32835815451569705,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

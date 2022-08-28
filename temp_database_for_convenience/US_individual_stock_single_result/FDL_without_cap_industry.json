@@ -1,0 +1,13 @@
+{
+    "ticker": "FDL",
+    "close_price": 36.650001525878906,
+    "daily_return": -0.02500661407005267,
+    "return_5_days": -0.025006614070052557,
+    "return_30_days": 0.04267425134805891,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RUSHB",
+    "close_price": 55.0099983215332,
+    "daily_return": -0.033216224141683126,
+    "return_5_days": -0.06174318063505391,
+    "return_30_days": 0.020783057052694787,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

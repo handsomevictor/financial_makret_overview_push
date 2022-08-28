@@ -1,0 +1,13 @@
+{
+    "ticker": "DWMC",
+    "close_price": 33.1150016784668,
+    "daily_return": -0.03274326383251169,
+    "return_5_days": -0.019424898041481398,
+    "return_30_days": 0.10900874084332202,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

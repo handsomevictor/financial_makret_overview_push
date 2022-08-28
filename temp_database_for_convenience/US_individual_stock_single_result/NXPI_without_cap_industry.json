@@ -1,0 +1,13 @@
+{
+    "ticker": "NXPI",
+    "close_price": 168.1199951171875,
+    "daily_return": -0.06088710141400777,
+    "return_5_days": -0.06770923634385795,
+    "return_30_days": 0.025246978274881426,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

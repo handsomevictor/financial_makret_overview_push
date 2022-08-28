@@ -1,0 +1,13 @@
+{
+    "ticker": "CMCL",
+    "close_price": 10.239999771118164,
+    "daily_return": -0.030303090509739783,
+    "return_5_days": 0.007874008357040552,
+    "return_30_days": -0.01158300092044362,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

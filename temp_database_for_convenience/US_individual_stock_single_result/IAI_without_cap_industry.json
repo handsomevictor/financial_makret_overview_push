@@ -1,0 +1,13 @@
+{
+    "ticker": "IAI",
+    "close_price": 94.08999633789062,
+    "daily_return": -0.028096284364193425,
+    "return_5_days": -0.03348743900696716,
+    "return_30_days": 0.11270102949912308,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

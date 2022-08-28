@@ -1,0 +1,13 @@
+{
+    "ticker": "FSLD",
+    "close_price": 49.900001525878906,
+    "daily_return": -0.0005007052892067598,
+    "return_5_days": -0.00020032701991112845,
+    "return_30_days": 0.0019074635101106185,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

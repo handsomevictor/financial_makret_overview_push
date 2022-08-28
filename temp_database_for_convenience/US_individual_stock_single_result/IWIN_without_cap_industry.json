@@ -1,0 +1,13 @@
+{
+    "ticker": "IWIN",
+    "close_price": 21.889999389648438,
+    "daily_return": -0.024944381036078545,
+    "return_5_days": -0.003732055887780028,
+    "return_30_days": 0.04781956853257374,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ANDE",
+    "close_price": 40.119998931884766,
+    "daily_return": -0.0027342931047283914,
+    "return_5_days": 0.0334878734487436,
+    "return_30_days": 0.2967032397986591,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

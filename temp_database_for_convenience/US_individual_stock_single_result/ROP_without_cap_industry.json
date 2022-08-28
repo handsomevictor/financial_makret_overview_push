@@ -1,0 +1,13 @@
+{
+    "ticker": "ROP",
+    "close_price": 409.8299865722656,
+    "daily_return": -0.03483116366397232,
+    "return_5_days": -0.05420940726232726,
+    "return_30_days": 0.0371504312350488,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

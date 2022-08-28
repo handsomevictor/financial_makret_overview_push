@@ -1,0 +1,13 @@
+{
+    "ticker": "FAT",
+    "close_price": 8.670000076293945,
+    "daily_return": -0.028026905589878526,
+    "return_5_days": -0.010838592505153843,
+    "return_30_days": 0.14834435195558182,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

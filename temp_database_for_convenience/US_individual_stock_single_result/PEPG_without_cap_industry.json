@@ -1,0 +1,13 @@
+{
+    "ticker": "PEPG",
+    "close_price": 9.880000114440918,
+    "daily_return": -0.002020152006058873,
+    "return_5_days": -0.026600937363232324,
+    "return_30_days": 0.05442905390723096,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

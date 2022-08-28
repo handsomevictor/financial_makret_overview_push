@@ -1,0 +1,13 @@
+{
+    "ticker": "GNTX",
+    "close_price": 27.6200008392334,
+    "daily_return": -0.03189624344587094,
+    "return_5_days": -0.04561159884122312,
+    "return_30_days": -0.0128662869511309,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

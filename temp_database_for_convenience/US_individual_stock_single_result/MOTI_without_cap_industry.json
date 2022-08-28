@@ -1,0 +1,13 @@
+{
+    "ticker": "MOTI",
+    "close_price": 28.209999084472656,
+    "daily_return": -0.02522465224994963,
+    "return_5_days": -0.026301292088466433,
+    "return_30_days": 0.002167001181649919,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

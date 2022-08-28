@@ -1,0 +1,13 @@
+{
+    "ticker": "KOD",
+    "close_price": 11.149999618530273,
+    "daily_return": -0.011524833113331634,
+    "return_5_days": 0.06596554281710465,
+    "return_30_days": 0.22527463199176867,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

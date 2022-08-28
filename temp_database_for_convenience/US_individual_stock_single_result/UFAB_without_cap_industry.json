@@ -1,0 +1,13 @@
+{
+    "ticker": "UFAB",
+    "close_price": 0.8199999928474426,
+    "daily_return": -0.08379887114794149,
+    "return_5_days": -0.18000000715255726,
+    "return_30_days": -0.2115384394953228,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "REM",
+    "close_price": 29.260000228881836,
+    "daily_return": -0.014483000924251366,
+    "return_5_days": -0.015146377295783942,
+    "return_30_days": 0.06632651819978252,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

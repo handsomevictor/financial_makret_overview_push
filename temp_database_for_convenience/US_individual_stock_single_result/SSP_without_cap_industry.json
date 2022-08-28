@@ -1,0 +1,13 @@
+{
+    "ticker": "SSP",
+    "close_price": 15.300000190734863,
+    "daily_return": -0.013539654097227016,
+    "return_5_days": -0.04553964221092033,
+    "return_30_days": 0.1814672135970543,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

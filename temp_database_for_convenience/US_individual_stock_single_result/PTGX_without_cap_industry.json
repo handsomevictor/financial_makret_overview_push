@@ -1,0 +1,13 @@
+{
+    "ticker": "PTGX",
+    "close_price": 9.329999923706055,
+    "daily_return": -0.07071713554229253,
+    "return_5_days": -0.024058628223351586,
+    "return_30_days": -0.013742083923541037,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

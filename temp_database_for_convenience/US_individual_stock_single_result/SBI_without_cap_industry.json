@@ -1,0 +1,13 @@
+{
+    "ticker": "SBI",
+    "close_price": 8.100000381469727,
+    "daily_return": -0.0024629931491653156,
+    "return_5_days": -0.014598525749495717,
+    "return_30_days": -0.009779941408490367,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

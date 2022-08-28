@@ -1,0 +1,13 @@
+{
+    "ticker": "KOMP",
+    "close_price": 44.900001525878906,
+    "daily_return": -0.03399307297586518,
+    "return_5_days": -0.025184537838176646,
+    "return_30_days": 0.0932554628564406,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

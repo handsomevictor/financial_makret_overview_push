@@ -1,0 +1,13 @@
+{
+    "ticker": "XOMAP",
+    "close_price": 25.850000381469727,
+    "daily_return": 0.001938028910378975,
+    "return_5_days": -0.011472246326457491,
+    "return_30_days": 0.025793634875051152,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

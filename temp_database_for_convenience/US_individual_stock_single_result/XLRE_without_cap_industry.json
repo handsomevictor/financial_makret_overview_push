@@ -1,0 +1,13 @@
+{
+    "ticker": "XLRE",
+    "close_price": 42.97999954223633,
+    "daily_return": -0.02539680205526551,
+    "return_5_days": -0.03804836059373351,
+    "return_30_days": 0.048292671761861694,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "KLXE",
+    "close_price": 7.789999961853027,
+    "daily_return": -0.008905874105892386,
+    "return_5_days": 0.04283804292492066,
+    "return_30_days": 0.9572864131961691,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ECVT",
+    "close_price": 9.779999732971191,
+    "daily_return": -0.006097603525028306,
+    "return_5_days": -0.012121201028581052,
+    "return_30_days": -0.01609656480548205,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AUBAP",
+    "close_price": 25.5,
+    "daily_return": -0.001956917360217414,
+    "return_5_days": -0.005847938431231436,
+    "return_30_days": -0.009285532361753779,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

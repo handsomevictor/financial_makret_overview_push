@@ -1,0 +1,13 @@
+{
+    "ticker": "EGPT",
+    "close_price": 18.739999771118164,
+    "daily_return": -0.028008345243544563,
+    "return_5_days": -0.00951375816331601,
+    "return_30_days": 0.11282657965049303,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

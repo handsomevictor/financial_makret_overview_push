@@ -1,0 +1,13 @@
+{
+    "ticker": "NUDV",
+    "close_price": 24.131000518798828,
+    "daily_return": -0.029207057243554768,
+    "return_5_days": -0.038911872333743824,
+    "return_30_days": 0.04071247824033364,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

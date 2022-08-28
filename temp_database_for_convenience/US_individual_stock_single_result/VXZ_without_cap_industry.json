@@ -1,0 +1,13 @@
+{
+    "ticker": "VXZ",
+    "close_price": 28.420000076293945,
+    "daily_return": 0.034583210290711985,
+    "return_5_days": 0.023775210445619255,
+    "return_30_days": -0.02694561702305498,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

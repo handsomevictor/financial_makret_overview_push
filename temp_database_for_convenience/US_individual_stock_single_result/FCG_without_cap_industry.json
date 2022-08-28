@@ -1,0 +1,13 @@
+{
+    "ticker": "FCG",
+    "close_price": 27.18000030517578,
+    "daily_return": -0.007666998508660816,
+    "return_5_days": 0.04538462712214564,
+    "return_30_days": 0.2820754399542382,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

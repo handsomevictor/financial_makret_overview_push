@@ -1,0 +1,13 @@
+{
+    "ticker": "JQUA",
+    "close_price": 39.2599983215332,
+    "daily_return": -0.03085657990105517,
+    "return_5_days": -0.03915815626329211,
+    "return_30_days": 0.03834956084573071,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

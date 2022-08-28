@@ -1,0 +1,13 @@
+{
+    "ticker": "USRT",
+    "close_price": 56.400001525878906,
+    "daily_return": -0.024052593314200177,
+    "return_5_days": -0.0372140702805529,
+    "return_30_days": 0.051258153248579186,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

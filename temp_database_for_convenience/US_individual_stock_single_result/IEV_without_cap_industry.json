@@ -1,0 +1,13 @@
+{
+    "ticker": "IEV",
+    "close_price": 42.20000076293945,
+    "daily_return": -0.029438794681989067,
+    "return_5_days": -0.03916205550350016,
+    "return_30_days": 0.012962095955478148,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

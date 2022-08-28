@@ -1,0 +1,13 @@
+{
+    "ticker": "ROKT",
+    "close_price": 38.29999923706055,
+    "daily_return": -0.03380424251312719,
+    "return_5_days": -0.031115597779388438,
+    "return_30_days": 0.08930601260737836,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

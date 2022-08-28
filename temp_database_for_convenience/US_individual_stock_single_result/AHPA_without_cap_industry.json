@@ -1,0 +1,13 @@
+{
+    "ticker": "AHPA",
+    "close_price": 10.164999961853027,
+    "daily_return": -0.000491653333668407,
+    "return_5_days": 0.001477866392760152,
+    "return_30_days": 0.005440188629428633,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

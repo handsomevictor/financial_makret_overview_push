@@ -1,0 +1,13 @@
+{
+    "ticker": "EDN",
+    "close_price": 6.440000057220459,
+    "daily_return": -0.05294119462009894,
+    "return_5_days": -0.06666667127378889,
+    "return_30_days": 0.5296912111323913,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

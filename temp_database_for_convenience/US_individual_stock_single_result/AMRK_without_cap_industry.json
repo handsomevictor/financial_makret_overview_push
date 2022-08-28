@@ -1,0 +1,13 @@
+{
+    "ticker": "AMRK",
+    "close_price": 36.65999984741211,
+    "daily_return": -0.011326913778381353,
+    "return_5_days": 0.048927011363213424,
+    "return_30_days": 0.27779711275687835,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

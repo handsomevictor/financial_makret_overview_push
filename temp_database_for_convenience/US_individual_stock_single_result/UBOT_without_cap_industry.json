@@ -1,0 +1,13 @@
+{
+    "ticker": "UBOT",
+    "close_price": 13.699000358581543,
+    "daily_return": -0.07850126484053799,
+    "return_5_days": -0.09993428920906255,
+    "return_30_days": 0.05376925835242674,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

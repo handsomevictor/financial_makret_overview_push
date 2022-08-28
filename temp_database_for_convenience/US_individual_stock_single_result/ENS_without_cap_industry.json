@@ -1,0 +1,13 @@
+{
+    "ticker": "ENS",
+    "close_price": 64.27999877929688,
+    "daily_return": -0.054705900304457766,
+    "return_5_days": -0.06854083771213704,
+    "return_30_days": 0.09749016756401363,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

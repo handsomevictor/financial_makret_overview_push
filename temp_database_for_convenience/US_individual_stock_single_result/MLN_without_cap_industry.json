@@ -1,0 +1,13 @@
+{
+    "ticker": "MLN",
+    "close_price": 17.90999984741211,
+    "daily_return": -0.002228463165858563,
+    "return_5_days": -0.01376651993946032,
+    "return_30_days": -0.017525918383275996,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AZYO",
+    "close_price": 6.690000057220459,
+    "daily_return": -0.01617648976896824,
+    "return_5_days": -0.06433566881278963,
+    "return_30_days": 0.06190473883780978,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

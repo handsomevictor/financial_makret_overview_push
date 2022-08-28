@@ -1,0 +1,13 @@
+{
+    "ticker": "CBOE",
+    "close_price": 120.3499984741211,
+    "daily_return": -0.023846235863203558,
+    "return_5_days": -0.02771045677009243,
+    "return_30_days": 0.011514498895058844,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FMNY",
+    "close_price": 26.56999969482422,
+    "daily_return": -0.0007521796784091261,
+    "return_5_days": -0.008582072715818234,
+    "return_30_days": -0.01042833082560235,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

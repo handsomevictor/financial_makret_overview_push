@@ -1,0 +1,13 @@
+{
+    "ticker": "EBIZ",
+    "close_price": 17.93000030517578,
+    "daily_return": -0.03498383321847842,
+    "return_5_days": -0.016456349127463743,
+    "return_30_days": 0.08012047549051271,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

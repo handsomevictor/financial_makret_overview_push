@@ -1,0 +1,13 @@
+{
+    "ticker": "SRTS",
+    "close_price": 13.170000076293945,
+    "daily_return": -0.02227172864051008,
+    "return_5_days": 0.01229822018426363,
+    "return_30_days": 0.33164809091090586,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

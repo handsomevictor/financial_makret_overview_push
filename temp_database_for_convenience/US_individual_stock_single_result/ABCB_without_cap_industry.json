@@ -1,0 +1,13 @@
+{
+    "ticker": "ABCB",
+    "close_price": 48.2599983215332,
+    "daily_return": -0.02208713650030769,
+    "return_5_days": -0.030339604628131234,
+    "return_30_days": 0.19072291574271927,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

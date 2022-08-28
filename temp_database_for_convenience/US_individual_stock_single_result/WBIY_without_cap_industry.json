@@ -1,0 +1,13 @@
+{
+    "ticker": "WBIY",
+    "close_price": 27.7810001373291,
+    "daily_return": -0.025638293182479344,
+    "return_5_days": -0.02642368018626029,
+    "return_30_days": 0.06981668578936384,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RY",
+    "close_price": 95.8499984741211,
+    "daily_return": -0.015307149371542872,
+    "return_5_days": -0.0347432474482251,
+    "return_30_days": 0.051909521345097964,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

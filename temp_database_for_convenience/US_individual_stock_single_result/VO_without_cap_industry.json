@@ -1,0 +1,13 @@
+{
+    "ticker": "VO",
+    "close_price": 214.63999938964844,
+    "daily_return": -0.0330224885828897,
+    "return_5_days": -0.032935335251653264,
+    "return_30_days": 0.07454317591813964,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

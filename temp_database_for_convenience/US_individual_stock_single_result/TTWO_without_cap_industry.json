@@ -1,0 +1,13 @@
+{
+    "ticker": "TTWO",
+    "close_price": 127.47000122070312,
+    "daily_return": 0.01585908360321686,
+    "return_5_days": -0.0021136421448382237,
+    "return_30_days": 0.029228928471391358,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

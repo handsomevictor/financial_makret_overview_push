@@ -1,0 +1,13 @@
+{
+    "ticker": "BBH",
+    "close_price": 147.9600067138672,
+    "daily_return": -0.033762149834069555,
+    "return_5_days": -0.04071575827047813,
+    "return_30_days": -0.0305968552679462,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

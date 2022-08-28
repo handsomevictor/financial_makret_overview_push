@@ -1,0 +1,13 @@
+{
+    "ticker": "SEMI",
+    "close_price": 17.125,
+    "daily_return": -0.04734089008118225,
+    "return_5_days": -0.045961043335596585,
+    "return_30_days": 0.06904307150420497,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

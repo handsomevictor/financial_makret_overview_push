@@ -1,0 +1,13 @@
+{
+    "ticker": "IMCG",
+    "close_price": 57.04999923706055,
+    "daily_return": -0.03485030201353545,
+    "return_5_days": -0.0369683048507119,
+    "return_30_days": 0.07743150925487319,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

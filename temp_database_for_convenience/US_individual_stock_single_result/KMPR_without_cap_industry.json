@@ -1,0 +1,13 @@
+{
+    "ticker": "KMPR",
+    "close_price": 47.15999984741211,
+    "daily_return": -0.037943708547170774,
+    "return_5_days": -0.03261538774539263,
+    "return_30_days": -0.010075557270905477,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

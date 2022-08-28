@@ -1,0 +1,13 @@
+{
+    "ticker": "VLNS",
+    "close_price": 0.8740000128746033,
+    "daily_return": -0.028888848858114047,
+    "return_5_days": -0.07999997490330735,
+    "return_30_days": 0.36562505064066575,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

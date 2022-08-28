@@ -1,0 +1,13 @@
+{
+    "ticker": "BKIS",
+    "close_price": 38.94300079345703,
+    "daily_return": -0.027397604819856536,
+    "return_5_days": -0.03823072516176729,
+    "return_30_days": -0.010493907155988746,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

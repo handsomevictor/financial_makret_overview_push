@@ -1,0 +1,13 @@
+{
+    "ticker": "RPHM",
+    "close_price": 3.299999952316284,
+    "daily_return": -0.014925359325276832,
+    "return_5_days": -0.05172415683064446,
+    "return_30_days": 0.11486483438769124,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

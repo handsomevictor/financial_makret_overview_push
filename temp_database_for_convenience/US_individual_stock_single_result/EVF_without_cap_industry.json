@@ -1,0 +1,13 @@
+{
+    "ticker": "EVF",
+    "close_price": 5.710000038146973,
+    "daily_return": -0.008680588324311511,
+    "return_5_days": -0.013816912648208612,
+    "return_30_days": 0.016014262352415765,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

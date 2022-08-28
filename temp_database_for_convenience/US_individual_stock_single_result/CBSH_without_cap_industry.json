@@ -1,0 +1,13 @@
+{
+    "ticker": "CBSH",
+    "close_price": 70.63999938964844,
+    "daily_return": -0.015607618634901899,
+    "return_5_days": -0.037995382050007964,
+    "return_30_days": 0.06465713661169992,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

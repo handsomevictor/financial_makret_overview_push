@@ -1,0 +1,13 @@
+{
+    "ticker": "KPTI",
+    "close_price": 5.119999885559082,
+    "daily_return": -0.10332752165433601,
+    "return_5_days": -0.06398535979108422,
+    "return_30_days": 0.08704879917016206,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

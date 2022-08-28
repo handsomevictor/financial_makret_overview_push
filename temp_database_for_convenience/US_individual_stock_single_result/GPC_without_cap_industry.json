@@ -1,0 +1,13 @@
+{
+    "ticker": "GPC",
+    "close_price": 156.4199981689453,
+    "daily_return": -0.020661175973808232,
+    "return_5_days": -0.021457665333769693,
+    "return_30_days": 0.1290602407196899,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

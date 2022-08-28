@@ -1,0 +1,13 @@
+{
+    "ticker": "EGIO",
+    "close_price": 3.6500000953674316,
+    "daily_return": -0.051948003693320643,
+    "return_5_days": 0.01108038820886037,
+    "return_30_days": 0.7464116006043742,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CRVS",
+    "close_price": 0.9900000095367432,
+    "daily_return": -0.04807687899064572,
+    "return_5_days": -0.10000001083720789,
+    "return_30_days": -0.001009068747491737,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

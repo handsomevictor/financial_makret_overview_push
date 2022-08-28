@@ -1,0 +1,13 @@
+{
+    "ticker": "EDUT",
+    "close_price": 6.769000053405762,
+    "daily_return": -0.008931167054419764,
+    "return_5_days": 0.008792848721813407,
+    "return_30_days": 0.06598427638833759,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

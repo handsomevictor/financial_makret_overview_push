@@ -1,0 +1,13 @@
+{
+    "ticker": "BDCZ",
+    "close_price": 18.50200080871582,
+    "daily_return": -0.012172917196627164,
+    "return_5_days": -0.0036617602167947627,
+    "return_30_days": 0.06682813637756868,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

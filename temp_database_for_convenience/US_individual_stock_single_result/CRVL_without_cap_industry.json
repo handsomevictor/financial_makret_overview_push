@@ -1,0 +1,13 @@
+{
+    "ticker": "CRVL",
+    "close_price": 158.4499969482422,
+    "daily_return": -0.03607499548864135,
+    "return_5_days": -0.075985532446595,
+    "return_30_days": 0.042022882363825786,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

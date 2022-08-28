@@ -1,0 +1,13 @@
+{
+    "ticker": "YUMC",
+    "close_price": 49.45000076293945,
+    "daily_return": -0.011197712005373672,
+    "return_5_days": 0.04855811965514678,
+    "return_30_days": 0.075467621906252,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "UPC",
+    "close_price": 0.5649999976158142,
+    "daily_return": 0.018018000602490147,
+    "return_5_days": -0.07377051743279472,
+    "return_30_days": -0.06919274492648575,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

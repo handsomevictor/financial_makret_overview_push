@@ -1,0 +1,13 @@
+{
+    "ticker": "SYII",
+    "close_price": 40.518001556396484,
+    "daily_return": -0.0296948580149341,
+    "return_5_days": -0.03369817575755374,
+    "return_30_days": 0.05879585838011758,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

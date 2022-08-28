@@ -1,0 +1,13 @@
+{
+    "ticker": "ACTG",
+    "close_price": 4.599999904632568,
+    "daily_return": -0.03361351188145911,
+    "return_5_days": -0.019189797759028182,
+    "return_30_days": -0.06313644652004013,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

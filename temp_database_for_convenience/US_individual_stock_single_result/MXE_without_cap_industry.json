@@ -1,0 +1,13 @@
+{
+    "ticker": "MXE",
+    "close_price": 8.079999923706055,
+    "daily_return": -0.007371058610079473,
+    "return_5_days": -0.00980391240220757,
+    "return_30_days": 0.05620912718668003,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

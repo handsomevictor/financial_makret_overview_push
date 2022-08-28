@@ -1,0 +1,13 @@
+{
+    "ticker": "QPX",
+    "close_price": 23.964000701904297,
+    "daily_return": -0.038401301843341784,
+    "return_5_days": -0.047951962486814104,
+    "return_30_days": 0.05568281482300508,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

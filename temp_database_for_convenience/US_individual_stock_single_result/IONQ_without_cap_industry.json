@@ -1,0 +1,13 @@
+{
+    "ticker": "IONQ",
+    "close_price": 6.190000057220459,
+    "daily_return": -0.09502925158876008,
+    "return_5_days": -0.06495465797161526,
+    "return_30_days": 0.3664458654588765,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

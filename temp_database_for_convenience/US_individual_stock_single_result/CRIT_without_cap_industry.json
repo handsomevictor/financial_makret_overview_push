@@ -1,0 +1,13 @@
+{
+    "ticker": "CRIT",
+    "close_price": 21.034000396728516,
+    "daily_return": -0.013784636649533777,
+    "return_5_days": 0.07043261094484232,
+    "return_30_days": 0.19988588550098507,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

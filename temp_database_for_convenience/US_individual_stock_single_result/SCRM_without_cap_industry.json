@@ -1,0 +1,13 @@
+{
+    "ticker": "SCRM",
+    "close_price": 9.649999618530273,
+    "daily_return": 0.0010372691754565455,
+    "return_5_days": 0.0,
+    "return_30_days": 0.00416232708450015,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

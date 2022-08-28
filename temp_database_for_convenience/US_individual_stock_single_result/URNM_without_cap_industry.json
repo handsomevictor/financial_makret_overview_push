@@ -1,0 +1,13 @@
+{
+    "ticker": "URNM",
+    "close_price": 70.68000030517578,
+    "daily_return": -0.03915167684887322,
+    "return_5_days": 0.13251082323318752,
+    "return_30_days": 0.20061154386898705,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

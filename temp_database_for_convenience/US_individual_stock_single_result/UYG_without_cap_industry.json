@@ -1,0 +1,13 @@
+{
+    "ticker": "UYG",
+    "close_price": 48.54999923706055,
+    "daily_return": -0.05874374731351539,
+    "return_5_days": -0.07435655803907248,
+    "return_30_days": 0.09544222859573548,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BLV",
+    "close_price": 79.93000030517578,
+    "daily_return": -0.0005001990110885535,
+    "return_5_days": 0.0007511901406100918,
+    "return_30_days": -0.011867957617953895,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SPXS",
+    "close_price": 20.90999984741211,
+    "daily_return": 0.10110585041786413,
+    "return_5_days": 0.12057877912105375,
+    "return_30_days": -0.16293033504434817,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

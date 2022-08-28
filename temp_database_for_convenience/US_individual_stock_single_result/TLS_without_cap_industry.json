@@ -1,0 +1,13 @@
+{
+    "ticker": "TLS",
+    "close_price": 9.880000114440918,
+    "daily_return": -0.018867883430121357,
+    "return_5_days": 0.027027051140835257,
+    "return_30_days": 0.3243967914100785,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

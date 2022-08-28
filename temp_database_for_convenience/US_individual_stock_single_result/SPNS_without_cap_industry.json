@@ -1,0 +1,13 @@
+{
+    "ticker": "SPNS",
+    "close_price": 21.739999771118164,
+    "daily_return": -0.03506439820020113,
+    "return_5_days": -0.011818192221901502,
+    "return_30_days": -0.13661638174605273,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

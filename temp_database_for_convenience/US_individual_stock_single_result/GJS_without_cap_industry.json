@@ -1,0 +1,13 @@
+{
+    "ticker": "GJS",
+    "close_price": 21.200000762939453,
+    "daily_return": -0.006094662973820331,
+    "return_5_days": -0.00609466297382022,
+    "return_30_days": 0.005692639452927306,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

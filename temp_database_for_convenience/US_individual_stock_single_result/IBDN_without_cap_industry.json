@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDN",
+    "close_price": 25.0,
+    "daily_return": -0.0007993787928755047,
+    "return_5_days": -0.00039984921192803835,
+    "return_30_days": 0.0012014692619342071,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CACI",
+    "close_price": 275.7799987792969,
+    "daily_return": -0.018716231161743035,
+    "return_5_days": -0.03714829323936897,
+    "return_30_days": -0.028293572630890607,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

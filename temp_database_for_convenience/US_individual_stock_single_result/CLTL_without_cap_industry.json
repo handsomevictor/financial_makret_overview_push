@@ -1,0 +1,13 @@
+{
+    "ticker": "CLTL",
+    "close_price": 105.50499725341797,
+    "daily_return": 4.736733097598922e-05,
+    "return_5_days": -0.0009942558122030265,
+    "return_30_days": -0.0007104051556724444,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

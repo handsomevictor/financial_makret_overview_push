@@ -1,0 +1,13 @@
+{
+    "ticker": "HYUP",
+    "close_price": 40.32600021362305,
+    "daily_return": -0.017565246079891406,
+    "return_5_days": -0.01775666998255565,
+    "return_30_days": 0.0166901654984577,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

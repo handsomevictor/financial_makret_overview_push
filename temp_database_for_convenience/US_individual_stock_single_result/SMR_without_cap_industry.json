@@ -1,0 +1,13 @@
+{
+    "ticker": "SMR",
+    "close_price": 13.800000190734863,
+    "daily_return": -0.06945379219623027,
+    "return_5_days": -0.017793594064493767,
+    "return_30_days": 0.3424125047857671,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MNM",
+    "close_price": 34.97600173950195,
+    "daily_return": -0.050081422341279325,
+    "return_5_days": 0.07048637652333078,
+    "return_30_days": 0.4514068536646143,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EPRF",
+    "close_price": 19.989999771118164,
+    "daily_return": -0.009218914477027162,
+    "return_5_days": -0.021057801350107375,
+    "return_30_days": -0.004977619746649342,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

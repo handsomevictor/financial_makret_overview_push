@@ -1,0 +1,13 @@
+{
+    "ticker": "ALGM",
+    "close_price": 24.40999984741211,
+    "daily_return": -0.04573886160217133,
+    "return_5_days": -0.03897636952702632,
+    "return_30_days": 0.15359168352723218,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

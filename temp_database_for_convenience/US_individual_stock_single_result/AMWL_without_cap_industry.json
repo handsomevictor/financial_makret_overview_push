@@ -1,0 +1,13 @@
+{
+    "ticker": "AMWL",
+    "close_price": 4.53000020980835,
+    "daily_return": -0.03617012901184935,
+    "return_5_days": 0.03661334746895473,
+    "return_30_days": -0.0022025885746032037,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

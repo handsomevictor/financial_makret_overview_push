@@ -1,0 +1,13 @@
+{
+    "ticker": "ACLS",
+    "close_price": 72.29000091552734,
+    "daily_return": -0.1155022886782422,
+    "return_5_days": -0.026003776252127242,
+    "return_30_days": 0.2862989312127955,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

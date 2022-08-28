@@ -1,0 +1,13 @@
+{
+    "ticker": "ARES",
+    "close_price": 75.06999969482422,
+    "daily_return": -0.03916546353724448,
+    "return_5_days": 0.002537425859715725,
+    "return_30_days": 0.23694185851879013,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

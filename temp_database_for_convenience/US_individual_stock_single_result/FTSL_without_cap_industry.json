@@ -1,0 +1,13 @@
+{
+    "ticker": "FTSL",
+    "close_price": 45.5099983215332,
+    "daily_return": -0.002411236583231946,
+    "return_5_days": -0.009360041750758219,
+    "return_30_days": 0.025461857283050726,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

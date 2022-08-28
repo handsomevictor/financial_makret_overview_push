@@ -1,0 +1,13 @@
+{
+    "ticker": "VTIQU",
+    "close_price": 9.75,
+    "daily_return": -0.01415574706398015,
+    "return_5_days": -0.00813834428555038,
+    "return_30_days": -0.010152322598672159,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

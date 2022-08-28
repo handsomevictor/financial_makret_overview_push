@@ -1,0 +1,13 @@
+{
+    "ticker": "PLXS",
+    "close_price": 94.2699966430664,
+    "daily_return": -0.028544973684328512,
+    "return_5_days": -0.013189596486245625,
+    "return_30_days": 0.1871299873525567,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

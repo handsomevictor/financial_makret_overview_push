@@ -1,0 +1,13 @@
+{
+    "ticker": "JCPI",
+    "close_price": 49.0620002746582,
+    "daily_return": -0.00016302058723793866,
+    "return_5_days": 0.00028543342988540665,
+    "return_30_days": 0.014537089231208666,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

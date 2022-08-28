@@ -1,0 +1,13 @@
+{
+    "ticker": "FROG",
+    "close_price": 22.06999969482422,
+    "daily_return": -0.05643436208931252,
+    "return_5_days": -0.04582790766980982,
+    "return_30_days": 0.0004533195432425696,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

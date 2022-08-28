@@ -1,0 +1,13 @@
+{
+    "ticker": "NEAR",
+    "close_price": 49.369998931884766,
+    "daily_return": 0.0004052777787655337,
+    "return_5_days": 0.0004052777787653117,
+    "return_30_days": 0.00304749507236024,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

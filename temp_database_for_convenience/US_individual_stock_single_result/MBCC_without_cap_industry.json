@@ -1,0 +1,13 @@
+{
+    "ticker": "MBCC",
+    "close_price": 23.96500015258789,
+    "daily_return": -0.03444800776587531,
+    "return_5_days": -0.05134189780364973,
+    "return_30_days": 0.03119623014672923,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

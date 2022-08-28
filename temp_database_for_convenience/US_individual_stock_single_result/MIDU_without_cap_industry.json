@@ -1,0 +1,13 @@
+{
+    "ticker": "MIDU",
+    "close_price": 41.66999816894531,
+    "daily_return": -0.08957837552572934,
+    "return_5_days": -0.09373643793388753,
+    "return_30_days": 0.2536099899158415,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

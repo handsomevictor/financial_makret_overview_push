@@ -1,0 +1,13 @@
+{
+    "ticker": "TAXF",
+    "close_price": 50.0,
+    "daily_return": -0.0013980366537020839,
+    "return_5_days": -0.006556761753405471,
+    "return_30_days": -0.009312486810686527,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

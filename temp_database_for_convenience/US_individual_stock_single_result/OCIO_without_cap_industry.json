@@ -1,0 +1,13 @@
+{
+    "ticker": "OCIO",
+    "close_price": 29.142000198364258,
+    "daily_return": -0.015273354950466889,
+    "return_5_days": -0.01961312617741473,
+    "return_30_days": 0.024899774309823375,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

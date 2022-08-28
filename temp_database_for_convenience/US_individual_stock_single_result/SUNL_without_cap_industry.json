@@ -1,0 +1,13 @@
+{
+    "ticker": "SUNL",
+    "close_price": 3.069999933242798,
+    "daily_return": -0.05246915919554329,
+    "return_5_days": -0.04953562999562566,
+    "return_30_days": 0.02675582724110126,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

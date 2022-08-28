@@ -1,0 +1,13 @@
+{
+    "ticker": "MJIN",
+    "close_price": 19.073999404907227,
+    "daily_return": 0.06179017254687946,
+    "return_5_days": -0.028076463444217548,
+    "return_30_days": -0.2528790093262845,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

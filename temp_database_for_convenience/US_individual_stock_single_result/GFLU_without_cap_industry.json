@@ -1,0 +1,13 @@
+{
+    "ticker": "GFLU",
+    "close_price": 65.0,
+    "daily_return": -0.022262383907945993,
+    "return_5_days": -0.011106090364387478,
+    "return_30_days": 0.12456748889233427,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

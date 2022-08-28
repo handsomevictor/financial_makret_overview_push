@@ -1,0 +1,13 @@
+{
+    "ticker": "HEZU",
+    "close_price": 31.450000762939453,
+    "daily_return": -0.03021891868684079,
+    "return_5_days": -0.04086612123128508,
+    "return_30_days": 0.025097798243299163,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

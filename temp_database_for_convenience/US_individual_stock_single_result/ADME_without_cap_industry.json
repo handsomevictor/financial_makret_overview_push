@@ -1,0 +1,13 @@
+{
+    "ticker": "ADME",
+    "close_price": 36.130001068115234,
+    "daily_return": -0.0204424093324187,
+    "return_5_days": -0.02695859084585661,
+    "return_30_days": 0.038576605096900085,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

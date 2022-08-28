@@ -1,0 +1,13 @@
+{
+    "ticker": "CHGG",
+    "close_price": 19.34000015258789,
+    "daily_return": -0.05056458734462532,
+    "return_5_days": -0.08557917251008251,
+    "return_30_days": -0.0041194605248078275,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

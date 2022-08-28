@@ -1,0 +1,13 @@
+{
+    "ticker": "FLEE",
+    "close_price": 22.6200008392334,
+    "daily_return": -0.02876771360911623,
+    "return_5_days": -0.037692489577580646,
+    "return_30_days": 0.016172533991463123,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ANEW",
+    "close_price": 33.4640007019043,
+    "daily_return": -0.03528594998642398,
+    "return_5_days": -0.03828028157016505,
+    "return_30_days": 0.03745040189968507,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

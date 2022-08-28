@@ -1,0 +1,13 @@
+{
+    "ticker": "AIKI",
+    "close_price": 6.0,
+    "daily_return": -0.04610492267278066,
+    "return_5_days": -0.03225803474481759,
+    "return_30_days": -0.04458601918054672,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

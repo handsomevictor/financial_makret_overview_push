@@ -1,0 +1,13 @@
+{
+    "ticker": "UWM",
+    "close_price": 37.72999954223633,
+    "daily_return": -0.06701283819240322,
+    "return_5_days": -0.0607418157314058,
+    "return_30_days": 0.17612211311385306,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

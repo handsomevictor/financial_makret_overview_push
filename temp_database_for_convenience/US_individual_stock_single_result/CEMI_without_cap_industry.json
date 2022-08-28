@@ -1,0 +1,13 @@
+{
+    "ticker": "CEMI",
+    "close_price": 0.6600000262260437,
+    "daily_return": -0.057142803620318094,
+    "return_5_days": -0.2048192295216209,
+    "return_30_days": -0.1749999795109034,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

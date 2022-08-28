@@ -1,0 +1,13 @@
+{
+    "ticker": "SWAN",
+    "close_price": 27.459999084472656,
+    "daily_return": -0.010450483442426828,
+    "return_5_days": -0.017531365477331806,
+    "return_30_days": 0.008446549618172927,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

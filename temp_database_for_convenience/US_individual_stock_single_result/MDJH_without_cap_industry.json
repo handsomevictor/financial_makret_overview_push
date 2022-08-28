@@ -1,0 +1,13 @@
+{
+    "ticker": "MDJH",
+    "close_price": 1.850000023841858,
+    "daily_return": -0.11057687899064572,
+    "return_5_days": -0.10194171105380323,
+    "return_30_days": -0.18141591519978595,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

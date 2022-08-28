@@ -1,0 +1,13 @@
+{
+    "ticker": "ROUS",
+    "close_price": 39.492000579833984,
+    "daily_return": -0.028964780972397963,
+    "return_5_days": -0.03973152975428651,
+    "return_30_days": 0.037352269409213656,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

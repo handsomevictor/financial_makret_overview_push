@@ -1,0 +1,13 @@
+{
+    "ticker": "JCTR",
+    "close_price": 54.9010009765625,
+    "daily_return": -0.0318308514862089,
+    "return_5_days": -0.039974107526474234,
+    "return_30_days": 0.06002859844492403,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

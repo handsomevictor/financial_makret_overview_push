@@ -1,0 +1,13 @@
+{
+    "ticker": "OUSA",
+    "close_price": 41.099998474121094,
+    "daily_return": -0.02905748414192655,
+    "return_5_days": -0.04329610451560373,
+    "return_30_days": 0.007352922614469959,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

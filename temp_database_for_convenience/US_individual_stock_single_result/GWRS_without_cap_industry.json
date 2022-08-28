@@ -1,0 +1,13 @@
+{
+    "ticker": "GWRS",
+    "close_price": 13.789999961853027,
+    "daily_return": -0.017106185009694075,
+    "return_5_days": -0.03566435119436373,
+    "return_30_days": -5.551115123125783e-16,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

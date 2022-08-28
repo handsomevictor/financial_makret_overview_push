@@ -1,0 +1,13 @@
+{
+    "ticker": "XSVM",
+    "close_price": 48.869998931884766,
+    "daily_return": -0.025717721679656247,
+    "return_5_days": -0.026687914300366433,
+    "return_30_days": 0.08359203071651944,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

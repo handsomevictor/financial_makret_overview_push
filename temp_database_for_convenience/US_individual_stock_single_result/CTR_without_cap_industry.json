@@ -1,0 +1,13 @@
+{
+    "ticker": "CTR",
+    "close_price": 31.3799991607666,
+    "daily_return": -0.023950305709705688,
+    "return_5_days": 0.012911543719842156,
+    "return_30_days": 0.19588412478974027,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

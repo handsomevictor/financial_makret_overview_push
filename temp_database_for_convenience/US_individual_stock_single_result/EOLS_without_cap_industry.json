@@ -1,0 +1,13 @@
+{
+    "ticker": "EOLS",
+    "close_price": 9.6899995803833,
+    "daily_return": -0.031000041961669944,
+    "return_5_days": -0.050930504977554025,
+    "return_30_days": -0.24355977650520277,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

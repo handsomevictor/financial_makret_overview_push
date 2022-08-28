@@ -1,0 +1,13 @@
+{
+    "ticker": "PXLW",
+    "close_price": 2.0,
+    "daily_return": -0.03381639396149072,
+    "return_5_days": -0.08256883543354943,
+    "return_30_days": 0.025641000560833627,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

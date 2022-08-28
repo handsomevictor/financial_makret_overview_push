@@ -1,0 +1,13 @@
+{
+    "ticker": "SLQD",
+    "close_price": 48.540000915527344,
+    "daily_return": -0.0022610607790638504,
+    "return_5_days": -0.002466069302528795,
+    "return_30_days": 0.0016508838746618348,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

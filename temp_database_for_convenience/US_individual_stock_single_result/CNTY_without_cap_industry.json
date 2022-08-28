@@ -1,0 +1,13 @@
+{
+    "ticker": "CNTY",
+    "close_price": 7.599999904632568,
+    "daily_return": -0.06862744525137965,
+    "return_5_days": -0.09307878271555226,
+    "return_30_days": 0.02425873672342771,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

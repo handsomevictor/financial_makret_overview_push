@@ -1,0 +1,13 @@
+{
+    "ticker": "OHI",
+    "close_price": 32.79999923706055,
+    "daily_return": -0.006963353034711295,
+    "return_5_days": -0.01619678803407054,
+    "return_30_days": 0.07894735686336452,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AER",
+    "close_price": 45.59000015258789,
+    "daily_return": -0.046832565183228314,
+    "return_5_days": -0.04021052310341289,
+    "return_30_days": 0.13861136638756388,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

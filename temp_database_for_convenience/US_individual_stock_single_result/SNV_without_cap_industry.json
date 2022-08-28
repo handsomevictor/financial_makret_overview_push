@@ -1,0 +1,13 @@
+{
+    "ticker": "SNV",
+    "close_price": 41.369998931884766,
+    "daily_return": -0.03790700158407523,
+    "return_5_days": -0.04765192818287711,
+    "return_30_days": 0.14092666428274403,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

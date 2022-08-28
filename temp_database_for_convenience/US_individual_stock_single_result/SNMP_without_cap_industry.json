@@ -1,0 +1,13 @@
+{
+    "ticker": "SNMP",
+    "close_price": 0.4000000059604645,
+    "daily_return": -0.0697674434722727,
+    "return_5_days": -0.1666666356225801,
+    "return_30_days": -0.024390220854836553,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

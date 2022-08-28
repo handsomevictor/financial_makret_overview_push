@@ -1,0 +1,13 @@
+{
+    "ticker": "THS",
+    "close_price": 46.95000076293945,
+    "daily_return": -0.020037551399084585,
+    "return_5_days": -0.05817447943728893,
+    "return_30_days": 0.056956386724096975,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

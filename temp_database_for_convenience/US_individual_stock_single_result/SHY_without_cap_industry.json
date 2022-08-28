@@ -1,0 +1,13 @@
+{
+    "ticker": "SHY",
+    "close_price": 82.4000015258789,
+    "daily_return": -0.00024261882444376326,
+    "return_5_days": -0.0015751515247882653,
+    "return_30_days": -0.002058836981635115,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

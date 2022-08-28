@@ -1,0 +1,13 @@
+{
+    "ticker": "MMYT",
+    "close_price": 33.529998779296875,
+    "daily_return": 0.0029912794857382963,
+    "return_5_days": 0.016368507831345358,
+    "return_30_days": 0.24093257628582698,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FCN",
+    "close_price": 161.8300018310547,
+    "daily_return": -0.004735573453611863,
+    "return_5_days": -0.0544551118772848,
+    "return_30_days": -0.1374586608960544,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

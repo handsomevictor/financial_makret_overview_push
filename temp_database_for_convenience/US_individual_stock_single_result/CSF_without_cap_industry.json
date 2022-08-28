@@ -1,0 +1,13 @@
+{
+    "ticker": "CSF",
+    "close_price": 56.145999908447266,
+    "daily_return": -0.007056296284702612,
+    "return_5_days": -0.009770738042992999,
+    "return_30_days": 0.015665722653284808,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

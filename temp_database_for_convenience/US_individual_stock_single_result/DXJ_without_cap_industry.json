@@ -1,0 +1,13 @@
+{
+    "ticker": "DXJ",
+    "close_price": 65.26000213623047,
+    "daily_return": -0.013305068967927713,
+    "return_5_days": -0.008809146930744527,
+    "return_30_days": 0.028688580531513574,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

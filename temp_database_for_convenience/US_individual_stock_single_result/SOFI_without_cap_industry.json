@@ -1,0 +1,13 @@
+{
+    "ticker": "SOFI",
+    "close_price": 6.179999828338623,
+    "daily_return": -0.07623321741700095,
+    "return_5_days": -0.02369669781601058,
+    "return_30_days": -0.01748809764412107,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

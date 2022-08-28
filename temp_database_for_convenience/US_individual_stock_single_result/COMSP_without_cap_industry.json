@@ -1,0 +1,13 @@
+{
+    "ticker": "COMSP",
+    "close_price": 1.7999999523162842,
+    "daily_return": -0.019607850775938185,
+    "return_5_days": -0.043570679328272854,
+    "return_30_days": -0.3076923006385035,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

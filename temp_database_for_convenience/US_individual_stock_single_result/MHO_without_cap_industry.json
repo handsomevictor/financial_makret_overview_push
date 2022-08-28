@@ -1,0 +1,13 @@
+{
+    "ticker": "MHO",
+    "close_price": 44.779998779296875,
+    "daily_return": -0.03178381017736487,
+    "return_5_days": -0.0068751690450644665,
+    "return_30_days": 0.021907783915070533,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

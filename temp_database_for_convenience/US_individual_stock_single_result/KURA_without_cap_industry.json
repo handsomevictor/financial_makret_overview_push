@@ -1,0 +1,13 @@
+{
+    "ticker": "KURA",
+    "close_price": 14.15999984741211,
+    "daily_return": -0.06163023828838654,
+    "return_5_days": -0.07269158985435453,
+    "return_30_days": -0.21070237313925855,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

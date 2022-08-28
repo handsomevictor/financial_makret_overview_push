@@ -1,0 +1,13 @@
+{
+    "ticker": "GAL",
+    "close_price": 39.81999969482422,
+    "daily_return": -0.014356480424466245,
+    "return_5_days": -0.01166545569677524,
+    "return_30_days": 0.03214094880553908,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

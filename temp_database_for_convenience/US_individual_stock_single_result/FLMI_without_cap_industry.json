@@ -1,0 +1,13 @@
+{
+    "ticker": "FLMI",
+    "close_price": 23.959999084472656,
+    "daily_return": 0.0016721993332413643,
+    "return_5_days": -0.004156291923916311,
+    "return_30_days": -0.0020825132833205418,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

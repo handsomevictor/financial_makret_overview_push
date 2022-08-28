@@ -1,0 +1,13 @@
+{
+    "ticker": "CLRO",
+    "close_price": 0.6600000262260437,
+    "daily_return": -0.029411736347271344,
+    "return_5_days": -0.08333333333333337,
+    "return_30_days": 0.015384692976462944,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

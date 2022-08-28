@@ -1,0 +1,13 @@
+{
+    "ticker": "SONO",
+    "close_price": 15.3100004196167,
+    "daily_return": -0.026081414786744306,
+    "return_5_days": -0.05493829021038066,
+    "return_30_days": -0.19968629946332062,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

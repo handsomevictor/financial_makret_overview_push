@@ -1,0 +1,13 @@
+{
+    "ticker": "SHLS",
+    "close_price": 25.110000610351562,
+    "daily_return": -0.02333716435188271,
+    "return_5_days": -0.014521151433752877,
+    "return_30_days": 0.551915954063313,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

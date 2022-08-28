@@ -1,0 +1,13 @@
+{
+    "ticker": "PFF",
+    "close_price": 33.66999816894531,
+    "daily_return": -0.010578919284903954,
+    "return_5_days": -0.021221026876537263,
+    "return_30_days": 0.011111079290145875,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

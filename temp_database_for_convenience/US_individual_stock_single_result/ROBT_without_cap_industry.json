@@ -1,0 +1,13 @@
+{
+    "ticker": "ROBT",
+    "close_price": 39.31700134277344,
+    "daily_return": -0.03563892810095726,
+    "return_5_days": -0.03682014608739348,
+    "return_30_days": 0.052917751546448066,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

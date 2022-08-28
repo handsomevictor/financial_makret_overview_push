@@ -1,0 +1,13 @@
+{
+    "ticker": "PRG",
+    "close_price": 18.15999984741211,
+    "daily_return": -0.12143203771733457,
+    "return_5_days": -0.12481928446206692,
+    "return_30_days": 0.034757871046707356,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

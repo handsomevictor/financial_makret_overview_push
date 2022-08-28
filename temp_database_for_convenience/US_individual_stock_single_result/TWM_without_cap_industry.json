@@ -1,0 +1,13 @@
+{
+    "ticker": "TWM",
+    "close_price": 15.260000228881836,
+    "daily_return": 0.06713286890506254,
+    "return_5_days": 0.05678675016116408,
+    "return_30_days": -0.1751351227631437,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

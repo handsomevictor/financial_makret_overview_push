@@ -1,0 +1,13 @@
+{
+    "ticker": "AUGX",
+    "close_price": 1.6449999809265137,
+    "daily_return": -0.07062146968756933,
+    "return_5_days": -0.033490035413283326,
+    "return_30_days": -0.0030303001841678334,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

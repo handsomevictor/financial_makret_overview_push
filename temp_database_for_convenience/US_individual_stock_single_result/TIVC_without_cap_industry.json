@@ -1,0 +1,13 @@
+{
+    "ticker": "TIVC",
+    "close_price": 1.9299999475479126,
+    "daily_return": -0.02030460938141998,
+    "return_5_days": 0.02116400114062511,
+    "return_30_days": -0.1383928842272375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

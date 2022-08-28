@@ -1,0 +1,13 @@
+{
+    "ticker": "TTI",
+    "close_price": 4.079999923706055,
+    "daily_return": -0.030878886760803304,
+    "return_5_days": 0.032911360621013186,
+    "return_30_days": 0.09090906772789631,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

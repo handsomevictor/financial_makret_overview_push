@@ -1,0 +1,13 @@
+{
+    "ticker": "SLYV",
+    "close_price": 78.01000213623047,
+    "daily_return": -0.02972636000360218,
+    "return_5_days": -0.03129264474438642,
+    "return_30_days": 0.07793283371009418,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

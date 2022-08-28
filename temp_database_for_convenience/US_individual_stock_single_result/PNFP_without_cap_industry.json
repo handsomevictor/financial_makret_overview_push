@@ -1,0 +1,13 @@
+{
+    "ticker": "PNFP",
+    "close_price": 82.04000091552734,
+    "daily_return": -0.027385863667827692,
+    "return_5_days": -0.039006697012060276,
+    "return_30_days": 0.1458100930711561,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

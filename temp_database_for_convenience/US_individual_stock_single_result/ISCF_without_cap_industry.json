@@ -1,0 +1,13 @@
+{
+    "ticker": "ISCF",
+    "close_price": 29.889999389648438,
+    "daily_return": -0.02415931411666561,
+    "return_5_days": -0.019356960677454293,
+    "return_30_days": 0.05357767026615656,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

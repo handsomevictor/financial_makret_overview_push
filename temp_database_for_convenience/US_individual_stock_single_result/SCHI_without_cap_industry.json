@@ -1,0 +1,13 @@
+{
+    "ticker": "SCHI",
+    "close_price": 44.939998626708984,
+    "daily_return": -0.006192007661113164,
+    "return_5_days": -0.0057522595540231425,
+    "return_30_days": -0.0008893044894274782,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

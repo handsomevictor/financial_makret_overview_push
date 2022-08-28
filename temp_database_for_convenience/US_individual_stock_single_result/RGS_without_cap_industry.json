@@ -1,0 +1,13 @@
+{
+    "ticker": "RGS",
+    "close_price": 1.5199999809265137,
+    "daily_return": -0.07317073525310203,
+    "return_5_days": -0.03184717825167038,
+    "return_30_days": 0.3944953526423951,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

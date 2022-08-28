@@ -1,0 +1,13 @@
+{
+    "ticker": "NOW",
+    "close_price": 444.69000244140625,
+    "daily_return": -0.04579103575689958,
+    "return_5_days": -0.06628733607038495,
+    "return_30_days": 0.02082091599532454,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RVLV",
+    "close_price": 24.389999389648438,
+    "daily_return": 0.03172588914399088,
+    "return_5_days": 0.034351122500558384,
+    "return_30_days": -0.1033088711203165,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

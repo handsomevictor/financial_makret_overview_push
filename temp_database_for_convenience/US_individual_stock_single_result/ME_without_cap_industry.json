@@ -1,0 +1,13 @@
+{
+    "ticker": "ME",
+    "close_price": 3.4100000858306885,
+    "daily_return": -0.1165802646359827,
+    "return_5_days": 0.024024073260518142,
+    "return_30_days": 0.21352318692848482,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

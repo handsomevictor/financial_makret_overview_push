@@ -1,0 +1,13 @@
+{
+    "ticker": "CFRX",
+    "close_price": 0.2669999897480011,
+    "daily_return": -0.04642861210265925,
+    "return_5_days": -0.09491524875797563,
+    "return_30_days": -0.3862069234836686,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

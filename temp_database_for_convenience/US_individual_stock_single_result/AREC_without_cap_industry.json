@@ -1,0 +1,13 @@
+{
+    "ticker": "AREC",
+    "close_price": 2.9600000381469727,
+    "daily_return": 0.017182113691248002,
+    "return_5_days": 0.23849368544929495,
+    "return_30_days": 0.9096775027145112,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

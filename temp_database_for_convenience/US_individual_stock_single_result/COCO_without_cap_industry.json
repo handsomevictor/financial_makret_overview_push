@@ -1,0 +1,13 @@
+{
+    "ticker": "COCO",
+    "close_price": 14.9399995803833,
+    "daily_return": -0.059193987864194164,
+    "return_5_days": -0.019041363793136812,
+    "return_30_days": 0.27583258170060976,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

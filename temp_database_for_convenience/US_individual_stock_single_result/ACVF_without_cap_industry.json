@@ -1,0 +1,13 @@
+{
+    "ticker": "ACVF",
+    "close_price": 30.489999771118164,
+    "daily_return": -0.03255492296680462,
+    "return_5_days": -0.04209865396794743,
+    "return_30_days": 0.05159689303598625,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

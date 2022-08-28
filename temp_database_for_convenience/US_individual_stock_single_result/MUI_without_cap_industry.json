@@ -1,0 +1,13 @@
+{
+    "ticker": "MUI",
+    "close_price": 12.15999984741211,
+    "daily_return": 0.0,
+    "return_5_days": -0.00491001786461398,
+    "return_30_days": -0.0008217114888371402,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

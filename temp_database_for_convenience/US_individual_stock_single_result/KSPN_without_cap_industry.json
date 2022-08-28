@@ -1,0 +1,13 @@
+{
+    "ticker": "KSPN",
+    "close_price": 2.6700000762939453,
+    "daily_return": -0.07931034879650412,
+    "return_5_days": -0.08561643611917269,
+    "return_30_days": -0.37176468793083595,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

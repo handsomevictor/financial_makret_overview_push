@@ -1,0 +1,13 @@
+{
+    "ticker": "QPFF",
+    "close_price": 36.83399963378906,
+    "daily_return": -0.004728559064006044,
+    "return_5_days": -0.012625671291614071,
+    "return_30_days": 0.016222514966051982,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

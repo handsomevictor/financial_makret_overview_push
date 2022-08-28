@@ -1,0 +1,13 @@
+{
+    "ticker": "PSJ",
+    "close_price": 100.62000274658203,
+    "daily_return": -0.02424359904395812,
+    "return_5_days": -0.029513865254502614,
+    "return_30_days": 0.07753272334669137,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

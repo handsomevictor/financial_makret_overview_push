@@ -1,0 +1,13 @@
+{
+    "ticker": "TKLF",
+    "close_price": 1.649999976158142,
+    "daily_return": -0.01197603679070025,
+    "return_5_days": 0.03773581227671219,
+    "return_30_days": 0.13013694044304058,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

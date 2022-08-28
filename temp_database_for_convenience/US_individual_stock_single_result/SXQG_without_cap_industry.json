@@ -1,0 +1,13 @@
+{
+    "ticker": "SXQG",
+    "close_price": 20.988000869750977,
+    "daily_return": -0.03111438306536507,
+    "return_5_days": -0.038746852534011667,
+    "return_30_days": 0.04824700537109794,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

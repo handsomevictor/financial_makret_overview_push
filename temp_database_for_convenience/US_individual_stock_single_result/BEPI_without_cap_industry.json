@@ -1,0 +1,13 @@
+{
+    "ticker": "BEPI",
+    "close_price": 18.850000381469727,
+    "daily_return": 0.002659635448846842,
+    "return_5_days": 0.011808976415116135,
+    "return_30_days": 0.03514559742854617,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

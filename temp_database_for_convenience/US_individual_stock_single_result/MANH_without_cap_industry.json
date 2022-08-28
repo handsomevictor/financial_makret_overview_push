@@ -1,0 +1,13 @@
+{
+    "ticker": "MANH",
+    "close_price": 142.4499969482422,
+    "daily_return": -0.03977087234601484,
+    "return_5_days": -0.04351034745328919,
+    "return_30_days": 0.2685902198487238,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

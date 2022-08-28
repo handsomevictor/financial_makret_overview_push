@@ -1,0 +1,13 @@
+{
+    "ticker": "FMF",
+    "close_price": 50.5099983215332,
+    "daily_return": 0.013849832013962615,
+    "return_5_days": 0.013239716501791676,
+    "return_30_days": -0.011352550975188724,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

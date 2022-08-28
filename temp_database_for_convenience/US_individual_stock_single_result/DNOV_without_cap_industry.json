@@ -1,0 +1,13 @@
+{
+    "ticker": "DNOV",
+    "close_price": 32.970001220703125,
+    "daily_return": -0.005129697407249001,
+    "return_5_days": -0.010504155982194008,
+    "return_30_days": 0.011970514663283138,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

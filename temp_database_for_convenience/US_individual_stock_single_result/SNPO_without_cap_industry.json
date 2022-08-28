@@ -1,0 +1,13 @@
+{
+    "ticker": "SNPO",
+    "close_price": 11.579999923706055,
+    "daily_return": -0.016977912886139923,
+    "return_5_days": 0.044183928257550464,
+    "return_30_days": 0.0863039483548671,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

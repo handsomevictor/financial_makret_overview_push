@@ -1,0 +1,13 @@
+{
+    "ticker": "LVOL",
+    "close_price": 42.34600067138672,
+    "daily_return": -0.02831576658605439,
+    "return_5_days": -0.0415336704604401,
+    "return_30_days": 0.040186726202557255,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SPXN",
+    "close_price": 86.17900085449219,
+    "daily_return": -0.03260965820168482,
+    "return_5_days": -0.04019469281763055,
+    "return_30_days": 0.05322403561453326,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

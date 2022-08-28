@@ -1,0 +1,13 @@
+{
+    "ticker": "MMP",
+    "close_price": 52.58000183105469,
+    "daily_return": -0.007737305801571948,
+    "return_5_days": 0.013688122494513566,
+    "return_30_days": 0.0713121407788011,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

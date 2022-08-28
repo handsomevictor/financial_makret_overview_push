@@ -1,0 +1,13 @@
+{
+    "ticker": "INTF",
+    "close_price": 23.549999237060547,
+    "daily_return": -0.025248369793218428,
+    "return_5_days": -0.02926632255246331,
+    "return_30_days": 0.024358393715423254,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

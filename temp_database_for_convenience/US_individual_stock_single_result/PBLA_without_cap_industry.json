@@ -1,0 +1,13 @@
+{
+    "ticker": "PBLA",
+    "close_price": 0.6899999976158142,
+    "daily_return": -0.05479454851034116,
+    "return_5_days": -0.18823531969195761,
+    "return_30_days": -0.3783783885374362,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

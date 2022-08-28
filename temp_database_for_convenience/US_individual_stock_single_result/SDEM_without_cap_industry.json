@@ -1,0 +1,13 @@
+{
+    "ticker": "SDEM",
+    "close_price": 8.185999870300293,
+    "daily_return": -0.012545246324643822,
+    "return_5_days": 0.011616394288466836,
+    "return_30_days": 0.03620250271902803,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

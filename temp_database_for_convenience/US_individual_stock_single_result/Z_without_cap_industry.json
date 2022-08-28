@@ -1,0 +1,13 @@
+{
+    "ticker": "Z",
+    "close_price": 34.060001373291016,
+    "daily_return": -0.047272688858992606,
+    "return_5_days": 0.013087520981119649,
+    "return_30_days": -0.013039610841168225,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

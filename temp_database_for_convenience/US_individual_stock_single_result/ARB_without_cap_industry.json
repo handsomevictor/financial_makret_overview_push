@@ -1,0 +1,13 @@
+{
+    "ticker": "ARB",
+    "close_price": 26.886999130249023,
+    "daily_return": -0.004553909573880244,
+    "return_5_days": -0.005290475499955871,
+    "return_30_days": 0.02270818539108821,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FISI",
+    "close_price": 26.469999313354492,
+    "daily_return": -0.008614286255160364,
+    "return_5_days": -0.048184112848650984,
+    "return_30_days": 0.0437696638914844,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

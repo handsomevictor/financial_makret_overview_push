@@ -1,0 +1,13 @@
+{
+    "ticker": "SYRS",
+    "close_price": 0.824999988079071,
+    "daily_return": -0.07303370636019069,
+    "return_5_days": -0.007220195632349324,
+    "return_30_days": -0.11764707382312578,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

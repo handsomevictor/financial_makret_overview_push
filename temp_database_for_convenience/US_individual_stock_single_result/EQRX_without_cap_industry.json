@@ -1,0 +1,13 @@
+{
+    "ticker": "EQRX",
+    "close_price": 4.960000038146973,
+    "daily_return": -0.007999992370605447,
+    "return_5_days": -0.10144926534683552,
+    "return_30_days": 0.012244886043220049,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

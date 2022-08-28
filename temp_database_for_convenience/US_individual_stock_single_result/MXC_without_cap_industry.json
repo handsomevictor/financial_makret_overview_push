@@ -1,0 +1,13 @@
+{
+    "ticker": "MXC",
+    "close_price": 19.0,
+    "daily_return": -0.005756180368302943,
+    "return_5_days": 0.04567968740896955,
+    "return_30_days": 0.21483373292327101,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

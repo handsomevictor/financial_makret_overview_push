@@ -1,0 +1,13 @@
+{
+    "ticker": "BEEM",
+    "close_price": 14.15999984741211,
+    "daily_return": -0.05157404166272761,
+    "return_5_days": -0.06287225882532188,
+    "return_30_days": 0.057505562684569744,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

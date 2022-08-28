@@ -1,0 +1,13 @@
+{
+    "ticker": "PNI",
+    "close_price": 9.289999961853027,
+    "daily_return": 0.0,
+    "return_5_days": 0.008686202320814518,
+    "return_30_days": -0.03229170909358148,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

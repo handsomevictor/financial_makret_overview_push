@@ -1,0 +1,13 @@
+{
+    "ticker": "CDNS",
+    "close_price": 177.8300018310547,
+    "daily_return": -0.0377164561991431,
+    "return_5_days": -0.054296914590621026,
+    "return_30_days": 0.1326751708984375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "GAZ",
+    "close_price": 48.314998626708984,
+    "daily_return": -0.0021685160307104434,
+    "return_5_days": -0.0025805120467340403,
+    "return_30_days": 0.3218878149173554,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

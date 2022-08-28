@@ -1,0 +1,13 @@
+{
+    "ticker": "HYHG",
+    "close_price": 59.08000183105469,
+    "daily_return": -0.010053593683863604,
+    "return_5_days": -0.006891911848113219,
+    "return_30_days": 0.0235296317975473,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

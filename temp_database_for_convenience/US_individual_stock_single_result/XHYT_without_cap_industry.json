@@ -1,0 +1,13 @@
+{
+    "ticker": "XHYT",
+    "close_price": 35.9630012512207,
+    "daily_return": -0.015763983429521122,
+    "return_5_days": -0.015413669996424018,
+    "return_30_days": 0.003992226622412609,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

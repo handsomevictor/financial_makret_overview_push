@@ -1,0 +1,13 @@
+{
+    "ticker": "GTIP",
+    "close_price": 52.41999816894531,
+    "daily_return": -0.00038139699251416026,
+    "return_5_days": 0.0011458662699455058,
+    "return_30_days": 0.009630200647792408,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

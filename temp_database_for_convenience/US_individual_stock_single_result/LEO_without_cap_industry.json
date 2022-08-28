@@ -1,0 +1,13 @@
+{
+    "ticker": "LEO",
+    "close_price": 6.840000152587891,
+    "daily_return": -0.004366773430994009,
+    "return_5_days": -0.012986966519493937,
+    "return_30_days": 0.00884954880867661,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

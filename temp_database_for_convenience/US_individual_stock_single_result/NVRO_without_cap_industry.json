@@ -1,0 +1,13 @@
+{
+    "ticker": "NVRO",
+    "close_price": 44.66999816894531,
+    "daily_return": -0.033744351908672976,
+    "return_5_days": -0.07572943354944406,
+    "return_30_days": 0.04589087161056038,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

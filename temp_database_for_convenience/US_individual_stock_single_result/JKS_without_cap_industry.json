@@ -1,0 +1,13 @@
+{
+    "ticker": "JKS",
+    "close_price": 59.779998779296875,
+    "daily_return": 0.019266789838349174,
+    "return_5_days": 0.013735756178166358,
+    "return_30_days": -0.05813774019910667,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

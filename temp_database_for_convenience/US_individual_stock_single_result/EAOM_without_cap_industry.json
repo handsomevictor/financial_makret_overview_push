@@ -1,0 +1,13 @@
+{
+    "ticker": "EAOM",
+    "close_price": 25.270000457763672,
+    "daily_return": -0.012582002504475831,
+    "return_5_days": -0.015390627066944607,
+    "return_30_days": 0.015104096233227837,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BFLY",
+    "close_price": 5.650000095367432,
+    "daily_return": -0.07377046168859613,
+    "return_5_days": 0.012544833802593525,
+    "return_30_days": 0.5270270331224622,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

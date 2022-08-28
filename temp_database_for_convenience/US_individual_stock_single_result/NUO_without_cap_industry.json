@@ -1,0 +1,13 @@
+{
+    "ticker": "NUO",
+    "close_price": 12.770000457763672,
+    "daily_return": -0.002343729103450043,
+    "return_5_days": -0.01995389720151841,
+    "return_30_days": -0.004676497762990617,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

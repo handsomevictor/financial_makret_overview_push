@@ -1,0 +1,13 @@
+{
+    "ticker": "PEAR",
+    "close_price": 1.690000057220459,
+    "daily_return": 0.16551724251328692,
+    "return_5_days": 0.10457522145268627,
+    "return_30_days": 0.22463772685506278,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

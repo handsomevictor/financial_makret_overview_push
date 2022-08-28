@@ -1,0 +1,13 @@
+{
+    "ticker": "HYXF",
+    "close_price": 44.95000076293945,
+    "daily_return": -0.015334079727086669,
+    "return_5_days": -0.014470507313747438,
+    "return_30_days": 0.004469290791943026,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

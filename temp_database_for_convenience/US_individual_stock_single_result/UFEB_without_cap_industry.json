@@ -1,0 +1,13 @@
+{
+    "ticker": "UFEB",
+    "close_price": 26.75200080871582,
+    "daily_return": -0.01254976587597445,
+    "return_5_days": -0.016795870161493198,
+    "return_30_days": 0.02044557573831618,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "QQQE",
+    "close_price": 67.9000015258789,
+    "daily_return": -0.0378347482002489,
+    "return_5_days": -0.040282663945174546,
+    "return_30_days": 0.04493687316243755,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

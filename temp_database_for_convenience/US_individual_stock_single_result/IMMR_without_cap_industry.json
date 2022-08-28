@@ -1,0 +1,13 @@
+{
+    "ticker": "IMMR",
+    "close_price": 5.619999885559082,
+    "daily_return": -0.01576184798364688,
+    "return_5_days": 0.06238183857953361,
+    "return_30_days": 0.03499080354088924,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

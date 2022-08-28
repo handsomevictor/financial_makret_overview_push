@@ -1,0 +1,13 @@
+{
+    "ticker": "LESL",
+    "close_price": 14.579999923706055,
+    "daily_return": -0.02735155795012567,
+    "return_5_days": -0.07721520584184682,
+    "return_30_days": -0.03507609166205272,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

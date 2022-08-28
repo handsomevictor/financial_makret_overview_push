@@ -1,0 +1,13 @@
+{
+    "ticker": "HROW",
+    "close_price": 9.210000038146973,
+    "daily_return": -0.04460583919725947,
+    "return_5_days": 0.07593453115267268,
+    "return_30_days": 0.261643807877741,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

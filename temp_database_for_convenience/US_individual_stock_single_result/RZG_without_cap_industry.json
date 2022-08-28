@@ -1,0 +1,13 @@
+{
+    "ticker": "RZG",
+    "close_price": 126.66999816894531,
+    "daily_return": -0.03511578803486837,
+    "return_5_days": -0.037315728786914915,
+    "return_30_days": 0.061688045938790514,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

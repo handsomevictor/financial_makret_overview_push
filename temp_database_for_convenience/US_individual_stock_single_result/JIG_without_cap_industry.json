@@ -1,0 +1,13 @@
+{
+    "ticker": "JIG",
+    "close_price": 53.38199996948242,
+    "daily_return": -0.02971805755168222,
+    "return_5_days": -0.03174200103331426,
+    "return_30_days": 0.030142807484697443,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

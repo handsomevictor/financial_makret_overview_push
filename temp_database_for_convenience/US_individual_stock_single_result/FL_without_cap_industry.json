@@ -1,0 +1,13 @@
+{
+    "ticker": "FL",
+    "close_price": 36.75,
+    "daily_return": -0.0318756352385583,
+    "return_5_days": -0.042719442972709354,
+    "return_30_days": 0.43835620733380365,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

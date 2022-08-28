@@ -1,0 +1,13 @@
+{
+    "ticker": "BOIL",
+    "close_price": 105.68000030517578,
+    "daily_return": -0.021481478655779762,
+    "return_5_days": -0.01057950827868992,
+    "return_30_days": 0.6343952106378248,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

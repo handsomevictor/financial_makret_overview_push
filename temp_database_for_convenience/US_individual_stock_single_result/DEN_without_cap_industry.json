@@ -1,0 +1,13 @@
+{
+    "ticker": "DEN",
+    "close_price": 91.41999816894531,
+    "daily_return": -0.011675695470861447,
+    "return_5_days": -0.011141144546208404,
+    "return_30_days": 0.5587382061466253,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

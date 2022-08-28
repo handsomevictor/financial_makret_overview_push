@@ -1,0 +1,13 @@
+{
+    "ticker": "PWSC",
+    "close_price": 17.959999084472656,
+    "daily_return": -0.011557566920171514,
+    "return_5_days": 0.0033519255430749517,
+    "return_30_days": 0.34029847729522,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

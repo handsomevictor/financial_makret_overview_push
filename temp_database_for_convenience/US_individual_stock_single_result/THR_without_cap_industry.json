@@ -1,0 +1,13 @@
+{
+    "ticker": "THR",
+    "close_price": 18.34000015258789,
+    "daily_return": -0.03065538696444159,
+    "return_5_days": -0.030655386964441478,
+    "return_30_days": 0.30626782068504665,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

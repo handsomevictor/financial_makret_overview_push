@@ -1,0 +1,13 @@
+{
+    "ticker": "MUC",
+    "close_price": 12.260000228881836,
+    "daily_return": -0.010492341472046696,
+    "return_5_days": -0.02543717780325294,
+    "return_30_days": 0.013223127468420248,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

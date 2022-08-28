@@ -1,0 +1,13 @@
+{
+    "ticker": "GPCO",
+    "close_price": 10.199999809265137,
+    "daily_return": -0.0029325253483475366,
+    "return_5_days": -0.0029325253483475366,
+    "return_30_days": 0.004926127351136067,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MATV",
+    "close_price": 24.459999084472656,
+    "daily_return": -0.014901362882411728,
+    "return_5_days": 0.01367591940254198,
+    "return_30_days": 0.23162126549600637,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "DMB",
+    "close_price": 13.829999923706055,
+    "daily_return": -0.007178778124834029,
+    "return_5_days": 0.011704451098692559,
+    "return_30_days": -0.0007225598823396018,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

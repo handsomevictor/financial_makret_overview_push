@@ -1,0 +1,13 @@
+{
+    "ticker": "RIOT",
+    "close_price": 6.789999961853027,
+    "daily_return": -0.08613726531252186,
+    "return_5_days": -0.06344828112372014,
+    "return_30_days": 0.21903047622847027,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

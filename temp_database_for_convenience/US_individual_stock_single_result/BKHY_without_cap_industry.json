@@ -1,0 +1,13 @@
+{
+    "ticker": "BKHY",
+    "close_price": 47.58000183105469,
+    "daily_return": -0.015110733212272742,
+    "return_5_days": -0.014090271739091942,
+    "return_30_days": 0.007410592678608108,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

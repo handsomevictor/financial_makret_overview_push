@@ -1,0 +1,13 @@
+{
+    "ticker": "NULC",
+    "close_price": 34.07899856567383,
+    "daily_return": -0.03275347223725977,
+    "return_5_days": -0.04140531001672709,
+    "return_30_days": 0.060461690403667445,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

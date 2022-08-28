@@ -1,0 +1,13 @@
+{
+    "ticker": "DPG",
+    "close_price": 14.890000343322754,
+    "daily_return": -0.026797375313785343,
+    "return_5_days": -0.012599441733724293,
+    "return_30_days": 0.11452101242239343,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

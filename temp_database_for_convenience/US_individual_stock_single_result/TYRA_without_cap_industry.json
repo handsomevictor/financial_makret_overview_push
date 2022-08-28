@@ -1,0 +1,13 @@
+{
+    "ticker": "TYRA",
+    "close_price": 7.769999980926514,
+    "daily_return": -0.22916666272456054,
+    "return_5_days": -0.2536022963671697,
+    "return_30_days": -0.19481862299701214,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

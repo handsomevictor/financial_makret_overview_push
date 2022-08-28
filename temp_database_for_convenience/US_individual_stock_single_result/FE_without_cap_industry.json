@@ -1,0 +1,13 @@
+{
+    "ticker": "FE",
+    "close_price": 40.189998626708984,
+    "daily_return": -0.018079689053244863,
+    "return_5_days": -0.02616917419615672,
+    "return_30_days": 0.08331448217372639,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

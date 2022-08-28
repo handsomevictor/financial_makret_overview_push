@@ -1,0 +1,13 @@
+{
+    "ticker": "FSS",
+    "close_price": 40.95000076293945,
+    "daily_return": -0.03895798694283126,
+    "return_5_days": -0.03510833911365441,
+    "return_30_days": 0.14003348692659,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

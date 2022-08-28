@@ -1,0 +1,13 @@
+{
+    "ticker": "EMX",
+    "close_price": 1.8799999952316284,
+    "daily_return": -0.01570679157803201,
+    "return_5_days": -0.005291000285156278,
+    "return_30_days": 0.010752677834782842,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

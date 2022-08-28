@@ -1,0 +1,13 @@
+{
+    "ticker": "GBLD",
+    "close_price": 18.441999435424805,
+    "daily_return": -0.014376623415015333,
+    "return_5_days": -0.0324747579765714,
+    "return_30_days": 0.011629177098842147,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "UIHC",
+    "close_price": 1.2000000476837158,
+    "daily_return": 0.016949238156632296,
+    "return_5_days": 0.176470656983444,
+    "return_30_days": -0.09774435416307936,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

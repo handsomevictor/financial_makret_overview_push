@@ -1,0 +1,13 @@
+{
+    "ticker": "ANGL",
+    "close_price": 27.889999389648438,
+    "daily_return": -0.016225784325631154,
+    "return_5_days": -0.008179283169297058,
+    "return_30_days": 0.016769926334483598,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

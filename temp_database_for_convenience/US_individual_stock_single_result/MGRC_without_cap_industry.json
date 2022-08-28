@@ -1,0 +1,13 @@
+{
+    "ticker": "MGRC",
+    "close_price": 84.66000366210938,
+    "daily_return": -0.014320593040862306,
+    "return_5_days": -0.02644888968005943,
+    "return_30_days": 0.09890969179682618,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

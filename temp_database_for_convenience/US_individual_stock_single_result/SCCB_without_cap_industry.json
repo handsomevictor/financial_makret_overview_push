@@ -1,0 +1,13 @@
+{
+    "ticker": "SCCB",
+    "close_price": 25.09000015258789,
+    "daily_return": -0.002385664685981781,
+    "return_5_days": -0.0004382167897289957,
+    "return_30_days": 0.01414714570362774,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

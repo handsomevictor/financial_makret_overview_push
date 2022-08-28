@@ -1,0 +1,13 @@
+{
+    "ticker": "DTC",
+    "close_price": 4.559999942779541,
+    "daily_return": -0.03184715374788938,
+    "return_5_days": -0.10059175771481565,
+    "return_30_days": 0.08313536851810199,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

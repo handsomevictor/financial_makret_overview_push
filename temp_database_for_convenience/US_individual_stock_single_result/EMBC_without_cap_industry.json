@@ -1,0 +1,13 @@
+{
+    "ticker": "EMBC",
+    "close_price": 31.81999969482422,
+    "daily_return": -0.0354653508370768,
+    "return_5_days": -0.04816035284637121,
+    "return_30_days": 0.2527559123115224,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

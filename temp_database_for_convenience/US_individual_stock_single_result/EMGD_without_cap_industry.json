@@ -1,0 +1,13 @@
+{
+    "ticker": "EMGD",
+    "close_price": 19.770000457763672,
+    "daily_return": -0.008326663290026959,
+    "return_5_days": 0.010219763211971156,
+    "return_30_days": 0.03232214603074546,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

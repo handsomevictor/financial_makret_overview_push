@@ -1,0 +1,13 @@
+{
+    "ticker": "FLEH",
+    "close_price": 25.420000076293945,
+    "daily_return": -0.024596167737770847,
+    "return_5_days": -0.0325772196393036,
+    "return_30_days": 0.021868493231350428,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

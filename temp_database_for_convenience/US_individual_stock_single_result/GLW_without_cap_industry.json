@@ -1,0 +1,13 @@
+{
+    "ticker": "GLW",
+    "close_price": 34.63999938964844,
+    "daily_return": -0.033751719274022096,
+    "return_5_days": -0.04282949145835602,
+    "return_30_days": 0.04337345161498973,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

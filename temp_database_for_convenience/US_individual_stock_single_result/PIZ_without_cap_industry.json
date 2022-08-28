@@ -1,0 +1,13 @@
+{
+    "ticker": "PIZ",
+    "close_price": 28.5,
+    "daily_return": -0.023303642839755834,
+    "return_5_days": -0.018256998763672816,
+    "return_30_days": 0.05633804609166759,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

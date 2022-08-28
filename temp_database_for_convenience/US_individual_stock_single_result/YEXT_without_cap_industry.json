@@ -1,0 +1,13 @@
+{
+    "ticker": "YEXT",
+    "close_price": 4.409999847412109,
+    "daily_return": -0.032894758168790506,
+    "return_5_days": -0.04956897105423674,
+    "return_30_days": -0.026490144997436516,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

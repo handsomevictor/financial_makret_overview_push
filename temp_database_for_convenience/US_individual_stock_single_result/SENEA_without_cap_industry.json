@@ -1,0 +1,13 @@
+{
+    "ticker": "SENEA",
+    "close_price": 55.040000915527344,
+    "daily_return": 0.005113268856402398,
+    "return_5_days": -0.029619186689343158,
+    "return_30_days": -0.03759394584383735,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

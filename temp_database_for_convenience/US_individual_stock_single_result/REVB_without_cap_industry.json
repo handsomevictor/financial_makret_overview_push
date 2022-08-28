@@ -1,0 +1,13 @@
+{
+    "ticker": "REVB",
+    "close_price": 0.41600000858306885,
+    "daily_return": -0.00952375816379658,
+    "return_5_days": -0.10537633250828982,
+    "return_30_days": -0.6895522401337636,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

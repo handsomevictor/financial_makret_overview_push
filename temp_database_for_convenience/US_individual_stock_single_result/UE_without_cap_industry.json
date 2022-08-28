@@ -1,0 +1,13 @@
+{
+    "ticker": "UE",
+    "close_price": 16.270000457763672,
+    "daily_return": -0.02282277294130919,
+    "return_5_days": -0.03613736571863824,
+    "return_30_days": 0.11898215271316781,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

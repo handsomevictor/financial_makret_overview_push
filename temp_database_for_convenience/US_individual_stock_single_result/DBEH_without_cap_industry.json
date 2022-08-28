@@ -1,0 +1,13 @@
+{
+    "ticker": "DBEH",
+    "close_price": 26.81399917602539,
+    "daily_return": -0.013465825056694136,
+    "return_5_days": -0.01357471143309641,
+    "return_30_days": 0.026373174201928418,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

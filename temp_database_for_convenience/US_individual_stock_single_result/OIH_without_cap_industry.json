@@ -1,0 +1,13 @@
+{
+    "ticker": "OIH",
+    "close_price": 249.83999633789062,
+    "daily_return": -0.023948137881700693,
+    "return_5_days": 0.0512939312201961,
+    "return_30_days": 0.21629906958605027,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

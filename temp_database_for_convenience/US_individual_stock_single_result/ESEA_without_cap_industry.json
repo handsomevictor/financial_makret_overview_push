@@ -1,0 +1,13 @@
+{
+    "ticker": "ESEA",
+    "close_price": 22.860000610351562,
+    "daily_return": -0.01930497065211445,
+    "return_5_days": -0.050664423472586484,
+    "return_30_days": 0.06226766375855086,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

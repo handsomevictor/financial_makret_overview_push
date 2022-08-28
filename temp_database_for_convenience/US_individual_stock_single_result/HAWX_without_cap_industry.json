@@ -1,0 +1,13 @@
+{
+    "ticker": "HAWX",
+    "close_price": 29.202999114990234,
+    "daily_return": -0.016767149087605238,
+    "return_5_days": -0.014743599313663314,
+    "return_30_days": 0.03154361235937686,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

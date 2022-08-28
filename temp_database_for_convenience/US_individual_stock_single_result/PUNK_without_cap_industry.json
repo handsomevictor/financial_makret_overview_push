@@ -1,0 +1,13 @@
+{
+    "ticker": "PUNK",
+    "close_price": 19.464000701904297,
+    "daily_return": -0.03490671317137384,
+    "return_5_days": -0.036721701250065686,
+    "return_30_days": 0.06192373831581155,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

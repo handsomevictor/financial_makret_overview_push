@@ -1,0 +1,13 @@
+{
+    "ticker": "ALNY",
+    "close_price": 210.94000244140625,
+    "daily_return": -0.013930421433463125,
+    "return_5_days": -0.023290266013179406,
+    "return_30_days": 0.45085634037374467,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

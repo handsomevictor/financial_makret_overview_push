@@ -1,0 +1,13 @@
+{
+    "ticker": "CLINR",
+    "close_price": 0.15000000596046448,
+    "daily_return": 0.0,
+    "return_5_days": -0.14285709420028914,
+    "return_30_days": -3.3306690738754696e-16,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

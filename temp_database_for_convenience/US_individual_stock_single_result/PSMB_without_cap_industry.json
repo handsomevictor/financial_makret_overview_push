@@ -1,0 +1,13 @@
+{
+    "ticker": "PSMB",
+    "close_price": 15.164999961853027,
+    "daily_return": -0.01704695881564877,
+    "return_5_days": -0.022873742618548687,
+    "return_30_days": 0.03472979119504016,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

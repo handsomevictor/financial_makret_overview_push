@@ -1,0 +1,13 @@
+{
+    "ticker": "BXP",
+    "close_price": 81.51000213623047,
+    "daily_return": -0.031027110379613143,
+    "return_5_days": -0.056050913994412754,
+    "return_30_days": -0.06728455537802047,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

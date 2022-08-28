@@ -1,0 +1,13 @@
+{
+    "ticker": "TSLX",
+    "close_price": 19.229999542236328,
+    "daily_return": -0.010802519858648219,
+    "return_5_days": 0.004702202479513584,
+    "return_30_days": 0.030546607689457383,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IBKR",
+    "close_price": 61.61000061035156,
+    "daily_return": -0.03128927533825754,
+    "return_5_days": -0.01722759674614649,
+    "return_30_days": 0.124064934622939,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

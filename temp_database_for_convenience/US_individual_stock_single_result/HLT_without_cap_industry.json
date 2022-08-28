@@ -1,0 +1,13 @@
+{
+    "ticker": "HLT",
+    "close_price": 131.08999633789062,
+    "daily_return": -0.03666964598780087,
+    "return_5_days": -0.032403303277903195,
+    "return_30_days": 0.12678356940257252,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CDW",
+    "close_price": 179.69000244140625,
+    "daily_return": -0.04369340990825721,
+    "return_5_days": -0.043492464480933135,
+    "return_30_days": 0.1155800002103049,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

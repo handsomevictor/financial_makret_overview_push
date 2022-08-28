@@ -1,0 +1,13 @@
+{
+    "ticker": "SOXQ",
+    "close_price": 22.079999923706055,
+    "daily_return": -0.05600681915888128,
+    "return_5_days": -0.05195366871001661,
+    "return_30_days": 0.04298534927409503,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

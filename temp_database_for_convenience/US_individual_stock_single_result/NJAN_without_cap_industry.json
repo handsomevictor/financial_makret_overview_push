@@ -1,0 +1,13 @@
+{
+    "ticker": "NJAN",
+    "close_price": 37.933998107910156,
+    "daily_return": -0.02335165172435294,
+    "return_5_days": -0.026459695640710934,
+    "return_30_days": 0.04139898628704919,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

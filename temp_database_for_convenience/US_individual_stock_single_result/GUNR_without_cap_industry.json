@@ -1,0 +1,13 @@
+{
+    "ticker": "GUNR",
+    "close_price": 43.2400016784668,
+    "daily_return": -0.013461102622401855,
+    "return_5_days": 0.025130425927496924,
+    "return_30_days": 0.16330384203765846,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

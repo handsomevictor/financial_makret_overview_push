@@ -1,0 +1,13 @@
+{
+    "ticker": "JOBY",
+    "close_price": 5.420000076293945,
+    "daily_return": -0.018115924814873563,
+    "return_5_days": -0.03900705592192455,
+    "return_30_days": 0.030418220617857372,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

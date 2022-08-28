@@ -1,0 +1,13 @@
+{
+    "ticker": "MDIA",
+    "close_price": 2.950000047683716,
+    "daily_return": -0.03594767880809413,
+    "return_5_days": 0.05357146354354225,
+    "return_30_days": 0.11827143096516868,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

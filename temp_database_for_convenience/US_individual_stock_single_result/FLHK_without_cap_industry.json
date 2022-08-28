@@ -1,0 +1,13 @@
+{
+    "ticker": "FLHK",
+    "close_price": 21.420000076293945,
+    "daily_return": -0.008792250286499437,
+    "return_5_days": -0.0013986333603001055,
+    "return_30_days": -0.01652895312222369,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

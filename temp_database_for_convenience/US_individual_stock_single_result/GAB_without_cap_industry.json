@@ -1,0 +1,13 @@
+{
+    "ticker": "GAB",
+    "close_price": 6.28000020980835,
+    "daily_return": -0.009463713144399533,
+    "return_5_days": -0.003174600050953713,
+    "return_30_days": 0.06984673462394997,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

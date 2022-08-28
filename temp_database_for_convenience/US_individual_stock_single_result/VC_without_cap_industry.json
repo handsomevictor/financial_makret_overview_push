@@ -1,0 +1,13 @@
+{
+    "ticker": "VC",
+    "close_price": 121.51000213623047,
+    "daily_return": -0.030556839903962407,
+    "return_5_days": -0.03509884982318745,
+    "return_30_days": 0.12613531434554592,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

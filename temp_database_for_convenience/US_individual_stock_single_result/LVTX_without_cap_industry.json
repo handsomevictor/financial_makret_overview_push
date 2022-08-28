@@ -1,0 +1,13 @@
+{
+    "ticker": "LVTX",
+    "close_price": 2.509999990463257,
+    "daily_return": 0.016194316352106997,
+    "return_5_days": -0.00790513089038769,
+    "return_30_days": -0.056391011476448316,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

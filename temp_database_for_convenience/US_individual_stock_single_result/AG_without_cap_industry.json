@@ -1,0 +1,13 @@
+{
+    "ticker": "AG",
+    "close_price": 7.599999904632568,
+    "daily_return": -0.050000011920928955,
+    "return_5_days": 0.02150535566956502,
+    "return_30_days": 0.10304790303415867,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

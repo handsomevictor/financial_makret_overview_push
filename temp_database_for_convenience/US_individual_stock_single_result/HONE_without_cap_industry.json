@@ -1,0 +1,13 @@
+{
+    "ticker": "HONE",
+    "close_price": 13.920000076293945,
+    "daily_return": -0.005003552249423948,
+    "return_5_days": -0.043298976369917086,
+    "return_30_days": -0.014164292555673308,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

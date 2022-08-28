@@ -1,0 +1,13 @@
+{
+    "ticker": "DYLD",
+    "close_price": 22.63800048828125,
+    "daily_return": -0.003302023412027011,
+    "return_5_days": -0.004047472758814785,
+    "return_30_days": -0.005578691182611006,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

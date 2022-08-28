@@ -1,0 +1,13 @@
+{
+    "ticker": "AFIB",
+    "close_price": 1.2999999523162842,
+    "daily_return": -0.04411769217479555,
+    "return_5_days": -0.057971045791138875,
+    "return_30_days": 0.1504424405327618,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

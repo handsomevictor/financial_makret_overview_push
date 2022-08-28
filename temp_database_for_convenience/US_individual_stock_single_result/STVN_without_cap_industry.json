@@ -1,0 +1,13 @@
+{
+    "ticker": "STVN",
+    "close_price": 17.350000381469727,
+    "daily_return": -0.015881950801221678,
+    "return_5_days": 0.04770537083362081,
+    "return_30_days": 0.16677878379266753,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

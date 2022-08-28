@@ -1,0 +1,13 @@
+{
+    "ticker": "EFZ",
+    "close_price": 21.190000534057617,
+    "daily_return": 0.026150165883914722,
+    "return_5_days": 0.03164554963767796,
+    "return_30_days": -0.022601465139333476,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

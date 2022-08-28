@@ -1,0 +1,13 @@
+{
+    "ticker": "KLTR",
+    "close_price": 2.4000000953674316,
+    "daily_return": 0.034482829494228984,
+    "return_5_days": 0.016949238156632296,
+    "return_30_days": 0.17647065698344422,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

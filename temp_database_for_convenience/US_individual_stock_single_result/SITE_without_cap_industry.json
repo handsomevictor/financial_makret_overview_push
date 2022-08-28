@@ -1,0 +1,13 @@
+{
+    "ticker": "SITE",
+    "close_price": 129.63999938964844,
+    "daily_return": -0.05627135475214051,
+    "return_5_days": -0.0620071406404098,
+    "return_30_days": 0.055013039447658674,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

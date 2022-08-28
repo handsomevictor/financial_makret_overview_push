@@ -1,0 +1,13 @@
+{
+    "ticker": "APXH",
+    "close_price": 8.300000190734863,
+    "daily_return": -0.029012650353198666,
+    "return_5_days": -0.04101670169716576,
+    "return_30_days": -0.05023459361515126,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

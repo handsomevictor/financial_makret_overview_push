@@ -1,0 +1,13 @@
+{
+    "ticker": "FCX",
+    "close_price": 32.189998626708984,
+    "daily_return": -0.03129704874673478,
+    "return_5_days": 0.05714278555576513,
+    "return_30_days": 0.24670793985956774,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

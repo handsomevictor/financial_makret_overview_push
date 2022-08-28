@@ -1,0 +1,13 @@
+{
+    "ticker": "SRTY",
+    "close_price": 49.869998931884766,
+    "daily_return": 0.09942676941904582,
+    "return_5_days": 0.08342385953559961,
+    "return_30_days": -0.2590996770060402,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

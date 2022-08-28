@@ -1,0 +1,13 @@
+{
+    "ticker": "ADX",
+    "close_price": 16.469999313354492,
+    "daily_return": -0.027745053476131543,
+    "return_5_days": -0.03458383183221858,
+    "return_30_days": 0.055769160936572026,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

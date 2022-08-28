@@ -1,0 +1,13 @@
+{
+    "ticker": "DSGN",
+    "close_price": 20.270000457763672,
+    "daily_return": -0.0740063488832643,
+    "return_5_days": -0.07018343269920113,
+    "return_30_days": 0.09924077389944475,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

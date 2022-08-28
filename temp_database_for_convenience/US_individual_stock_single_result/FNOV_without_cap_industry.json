@@ -1,0 +1,13 @@
+{
+    "ticker": "FNOV",
+    "close_price": 36.060001373291016,
+    "daily_return": -0.017465432456908903,
+    "return_5_days": -0.019522500054972802,
+    "return_30_days": 0.04096309518958918,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

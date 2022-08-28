@@ -1,0 +1,13 @@
+{
+    "ticker": "PNR",
+    "close_price": 46.18000030517578,
+    "daily_return": -0.053494580065091446,
+    "return_5_days": -0.06480357824466931,
+    "return_30_days": -0.0006491837241121567,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AIO",
+    "close_price": 17.729999542236328,
+    "daily_return": -0.024752516797886925,
+    "return_5_days": -0.02098294065755202,
+    "return_30_days": 0.07650274932678247,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

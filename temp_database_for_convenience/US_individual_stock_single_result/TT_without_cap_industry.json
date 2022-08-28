@@ -1,0 +1,13 @@
+{
+    "ticker": "TT",
+    "close_price": 155.57000732421875,
+    "daily_return": -0.03510505832230537,
+    "return_5_days": -0.04972206374577659,
+    "return_30_days": 0.20075648545656954,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AVRE",
+    "close_price": 46.11399841308594,
+    "daily_return": -0.020726305719672378,
+    "return_5_days": -0.03547381115852777,
+    "return_30_days": 0.033019691836718934,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CHIE",
+    "close_price": 16.770000457763672,
+    "daily_return": -0.02500001663385365,
+    "return_5_days": 0.07293668170030765,
+    "return_30_days": 0.19871341902268735,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

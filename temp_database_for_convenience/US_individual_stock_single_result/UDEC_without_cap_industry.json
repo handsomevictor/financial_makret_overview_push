@@ -1,0 +1,13 @@
+{
+    "ticker": "UDEC",
+    "close_price": 28.28700065612793,
+    "daily_return": -0.010701911357686278,
+    "return_5_days": -0.015248032011318635,
+    "return_30_days": 0.012745727091056702,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "QRTEP",
+    "close_price": 60.529998779296875,
+    "daily_return": -0.011109301018569662,
+    "return_5_days": -0.0814871414604329,
+    "return_30_days": 0.15515261482202036,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

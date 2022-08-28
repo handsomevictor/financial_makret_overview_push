@@ -1,0 +1,13 @@
+{
+    "ticker": "TIPT",
+    "close_price": 12.020000457763672,
+    "daily_return": -0.009068397002427897,
+    "return_5_days": -0.004142438966422413,
+    "return_30_days": 0.08483759391066936,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

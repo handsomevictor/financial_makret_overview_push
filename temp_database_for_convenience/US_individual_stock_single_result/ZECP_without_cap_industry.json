@@ -1,0 +1,13 @@
+{
+    "ticker": "ZECP",
+    "close_price": 23.78499984741211,
+    "daily_return": -0.027596045066454633,
+    "return_5_days": -0.038368215153003926,
+    "return_30_days": 0.04682888713459343,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

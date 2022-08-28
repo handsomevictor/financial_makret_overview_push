@@ -1,0 +1,13 @@
+{
+    "ticker": "WBIF",
+    "close_price": 29.673999786376953,
+    "daily_return": -0.026187986758223425,
+    "return_5_days": -0.02841988198943801,
+    "return_30_days": 0.014495719192374024,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "APDN",
+    "close_price": 3.1700000762939453,
+    "daily_return": -0.09943179162757931,
+    "return_5_days": -0.2287104687796392,
+    "return_30_days": 2.5222224003003015,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

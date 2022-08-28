@@ -1,0 +1,13 @@
+{
+    "ticker": "FIVG",
+    "close_price": 33.7400016784668,
+    "daily_return": -0.03847245563552759,
+    "return_5_days": -0.0436507129851087,
+    "return_30_days": 0.039433229516215196,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FLJH",
+    "close_price": 30.469999313354492,
+    "daily_return": -0.01576332020365101,
+    "return_5_days": -0.01496787388129861,
+    "return_30_days": 0.02925277729778397,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

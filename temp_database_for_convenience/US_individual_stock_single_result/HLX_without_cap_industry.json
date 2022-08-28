@@ -1,0 +1,13 @@
+{
+    "ticker": "HLX",
+    "close_price": 4.389999866485596,
+    "daily_return": -0.02227169481740643,
+    "return_5_days": 0.07073169965817772,
+    "return_30_days": 0.7081711986452639,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

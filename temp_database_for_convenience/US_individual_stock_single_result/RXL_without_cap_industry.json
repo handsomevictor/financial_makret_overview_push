@@ -1,0 +1,13 @@
+{
+    "ticker": "RXL",
+    "close_price": 85.83999633789062,
+    "daily_return": -0.056392270132728184,
+    "return_5_days": -0.08251391002728836,
+    "return_30_days": -0.04928568537506195,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

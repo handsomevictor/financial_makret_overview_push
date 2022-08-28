@@ -1,0 +1,13 @@
+{
+    "ticker": "DAT",
+    "close_price": 25.573999404907227,
+    "daily_return": -0.032460647222755434,
+    "return_5_days": -0.013348791295072715,
+    "return_30_days": 0.09356023925945967,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

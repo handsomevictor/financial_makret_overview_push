@@ -1,0 +1,13 @@
+{
+    "ticker": "NID",
+    "close_price": 13.5,
+    "daily_return": -0.0014793237490008382,
+    "return_5_days": 0.003717486352707633,
+    "return_30_days": 0.02505694167003547,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

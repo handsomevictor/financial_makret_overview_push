@@ -1,0 +1,13 @@
+{
+    "ticker": "DMS",
+    "close_price": 1.2000000476837158,
+    "daily_return": -0.0361445437046628,
+    "return_5_days": -0.0697673773881593,
+    "return_30_days": -0.024390220263873053,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

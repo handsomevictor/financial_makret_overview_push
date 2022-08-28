@@ -1,0 +1,13 @@
+{
+    "ticker": "JRE",
+    "close_price": 24.607999801635742,
+    "daily_return": -0.023763276604966466,
+    "return_5_days": -0.038261620965314935,
+    "return_30_days": 0.05081563631719632,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

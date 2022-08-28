@@ -1,0 +1,13 @@
+{
+    "ticker": "THD",
+    "close_price": 70.55000305175781,
+    "daily_return": -0.019457872909869223,
+    "return_5_days": -0.0011325811237560268,
+    "return_30_days": 0.07398387014350538,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

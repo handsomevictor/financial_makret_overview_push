@@ -1,0 +1,13 @@
+{
+    "ticker": "BGT",
+    "close_price": 11.609999656677246,
+    "daily_return": -0.012755150449418995,
+    "return_5_days": -0.020253225068902148,
+    "return_30_days": 0.02743358059379175,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

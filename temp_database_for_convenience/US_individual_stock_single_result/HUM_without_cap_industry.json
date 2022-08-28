@@ -1,0 +1,13 @@
+{
+    "ticker": "HUM",
+    "close_price": 486.7099914550781,
+    "daily_return": -0.017283497382187374,
+    "return_5_days": -0.026307354622986612,
+    "return_30_days": -0.0017024594398337145,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

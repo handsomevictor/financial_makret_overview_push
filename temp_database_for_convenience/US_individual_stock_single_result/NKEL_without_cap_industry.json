@@ -1,0 +1,13 @@
+{
+    "ticker": "NKEL",
+    "close_price": 32.347999572753906,
+    "daily_return": -0.08417087977909077,
+    "return_5_days": -0.08830076686372879,
+    "return_30_days": 0.04961223000424808,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

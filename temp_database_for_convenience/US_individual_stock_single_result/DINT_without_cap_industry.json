@@ -1,0 +1,13 @@
+{
+    "ticker": "DINT",
+    "close_price": 16.844999313354492,
+    "daily_return": -0.014508927201504651,
+    "return_5_days": 0.016596235582078345,
+    "return_30_days": 0.049467241220117586,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

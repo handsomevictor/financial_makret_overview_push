@@ -1,0 +1,13 @@
+{
+    "ticker": "AAON",
+    "close_price": 59.0,
+    "daily_return": -0.03262832634368318,
+    "return_5_days": -0.03830478455696107,
+    "return_30_days": 0.09299741571571829,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

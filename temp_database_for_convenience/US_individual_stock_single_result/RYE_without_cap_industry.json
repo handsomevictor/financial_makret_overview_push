@@ -1,0 +1,13 @@
+{
+    "ticker": "RYE",
+    "close_price": 71.19000244140625,
+    "daily_return": -0.013031954080203079,
+    "return_5_days": 0.042313312745511755,
+    "return_30_days": 0.20968571431164262,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

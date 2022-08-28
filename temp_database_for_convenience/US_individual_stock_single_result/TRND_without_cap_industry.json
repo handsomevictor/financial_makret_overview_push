@@ -1,0 +1,13 @@
+{
+    "ticker": "TRND",
+    "close_price": 27.351999282836914,
+    "daily_return": -0.010204873974810513,
+    "return_5_days": -0.012741405588927446,
+    "return_30_days": -0.0006942021438315349,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

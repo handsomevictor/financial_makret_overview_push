@@ -1,0 +1,13 @@
+{
+    "ticker": "IFV",
+    "close_price": 18.200000762939453,
+    "daily_return": -0.013015171592587471,
+    "return_5_days": 0.0027548840473876623,
+    "return_30_days": 0.05998839150080215,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

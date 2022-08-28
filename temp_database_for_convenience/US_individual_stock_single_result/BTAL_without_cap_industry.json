@@ -1,0 +1,13 @@
+{
+    "ticker": "BTAL",
+    "close_price": 19.579999923706055,
+    "daily_return": 0.025130865583752104,
+    "return_5_days": -0.003562325505503061,
+    "return_30_days": -0.07159792403778342,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

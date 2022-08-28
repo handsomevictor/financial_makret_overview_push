@@ -1,0 +1,13 @@
+{
+    "ticker": "MGIC",
+    "close_price": 17.940000534057617,
+    "daily_return": -0.020207479119427885,
+    "return_5_days": 0.0039171623691556245,
+    "return_30_days": -0.037553587902988905,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

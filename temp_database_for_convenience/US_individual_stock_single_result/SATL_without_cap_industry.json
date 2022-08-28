@@ -1,0 +1,13 @@
+{
+    "ticker": "SATL",
+    "close_price": 4.599999904632568,
+    "daily_return": 0.02222220102945971,
+    "return_5_days": 0.05504581737815495,
+    "return_30_days": 0.18251922379983676,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

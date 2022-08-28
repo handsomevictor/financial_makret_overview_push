@@ -1,0 +1,13 @@
+{
+    "ticker": "PPL",
+    "close_price": 29.790000915527344,
+    "daily_return": -0.01812785874404932,
+    "return_5_days": -0.03310608789664393,
+    "return_30_days": 0.08209226925221746,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

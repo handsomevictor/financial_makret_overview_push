@@ -1,0 +1,13 @@
+{
+    "ticker": "IGD",
+    "close_price": 5.5,
+    "daily_return": -0.017857126131349377,
+    "return_5_days": -0.019607866469959268,
+    "return_30_days": 0.007326000288198742,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ANIK",
+    "close_price": 23.0,
+    "daily_return": -0.014567272937665021,
+    "return_5_days": -0.0017361507785527142,
+    "return_30_days": -0.007765327989905257,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

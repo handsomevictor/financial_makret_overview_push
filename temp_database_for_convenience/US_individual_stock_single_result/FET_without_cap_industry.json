@@ -1,0 +1,13 @@
+{
+    "ticker": "FET",
+    "close_price": 28.40999984741211,
+    "daily_return": 0.0038869474670342186,
+    "return_5_days": 0.07817834672181045,
+    "return_30_days": 0.6498258408976543,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LQD",
+    "close_price": 111.11000061035156,
+    "daily_return": -0.005993900306513589,
+    "return_5_days": -0.004390661921766625,
+    "return_30_days": -0.006438354725155748,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

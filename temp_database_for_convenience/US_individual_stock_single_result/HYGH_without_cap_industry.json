@@ -1,0 +1,13 @@
+{
+    "ticker": "HYGH",
+    "close_price": 82.20999908447266,
+    "daily_return": -0.015118854654879388,
+    "return_5_days": -0.009780588980192628,
+    "return_30_days": 0.01078281754506527,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

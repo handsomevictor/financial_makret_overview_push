@@ -1,0 +1,13 @@
+{
+    "ticker": "MRTX",
+    "close_price": 76.2300033569336,
+    "daily_return": -0.026063541249858102,
+    "return_5_days": -0.015116255114725585,
+    "return_30_days": 0.27007668736318924,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "WBII",
+    "close_price": 21.44499969482422,
+    "daily_return": -0.019119112578232178,
+    "return_5_days": -0.019881146372362934,
+    "return_30_days": 0.0025713093382506713,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

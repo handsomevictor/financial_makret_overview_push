@@ -1,0 +1,13 @@
+{
+    "ticker": "SHM",
+    "close_price": 47.06999969482422,
+    "daily_return": -0.000636916778529395,
+    "return_5_days": -0.0019084001882760937,
+    "return_30_days": -0.009469712933598329,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

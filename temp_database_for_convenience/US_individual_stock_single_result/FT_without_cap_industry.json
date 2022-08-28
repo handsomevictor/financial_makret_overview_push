@@ -1,0 +1,13 @@
+{
+    "ticker": "FT",
+    "close_price": 7.71999979019165,
+    "daily_return": -0.003870994813980566,
+    "return_5_days": -0.012787772285749455,
+    "return_30_days": 0.043243201445976265,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

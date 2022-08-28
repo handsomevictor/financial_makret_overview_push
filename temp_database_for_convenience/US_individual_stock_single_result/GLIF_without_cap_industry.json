@@ -1,0 +1,13 @@
+{
+    "ticker": "GLIF",
+    "close_price": 27.655000686645508,
+    "daily_return": -0.01908275428901418,
+    "return_5_days": -0.017793701102429504,
+    "return_30_days": 0.05348372501395793,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

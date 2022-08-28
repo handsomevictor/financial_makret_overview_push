@@ -1,0 +1,13 @@
+{
+    "ticker": "JHI",
+    "close_price": 14.100000381469727,
+    "daily_return": -0.011913109379156017,
+    "return_5_days": -0.021512801472933774,
+    "return_30_days": 0.050670663286879414,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

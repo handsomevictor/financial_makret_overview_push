@@ -1,0 +1,13 @@
+{
+    "ticker": "QS",
+    "close_price": 10.979999542236328,
+    "daily_return": -0.05344834645210972,
+    "return_5_days": -0.03345071531032673,
+    "return_30_days": 0.09471583594785593,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

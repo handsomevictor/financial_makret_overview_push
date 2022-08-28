@@ -1,0 +1,13 @@
+{
+    "ticker": "ARGD",
+    "close_price": 23.860000610351562,
+    "daily_return": 0.007176026697405469,
+    "return_5_days": 0.012733495382411197,
+    "return_30_days": 0.06995522092657502,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

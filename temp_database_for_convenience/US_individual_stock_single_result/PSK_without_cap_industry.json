@@ -1,0 +1,13 @@
+{
+    "ticker": "PSK",
+    "close_price": 36.349998474121094,
+    "daily_return": -0.008726471524485024,
+    "return_5_days": -0.01968725245105607,
+    "return_30_days": -0.005744061577726112,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

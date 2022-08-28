@@ -1,0 +1,13 @@
+{
+    "ticker": "XHYE",
+    "close_price": 37.60300064086914,
+    "daily_return": -0.015782877575240106,
+    "return_5_days": -0.008019649207268498,
+    "return_30_days": 0.028528425284471748,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

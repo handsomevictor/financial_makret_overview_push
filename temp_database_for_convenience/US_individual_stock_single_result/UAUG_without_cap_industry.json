@@ -1,0 +1,13 @@
+{
+    "ticker": "UAUG",
+    "close_price": 26.799999237060547,
+    "daily_return": -0.011726557751278288,
+    "return_5_days": -0.015212811573668494,
+    "return_30_days": -0.00538134939342827,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

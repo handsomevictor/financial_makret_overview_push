@@ -1,0 +1,13 @@
+{
+    "ticker": "CRI",
+    "close_price": 76.94000244140625,
+    "daily_return": -0.043153849803121536,
+    "return_5_days": -0.05929818339444903,
+    "return_30_days": -0.014474154705201858,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

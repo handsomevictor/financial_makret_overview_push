@@ -1,0 +1,13 @@
+{
+    "ticker": "TDTF",
+    "close_price": 25.610000610351562,
+    "daily_return": -0.002725844781633846,
+    "return_5_days": 0.000390633934875817,
+    "return_30_days": 0.010256419130939554,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

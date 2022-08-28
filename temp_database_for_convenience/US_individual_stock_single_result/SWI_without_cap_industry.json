@@ -1,0 +1,13 @@
+{
+    "ticker": "SWI",
+    "close_price": 9.350000381469727,
+    "daily_return": -0.02604166563186383,
+    "return_5_days": -0.06030145118562813,
+    "return_30_days": -0.1269840944755547,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

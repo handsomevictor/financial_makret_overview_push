@@ -1,0 +1,13 @@
+{
+    "ticker": "MNP",
+    "close_price": 12.670000076293945,
+    "daily_return": -0.006274503820082766,
+    "return_5_days": -0.013239881173964352,
+    "return_30_days": -0.012470759810097709,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

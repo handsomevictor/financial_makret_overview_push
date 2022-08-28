@@ -1,0 +1,13 @@
+{
+    "ticker": "AMPL",
+    "close_price": 15.670000076293945,
+    "daily_return": -0.044512168244900785,
+    "return_5_days": -0.020624995231628196,
+    "return_30_days": 0.07181943905293808,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

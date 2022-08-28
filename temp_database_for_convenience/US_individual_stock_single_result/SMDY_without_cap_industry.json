@@ -1,0 +1,13 @@
+{
+    "ticker": "SMDY",
+    "close_price": 36.207000732421875,
+    "daily_return": -0.030550467317784102,
+    "return_5_days": -0.03308760458684579,
+    "return_30_days": 0.07487009815385015,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

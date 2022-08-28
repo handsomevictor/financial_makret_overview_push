@@ -1,0 +1,13 @@
+{
+    "ticker": "FFIC",
+    "close_price": 21.229999542236328,
+    "daily_return": -0.020304593101453605,
+    "return_5_days": -0.057700892356374545,
+    "return_30_days": -0.0009411980124078845,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

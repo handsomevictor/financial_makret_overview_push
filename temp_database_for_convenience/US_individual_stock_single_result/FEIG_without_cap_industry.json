@@ -1,0 +1,13 @@
+{
+    "ticker": "FEIG",
+    "close_price": 41.926998138427734,
+    "daily_return": -0.0031384477857449022,
+    "return_5_days": -0.0043458197404739884,
+    "return_30_days": -0.006516315057732092,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

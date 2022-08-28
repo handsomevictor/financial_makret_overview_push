@@ -1,0 +1,13 @@
+{
+    "ticker": "TWI",
+    "close_price": 15.369999885559082,
+    "daily_return": -0.05415385319636423,
+    "return_5_days": -0.009026456560719653,
+    "return_30_days": 0.07784008687665245,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

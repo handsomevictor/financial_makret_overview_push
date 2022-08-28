@@ -1,0 +1,13 @@
+{
+    "ticker": "WPRT",
+    "close_price": 1.149999976158142,
+    "daily_return": -0.025423705697709242,
+    "return_5_days": 0.04545450112051319,
+    "return_30_days": 0.10576924840374158,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

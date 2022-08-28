@@ -1,0 +1,13 @@
+{
+    "ticker": "FVRR",
+    "close_price": 36.119998931884766,
+    "daily_return": -0.07360868486874317,
+    "return_5_days": -0.004958686197216511,
+    "return_30_days": 0.15880650765078097,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

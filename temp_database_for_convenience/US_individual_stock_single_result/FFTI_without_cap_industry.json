@@ -1,0 +1,13 @@
+{
+    "ticker": "FFTI",
+    "close_price": 21.274999618530273,
+    "daily_return": -0.0016424142791765517,
+    "return_5_days": -0.0028122553792865324,
+    "return_30_days": -0.0009392090956565902,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

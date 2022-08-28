@@ -1,0 +1,13 @@
+{
+    "ticker": "PNRG",
+    "close_price": 88.94999694824219,
+    "daily_return": 0.006221667566400191,
+    "return_5_days": 0.08647848985147055,
+    "return_30_days": 0.16778257957878373,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

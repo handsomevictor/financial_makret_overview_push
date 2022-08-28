@@ -1,0 +1,13 @@
+{
+    "ticker": "HAYN",
+    "close_price": 42.869998931884766,
+    "daily_return": -0.03597936237684374,
+    "return_5_days": -0.02346247285178249,
+    "return_30_days": 0.3784565403873097,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

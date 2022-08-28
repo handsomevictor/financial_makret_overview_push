@@ -1,0 +1,13 @@
+{
+    "ticker": "CCU",
+    "close_price": 11.130000114440918,
+    "daily_return": -0.01154530300163481,
+    "return_5_days": 0.04901041230820535,
+    "return_30_days": -0.013297838836983655,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

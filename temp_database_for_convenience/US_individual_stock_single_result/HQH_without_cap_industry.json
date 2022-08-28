@@ -1,0 +1,13 @@
+{
+    "ticker": "HQH",
+    "close_price": 19.229999542236328,
+    "daily_return": -0.02927813929037193,
+    "return_5_days": -0.04280739690491164,
+    "return_30_days": 0.0010411482934338245,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

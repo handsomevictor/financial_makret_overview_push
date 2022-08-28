@@ -1,0 +1,13 @@
+{
+    "ticker": "CWCO",
+    "close_price": 16.329999923706055,
+    "daily_return": -0.004268274173929054,
+    "return_5_days": 0.027044044999513517,
+    "return_30_days": 0.14596490692674013,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

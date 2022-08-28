@@ -1,0 +1,13 @@
+{
+    "ticker": "SNCY",
+    "close_price": 19.360000610351562,
+    "daily_return": 0.025967130329924704,
+    "return_5_days": 0.038626676195224086,
+    "return_30_days": 0.014675088457291707,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

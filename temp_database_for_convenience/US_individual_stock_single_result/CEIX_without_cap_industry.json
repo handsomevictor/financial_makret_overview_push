@@ -1,0 +1,13 @@
+{
+    "ticker": "CEIX",
+    "close_price": 76.62000274658203,
+    "daily_return": 0.010018483128337419,
+    "return_5_days": 0.06033767618954289,
+    "return_30_days": 0.3437390763147503,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

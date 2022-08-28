@@ -1,0 +1,13 @@
+{
+    "ticker": "BFTR",
+    "close_price": 27.159000396728516,
+    "daily_return": -0.046282927250089756,
+    "return_5_days": -0.03912963087927657,
+    "return_30_days": 0.08766524403560116,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

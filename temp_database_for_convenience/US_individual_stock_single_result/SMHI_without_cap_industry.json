@@ -1,0 +1,13 @@
+{
+    "ticker": "SMHI",
+    "close_price": 6.559999942779541,
+    "daily_return": -0.016491773951451516,
+    "return_5_days": -0.007564325223133994,
+    "return_30_days": 0.24478177732862805,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

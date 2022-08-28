@@ -1,0 +1,13 @@
+{
+    "ticker": "ISCV",
+    "close_price": 55.130001068115234,
+    "daily_return": -0.02734649309659598,
+    "return_5_days": -0.030936866591941725,
+    "return_30_days": 0.08225368186816762,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

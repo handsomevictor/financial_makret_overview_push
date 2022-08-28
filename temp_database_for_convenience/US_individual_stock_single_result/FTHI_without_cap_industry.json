@@ -1,0 +1,13 @@
+{
+    "ticker": "FTHI",
+    "close_price": 20.6200008392334,
+    "daily_return": -0.02135732615607777,
+    "return_5_days": -0.035095927493978496,
+    "return_30_days": 0.012770148383475899,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

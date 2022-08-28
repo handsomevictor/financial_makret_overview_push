@@ -1,0 +1,13 @@
+{
+    "ticker": "PFES",
+    "close_price": 53.22600173950195,
+    "daily_return": 0.04142128650138033,
+    "return_5_days": 0.09708143729392704,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "XLC",
+    "close_price": 55.15999984741211,
+    "daily_return": -0.031941026841798226,
+    "return_5_days": -0.04385506742108913,
+    "return_30_days": -0.004511820983367998,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

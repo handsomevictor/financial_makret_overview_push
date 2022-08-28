@@ -1,0 +1,13 @@
+{
+    "ticker": "GFF",
+    "close_price": 32.439998626708984,
+    "daily_return": -0.045882393332088656,
+    "return_5_days": -0.023773726343969126,
+    "return_30_days": 0.24961478315737629,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

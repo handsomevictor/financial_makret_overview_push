@@ -1,0 +1,13 @@
+{
+    "ticker": "BSMU",
+    "close_price": 21.864999771118164,
+    "daily_return": -0.002964000599775418,
+    "return_5_days": -0.009737325784908824,
+    "return_30_days": -0.013312277902763126,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HLN",
+    "close_price": 6.230000019073486,
+    "daily_return": -0.014240530085971814,
+    "return_5_days": 0.04180601993354727,
+    "return_30_days": -1,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

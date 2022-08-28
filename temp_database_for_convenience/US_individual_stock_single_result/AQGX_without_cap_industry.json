@@ -1,0 +1,13 @@
+{
+    "ticker": "AQGX",
+    "close_price": 12.746999740600586,
+    "daily_return": -0.027911246687903568,
+    "return_5_days": -0.03955700420667252,
+    "return_30_days": 0.05216673391848503,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

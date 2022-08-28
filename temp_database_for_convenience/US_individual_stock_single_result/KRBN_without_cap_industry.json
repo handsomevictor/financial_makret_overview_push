@@ -1,0 +1,13 @@
+{
+    "ticker": "KRBN",
+    "close_price": 47.29999923706055,
+    "daily_return": 0.009389641932949333,
+    "return_5_days": -0.08422075818601493,
+    "return_30_days": 0.03320228261891223,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

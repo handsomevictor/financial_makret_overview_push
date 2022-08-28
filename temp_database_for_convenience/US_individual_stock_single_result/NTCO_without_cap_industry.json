@@ -1,0 +1,13 @@
+{
+    "ticker": "NTCO",
+    "close_price": 6.119999885559082,
+    "daily_return": -0.057010770201511796,
+    "return_5_days": 0.10071941520553107,
+    "return_30_days": 0.04615384364582642,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

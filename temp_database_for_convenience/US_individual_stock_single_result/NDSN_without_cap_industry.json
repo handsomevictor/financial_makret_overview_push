@@ -1,0 +1,13 @@
+{
+    "ticker": "NDSN",
+    "close_price": 232.8300018310547,
+    "daily_return": -0.0389648007385589,
+    "return_5_days": -0.0469504751429457,
+    "return_30_days": 0.12115377225380919,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

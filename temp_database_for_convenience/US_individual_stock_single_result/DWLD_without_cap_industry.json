@@ -1,0 +1,13 @@
+{
+    "ticker": "DWLD",
+    "close_price": 24.829999923706055,
+    "daily_return": -0.02459143094234162,
+    "return_5_days": -0.004809652728013147,
+    "return_30_days": 0.04358427638591178,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

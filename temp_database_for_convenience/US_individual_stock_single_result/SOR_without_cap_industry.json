@@ -1,0 +1,13 @@
+{
+    "ticker": "SOR",
+    "close_price": 37.84000015258789,
+    "daily_return": -0.010718950259140159,
+    "return_5_days": -0.017142853179535456,
+    "return_30_days": 0.02519643210567435,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

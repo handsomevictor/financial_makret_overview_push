@@ -1,0 +1,13 @@
+{
+    "ticker": "PCSA",
+    "close_price": 2.994999885559082,
+    "daily_return": -0.03604770612098818,
+    "return_5_days": -0.06987582020247951,
+    "return_30_days": -0.11285546508926214,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

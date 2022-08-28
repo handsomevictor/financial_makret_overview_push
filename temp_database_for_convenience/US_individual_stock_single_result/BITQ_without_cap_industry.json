@@ -1,0 +1,13 @@
+{
+    "ticker": "BITQ",
+    "close_price": 7.539999961853027,
+    "daily_return": -0.07142856303945877,
+    "return_5_days": -0.07028356583898465,
+    "return_30_days": 0.1911532468769055,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

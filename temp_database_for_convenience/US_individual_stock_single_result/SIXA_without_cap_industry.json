@@ -1,0 +1,13 @@
+{
+    "ticker": "SIXA",
+    "close_price": 32.86899948120117,
+    "daily_return": -0.02088174620183647,
+    "return_5_days": -0.02926760517681215,
+    "return_30_days": 0.02625826172339396,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

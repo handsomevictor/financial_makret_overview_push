@@ -1,0 +1,13 @@
+{
+    "ticker": "GENY",
+    "close_price": 40.43000030517578,
+    "daily_return": -0.025548356963339236,
+    "return_5_days": -0.010281473308043743,
+    "return_30_days": 0.03981277549787432,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

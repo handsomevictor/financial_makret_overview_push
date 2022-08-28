@@ -1,0 +1,13 @@
+{
+    "ticker": "WBND",
+    "close_price": 21.18000030517578,
+    "daily_return": -0.003762931460243979,
+    "return_5_days": -0.013507173612172685,
+    "return_30_days": 0.004267432524263981,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

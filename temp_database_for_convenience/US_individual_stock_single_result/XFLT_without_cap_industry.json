@@ -1,0 +1,13 @@
+{
+    "ticker": "XFLT",
+    "close_price": 6.999000072479248,
+    "daily_return": -0.012834989866033597,
+    "return_5_days": -0.022486002564797603,
+    "return_30_days": -0.00014284678867904077,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SPR",
+    "close_price": 32.5,
+    "daily_return": -0.04129797825555137,
+    "return_5_days": 0.013724223576469852,
+    "return_30_days": 0.01151568377169876,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

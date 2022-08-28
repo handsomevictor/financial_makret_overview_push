@@ -1,0 +1,13 @@
+{
+    "ticker": "NH",
+    "close_price": 0.453000009059906,
+    "daily_return": 0.013422846087138396,
+    "return_5_days": -0.15327105261017637,
+    "return_30_days": -0.12884610446952283,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

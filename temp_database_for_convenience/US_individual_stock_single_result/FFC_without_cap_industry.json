@@ -1,0 +1,13 @@
+{
+    "ticker": "FFC",
+    "close_price": 17.540000915527344,
+    "daily_return": -0.005104835480624237,
+    "return_5_days": -0.034140910632943555,
+    "return_30_days": 0.01799195481875082,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

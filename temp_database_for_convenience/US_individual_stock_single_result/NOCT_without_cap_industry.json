@@ -1,0 +1,13 @@
+{
+    "ticker": "NOCT",
+    "close_price": 37.55099868774414,
+    "daily_return": -0.013581015418118625,
+    "return_5_days": -0.014280155283558416,
+    "return_30_days": 0.03703395849701918,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

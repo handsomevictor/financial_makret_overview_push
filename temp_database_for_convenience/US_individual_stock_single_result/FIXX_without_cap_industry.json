@@ -1,0 +1,13 @@
+{
+    "ticker": "FIXX",
+    "close_price": 2.8399999141693115,
+    "daily_return": -0.05647843084138393,
+    "return_5_days": 0.14979752278272884,
+    "return_30_days": 0.24561401307307662,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

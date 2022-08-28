@@ -1,0 +1,13 @@
+{
+    "ticker": "NVVE",
+    "close_price": 2.930000066757202,
+    "daily_return": -0.0487012534624881,
+    "return_5_days": -0.1432748533934911,
+    "return_30_days": -0.25822784015525324,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

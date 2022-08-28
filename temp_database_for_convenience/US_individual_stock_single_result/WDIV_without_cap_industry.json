@@ -1,0 +1,13 @@
+{
+    "ticker": "WDIV",
+    "close_price": 60.7400016784668,
+    "daily_return": -0.013800916902341975,
+    "return_5_days": -0.021742607035004413,
+    "return_30_days": 0.014700986621157375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

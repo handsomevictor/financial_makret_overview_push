@@ -1,0 +1,13 @@
+{
+    "ticker": "FAAR",
+    "close_price": 33.0,
+    "daily_return": 0.011029430670447038,
+    "return_5_days": 0.017764625506352827,
+    "return_30_days": 0.015384615384615552,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

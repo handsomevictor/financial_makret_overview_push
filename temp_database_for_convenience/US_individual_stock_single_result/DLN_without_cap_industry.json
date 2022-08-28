@@ -1,0 +1,13 @@
+{
+    "ticker": "DLN",
+    "close_price": 61.81999969482422,
+    "daily_return": -0.02584304149556338,
+    "return_5_days": -0.03179324710743181,
+    "return_30_days": 0.03969055914378328,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

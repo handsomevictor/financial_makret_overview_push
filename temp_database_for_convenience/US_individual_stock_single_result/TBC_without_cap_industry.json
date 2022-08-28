@@ -1,0 +1,13 @@
+{
+    "ticker": "TBC",
+    "close_price": 24.75,
+    "daily_return": -0.006423117157454805,
+    "return_5_days": -0.018246691835700157,
+    "return_30_days": -0.018246691835699935,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

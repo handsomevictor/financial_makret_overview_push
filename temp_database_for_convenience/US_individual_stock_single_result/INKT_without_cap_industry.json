@@ -1,0 +1,13 @@
+{
+    "ticker": "INKT",
+    "close_price": 2.3499999046325684,
+    "daily_return": -0.05241940058108763,
+    "return_5_days": -0.09615384968074847,
+    "return_30_days": 0.85039365348506,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

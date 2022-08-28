@@ -1,0 +1,13 @@
+{
+    "ticker": "GOVX",
+    "close_price": 1.2000000476837158,
+    "daily_return": -0.0839693892370933,
+    "return_5_days": -0.3063583615875425,
+    "return_30_days": 0.7964073031752865,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

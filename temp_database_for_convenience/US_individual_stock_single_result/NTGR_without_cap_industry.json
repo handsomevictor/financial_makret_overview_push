@@ -1,0 +1,13 @@
+{
+    "ticker": "NTGR",
+    "close_price": 23.8799991607666,
+    "daily_return": -0.03554123828677269,
+    "return_5_days": -0.054257458979540485,
+    "return_30_days": 0.25222860738943154,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

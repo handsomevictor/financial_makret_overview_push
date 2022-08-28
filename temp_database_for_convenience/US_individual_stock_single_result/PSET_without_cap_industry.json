@@ -1,0 +1,13 @@
+{
+    "ticker": "PSET",
+    "close_price": 49.91400146484375,
+    "daily_return": -0.035478232563405765,
+    "return_5_days": -0.04762446841891399,
+    "return_30_days": 0.02492814543912969,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

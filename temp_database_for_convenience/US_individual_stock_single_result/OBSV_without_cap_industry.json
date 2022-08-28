@@ -1,0 +1,13 @@
+{
+    "ticker": "OBSV",
+    "close_price": 0.19300000369548798,
+    "daily_return": -0.13839286724010413,
+    "return_5_days": -0.19583329996094034,
+    "return_30_days": -0.8808641956003678,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

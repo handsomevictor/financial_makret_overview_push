@@ -1,0 +1,13 @@
+{
+    "ticker": "TMP",
+    "close_price": 74.0999984741211,
+    "daily_return": -0.014365547042706428,
+    "return_5_days": -0.053760684659996505,
+    "return_30_days": 0.01367989084642729,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

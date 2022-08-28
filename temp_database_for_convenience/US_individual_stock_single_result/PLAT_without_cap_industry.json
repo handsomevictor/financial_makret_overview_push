@@ -1,0 +1,13 @@
+{
+    "ticker": "PLAT",
+    "close_price": 29.00200080871582,
+    "daily_return": -0.036318276443809694,
+    "return_5_days": -0.03583773662647727,
+    "return_30_days": 0.046663581941444265,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BKSY",
+    "close_price": 2.0899999141693115,
+    "daily_return": -0.058558609353848046,
+    "return_5_days": 0.009661826846140142,
+    "return_30_days": -0.05855860935384816,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

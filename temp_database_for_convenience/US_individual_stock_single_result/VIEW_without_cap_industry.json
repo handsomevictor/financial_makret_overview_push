@@ -1,0 +1,13 @@
+{
+    "ticker": "VIEW",
+    "close_price": 1.8700000047683716,
+    "daily_return": -0.05555556224519009,
+    "return_5_days": -0.13824887602673797,
+    "return_30_days": 0.005376338917391088,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

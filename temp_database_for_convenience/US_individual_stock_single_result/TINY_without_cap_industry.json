@@ -1,0 +1,13 @@
+{
+    "ticker": "TINY",
+    "close_price": 31.360000610351562,
+    "daily_return": -0.04811045983168316,
+    "return_5_days": -0.032128648339104005,
+    "return_30_days": 0.03796383316415519,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

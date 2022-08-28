@@ -1,0 +1,13 @@
+{
+    "ticker": "TAP",
+    "close_price": 53.869998931884766,
+    "daily_return": -0.032333380568793535,
+    "return_5_days": -0.03957926929334643,
+    "return_30_days": -0.08134380128601604,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

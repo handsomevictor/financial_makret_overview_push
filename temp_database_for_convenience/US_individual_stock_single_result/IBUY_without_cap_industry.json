@@ -1,0 +1,13 @@
+{
+    "ticker": "IBUY",
+    "close_price": 46.939998626708984,
+    "daily_return": -0.04515869055316912,
+    "return_5_days": -0.050182105101628904,
+    "return_30_days": 0.0823149592516963,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

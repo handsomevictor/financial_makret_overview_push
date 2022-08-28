@@ -1,0 +1,13 @@
+{
+    "ticker": "HWC",
+    "close_price": 49.459999084472656,
+    "daily_return": -0.019817677727776983,
+    "return_5_days": -0.03567950474535264,
+    "return_30_days": 0.12434637866093579,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

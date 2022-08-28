@@ -1,0 +1,13 @@
+{
+    "ticker": "WIW",
+    "close_price": 10.5600004196167,
+    "daily_return": -0.003773581171086837,
+    "return_5_days": -0.0018903123094116125,
+    "return_30_days": 0.03631019180272488,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

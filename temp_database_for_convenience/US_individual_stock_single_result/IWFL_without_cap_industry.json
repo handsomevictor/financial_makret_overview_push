@@ -1,0 +1,13 @@
+{
+    "ticker": "IWFL",
+    "close_price": 20.65399932861328,
+    "daily_return": -0.06509142616880359,
+    "return_5_days": -0.07991806081916908,
+    "return_30_days": 0.12195115886269048,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

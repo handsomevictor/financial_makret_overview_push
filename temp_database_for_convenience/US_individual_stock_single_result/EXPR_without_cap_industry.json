@@ -1,0 +1,13 @@
+{
+    "ticker": "EXPR",
+    "close_price": 1.9500000476837158,
+    "daily_return": -0.04878044241882984,
+    "return_5_days": -0.12556052421295683,
+    "return_30_days": 0.11428574153355187,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

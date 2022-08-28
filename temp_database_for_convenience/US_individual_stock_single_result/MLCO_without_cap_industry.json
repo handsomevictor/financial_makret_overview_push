@@ -1,0 +1,13 @@
+{
+    "ticker": "MLCO",
+    "close_price": 5.880000114440918,
+    "daily_return": 0.0190641479857927,
+    "return_5_days": 0.09701491939806428,
+    "return_30_days": 0.2123711814560083,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

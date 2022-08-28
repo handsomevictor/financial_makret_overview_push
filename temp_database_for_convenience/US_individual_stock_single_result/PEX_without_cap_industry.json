@@ -1,0 +1,13 @@
+{
+    "ticker": "PEX",
+    "close_price": 27.440000534057617,
+    "daily_return": -0.02452892453944111,
+    "return_5_days": -0.024875581761680032,
+    "return_30_days": 0.028871408157515877,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

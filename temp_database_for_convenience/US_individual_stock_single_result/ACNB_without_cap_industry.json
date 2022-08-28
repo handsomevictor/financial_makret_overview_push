@@ -1,0 +1,13 @@
+{
+    "ticker": "ACNB",
+    "close_price": 35.380001068115234,
+    "daily_return": -0.018585247798189486,
+    "return_5_days": -0.03412503312996262,
+    "return_30_days": 0.1383526755136617,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

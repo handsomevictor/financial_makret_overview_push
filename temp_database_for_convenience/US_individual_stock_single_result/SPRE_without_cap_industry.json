@@ -1,0 +1,13 @@
+{
+    "ticker": "SPRE",
+    "close_price": 22.52199935913086,
+    "daily_return": -0.025991430747437705,
+    "return_5_days": -0.038548555275983,
+    "return_30_days": 0.046999195510464276,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

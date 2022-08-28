@@ -1,0 +1,13 @@
+{
+    "ticker": "RITA",
+    "close_price": 20.722999572753906,
+    "daily_return": -0.022038742309285153,
+    "return_5_days": -0.03551151848244427,
+    "return_30_days": 0.04608784106133701,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AIRTP",
+    "close_price": 23.0,
+    "daily_return": 0.013662382487698688,
+    "return_5_days": 0.021314366451127276,
+    "return_30_days": 0.022222222222222143,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

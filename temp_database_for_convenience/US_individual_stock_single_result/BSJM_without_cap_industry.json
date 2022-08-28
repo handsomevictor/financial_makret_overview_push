@@ -1,0 +1,13 @@
+{
+    "ticker": "BSJM",
+    "close_price": 22.170000076293945,
+    "daily_return": -0.003147468324847913,
+    "return_5_days": -0.0058295589782154655,
+    "return_30_days": 0.0004512738696158536,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

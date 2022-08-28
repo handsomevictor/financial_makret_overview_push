@@ -1,0 +1,13 @@
+{
+    "ticker": "FHS",
+    "close_price": 0.699999988079071,
+    "daily_return": -0.08496731873370122,
+    "return_5_days": -0.06666668256123864,
+    "return_30_days": -0.18981484962762607,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

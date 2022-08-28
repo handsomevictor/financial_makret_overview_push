@@ -1,0 +1,13 @@
+{
+    "ticker": "JHMC",
+    "close_price": 42.83300018310547,
+    "daily_return": -0.03735248429432647,
+    "return_5_days": -0.04716034466269525,
+    "return_30_days": 0.07254104816103024,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

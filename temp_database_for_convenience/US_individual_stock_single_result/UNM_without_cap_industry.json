@@ -1,0 +1,13 @@
+{
+    "ticker": "UNM",
+    "close_price": 38.880001068115234,
+    "daily_return": -0.029455822883783456,
+    "return_5_days": -0.017189086996212577,
+    "return_30_days": 0.2089552628292024,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

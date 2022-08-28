@@ -1,0 +1,13 @@
+{
+    "ticker": "POWWP",
+    "close_price": 26.280000686645508,
+    "daily_return": 0.009216580748085068,
+    "return_5_days": -0.0034129749610771754,
+    "return_30_days": -0.001178219617585352,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

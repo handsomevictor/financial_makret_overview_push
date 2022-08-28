@@ -1,0 +1,13 @@
+{
+    "ticker": "LIDRW",
+    "close_price": 0.2619999945163727,
+    "daily_return": 0.0,
+    "return_5_days": -0.06428573785387715,
+    "return_30_days": -0.06428573785387703,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

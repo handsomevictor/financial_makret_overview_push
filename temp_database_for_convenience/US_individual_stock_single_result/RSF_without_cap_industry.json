@@ -1,0 +1,13 @@
+{
+    "ticker": "RSF",
+    "close_price": 18.5,
+    "daily_return": -0.009105520921223853,
+    "return_5_days": 0.0010822758798212373,
+    "return_30_days": 0.046972264862611635,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

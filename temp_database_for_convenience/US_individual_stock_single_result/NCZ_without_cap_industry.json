@@ -1,0 +1,13 @@
+{
+    "ticker": "NCZ",
+    "close_price": 3.430000066757202,
+    "daily_return": -0.019999980926513672,
+    "return_5_days": -0.025568157573007344,
+    "return_30_days": 0.12091507545636482,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BTEC",
+    "close_price": 36.83100128173828,
+    "daily_return": -0.04277879921856065,
+    "return_5_days": -0.017970931000718227,
+    "return_30_days": 0.05381975615844414,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

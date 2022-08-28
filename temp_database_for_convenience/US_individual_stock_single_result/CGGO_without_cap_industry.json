@@ -1,0 +1,13 @@
+{
+    "ticker": "CGGO",
+    "close_price": 21.139999389648438,
+    "daily_return": -0.03116408408278204,
+    "return_5_days": -0.03382083178709949,
+    "return_30_days": 0.04137931941664075,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

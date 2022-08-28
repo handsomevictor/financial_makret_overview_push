@@ -1,0 +1,13 @@
+{
+    "ticker": "OBNK",
+    "close_price": 41.79999923706055,
+    "daily_return": -0.026095036804897553,
+    "return_5_days": -0.06966394495560824,
+    "return_30_days": 0.05715726528083387,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

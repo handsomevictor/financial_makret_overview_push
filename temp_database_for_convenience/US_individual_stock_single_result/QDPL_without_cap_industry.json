@@ -1,0 +1,13 @@
+{
+    "ticker": "QDPL",
+    "close_price": 30.974000930786133,
+    "daily_return": -0.022254487347762475,
+    "return_5_days": -0.03272745141836042,
+    "return_30_days": 0.054864966567323536,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

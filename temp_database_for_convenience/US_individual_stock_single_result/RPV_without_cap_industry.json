@@ -1,0 +1,13 @@
+{
+    "ticker": "RPV",
+    "close_price": 79.30999755859375,
+    "daily_return": -0.02603466460317916,
+    "return_5_days": -0.022553633778904736,
+    "return_30_days": 0.061713531441584424,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

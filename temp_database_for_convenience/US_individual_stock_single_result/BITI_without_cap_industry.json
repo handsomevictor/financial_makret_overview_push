@@ -1,0 +1,13 @@
+{
+    "ticker": "BITI",
+    "close_price": 37.810001373291016,
+    "daily_return": 0.05115374173323217,
+    "return_5_days": 0.035039765583555926,
+    "return_30_days": -0.004999963860761958,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TEDU",
+    "close_price": 7.980000019073486,
+    "daily_return": 0.16837483282773236,
+    "return_5_days": 0.25867505157963944,
+    "return_30_days": 0.8136363286617383,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

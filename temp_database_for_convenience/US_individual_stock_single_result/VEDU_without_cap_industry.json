@@ -1,0 +1,13 @@
+{
+    "ticker": "VEDU",
+    "close_price": 1.2799999713897705,
+    "daily_return": -0.08571429057997104,
+    "return_5_days": -0.04477616454795874,
+    "return_30_days": 0.049180279813510364,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

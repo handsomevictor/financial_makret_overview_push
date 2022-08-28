@@ -1,0 +1,13 @@
+{
+    "ticker": "SPLV",
+    "close_price": 64.37000274658203,
+    "daily_return": -0.021732526426343046,
+    "return_5_days": -0.03551086594316599,
+    "return_30_days": 0.04141726769799425,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

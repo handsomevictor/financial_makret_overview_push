@@ -1,0 +1,13 @@
+{
+    "ticker": "VMW",
+    "close_price": 118.70999908447266,
+    "daily_return": -0.02456859440219339,
+    "return_5_days": -0.023605878461576024,
+    "return_30_days": 0.07313321403927153,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

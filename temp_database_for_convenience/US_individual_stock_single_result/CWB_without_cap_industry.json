@@ -1,0 +1,13 @@
+{
+    "ticker": "CWB",
+    "close_price": 68.87999725341797,
+    "daily_return": -0.015578161330125018,
+    "return_5_days": -0.010344845351840659,
+    "return_30_days": 0.05757715581360867,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

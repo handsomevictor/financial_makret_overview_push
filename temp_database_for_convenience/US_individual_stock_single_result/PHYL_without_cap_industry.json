@@ -1,0 +1,13 @@
+{
+    "ticker": "PHYL",
+    "close_price": 35.27000045776367,
+    "daily_return": -0.005358111438648727,
+    "return_5_days": -0.010103861901753386,
+    "return_30_days": 0.024099937983476316,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

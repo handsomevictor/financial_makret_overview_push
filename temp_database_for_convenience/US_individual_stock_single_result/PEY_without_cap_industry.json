@@ -1,0 +1,13 @@
+{
+    "ticker": "PEY",
+    "close_price": 20.979999542236328,
+    "daily_return": -0.02054157481281138,
+    "return_5_days": -0.037173076606610955,
+    "return_30_days": 0.02541546828114516,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

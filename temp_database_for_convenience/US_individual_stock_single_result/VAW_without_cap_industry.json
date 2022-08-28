@@ -1,0 +1,13 @@
+{
+    "ticker": "VAW",
+    "close_price": 172.49000549316406,
+    "daily_return": -0.03035580367087576,
+    "return_5_days": -0.010214028436666411,
+    "return_30_days": 0.09705533409839195,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

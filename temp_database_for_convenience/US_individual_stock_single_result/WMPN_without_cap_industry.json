@@ -1,0 +1,13 @@
+{
+    "ticker": "WMPN",
+    "close_price": 11.569999694824219,
+    "daily_return": -0.002586266005079829,
+    "return_5_days": -0.0008635776293370867,
+    "return_30_days": 0.012248415215268649,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

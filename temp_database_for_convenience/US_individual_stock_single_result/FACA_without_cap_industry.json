@@ -1,0 +1,13 @@
+{
+    "ticker": "FACA",
+    "close_price": 9.850000381469727,
+    "daily_return": 0.0010162834071913984,
+    "return_5_days": -0.001014125309907854,
+    "return_30_days": 0.004077467904388676,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

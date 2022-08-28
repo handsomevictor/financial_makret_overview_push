@@ -1,0 +1,13 @@
+{
+    "ticker": "APCX",
+    "close_price": 0.6050000190734863,
+    "daily_return": -0.07492349597837245,
+    "return_5_days": -0.0833333408591721,
+    "return_30_days": -0.13199426700827466,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

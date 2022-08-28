@@ -1,0 +1,13 @@
+{
+    "ticker": "AAIN",
+    "close_price": 24.399999618530273,
+    "daily_return": 0.016666650772094727,
+    "return_5_days": 0.016666650772094505,
+    "return_30_days": 0.00205335672596485,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

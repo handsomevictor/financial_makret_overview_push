@@ -1,0 +1,13 @@
+{
+    "ticker": "JMIN",
+    "close_price": 37.07899856567383,
+    "daily_return": -0.022255669713589388,
+    "return_5_days": -0.030132626862809153,
+    "return_30_days": 0.04433171244070433,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

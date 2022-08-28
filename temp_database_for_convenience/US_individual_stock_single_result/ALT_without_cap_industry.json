@@ -1,0 +1,13 @@
+{
+    "ticker": "ALT",
+    "close_price": 18.450000762939453,
+    "daily_return": -0.01809473847906662,
+    "return_5_days": 0.07517487919569499,
+    "return_30_days": 0.6284202018692033,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

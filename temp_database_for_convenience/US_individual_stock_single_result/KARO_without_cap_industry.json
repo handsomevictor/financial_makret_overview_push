@@ -1,0 +1,13 @@
+{
+    "ticker": "KARO",
+    "close_price": 25.7549991607666,
+    "daily_return": -0.0052143774455171155,
+    "return_5_days": -0.025317916705223986,
+    "return_30_days": 0.20344845011540258,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

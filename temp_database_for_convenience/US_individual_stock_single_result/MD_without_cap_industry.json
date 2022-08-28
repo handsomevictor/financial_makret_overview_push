@@ -1,0 +1,13 @@
+{
+    "ticker": "MD",
+    "close_price": 18.520000457763672,
+    "daily_return": -0.04830414547444761,
+    "return_5_days": -0.05702642396593338,
+    "return_30_days": -0.21492156261253892,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

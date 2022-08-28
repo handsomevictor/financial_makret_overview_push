@@ -1,0 +1,13 @@
+{
+    "ticker": "CHIU",
+    "close_price": 16.05500030517578,
+    "daily_return": -0.013214514231024377,
+    "return_5_days": -0.012486106669338137,
+    "return_30_days": -0.016900317175119306,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

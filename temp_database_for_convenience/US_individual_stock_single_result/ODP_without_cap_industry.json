@@ -1,0 +1,13 @@
+{
+    "ticker": "ODP",
+    "close_price": 35.880001068115234,
+    "daily_return": -0.029483368044291303,
+    "return_5_days": -0.04268939417456641,
+    "return_30_days": 0.13868615701334974,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

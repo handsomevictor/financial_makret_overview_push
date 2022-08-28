@@ -1,0 +1,13 @@
+{
+    "ticker": "ISTB",
+    "close_price": 47.29999923706055,
+    "daily_return": -0.0023201984962158972,
+    "return_5_days": -0.002740903800943828,
+    "return_30_days": 0.0017567123109709648,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

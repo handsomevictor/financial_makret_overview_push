@@ -1,0 +1,13 @@
+{
+    "ticker": "VNCE",
+    "close_price": 6.929999828338623,
+    "daily_return": -0.0014409551584126934,
+    "return_5_days": -0.0905511899715512,
+    "return_30_days": -0.07104560416865591,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

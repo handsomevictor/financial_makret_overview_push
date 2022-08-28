@@ -1,0 +1,13 @@
+{
+    "ticker": "FEBZ",
+    "close_price": 27.145999908447266,
+    "daily_return": -0.01992923845363037,
+    "return_5_days": -0.023525156351135057,
+    "return_30_days": 0.036937966400239386,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

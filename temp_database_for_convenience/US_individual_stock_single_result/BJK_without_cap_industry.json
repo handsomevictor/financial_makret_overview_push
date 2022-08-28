@@ -1,0 +1,13 @@
+{
+    "ticker": "BJK",
+    "close_price": 35.63999938964844,
+    "daily_return": -0.030731603319211986,
+    "return_5_days": -0.021148048914875317,
+    "return_30_days": 0.05412593735660298,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AGZ",
+    "close_price": 109.55999755859375,
+    "daily_return": 9.12323738706533e-05,
+    "return_5_days": -0.0021858423177906205,
+    "return_30_days": -0.0031844790451612814,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

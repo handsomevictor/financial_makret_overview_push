@@ -1,0 +1,13 @@
+{
+    "ticker": "PVAL",
+    "close_price": 26.5,
+    "daily_return": -0.024228622252137733,
+    "return_5_days": -0.024515952191449752,
+    "return_30_days": 0.06760129975102713,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

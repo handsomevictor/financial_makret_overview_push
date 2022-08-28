@@ -1,0 +1,13 @@
+{
+    "ticker": "BFST",
+    "close_price": 23.6299991607666,
+    "daily_return": -0.005889831480896945,
+    "return_5_days": -0.028771095977579764,
+    "return_30_days": 0.09906972840774886,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

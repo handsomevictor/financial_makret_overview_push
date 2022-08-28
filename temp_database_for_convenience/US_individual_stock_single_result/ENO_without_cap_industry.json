@@ -1,0 +1,13 @@
+{
+    "ticker": "ENO",
+    "close_price": 25.06999969482422,
+    "daily_return": 0.0003990514403413581,
+    "return_5_days": 0.004004821154170113,
+    "return_30_days": 0.013748490047774453,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

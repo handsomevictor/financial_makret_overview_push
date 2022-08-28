@@ -1,0 +1,13 @@
+{
+    "ticker": "EML",
+    "close_price": 20.1299991607666,
+    "daily_return": -0.01660968070311941,
+    "return_5_days": -0.03406914523141813,
+    "return_30_days": -0.03822270103891756,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

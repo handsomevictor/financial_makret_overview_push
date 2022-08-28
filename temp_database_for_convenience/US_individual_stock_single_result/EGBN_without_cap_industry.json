@@ -1,0 +1,13 @@
+{
+    "ticker": "EGBN",
+    "close_price": 49.43000030517578,
+    "daily_return": -0.0018174505604993119,
+    "return_5_days": -0.03230229966193454,
+    "return_30_days": 0.04969208207699105,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

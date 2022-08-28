@@ -1,0 +1,13 @@
+{
+    "ticker": "V",
+    "close_price": 202.88999938964844,
+    "daily_return": -0.03302834664313925,
+    "return_5_days": -0.04665918425349236,
+    "return_30_days": -0.03404110705118968,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

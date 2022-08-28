@@ -1,0 +1,13 @@
+{
+    "ticker": "LYFE",
+    "close_price": 30.01099967956543,
+    "daily_return": -0.02621761115462573,
+    "return_5_days": -0.030902890715909015,
+    "return_30_days": 0.06527753573705808,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

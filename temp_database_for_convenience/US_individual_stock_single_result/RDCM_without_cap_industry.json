@@ -1,0 +1,13 @@
+{
+    "ticker": "RDCM",
+    "close_price": 11.949999809265137,
+    "daily_return": -0.004166682561238644,
+    "return_5_days": -0.018883455677165095,
+    "return_30_days": 0.060337118356816655,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

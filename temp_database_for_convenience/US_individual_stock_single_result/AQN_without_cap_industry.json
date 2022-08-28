@@ -1,0 +1,13 @@
+{
+    "ticker": "AQN",
+    "close_price": 14.149999618530273,
+    "daily_return": -0.01599447107651064,
+    "return_5_days": -0.008409308716462616,
+    "return_30_days": 0.06390973049666138,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

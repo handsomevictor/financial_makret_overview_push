@@ -1,0 +1,13 @@
+{
+    "ticker": "YMAR",
+    "close_price": 18.1200008392334,
+    "daily_return": -0.016286603464602423,
+    "return_5_days": -0.01921513044147971,
+    "return_30_days": 0.01975360218838973,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

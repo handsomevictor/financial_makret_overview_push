@@ -1,0 +1,13 @@
+{
+    "ticker": "WFCF",
+    "close_price": 10.489999771118164,
+    "daily_return": -0.0009524027506510047,
+    "return_5_days": -0.053249111611053834,
+    "return_30_days": -0.10341880836517459,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

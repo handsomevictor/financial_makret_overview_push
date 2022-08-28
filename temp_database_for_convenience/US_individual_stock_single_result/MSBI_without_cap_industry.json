@@ -1,0 +1,13 @@
+{
+    "ticker": "MSBI",
+    "close_price": 26.5,
+    "daily_return": -0.015235966173799076,
+    "return_5_days": -0.04193781105608496,
+    "return_30_days": 0.09192389527407041,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

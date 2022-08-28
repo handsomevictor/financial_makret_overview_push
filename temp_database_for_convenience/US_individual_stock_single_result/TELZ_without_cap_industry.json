@@ -1,0 +1,13 @@
+{
+    "ticker": "TELZ",
+    "close_price": 23.899999618530273,
+    "daily_return": 0.03017236347289365,
+    "return_5_days": 0.01702126036299001,
+    "return_30_days": 0.0850319678101692,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

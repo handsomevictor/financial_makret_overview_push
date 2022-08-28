@@ -1,0 +1,13 @@
+{
+    "ticker": "YUM",
+    "close_price": 112.16000366210938,
+    "daily_return": -0.039890395864478956,
+    "return_5_days": -0.03849119421377312,
+    "return_30_days": -0.05069824618205798,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AMAL",
+    "close_price": 22.770000457763672,
+    "daily_return": -0.0013157359781009736,
+    "return_5_days": -0.039240517942516706,
+    "return_30_days": 0.1172719036023342,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

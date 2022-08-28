@@ -1,0 +1,13 @@
+{
+    "ticker": "FDN",
+    "close_price": 141.72000122070312,
+    "daily_return": -0.039772310202846106,
+    "return_5_days": -0.04282045415664437,
+    "return_30_days": 0.0738804266864741,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

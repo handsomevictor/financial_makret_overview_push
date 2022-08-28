@@ -1,0 +1,13 @@
+{
+    "ticker": "PSFJ",
+    "close_price": 21.315000534057617,
+    "daily_return": -0.017968182032679136,
+    "return_5_days": -0.021035234833039707,
+    "return_30_days": 0.037276789899452156,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

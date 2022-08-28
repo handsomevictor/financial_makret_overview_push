@@ -1,0 +1,13 @@
+{
+    "ticker": "ECCC",
+    "close_price": 24.100000381469727,
+    "daily_return": -0.00573455741273543,
+    "return_5_days": -0.0183298928543959,
+    "return_30_days": 0.029474606516662005,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

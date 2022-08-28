@@ -1,0 +1,13 @@
+{
+    "ticker": "DDM",
+    "close_price": 62.0099983215332,
+    "daily_return": -0.06116585228707405,
+    "return_5_days": -0.08418255560494581,
+    "return_30_days": 0.06327158172184433,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

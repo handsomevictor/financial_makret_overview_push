@@ -1,0 +1,13 @@
+{
+    "ticker": "FENC",
+    "close_price": 7.0,
+    "daily_return": -0.015471185857774739,
+    "return_5_days": 0.10062890771229349,
+    "return_30_days": 0.04166669918904309,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

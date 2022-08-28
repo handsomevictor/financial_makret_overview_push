@@ -1,0 +1,13 @@
+{
+    "ticker": "FFND",
+    "close_price": 18.44700050354004,
+    "daily_return": -0.033733126243483236,
+    "return_5_days": -0.024948470133849154,
+    "return_30_days": 0.12344704128062278,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

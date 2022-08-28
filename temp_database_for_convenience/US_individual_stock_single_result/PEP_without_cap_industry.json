@@ -1,0 +1,13 @@
+{
+    "ticker": "PEP",
+    "close_price": 175.0399932861328,
+    "daily_return": -0.023595754367803812,
+    "return_5_days": -0.02847313612115443,
+    "return_30_days": 0.022907890841516343,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

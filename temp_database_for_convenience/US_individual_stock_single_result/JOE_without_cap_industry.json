@@ -1,0 +1,13 @@
+{
+    "ticker": "JOE",
+    "close_price": 39.11000061035156,
+    "daily_return": -0.04516597938163536,
+    "return_5_days": -0.04702729683530715,
+    "return_30_days": -0.00921604921926511,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

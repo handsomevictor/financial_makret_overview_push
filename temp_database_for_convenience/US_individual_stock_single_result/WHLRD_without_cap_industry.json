@@ -1,0 +1,13 @@
+{
+    "ticker": "WHLRD",
+    "close_price": 12.9399995803833,
+    "daily_return": -0.012213801253987078,
+    "return_5_days": -0.041481512564200074,
+    "return_30_days": -0.0030816612683898237,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

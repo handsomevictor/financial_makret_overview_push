@@ -1,0 +1,13 @@
+{
+    "ticker": "KZR",
+    "close_price": 9.6899995803833,
+    "daily_return": -0.028084320877250213,
+    "return_5_days": -0.043435392802253725,
+    "return_30_days": -0.056475253313344576,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

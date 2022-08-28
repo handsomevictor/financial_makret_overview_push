@@ -1,0 +1,13 @@
+{
+    "ticker": "WK",
+    "close_price": 68.19000244140625,
+    "daily_return": -0.05957798327888453,
+    "return_5_days": -0.03754405208189859,
+    "return_30_days": 0.11970444553157367,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

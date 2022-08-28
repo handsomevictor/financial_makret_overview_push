@@ -1,0 +1,13 @@
+{
+    "ticker": "WWJD",
+    "close_price": 24.993000030517578,
+    "daily_return": -0.02485365396437922,
+    "return_5_days": -0.032404177145207824,
+    "return_30_days": 0.02826463760218667,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

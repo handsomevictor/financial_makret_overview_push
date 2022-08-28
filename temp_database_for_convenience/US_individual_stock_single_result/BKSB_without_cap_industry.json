@@ -1,0 +1,13 @@
+{
+    "ticker": "BKSB",
+    "close_price": 47.51499938964844,
+    "daily_return": -0.0011561972993193725,
+    "return_5_days": -0.0028332031879819697,
+    "return_30_days": 0.0015809604787222487,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LSST",
+    "close_price": 23.864999771118164,
+    "daily_return": -0.001673328357178816,
+    "return_5_days": -0.001255521492813494,
+    "return_30_days": 0.0020994850278934774,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

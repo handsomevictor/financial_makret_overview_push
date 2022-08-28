@@ -1,0 +1,13 @@
+{
+    "ticker": "PKOH",
+    "close_price": 18.049999237060547,
+    "daily_return": -0.06476684193850668,
+    "return_5_days": -0.03784653428352369,
+    "return_30_days": 0.16979902009502412,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

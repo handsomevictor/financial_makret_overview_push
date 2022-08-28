@@ -1,0 +1,13 @@
+{
+    "ticker": "CMMB",
+    "close_price": 3.359999895095825,
+    "daily_return": 0.0338461215679462,
+    "return_5_days": 0.005988018395350014,
+    "return_30_days": 0.06329107716228521,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

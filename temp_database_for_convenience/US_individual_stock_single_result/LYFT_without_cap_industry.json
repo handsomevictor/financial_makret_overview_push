@@ -1,0 +1,13 @@
+{
+    "ticker": "LYFT",
+    "close_price": 14.970000267028809,
+    "daily_return": -0.054924234670347793,
+    "return_5_days": -0.10090086426378908,
+    "return_30_days": 0.15687795614173972,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

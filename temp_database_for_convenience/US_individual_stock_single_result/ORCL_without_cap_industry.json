@@ -1,0 +1,13 @@
+{
+    "ticker": "ORCL",
+    "close_price": 74.6500015258789,
+    "daily_return": -0.029132499434914805,
+    "return_5_days": -0.050978921301043645,
+    "return_30_days": 0.055272883519719596,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

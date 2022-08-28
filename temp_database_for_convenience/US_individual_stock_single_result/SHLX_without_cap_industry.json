@@ -1,0 +1,13 @@
+{
+    "ticker": "SHLX",
+    "close_price": 15.800000190734863,
+    "daily_return": -0.000632525529185135,
+    "return_5_days": -0.0006325255291852461,
+    "return_30_days": 0.10566831580915004,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

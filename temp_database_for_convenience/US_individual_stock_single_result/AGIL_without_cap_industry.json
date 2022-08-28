@@ -1,0 +1,13 @@
+{
+    "ticker": "AGIL",
+    "close_price": 4.480000019073486,
+    "daily_return": -0.0022271163818317063,
+    "return_5_days": -0.0447761269903757,
+    "return_30_days": -0.05684210124768685,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

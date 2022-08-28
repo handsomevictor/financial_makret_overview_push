@@ -1,0 +1,13 @@
+{
+    "ticker": "UDMY",
+    "close_price": 14.65999984741211,
+    "daily_return": -0.05541240882640297,
+    "return_5_days": -0.009459482535033814,
+    "return_30_days": 0.3077609096810876,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

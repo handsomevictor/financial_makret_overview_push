@@ -1,0 +1,13 @@
+{
+    "ticker": "JNCE",
+    "close_price": 4.150000095367432,
+    "daily_return": -0.04597696865513612,
+    "return_5_days": -0.10752687951514783,
+    "return_30_days": 0.21345029321301823,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

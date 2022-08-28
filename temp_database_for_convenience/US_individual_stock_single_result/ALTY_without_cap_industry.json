@@ -1,0 +1,13 @@
+{
+    "ticker": "ALTY",
+    "close_price": 11.95300006866455,
+    "daily_return": -0.01702300833429804,
+    "return_5_days": -0.014591924493524755,
+    "return_30_days": 0.03578857089919807,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

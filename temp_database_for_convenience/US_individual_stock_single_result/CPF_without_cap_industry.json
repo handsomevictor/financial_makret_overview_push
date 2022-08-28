@@ -1,0 +1,13 @@
+{
+    "ticker": "CPF",
+    "close_price": 22.8799991607666,
+    "daily_return": -0.028037456630912616,
+    "return_5_days": -0.041474723236691324,
+    "return_30_days": 0.06567302713116918,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

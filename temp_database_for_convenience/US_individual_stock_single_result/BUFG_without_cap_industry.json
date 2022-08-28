@@ -1,0 +1,13 @@
+{
+    "ticker": "BUFG",
+    "close_price": 18.5,
+    "daily_return": -0.02168164202646561,
+    "return_5_days": -0.02374674115156339,
+    "return_30_days": 0.027777777777777235,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

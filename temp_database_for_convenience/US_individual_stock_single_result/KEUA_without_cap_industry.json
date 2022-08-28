@@ -1,0 +1,13 @@
+{
+    "ticker": "KEUA",
+    "close_price": 31.660999298095703,
+    "daily_return": 0.014580527232832985,
+    "return_5_days": -0.08728991754891657,
+    "return_30_days": 0.04560761493176768,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

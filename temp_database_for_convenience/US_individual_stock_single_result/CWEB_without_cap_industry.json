@@ -1,0 +1,13 @@
+{
+    "ticker": "CWEB",
+    "close_price": 60.04999923706055,
+    "daily_return": -0.02007179449637775,
+    "return_5_days": 0.21780566953273106,
+    "return_30_days": 0.05221656839270361,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

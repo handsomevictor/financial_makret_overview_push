@@ -1,0 +1,13 @@
+{
+    "ticker": "CRBN",
+    "close_price": 143.33999633789062,
+    "daily_return": -0.029585066531354398,
+    "return_5_days": -0.032401802832012105,
+    "return_30_days": 0.04148798410593657,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

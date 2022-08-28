@@ -1,0 +1,13 @@
+{
+    "ticker": "DGRW",
+    "close_price": 60.119998931884766,
+    "daily_return": -0.030322597872826318,
+    "return_5_days": -0.03930972878222516,
+    "return_30_days": 0.03494575269348554,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

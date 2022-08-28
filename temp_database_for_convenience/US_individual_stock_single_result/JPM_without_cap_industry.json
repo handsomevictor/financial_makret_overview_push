@@ -1,0 +1,13 @@
+{
+    "ticker": "JPM",
+    "close_price": 114.66999816894531,
+    "daily_return": -0.03272884675606902,
+    "return_5_days": -0.03338109395731759,
+    "return_30_days": 0.015227988199869147,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

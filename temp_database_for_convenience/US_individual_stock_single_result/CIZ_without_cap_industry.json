@@ -1,0 +1,13 @@
+{
+    "ticker": "CIZ",
+    "close_price": 29.56999969482422,
+    "daily_return": -0.0047121977099489065,
+    "return_5_days": -0.005749622791832443,
+    "return_30_days": 0.011112971320377696,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EVMT",
+    "close_price": 22.084999084472656,
+    "daily_return": -0.0018079509842867658,
+    "return_5_days": 0.00313400865047031,
+    "return_30_days": 0.08366045112446985,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

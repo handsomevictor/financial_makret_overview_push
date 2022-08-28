@@ -1,0 +1,13 @@
+{
+    "ticker": "TMCWW",
+    "close_price": 0.10499999672174454,
+    "daily_return": -0.07894739765924974,
+    "return_5_days": -0.07894739765924985,
+    "return_30_days": -0.19230768789906505,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

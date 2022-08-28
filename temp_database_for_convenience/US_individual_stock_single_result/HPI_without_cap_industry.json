@@ -1,0 +1,13 @@
+{
+    "ticker": "HPI",
+    "close_price": 17.780000686645508,
+    "daily_return": -0.010573101500776727,
+    "return_5_days": -0.023613312435243228,
+    "return_30_days": 0.033975469450838736,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

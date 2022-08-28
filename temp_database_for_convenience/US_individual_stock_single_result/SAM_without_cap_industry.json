@@ -1,0 +1,13 @@
+{
+    "ticker": "SAM",
+    "close_price": 347.8500061035156,
+    "daily_return": -0.03086949209695633,
+    "return_5_days": -0.05624282713105355,
+    "return_30_days": 0.08051444108172512,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

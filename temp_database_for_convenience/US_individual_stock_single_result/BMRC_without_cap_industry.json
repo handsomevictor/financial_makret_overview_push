@@ -1,0 +1,13 @@
+{
+    "ticker": "BMRC",
+    "close_price": 31.110000610351562,
+    "daily_return": -0.01706158024288107,
+    "return_5_days": -0.05325623759875142,
+    "return_30_days": -0.03892487992306026,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

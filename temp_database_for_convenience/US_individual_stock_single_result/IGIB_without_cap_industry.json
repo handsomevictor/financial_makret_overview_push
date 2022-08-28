@@ -1,0 +1,13 @@
+{
+    "ticker": "IGIB",
+    "close_price": 51.540000915527344,
+    "daily_return": -0.0059787380466070905,
+    "return_5_days": -0.005403295657001594,
+    "return_30_days": 0.00019410317227674945,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

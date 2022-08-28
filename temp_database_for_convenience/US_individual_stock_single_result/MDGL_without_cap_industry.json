@@ -1,0 +1,13 @@
+{
+    "ticker": "MDGL",
+    "close_price": 70.05999755859375,
+    "daily_return": -0.05093473519065994,
+    "return_5_days": -0.008771968646081207,
+    "return_30_days": 0.012574000382848505,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

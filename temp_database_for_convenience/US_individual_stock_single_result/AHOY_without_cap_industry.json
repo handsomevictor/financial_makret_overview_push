@@ -1,0 +1,13 @@
+{
+    "ticker": "AHOY",
+    "close_price": 19.933000564575195,
+    "daily_return": -0.03063751248268476,
+    "return_5_days": -0.03914197357478688,
+    "return_30_days": 0.04333949448720853,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "DSWL",
+    "close_price": 3.009999990463257,
+    "daily_return": -0.04746838332062897,
+    "return_5_days": -0.04444447640178395,
+    "return_30_days": -0.019543955727765794,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AIA",
+    "close_price": 59.65999984741211,
+    "daily_return": -0.020200353991881137,
+    "return_5_days": 0.01221583368644441,
+    "return_30_days": -0.007155937827989622,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

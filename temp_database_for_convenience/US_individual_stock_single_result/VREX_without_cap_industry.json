@@ -1,0 +1,13 @@
+{
+    "ticker": "VREX",
+    "close_price": 21.940000534057617,
+    "daily_return": -0.03518026583608935,
+    "return_5_days": -0.06038543145083075,
+    "return_30_days": -0.0036330573134863986,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

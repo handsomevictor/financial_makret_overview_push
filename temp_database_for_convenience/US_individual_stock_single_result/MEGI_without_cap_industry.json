@@ -1,0 +1,13 @@
+{
+    "ticker": "MEGI",
+    "close_price": 16.34000015258789,
+    "daily_return": -0.006686966884487,
+    "return_5_days": -0.027380899128727654,
+    "return_30_days": 0.08000637651184594,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

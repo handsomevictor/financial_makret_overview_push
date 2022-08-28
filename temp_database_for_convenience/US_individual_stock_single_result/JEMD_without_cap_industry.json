@@ -1,0 +1,13 @@
+{
+    "ticker": "JEMD",
+    "close_price": 6.559999942779541,
+    "daily_return": -0.001522104812868963,
+    "return_5_days": 0.0015266796570208019,
+    "return_30_days": 0.03961965170634851,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TRKA",
+    "close_price": 0.7139999866485596,
+    "daily_return": -0.021917852064214927,
+    "return_5_days": -0.10750002998858632,
+    "return_30_days": 0.1880199228273587,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

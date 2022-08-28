@@ -1,0 +1,13 @@
+{
+    "ticker": "HWBK",
+    "close_price": 24.639999389648438,
+    "daily_return": -0.006852078998522804,
+    "return_5_days": -0.02915680833678236,
+    "return_30_days": -0.05157814381056591,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

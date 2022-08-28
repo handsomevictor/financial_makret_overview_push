@@ -1,0 +1,13 @@
+{
+    "ticker": "CEV",
+    "close_price": 10.720000267028809,
+    "daily_return": -0.002790672834529384,
+    "return_5_days": -0.03423424336771097,
+    "return_30_days": -3.3306690738754696e-16,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

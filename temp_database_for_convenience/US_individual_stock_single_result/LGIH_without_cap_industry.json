@@ -1,0 +1,13 @@
+{
+    "ticker": "LGIH",
+    "close_price": 96.58999633789062,
+    "daily_return": -0.048936602404266005,
+    "return_5_days": -0.05627750094873596,
+    "return_30_days": 0.0012438593932737607,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

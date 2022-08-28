@@ -1,0 +1,13 @@
+{
+    "ticker": "PFH",
+    "close_price": 21.100000381469727,
+    "daily_return": -0.004247293549768383,
+    "return_5_days": -0.028992138704010628,
+    "return_30_days": 0.0057197732055149775,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

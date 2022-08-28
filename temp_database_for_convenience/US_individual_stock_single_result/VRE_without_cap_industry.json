@@ -1,0 +1,13 @@
+{
+    "ticker": "VRE",
+    "close_price": 13.600000381469727,
+    "daily_return": -0.029957208457961793,
+    "return_5_days": -0.04090267357006694,
+    "return_30_days": 0.06834256641933578,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

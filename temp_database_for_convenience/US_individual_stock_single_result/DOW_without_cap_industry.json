@@ -1,0 +1,13 @@
+{
+    "ticker": "DOW",
+    "close_price": 54.459999084472656,
+    "daily_return": -0.023314190749509356,
+    "return_5_days": -0.018561949231185926,
+    "return_30_days": 0.09909182488422141,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EWI",
+    "close_price": 23.299999237060547,
+    "daily_return": -0.037190144525003244,
+    "return_5_days": -0.03996708703780982,
+    "return_30_days": 0.037399830223885155,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

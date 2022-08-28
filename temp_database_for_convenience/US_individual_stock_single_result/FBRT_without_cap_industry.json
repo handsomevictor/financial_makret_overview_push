@@ -1,0 +1,13 @@
+{
+    "ticker": "FBRT",
+    "close_price": 13.930000305175781,
+    "daily_return": -0.021769625767208867,
+    "return_5_days": -0.022456118935032854,
+    "return_30_days": -0.02587411752615243,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

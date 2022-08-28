@@ -1,0 +1,13 @@
+{
+    "ticker": "IBLC",
+    "close_price": 16.805999755859375,
+    "daily_return": -0.07185069696120927,
+    "return_5_days": -0.08163931931623103,
+    "return_30_days": 0.16047502752300558,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

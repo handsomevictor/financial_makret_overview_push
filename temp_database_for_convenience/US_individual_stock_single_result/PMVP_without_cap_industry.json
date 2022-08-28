@@ -1,0 +1,13 @@
+{
+    "ticker": "PMVP",
+    "close_price": 13.220000267028809,
+    "daily_return": -0.08953169075416723,
+    "return_5_days": -0.07681560413670885,
+    "return_30_days": -0.17219786812887994,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

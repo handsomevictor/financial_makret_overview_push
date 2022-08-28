@@ -1,0 +1,13 @@
+{
+    "ticker": "IBA",
+    "close_price": 47.720001220703125,
+    "daily_return": -0.005211590444823777,
+    "return_5_days": 0.009947115782076743,
+    "return_30_days": 0.06947562445150957,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

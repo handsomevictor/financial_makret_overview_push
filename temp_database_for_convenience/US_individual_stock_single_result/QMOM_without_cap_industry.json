@@ -1,0 +1,13 @@
+{
+    "ticker": "QMOM",
+    "close_price": 49.42100143432617,
+    "daily_return": -0.017533744406266094,
+    "return_5_days": 0.008838949969280252,
+    "return_30_days": 0.16112590168077667,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

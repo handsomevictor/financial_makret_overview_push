@@ -1,0 +1,13 @@
+{
+    "ticker": "EWW",
+    "close_price": 46.540000915527344,
+    "daily_return": -0.022884739201015192,
+    "return_5_days": -0.02021050704152949,
+    "return_30_days": 0.023982401194516223,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

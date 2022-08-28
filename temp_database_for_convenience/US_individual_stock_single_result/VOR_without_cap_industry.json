@@ -1,0 +1,13 @@
+{
+    "ticker": "VOR",
+    "close_price": 4.889999866485596,
+    "daily_return": -0.006097603525028306,
+    "return_5_days": -0.008113582808481956,
+    "return_30_days": -0.08255160666391137,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

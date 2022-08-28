@@ -1,0 +1,13 @@
+{
+    "ticker": "HMN",
+    "close_price": 36.810001373291016,
+    "daily_return": -0.015248787547799791,
+    "return_5_days": -0.034871474505539735,
+    "return_30_days": 0.09325819349885767,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

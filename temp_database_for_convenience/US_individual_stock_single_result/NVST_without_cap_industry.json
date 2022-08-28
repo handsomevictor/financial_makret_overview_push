@@ -1,0 +1,13 @@
+{
+    "ticker": "NVST",
+    "close_price": 36.599998474121094,
+    "daily_return": -0.043137294794219794,
+    "return_5_days": -0.05033737403531413,
+    "return_30_days": -0.05645791156786506,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

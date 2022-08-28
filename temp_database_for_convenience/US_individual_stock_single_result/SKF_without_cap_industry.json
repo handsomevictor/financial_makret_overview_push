@@ -1,0 +1,13 @@
+{
+    "ticker": "SKF",
+    "close_price": 19.850000381469727,
+    "daily_return": 0.0609300562683166,
+    "return_5_days": 0.0752980154894074,
+    "return_30_days": -0.10180995299378193,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BCBP",
+    "close_price": 18.579999923706055,
+    "daily_return": -0.021590302914888726,
+    "return_5_days": -0.06114203819323305,
+    "return_30_days": 0.06654690929523288,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

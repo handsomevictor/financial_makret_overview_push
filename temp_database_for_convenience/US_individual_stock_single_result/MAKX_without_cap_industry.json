@@ -1,0 +1,13 @@
+{
+    "ticker": "MAKX",
+    "close_price": 31.302000045776367,
+    "daily_return": -0.03721705687761312,
+    "return_5_days": -0.04222505337098015,
+    "return_30_days": 0.07257401416564435,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

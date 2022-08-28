@@ -1,0 +1,13 @@
+{
+    "ticker": "EB",
+    "close_price": 7.380000114440918,
+    "daily_return": -0.05141389261958451,
+    "return_5_days": -0.004048547043042916,
+    "return_30_days": -0.30898877307480954,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

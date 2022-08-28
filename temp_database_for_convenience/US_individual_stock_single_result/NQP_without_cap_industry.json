@@ -1,0 +1,13 @@
+{
+    "ticker": "NQP",
+    "close_price": 12.380000114440918,
+    "daily_return": 0.0,
+    "return_5_days": -0.013545822606397362,
+    "return_30_days": 0.021452164301719368,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

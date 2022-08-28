@@ -1,0 +1,13 @@
+{
+    "ticker": "PKI",
+    "close_price": 137.57000732421875,
+    "daily_return": -0.04743104093321837,
+    "return_5_days": -0.05209120997893013,
+    "return_30_days": 0.017906130499628192,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

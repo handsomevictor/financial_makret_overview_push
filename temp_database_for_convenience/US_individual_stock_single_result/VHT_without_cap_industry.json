@@ -1,0 +1,13 @@
+{
+    "ticker": "VHT",
+    "close_price": 236.38999938964844,
+    "daily_return": -0.029717216057383977,
+    "return_5_days": -0.04007957174267496,
+    "return_30_days": -0.01627134254037943,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

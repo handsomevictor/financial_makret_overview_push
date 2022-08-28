@@ -1,0 +1,13 @@
+{
+    "ticker": "CVGI",
+    "close_price": 6.869999885559082,
+    "daily_return": -0.03916086798233265,
+    "return_5_days": -0.0653061258913692,
+    "return_30_days": 0.1080645317589708,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

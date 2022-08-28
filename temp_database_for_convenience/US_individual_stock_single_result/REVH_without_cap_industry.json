@@ -1,0 +1,13 @@
+{
+    "ticker": "REVH",
+    "close_price": 9.819999694824219,
+    "daily_return": 0.0010192940652198335,
+    "return_5_days": -1.1102230246251565e-16,
+    "return_30_days": 0.0030643241152281675,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

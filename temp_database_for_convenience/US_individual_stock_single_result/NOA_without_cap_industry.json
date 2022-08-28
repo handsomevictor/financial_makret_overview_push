@@ -1,0 +1,13 @@
+{
+    "ticker": "NOA",
+    "close_price": 11.630000114440918,
+    "daily_return": -0.03645398438344438,
+    "return_5_days": 0.039320871363477394,
+    "return_30_days": 0.09099439783428243,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

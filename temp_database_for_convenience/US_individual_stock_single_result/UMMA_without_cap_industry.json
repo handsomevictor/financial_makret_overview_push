@@ -1,0 +1,13 @@
+{
+    "ticker": "UMMA",
+    "close_price": 19.40999984741211,
+    "daily_return": -0.02706771402888808,
+    "return_5_days": -0.01696637009787505,
+    "return_30_days": 0.01463673282431488,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

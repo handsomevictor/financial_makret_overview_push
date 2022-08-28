@@ -1,0 +1,13 @@
+{
+    "ticker": "RILYN",
+    "close_price": 24.575000762939453,
+    "daily_return": -0.005060728588622276,
+    "return_5_days": -0.005865637315641159,
+    "return_30_days": 0.0075851323460680575,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

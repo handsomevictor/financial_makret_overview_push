@@ -1,0 +1,13 @@
+{
+    "ticker": "LECO",
+    "close_price": 140.89999389648438,
+    "daily_return": -0.031615162223475046,
+    "return_5_days": -0.04279893466283824,
+    "return_30_days": 0.14879732689407876,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

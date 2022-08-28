@@ -1,0 +1,13 @@
+{
+    "ticker": "XPL",
+    "close_price": 0.5799999833106995,
+    "daily_return": -0.06451616314521791,
+    "return_5_days": 0.11538462420187057,
+    "return_30_days": 0.15999996662139782,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

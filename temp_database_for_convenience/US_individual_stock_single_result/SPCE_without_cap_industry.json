@@ -1,0 +1,13 @@
+{
+    "ticker": "SPCE",
+    "close_price": 5.980000019073486,
+    "daily_return": -0.04166662845855962,
+    "return_5_days": -0.053797491036857714,
+    "return_30_days": -0.18639454467143557,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FRI",
+    "close_price": 27.15999984741211,
+    "daily_return": -0.023021561410521363,
+    "return_5_days": -0.037902929938887664,
+    "return_30_days": 0.05149051210354183,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

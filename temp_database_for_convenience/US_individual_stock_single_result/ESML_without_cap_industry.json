@@ -1,0 +1,13 @@
+{
+    "ticker": "ESML",
+    "close_price": 34.810001373291016,
+    "daily_return": -0.03171069166773577,
+    "return_5_days": -0.030632093533700222,
+    "return_30_days": 0.0850997314966977,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

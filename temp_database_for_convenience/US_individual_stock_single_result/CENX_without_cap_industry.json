@@ -1,0 +1,13 @@
+{
+    "ticker": "CENX",
+    "close_price": 8.569999694824219,
+    "daily_return": -0.06441049808036603,
+    "return_5_days": 0.04384892265585161,
+    "return_30_days": 0.19359330079639103,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ZSL",
+    "close_price": 35.959999084472656,
+    "daily_return": 0.03690884567569741,
+    "return_5_days": 0.02801599642827446,
+    "return_30_days": -0.04029896149018963,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

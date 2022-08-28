@@ -1,0 +1,13 @@
+{
+    "ticker": "BOSC",
+    "close_price": 2.2699999809265137,
+    "daily_return": -0.01731600123110688,
+    "return_5_days": -0.09200000762939431,
+    "return_30_days": 0.022522500753112684,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

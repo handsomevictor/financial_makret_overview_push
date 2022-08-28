@@ -1,0 +1,13 @@
+{
+    "ticker": "SHYD",
+    "close_price": 22.75,
+    "daily_return": -0.0008783687905835613,
+    "return_5_days": 0.0,
+    "return_30_days": 0.0008799145695759236,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

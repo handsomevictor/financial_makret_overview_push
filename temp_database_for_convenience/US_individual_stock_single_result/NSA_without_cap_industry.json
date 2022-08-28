@@ -1,0 +1,13 @@
+{
+    "ticker": "NSA",
+    "close_price": 53.869998931884766,
+    "daily_return": -0.02971904741128617,
+    "return_5_days": -0.039408038998067996,
+    "return_30_days": 0.08281404888210564,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ATRA",
+    "close_price": 4.03000020980835,
+    "daily_return": -0.11622801307495867,
+    "return_5_days": -0.09438193650757598,
+    "return_30_days": 0.0467533271777989,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "APH",
+    "close_price": 75.47000122070312,
+    "daily_return": -0.03700397376859077,
+    "return_5_days": -0.047216234149694336,
+    "return_30_days": 0.14140952942722684,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

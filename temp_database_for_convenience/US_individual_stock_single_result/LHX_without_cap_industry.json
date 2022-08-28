@@ -1,0 +1,13 @@
+{
+    "ticker": "LHX",
+    "close_price": 234.05999755859375,
+    "daily_return": -0.018369421397270935,
+    "return_5_days": -0.018328210591902816,
+    "return_30_days": 0.04565761878085439,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

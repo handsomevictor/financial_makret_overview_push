@@ -1,0 +1,13 @@
+{
+    "ticker": "LARK",
+    "close_price": 25.780000686645508,
+    "daily_return": -0.025330815008244523,
+    "return_5_days": -0.008461512052095554,
+    "return_30_days": 0.025865560986318092,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

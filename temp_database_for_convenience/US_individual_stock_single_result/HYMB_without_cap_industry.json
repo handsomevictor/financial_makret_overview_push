@@ -1,0 +1,13 @@
+{
+    "ticker": "HYMB",
+    "close_price": 51.599998474121094,
+    "daily_return": -0.006737291312381433,
+    "return_5_days": -0.010925813970289133,
+    "return_30_days": -0.011304850893136043,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

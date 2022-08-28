@@ -1,0 +1,13 @@
+{
+    "ticker": "CELZ",
+    "close_price": 0.7099000215530396,
+    "daily_return": -0.0002816132722026632,
+    "return_5_days": -0.020692489370820355,
+    "return_30_days": 0.11217299036492778,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

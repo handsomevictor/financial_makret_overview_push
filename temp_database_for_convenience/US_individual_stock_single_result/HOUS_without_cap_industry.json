@@ -1,0 +1,13 @@
+{
+    "ticker": "HOUS",
+    "close_price": 10.699999809265137,
+    "daily_return": -0.06550218449725331,
+    "return_5_days": -0.058927008182727,
+    "return_30_days": 0.050049092235846526,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

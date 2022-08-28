@@ -1,0 +1,13 @@
+{
+    "ticker": "EFAX",
+    "close_price": 65.27799987792969,
+    "daily_return": -0.026921468095496892,
+    "return_5_days": -0.034777428227226515,
+    "return_30_days": 0.011403428203700106,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

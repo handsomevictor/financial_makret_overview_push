@@ -1,0 +1,13 @@
+{
+    "ticker": "PTC",
+    "close_price": 114.58999633789062,
+    "daily_return": -0.039641328939248766,
+    "return_5_days": -0.04108789675405333,
+    "return_30_days": 0.12079419730208674,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

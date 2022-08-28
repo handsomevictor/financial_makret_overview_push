@@ -1,0 +1,13 @@
+{
+    "ticker": "BHFAN",
+    "close_price": 20.139999389648438,
+    "daily_return": -0.016601570321654657,
+    "return_5_days": -0.06586271389000142,
+    "return_30_days": -0.049551728076720036,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FREL",
+    "close_price": 28.530000686645508,
+    "daily_return": -0.024615361140324477,
+    "return_5_days": -0.03809842099055827,
+    "return_30_days": 0.04238216338485912,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

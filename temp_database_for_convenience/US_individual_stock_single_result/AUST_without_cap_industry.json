@@ -1,0 +1,13 @@
+{
+    "ticker": "AUST",
+    "close_price": 1.649999976158142,
+    "daily_return": 0.01226992698467555,
+    "return_5_days": -0.01785712638477044,
+    "return_30_days": 0.020408158751682892,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

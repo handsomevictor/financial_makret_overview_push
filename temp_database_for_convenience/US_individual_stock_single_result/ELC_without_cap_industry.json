@@ -1,0 +1,13 @@
+{
+    "ticker": "ELC",
+    "close_price": 0.6399999856948853,
+    "daily_return": 0.01587300085546861,
+    "return_5_days": 0.04918027981350992,
+    "return_30_days": 0.25490195620110456,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

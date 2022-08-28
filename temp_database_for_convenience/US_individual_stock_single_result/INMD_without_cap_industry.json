@@ -1,0 +1,13 @@
+{
+    "ticker": "INMD",
+    "close_price": 32.209999084472656,
+    "daily_return": -0.06556431842749932,
+    "return_5_days": -0.008923105093148975,
+    "return_30_days": 0.17985347929045514,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MTC",
+    "close_price": 1.8200000524520874,
+    "daily_return": -0.04712037473409614,
+    "return_5_days": -0.03191486326155479,
+    "return_30_days": 0.14465409700951892,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

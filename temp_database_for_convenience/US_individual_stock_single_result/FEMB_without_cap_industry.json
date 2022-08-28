@@ -1,0 +1,13 @@
+{
+    "ticker": "FEMB",
+    "close_price": 26.239999771118164,
+    "daily_return": -0.0030395108143480565,
+    "return_5_days": -0.007188820728860068,
+    "return_30_days": 0.02560096580355209,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

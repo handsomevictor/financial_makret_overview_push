@@ -1,0 +1,13 @@
+{
+    "ticker": "QDEC",
+    "close_price": 20.280000686645508,
+    "daily_return": -0.028223623997223002,
+    "return_5_days": -0.031055881942320784,
+    "return_30_days": 0.04213780271074796,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

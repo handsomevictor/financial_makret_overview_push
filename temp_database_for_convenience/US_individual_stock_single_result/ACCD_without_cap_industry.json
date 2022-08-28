@@ -1,0 +1,13 @@
+{
+    "ticker": "ACCD",
+    "close_price": 10.8100004196167,
+    "daily_return": -0.08930071408273277,
+    "return_5_days": -0.06729937210544634,
+    "return_30_days": 0.17118103529153061,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

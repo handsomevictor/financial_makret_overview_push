@@ -1,0 +1,13 @@
+{
+    "ticker": "EVC",
+    "close_price": 5.349999904632568,
+    "daily_return": -0.05975398052174696,
+    "return_5_days": -0.0775862536730848,
+    "return_30_days": 0.1681222693784339,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CINT",
+    "close_price": 9.100000381469727,
+    "daily_return": -0.06570835777083028,
+    "return_5_days": 0.008869170692468842,
+    "return_30_days": -0.10167815610415121,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

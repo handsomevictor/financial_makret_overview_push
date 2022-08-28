@@ -1,0 +1,13 @@
+{
+    "ticker": "PBP",
+    "close_price": 20.8700008392334,
+    "daily_return": -0.018344279654269324,
+    "return_5_days": -0.022482413754565278,
+    "return_30_days": 0.0043310947841175285,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

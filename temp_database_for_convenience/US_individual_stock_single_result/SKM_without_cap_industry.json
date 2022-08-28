@@ -1,0 +1,13 @@
+{
+    "ticker": "SKM",
+    "close_price": 21.059999465942383,
+    "daily_return": -0.028149543525792464,
+    "return_5_days": -0.00472591598255423,
+    "return_30_days": -0.07874020543963145,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

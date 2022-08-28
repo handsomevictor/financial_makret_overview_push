@@ -1,0 +1,13 @@
+{
+    "ticker": "BTT",
+    "close_price": 22.799999237060547,
+    "daily_return": -0.0017513535577980965,
+    "return_5_days": 0.002197768662002053,
+    "return_30_days": 0.013765653398492228,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

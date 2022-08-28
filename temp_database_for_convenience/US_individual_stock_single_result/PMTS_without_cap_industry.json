@@ -1,0 +1,13 @@
+{
+    "ticker": "PMTS",
+    "close_price": 19.58099937438965,
+    "daily_return": -0.010610933653451005,
+    "return_5_days": -0.06801527077223835,
+    "return_30_days": 0.15590311434892534,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

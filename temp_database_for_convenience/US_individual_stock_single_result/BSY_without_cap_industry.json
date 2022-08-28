@@ -1,0 +1,13 @@
+{
+    "ticker": "BSY",
+    "close_price": 37.290000915527344,
+    "daily_return": -0.03966007836486152,
+    "return_5_days": -0.043110091161179476,
+    "return_30_days": 0.08875915081831631,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

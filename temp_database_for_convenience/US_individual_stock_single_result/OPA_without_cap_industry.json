@@ -1,0 +1,13 @@
+{
+    "ticker": "OPA",
+    "close_price": 9.854999542236328,
+    "daily_return": 0.0015243281926671237,
+    "return_5_days": 0.0012190520925319248,
+    "return_30_days": 0.005612178615411079,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

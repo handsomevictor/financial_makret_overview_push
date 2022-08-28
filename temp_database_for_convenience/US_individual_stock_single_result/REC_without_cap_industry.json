@@ -1,0 +1,13 @@
+{
+    "ticker": "REC",
+    "close_price": 21.608999252319336,
+    "daily_return": -0.003320903295549349,
+    "return_5_days": -0.006025782896872833,
+    "return_30_days": 0.0062397610463014175,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

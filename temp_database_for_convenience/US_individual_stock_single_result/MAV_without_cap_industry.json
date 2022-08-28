@@ -1,0 +1,13 @@
+{
+    "ticker": "MAV",
+    "close_price": 8.989999771118164,
+    "daily_return": -0.011001141891208488,
+    "return_5_days": 0.002229599051726705,
+    "return_30_days": -0.003326018306316847,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

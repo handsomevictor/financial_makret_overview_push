@@ -1,0 +1,13 @@
+{
+    "ticker": "CMT",
+    "close_price": 13.460000038146973,
+    "daily_return": 0.009752446750560528,
+    "return_5_days": 0.07250994689895895,
+    "return_30_days": 0.4395721378602988,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

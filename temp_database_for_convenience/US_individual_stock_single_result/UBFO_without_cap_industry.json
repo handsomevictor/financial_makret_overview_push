@@ -1,0 +1,13 @@
+{
+    "ticker": "UBFO",
+    "close_price": 7.28000020980835,
+    "daily_return": 0.013927630064145324,
+    "return_5_days": 0.008310307667627859,
+    "return_30_days": 0.025352155999091464,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

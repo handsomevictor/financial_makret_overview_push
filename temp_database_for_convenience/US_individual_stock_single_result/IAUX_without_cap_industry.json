@@ -1,0 +1,13 @@
+{
+    "ticker": "IAUX",
+    "close_price": 1.8700000047683716,
+    "daily_return": -0.06030150964487013,
+    "return_5_days": -0.02094238877070942,
+    "return_30_days": 0.1402439152924948,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TSLS",
+    "close_price": 24.993000030517578,
+    "daily_return": 0.027672711518848647,
+    "return_5_days": 0.028518552066459257,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

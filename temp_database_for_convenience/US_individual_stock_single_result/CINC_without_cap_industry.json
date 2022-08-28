@@ -1,0 +1,13 @@
+{
+    "ticker": "CINC",
+    "close_price": 37.79999923706055,
+    "daily_return": -0.009433978296411794,
+    "return_5_days": 0.13992760588056963,
+    "return_30_days": 0.4538461245023282,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

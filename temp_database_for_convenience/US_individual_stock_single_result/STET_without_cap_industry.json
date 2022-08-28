@@ -1,0 +1,13 @@
+{
+    "ticker": "STET",
+    "close_price": 9.970000267028809,
+    "daily_return": 0.0,
+    "return_5_days": 0.0020100962961877578,
+    "return_30_days": 0.008088970771378268,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

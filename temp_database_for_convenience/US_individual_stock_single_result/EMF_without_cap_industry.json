@@ -1,0 +1,13 @@
+{
+    "ticker": "EMF",
+    "close_price": 12.0600004196167,
+    "daily_return": -0.021897770134632788,
+    "return_5_days": -0.012284981004229256,
+    "return_30_days": 0.020304630371316357,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PECO",
+    "close_price": 33.15999984741211,
+    "daily_return": -0.009853741848776076,
+    "return_5_days": -0.03097607643128053,
+    "return_30_days": -0.03069275840867003,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

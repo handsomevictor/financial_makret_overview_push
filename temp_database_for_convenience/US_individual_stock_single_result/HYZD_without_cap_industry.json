@@ -1,0 +1,13 @@
+{
+    "ticker": "HYZD",
+    "close_price": 20.709999084472656,
+    "daily_return": -0.010038288291368436,
+    "return_5_days": -0.012398676079891757,
+    "return_30_days": 0.00975128490292243,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

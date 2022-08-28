@@ -1,0 +1,13 @@
+{
+    "ticker": "LOB",
+    "close_price": 36.95000076293945,
+    "daily_return": -0.04075803936050537,
+    "return_5_days": -0.05883845281080324,
+    "return_30_days": 0.14822872630602468,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

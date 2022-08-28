@@ -1,0 +1,13 @@
+{
+    "ticker": "NKEQ",
+    "close_price": 43.220001220703125,
+    "daily_return": 0.08388717794866762,
+    "return_5_days": 0.08339807822189749,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

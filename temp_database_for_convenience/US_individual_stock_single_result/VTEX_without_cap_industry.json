@@ -1,0 +1,13 @@
+{
+    "ticker": "VTEX",
+    "close_price": 4.139999866485596,
+    "daily_return": 0.06976743899502935,
+    "return_5_days": 0.10695183313606416,
+    "return_30_days": 0.48920860039287617,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

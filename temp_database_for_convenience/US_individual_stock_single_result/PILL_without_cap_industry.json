@@ -1,0 +1,13 @@
+{
+    "ticker": "PILL",
+    "close_price": 11.300000190734863,
+    "daily_return": -0.08944397021154815,
+    "return_5_days": -0.06919276184781209,
+    "return_30_days": -0.025021566698449682,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

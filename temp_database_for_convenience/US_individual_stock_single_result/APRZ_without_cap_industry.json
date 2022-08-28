@@ -1,0 +1,13 @@
+{
+    "ticker": "APRZ",
+    "close_price": 25.45599937438965,
+    "daily_return": -0.021412413156357224,
+    "return_5_days": -0.025383824801126553,
+    "return_30_days": 0.037115473426930556,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

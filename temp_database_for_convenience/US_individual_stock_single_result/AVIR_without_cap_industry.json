@@ -1,0 +1,13 @@
+{
+    "ticker": "AVIR",
+    "close_price": 7.829999923706055,
+    "daily_return": -0.03926376807388432,
+    "return_5_days": -0.04975726441755357,
+    "return_30_days": -0.03333338827752974,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

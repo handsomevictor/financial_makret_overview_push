@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDD",
+    "close_price": 26.459999084472656,
+    "daily_return": -0.00037779482966560085,
+    "return_5_days": -1.1102230246251565e-16,
+    "return_30_days": 0.000756374811311078,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

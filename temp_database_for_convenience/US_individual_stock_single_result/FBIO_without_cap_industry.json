@@ -1,0 +1,13 @@
+{
+    "ticker": "FBIO",
+    "close_price": 1.0199999809265137,
+    "daily_return": -0.04672903651825999,
+    "return_5_days": -0.1052631633983977,
+    "return_30_days": 0.17241376475403292,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

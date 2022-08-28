@@ -1,0 +1,13 @@
+{
+    "ticker": "TYA",
+    "close_price": 17.81999969482422,
+    "daily_return": -0.004969607456179137,
+    "return_5_days": -0.014859440927018741,
+    "return_30_days": -0.026151937530710545,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "UZD",
+    "close_price": 22.020000457763672,
+    "daily_return": -0.010337058078037198,
+    "return_5_days": -0.02609465442994152,
+    "return_30_days": 0.03331773860229359,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

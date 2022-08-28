@@ -1,0 +1,13 @@
+{
+    "ticker": "GBUY",
+    "close_price": 25.889999389648438,
+    "daily_return": -0.032004819075368784,
+    "return_5_days": -0.03287265794050509,
+    "return_30_days": 0.04412001466126214,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

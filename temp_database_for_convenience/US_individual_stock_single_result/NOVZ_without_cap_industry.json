@@ -1,0 +1,13 @@
+{
+    "ticker": "NOVZ",
+    "close_price": 30.804000854492188,
+    "daily_return": -0.01848075163536722,
+    "return_5_days": -0.020322485858213946,
+    "return_30_days": 0.04116813336612668,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

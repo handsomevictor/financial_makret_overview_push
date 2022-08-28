@@ -1,0 +1,13 @@
+{
+    "ticker": "SURG",
+    "close_price": 4.650000095367432,
+    "daily_return": -0.0392562089319084,
+    "return_5_days": -0.004282651092028522,
+    "return_30_days": 0.004319650201332514,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "OPP",
+    "close_price": 10.609999656677246,
+    "daily_return": -0.0009416411477964903,
+    "return_5_days": -0.022119881691651244,
+    "return_30_days": -0.04414420792367568,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

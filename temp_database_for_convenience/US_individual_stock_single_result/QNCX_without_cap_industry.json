@@ -1,0 +1,13 @@
+{
+    "ticker": "QNCX",
+    "close_price": 1.850000023841858,
+    "daily_return": 0.010928951069668846,
+    "return_5_days": -0.08415839539101488,
+    "return_30_days": -0.1474654567748228,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

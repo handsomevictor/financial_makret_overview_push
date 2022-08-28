@@ -1,0 +1,13 @@
+{
+    "ticker": "SHCRW",
+    "close_price": 0.1899999976158142,
+    "daily_return": 0.05555550036607193,
+    "return_5_days": 0.33802810841622843,
+    "return_30_days": -0.05000002607703158,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

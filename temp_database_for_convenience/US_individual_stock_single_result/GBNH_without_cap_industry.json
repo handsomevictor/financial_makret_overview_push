@@ -1,0 +1,13 @@
+{
+    "ticker": "GBNH",
+    "close_price": 3.6500000953674316,
+    "daily_return": 0.057971027512881745,
+    "return_5_days": 0.1889251383507322,
+    "return_30_days": 1.1856288557870935,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

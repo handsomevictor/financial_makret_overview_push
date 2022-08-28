@@ -1,0 +1,13 @@
+{
+    "ticker": "MRK",
+    "close_price": 89.26000213623047,
+    "daily_return": -0.011188595816941538,
+    "return_5_days": -0.030625539082832165,
+    "return_30_days": -0.060025242240911214,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

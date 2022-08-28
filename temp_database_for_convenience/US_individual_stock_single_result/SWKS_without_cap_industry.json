@@ -1,0 +1,13 @@
+{
+    "ticker": "SWKS",
+    "close_price": 102.4000015258789,
+    "daily_return": -0.05543770808238646,
+    "return_5_days": -0.04716228885399565,
+    "return_30_days": 0.019308251486174433,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

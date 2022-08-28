@@ -1,0 +1,13 @@
+{
+    "ticker": "FIVR",
+    "close_price": 21.950000762939453,
+    "daily_return": -0.013926301112080264,
+    "return_5_days": -0.016797311855976438,
+    "return_30_days": 0.032941212373620576,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "GOAU",
+    "close_price": 13.5,
+    "daily_return": -0.0439093406929254,
+    "return_5_days": -0.008082267410144728,
+    "return_30_days": 0.007462715247502638,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

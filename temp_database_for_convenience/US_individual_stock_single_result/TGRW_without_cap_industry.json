@@ -1,0 +1,13 @@
+{
+    "ticker": "TGRW",
+    "close_price": 23.868999481201172,
+    "daily_return": -0.03800583520145162,
+    "return_5_days": -0.049005992428816536,
+    "return_30_days": 0.06410769653573634,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

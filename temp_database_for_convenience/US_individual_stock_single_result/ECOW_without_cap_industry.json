@@ -1,0 +1,13 @@
+{
+    "ticker": "ECOW",
+    "close_price": 19.617000579833984,
+    "daily_return": -0.01258368111458974,
+    "return_5_days": 0.011498478418802582,
+    "return_30_days": 0.06904633090055445,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

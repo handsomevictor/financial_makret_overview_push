@@ -1,0 +1,13 @@
+{
+    "ticker": "WSM",
+    "close_price": 154.6300048828125,
+    "daily_return": -0.06843785911447176,
+    "return_5_days": -0.05035925109642969,
+    "return_30_days": 0.1723276121162427,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

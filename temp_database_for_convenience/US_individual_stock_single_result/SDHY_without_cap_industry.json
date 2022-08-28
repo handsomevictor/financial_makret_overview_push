@@ -1,0 +1,13 @@
+{
+    "ticker": "SDHY",
+    "close_price": 15.449999809265137,
+    "daily_return": -0.0089801373927193,
+    "return_5_days": -0.0089801373927193,
+    "return_30_days": 0.028628451291372148,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ACU",
+    "close_price": 27.799999237060547,
+    "daily_return": -0.010676197165001233,
+    "return_5_days": -0.018014844171769795,
+    "return_30_days": -0.0502221112987109,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

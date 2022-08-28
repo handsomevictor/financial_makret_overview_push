@@ -1,0 +1,13 @@
+{
+    "ticker": "PYPT",
+    "close_price": 44.86899948120117,
+    "daily_return": -0.06051214342795597,
+    "return_5_days": -0.05727495891556322,
+    "return_30_days": 0.3700457856855317,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

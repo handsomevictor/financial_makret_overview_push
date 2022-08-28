@@ -1,0 +1,13 @@
+{
+    "ticker": "SMN",
+    "close_price": 11.760000228881836,
+    "daily_return": 0.05187834596368868,
+    "return_5_days": -0.004233716253880138,
+    "return_30_days": -0.21232418027446387,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

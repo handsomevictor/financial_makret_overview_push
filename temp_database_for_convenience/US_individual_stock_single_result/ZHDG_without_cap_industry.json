@@ -1,0 +1,13 @@
+{
+    "ticker": "ZHDG",
+    "close_price": 17.600000381469727,
+    "daily_return": -0.015659887720311794,
+    "return_5_days": -0.024390272268716928,
+    "return_30_days": 0.032258133080362406,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

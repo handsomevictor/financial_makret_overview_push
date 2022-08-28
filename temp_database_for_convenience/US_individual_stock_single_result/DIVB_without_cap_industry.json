@@ -1,0 +1,13 @@
+{
+    "ticker": "DIVB",
+    "close_price": 38.31999969482422,
+    "daily_return": -0.03183431222688482,
+    "return_5_days": -0.03911738544406074,
+    "return_30_days": 0.03904551477776219,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

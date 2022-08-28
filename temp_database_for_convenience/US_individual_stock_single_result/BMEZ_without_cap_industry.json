@@ -1,0 +1,13 @@
+{
+    "ticker": "BMEZ",
+    "close_price": 16.399999618530273,
+    "daily_return": -0.03642778040881811,
+    "return_5_days": -0.02728356910846519,
+    "return_30_days": 0.0012210292300605108,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

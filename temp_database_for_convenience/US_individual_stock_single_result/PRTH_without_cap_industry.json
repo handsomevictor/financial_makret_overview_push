@@ -1,0 +1,13 @@
+{
+    "ticker": "PRTH",
+    "close_price": 3.9200000762939453,
+    "daily_return": -0.043902398176946855,
+    "return_5_days": -0.1816283700391762,
+    "return_30_days": -0.055421690069412555,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

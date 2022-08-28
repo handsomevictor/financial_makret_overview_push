@@ -1,0 +1,13 @@
+{
+    "ticker": "OLMA",
+    "close_price": 4.150000095367432,
+    "daily_return": -0.041570399886880605,
+    "return_5_days": 0.03233833707903533,
+    "return_30_days": -0.1170212204718577,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

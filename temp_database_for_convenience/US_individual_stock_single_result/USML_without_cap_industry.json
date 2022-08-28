@@ -1,0 +1,13 @@
+{
+    "ticker": "USML",
+    "close_price": 28.826000213623047,
+    "daily_return": -0.04795560044126412,
+    "return_5_days": -0.07213439542044786,
+    "return_30_days": 0.04982154641252001,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

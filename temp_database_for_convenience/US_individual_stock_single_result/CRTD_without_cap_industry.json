@@ -1,0 +1,13 @@
+{
+    "ticker": "CRTD",
+    "close_price": 0.5699999928474426,
+    "daily_return": -0.11214957088834965,
+    "return_5_days": -0.1230769019155099,
+    "return_30_days": -0.4466019333201081,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

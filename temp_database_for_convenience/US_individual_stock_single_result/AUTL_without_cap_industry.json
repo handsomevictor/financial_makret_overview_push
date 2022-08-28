@@ -1,0 +1,13 @@
+{
+    "ticker": "AUTL",
+    "close_price": 3.390000104904175,
+    "daily_return": -0.03966001915588613,
+    "return_5_days": 0.014970117371185587,
+    "return_30_days": 0.1811847526411301,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

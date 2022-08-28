@@ -1,0 +1,13 @@
+{
+    "ticker": "TNYA",
+    "close_price": 4.409999847412109,
+    "daily_return": -0.06369430749577887,
+    "return_5_days": -0.02000003390841998,
+    "return_30_days": -0.15192307515962578,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

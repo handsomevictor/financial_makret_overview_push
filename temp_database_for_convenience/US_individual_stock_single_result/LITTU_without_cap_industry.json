@@ -1,0 +1,13 @@
+{
+    "ticker": "LITTU",
+    "close_price": 9.779999732971191,
+    "daily_return": -0.0020408629973885928,
+    "return_5_days": -0.0020408629973884818,
+    "return_30_days": 0.0030768956893527655,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

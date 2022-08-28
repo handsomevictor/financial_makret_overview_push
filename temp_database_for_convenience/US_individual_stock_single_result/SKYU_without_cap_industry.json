@@ -1,0 +1,13 @@
+{
+    "ticker": "SKYU",
+    "close_price": 17.323999404907227,
+    "daily_return": -0.08265823696349694,
+    "return_5_days": -0.08246390927966862,
+    "return_30_days": 0.1176773809617564,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "XCLR",
+    "close_price": 25.176000595092773,
+    "daily_return": -0.009676669080050604,
+    "return_5_days": -0.009793457205097056,
+    "return_30_days": 0.033285484571846435,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

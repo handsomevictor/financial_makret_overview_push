@@ -1,0 +1,13 @@
+{
+    "ticker": "UNP",
+    "close_price": 231.27000427246094,
+    "daily_return": -0.03262643917176822,
+    "return_5_days": -0.03039577339483157,
+    "return_30_days": 0.105867158574662,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

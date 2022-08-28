@@ -1,0 +1,13 @@
+{
+    "ticker": "RYF",
+    "close_price": 56.849998474121094,
+    "daily_return": -0.029035026218469984,
+    "return_5_days": -0.03693038031944451,
+    "return_30_days": 0.061624636490688944,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

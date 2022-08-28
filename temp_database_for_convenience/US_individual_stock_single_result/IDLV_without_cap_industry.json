@@ -1,0 +1,13 @@
+{
+    "ticker": "IDLV",
+    "close_price": 27.75,
+    "daily_return": -0.017351266823284472,
+    "return_5_days": -0.022887310819052487,
+    "return_30_days": 0.013883783307082842,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

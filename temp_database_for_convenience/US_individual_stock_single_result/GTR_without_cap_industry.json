@@ -1,0 +1,13 @@
+{
+    "ticker": "GTR",
+    "close_price": 22.3799991607666,
+    "daily_return": -0.01235660584867504,
+    "return_5_days": -0.020140148369008237,
+    "return_30_days": 0.024912928523430633,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ACHC",
+    "close_price": 82.63999938964844,
+    "daily_return": -0.030388406256873113,
+    "return_5_days": 0.003399693749658317,
+    "return_30_days": 0.0872253264976266,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

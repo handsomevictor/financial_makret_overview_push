@@ -1,0 +1,13 @@
+{
+    "ticker": "AGNG",
+    "close_price": 25.118000030517578,
+    "daily_return": -0.026811292124896524,
+    "return_5_days": -0.02888071707755102,
+    "return_30_days": -0.02775301255520457,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

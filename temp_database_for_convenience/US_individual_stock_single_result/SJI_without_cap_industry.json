@@ -1,0 +1,13 @@
+{
+    "ticker": "SJI",
+    "close_price": 34.0099983215332,
+    "daily_return": -0.005555626817767334,
+    "return_5_days": -0.00989811259654172,
+    "return_30_days": 0.001767232908555627,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

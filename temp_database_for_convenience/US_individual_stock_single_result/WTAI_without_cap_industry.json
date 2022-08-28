@@ -1,0 +1,13 @@
+{
+    "ticker": "WTAI",
+    "close_price": 16.702999114990234,
+    "daily_return": -0.03618008144697871,
+    "return_5_days": -0.030867506615682938,
+    "return_30_days": 0.07900514269506442,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

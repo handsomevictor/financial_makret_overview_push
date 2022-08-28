@@ -1,0 +1,13 @@
+{
+    "ticker": "INDO",
+    "close_price": 9.5600004196167,
+    "daily_return": 0.0765766099563383,
+    "return_5_days": 0.3204420886521975,
+    "return_30_days": 0.45954200629483344,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

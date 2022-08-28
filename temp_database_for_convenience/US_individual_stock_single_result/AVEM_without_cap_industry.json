@@ -1,0 +1,13 @@
+{
+    "ticker": "AVEM",
+    "close_price": 52.189998626708984,
+    "daily_return": -0.013048457402968894,
+    "return_5_days": 0.005587612568478839,
+    "return_30_days": 0.04171657118248118,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

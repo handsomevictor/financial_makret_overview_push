@@ -1,0 +1,13 @@
+{
+    "ticker": "SPLG",
+    "close_price": 47.66999816894531,
+    "daily_return": -0.033259037896397614,
+    "return_5_days": -0.03987922046490888,
+    "return_30_days": 0.05324789961968501,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

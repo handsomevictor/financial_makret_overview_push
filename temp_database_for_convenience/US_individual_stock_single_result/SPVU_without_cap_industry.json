@@ -1,0 +1,13 @@
+{
+    "ticker": "SPVU",
+    "close_price": 41.529998779296875,
+    "daily_return": -0.03057893017332025,
+    "return_5_days": -0.033151739859555995,
+    "return_30_days": 0.0405913038857062,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

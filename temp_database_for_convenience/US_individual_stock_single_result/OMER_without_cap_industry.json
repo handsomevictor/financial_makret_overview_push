@@ -1,0 +1,13 @@
+{
+    "ticker": "OMER",
+    "close_price": 3.819999933242798,
+    "daily_return": -0.027989855380631035,
+    "return_5_days": -0.3492333888045782,
+    "return_30_days": -0.05679018436054284,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

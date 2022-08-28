@@ -1,0 +1,13 @@
+{
+    "ticker": "IGV",
+    "close_price": 287.9800109863281,
+    "daily_return": -0.03546905609440831,
+    "return_5_days": -0.04979046416080224,
+    "return_30_days": 0.056264654906475364,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

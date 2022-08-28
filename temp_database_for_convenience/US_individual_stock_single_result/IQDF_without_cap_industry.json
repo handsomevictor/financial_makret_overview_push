@@ -1,0 +1,13 @@
+{
+    "ticker": "IQDF",
+    "close_price": 20.309999465942383,
+    "daily_return": -0.02120484501482489,
+    "return_5_days": -0.017891723103156565,
+    "return_30_days": 0.028354403338854528,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

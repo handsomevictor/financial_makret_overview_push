@@ -1,0 +1,13 @@
+{
+    "ticker": "KBWD",
+    "close_price": 17.65999984741211,
+    "daily_return": -0.015607618634901899,
+    "return_5_days": -0.024309421258801533,
+    "return_30_days": 0.05432834909923079,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

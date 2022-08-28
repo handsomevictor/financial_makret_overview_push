@@ -1,0 +1,13 @@
+{
+    "ticker": "FIS",
+    "close_price": 93.08999633789062,
+    "daily_return": -0.032026639177469174,
+    "return_5_days": -0.0700299924384391,
+    "return_30_days": -0.022369301150033327,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

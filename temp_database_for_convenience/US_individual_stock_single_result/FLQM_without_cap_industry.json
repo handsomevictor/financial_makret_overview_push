@@ -1,0 +1,13 @@
+{
+    "ticker": "FLQM",
+    "close_price": 42.11600112915039,
+    "daily_return": -0.029473425858311253,
+    "return_5_days": -0.03789835154540777,
+    "return_30_days": 0.05952204098491487,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

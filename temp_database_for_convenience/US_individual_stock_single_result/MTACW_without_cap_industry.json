@@ -1,0 +1,13 @@
+{
+    "ticker": "MTACW",
+    "close_price": 0.08299999684095383,
+    "daily_return": 0.10666658057107203,
+    "return_5_days": -0.0777778495241066,
+    "return_30_days": 0.18571423553690636,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

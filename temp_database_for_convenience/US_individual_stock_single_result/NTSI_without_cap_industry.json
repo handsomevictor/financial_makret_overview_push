@@ -1,0 +1,13 @@
+{
+    "ticker": "NTSI",
+    "close_price": 31.19700050354004,
+    "daily_return": -0.0231094089476781,
+    "return_5_days": -0.030335990487978526,
+    "return_30_days": 0.01288965182836077,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

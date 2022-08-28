@@ -1,0 +1,13 @@
+{
+    "ticker": "EWMC",
+    "close_price": 85.88999938964844,
+    "daily_return": -0.029272195626360076,
+    "return_5_days": -0.03309695351574826,
+    "return_30_days": 0.08269251742315942,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LKOR",
+    "close_price": 45.387001037597656,
+    "daily_return": -0.006131315401045612,
+    "return_5_days": -0.0017375306022775483,
+    "return_30_days": -0.009990188044724069,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

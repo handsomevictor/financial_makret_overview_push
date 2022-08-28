@@ -1,0 +1,13 @@
+{
+    "ticker": "KSTR",
+    "close_price": 16.670000076293945,
+    "daily_return": -0.02571598587737145,
+    "return_5_days": -0.06610645826096195,
+    "return_30_days": -0.043602995730077976,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

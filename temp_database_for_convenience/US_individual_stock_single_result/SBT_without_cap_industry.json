@@ -1,0 +1,13 @@
+{
+    "ticker": "SBT",
+    "close_price": 6.059999942779541,
+    "daily_return": -0.008183337093661147,
+    "return_5_days": 0.004975079921621495,
+    "return_30_days": 0.02364862579076754,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "QQQX",
+    "close_price": 23.479999542236328,
+    "daily_return": -0.02207416416464525,
+    "return_5_days": -0.04202369143317208,
+    "return_30_days": 0.009892453429519055,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

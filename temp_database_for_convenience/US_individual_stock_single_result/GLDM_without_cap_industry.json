@@ -1,0 +1,13 @@
+{
+    "ticker": "GLDM",
+    "close_price": 34.5,
+    "daily_return": -0.011461361271927095,
+    "return_5_days": -0.005477043362079881,
+    "return_30_days": 0.01829984983289279,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

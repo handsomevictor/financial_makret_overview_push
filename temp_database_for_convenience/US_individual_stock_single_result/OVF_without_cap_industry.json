@@ -1,0 +1,13 @@
+{
+    "ticker": "OVF",
+    "close_price": 21.44700050354004,
+    "daily_return": -0.023805135464731064,
+    "return_5_days": -0.02862448280911256,
+    "return_30_days": 0.006145642657750194,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

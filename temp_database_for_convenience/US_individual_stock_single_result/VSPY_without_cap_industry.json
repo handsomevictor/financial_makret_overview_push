@@ -1,0 +1,13 @@
+{
+    "ticker": "VSPY",
+    "close_price": 9.734000205993652,
+    "daily_return": 0.00807788603513071,
+    "return_5_days": -0.0006159717931720765,
+    "return_30_days": 0.041626530534977,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

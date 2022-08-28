@@ -1,0 +1,13 @@
+{
+    "ticker": "SPXC",
+    "close_price": 59.060001373291016,
+    "daily_return": -0.046342627446183116,
+    "return_5_days": -0.043407843089037335,
+    "return_30_days": 0.1366436184357076,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

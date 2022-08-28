@@ -1,0 +1,13 @@
+{
+    "ticker": "NCSM",
+    "close_price": 31.399999618530273,
+    "daily_return": -0.0031746152847532683,
+    "return_5_days": 0.17602991465508055,
+    "return_30_days": 0.14598540349229983,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

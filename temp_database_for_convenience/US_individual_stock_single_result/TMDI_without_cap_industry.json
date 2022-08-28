@@ -1,0 +1,13 @@
+{
+    "ticker": "TMDI",
+    "close_price": 0.47999998927116394,
+    "daily_return": -0.05882353284917219,
+    "return_5_days": -0.0943395939956303,
+    "return_30_days": -0.11111116630059503,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

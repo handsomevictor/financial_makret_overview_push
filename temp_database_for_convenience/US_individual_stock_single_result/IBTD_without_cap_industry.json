@@ -1,0 +1,13 @@
+{
+    "ticker": "IBTD",
+    "close_price": 24.889999389648438,
+    "daily_return": -0.000401615623897178,
+    "return_5_days": -0.000401615623897178,
+    "return_30_days": 0.0004019384734386122,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

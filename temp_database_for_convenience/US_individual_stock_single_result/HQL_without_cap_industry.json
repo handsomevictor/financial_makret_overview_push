@@ -1,0 +1,13 @@
+{
+    "ticker": "HQL",
+    "close_price": 14.720000267028809,
+    "daily_return": -0.03285151059314717,
+    "return_5_days": -0.060025516573592896,
+    "return_30_days": -0.0270984695512847,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ARTNA",
+    "close_price": 56.650001525878906,
+    "daily_return": -0.010653105370855398,
+    "return_5_days": -0.034429805796987734,
+    "return_30_days": 0.12089435100256174,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

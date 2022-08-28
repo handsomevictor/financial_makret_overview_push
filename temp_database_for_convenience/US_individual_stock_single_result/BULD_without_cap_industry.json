@@ -1,0 +1,13 @@
+{
+    "ticker": "BULD",
+    "close_price": 18.464000701904297,
+    "daily_return": -0.04033259243478504,
+    "return_5_days": -0.05438893874495754,
+    "return_30_days": 0.059931149313316334,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

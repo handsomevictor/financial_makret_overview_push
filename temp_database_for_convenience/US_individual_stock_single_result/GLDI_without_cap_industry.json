@@ -1,0 +1,13 @@
+{
+    "ticker": "GLDI",
+    "close_price": 7.480000019073486,
+    "daily_return": -0.010582000570312333,
+    "return_5_days": -0.003994701583759808,
+    "return_30_days": 0.00944671701792621,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

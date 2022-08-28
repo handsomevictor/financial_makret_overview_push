@@ -1,0 +1,13 @@
+{
+    "ticker": "NBXG",
+    "close_price": 10.819999694824219,
+    "daily_return": -0.03306522783143917,
+    "return_5_days": -0.026978434696250164,
+    "return_30_days": 0.07234881379551772,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

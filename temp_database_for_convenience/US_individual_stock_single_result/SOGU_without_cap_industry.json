@@ -1,0 +1,13 @@
+{
+    "ticker": "SOGU",
+    "close_price": 43.0,
+    "daily_return": 0.05937422612348664,
+    "return_5_days": 0.025518714215037486,
+    "return_30_days": -0.28666222842114075,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

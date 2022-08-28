@@ -1,0 +1,13 @@
+{
+    "ticker": "FUL",
+    "close_price": 67.27999877929688,
+    "daily_return": -0.046620390105636345,
+    "return_5_days": -0.04756512796408563,
+    "return_30_days": 0.14111261573976708,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

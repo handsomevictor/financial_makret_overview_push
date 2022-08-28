@@ -1,0 +1,13 @@
+{
+    "ticker": "IE",
+    "close_price": 10.09000015258789,
+    "daily_return": 0.05104164079659612,
+    "return_5_days": 0.0621052792197776,
+    "return_30_days": 0.25967538879788643,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

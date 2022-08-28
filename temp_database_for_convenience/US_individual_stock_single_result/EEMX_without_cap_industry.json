@@ -1,0 +1,13 @@
+{
+    "ticker": "EEMX",
+    "close_price": 60.768001556396484,
+    "daily_return": -0.014082679086403704,
+    "return_5_days": 0.0026565102533957496,
+    "return_30_days": 0.032679077165467696,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

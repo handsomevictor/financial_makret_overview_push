@@ -1,0 +1,13 @@
+{
+    "ticker": "CATO",
+    "close_price": 11.180000305175781,
+    "daily_return": -0.051738732710001845,
+    "return_5_days": -0.07983533693903355,
+    "return_30_days": -0.056540089006380856,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

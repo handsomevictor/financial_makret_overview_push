@@ -1,0 +1,13 @@
+{
+    "ticker": "KLIC",
+    "close_price": 44.02000045776367,
+    "daily_return": -0.05495923728333285,
+    "return_5_days": -0.07287276996274561,
+    "return_30_days": -0.031036756283082,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

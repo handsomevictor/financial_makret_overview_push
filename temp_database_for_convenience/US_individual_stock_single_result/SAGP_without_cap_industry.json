@@ -1,0 +1,13 @@
+{
+    "ticker": "SAGP",
+    "close_price": 23.054000854492188,
+    "daily_return": -0.02836424531910975,
+    "return_5_days": -0.031873299441644076,
+    "return_30_days": -0.0007367817452730296,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

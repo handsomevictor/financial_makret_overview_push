@@ -1,0 +1,13 @@
+{
+    "ticker": "XHE",
+    "close_price": 94.51000213623047,
+    "daily_return": -0.04099442709713119,
+    "return_5_days": -0.02907329266621861,
+    "return_30_days": 0.07814280387809269,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LNW",
+    "close_price": 52.08000183105469,
+    "daily_return": -0.03840469021819637,
+    "return_5_days": -0.05635073152817982,
+    "return_30_days": 0.17060013185527656,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

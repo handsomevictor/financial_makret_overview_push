@@ -1,0 +1,13 @@
+{
+    "ticker": "KRTX",
+    "close_price": 260.1300048828125,
+    "daily_return": -0.011213250114116113,
+    "return_5_days": -0.011926859353104557,
+    "return_30_days": 0.9241807839714884,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

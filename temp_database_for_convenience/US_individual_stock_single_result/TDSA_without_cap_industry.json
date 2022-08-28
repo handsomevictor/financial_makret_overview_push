@@ -1,0 +1,13 @@
+{
+    "ticker": "TDSA",
+    "close_price": 21.711999893188477,
+    "daily_return": -0.004036667291367091,
+    "return_5_days": -0.019331504438074743,
+    "return_30_days": -0.010392007079270904,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

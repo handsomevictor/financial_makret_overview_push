@@ -1,0 +1,13 @@
+{
+    "ticker": "SKYT",
+    "close_price": 14.34000015258789,
+    "daily_return": -0.06396863980143652,
+    "return_5_days": -0.17775231000801317,
+    "return_30_days": 0.8671875616031113,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

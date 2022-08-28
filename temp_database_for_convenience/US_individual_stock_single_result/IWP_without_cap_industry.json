@@ -1,0 +1,13 @@
+{
+    "ticker": "IWP",
+    "close_price": 88.12999725341797,
+    "daily_return": -0.03693590650102607,
+    "return_5_days": -0.03651474715985026,
+    "return_30_days": 0.08561218184424035,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

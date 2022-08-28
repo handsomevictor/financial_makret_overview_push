@@ -1,0 +1,13 @@
+{
+    "ticker": "HA",
+    "close_price": 15.40999984741211,
+    "daily_return": -0.04522921746233277,
+    "return_5_days": -0.01909612921746684,
+    "return_30_days": 0.01381579215671902,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

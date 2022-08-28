@@ -1,0 +1,13 @@
+{
+    "ticker": "EXR",
+    "close_price": 207.1300048828125,
+    "daily_return": -0.01713011538508602,
+    "return_5_days": -0.021355960992290535,
+    "return_30_days": 0.22150142086612568,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

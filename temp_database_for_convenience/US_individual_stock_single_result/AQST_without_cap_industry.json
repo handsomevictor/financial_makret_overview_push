@@ -1,0 +1,13 @@
+{
+    "ticker": "AQST",
+    "close_price": 1.440000057220459,
+    "daily_return": -0.07096767643859847,
+    "return_5_days": 0.00699308394360032,
+    "return_30_days": 0.6551724704919328,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

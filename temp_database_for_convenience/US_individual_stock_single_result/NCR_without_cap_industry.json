@@ -1,0 +1,13 @@
+{
+    "ticker": "NCR",
+    "close_price": 31.739999771118164,
+    "daily_return": -0.06482023997076825,
+    "return_5_days": -0.03143120757575357,
+    "return_30_days": 0.10708056109712616,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "OG",
+    "close_price": 0.46000000834465027,
+    "daily_return": 0.17948724414705297,
+    "return_5_days": 0.3105412933664107,
+    "return_30_days": -0.41025637792647374,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

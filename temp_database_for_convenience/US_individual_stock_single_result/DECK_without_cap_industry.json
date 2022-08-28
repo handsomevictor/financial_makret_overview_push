@@ -1,0 +1,13 @@
+{
+    "ticker": "DECK",
+    "close_price": 328.45001220703125,
+    "daily_return": -0.01348588394740935,
+    "return_5_days": 0.003482981445543487,
+    "return_30_days": 0.2131566227903665,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CBZ",
+    "close_price": 44.7599983215332,
+    "daily_return": -0.0315881190093078,
+    "return_5_days": -0.05589541308601298,
+    "return_30_days": 0.11454179510953177,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

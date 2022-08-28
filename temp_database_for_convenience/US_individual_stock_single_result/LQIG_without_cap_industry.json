@@ -1,0 +1,13 @@
+{
+    "ticker": "LQIG",
+    "close_price": 99.3219985961914,
+    "daily_return": -0.005576740043418016,
+    "return_5_days": -0.004330645548634937,
+    "return_30_days": -0.0068097933770140395,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

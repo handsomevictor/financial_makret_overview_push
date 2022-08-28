@@ -1,0 +1,13 @@
+{
+    "ticker": "FWBI",
+    "close_price": 3.309999942779541,
+    "daily_return": -0.16414143664291236,
+    "return_5_days": -0.28817206991519595,
+    "return_30_days": -0.29723993291478246,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

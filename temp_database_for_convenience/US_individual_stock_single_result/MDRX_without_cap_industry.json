@@ -1,0 +1,13 @@
+{
+    "ticker": "MDRX",
+    "close_price": 17.059999465942383,
+    "daily_return": -0.029579093288986225,
+    "return_5_days": -0.00640655852433214,
+    "return_30_days": 0.16371075330904117,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CLSK",
+    "close_price": 4.300000190734863,
+    "daily_return": -0.06926400492442752,
+    "return_5_days": -0.07327579429614361,
+    "return_30_days": 0.009389661902325264,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

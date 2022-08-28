@@ -1,0 +1,13 @@
+{
+    "ticker": "EATV",
+    "close_price": 17.180999755859375,
+    "daily_return": -0.02602038830332465,
+    "return_5_days": -0.02822401248320827,
+    "return_30_days": 0.028802333589549756,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

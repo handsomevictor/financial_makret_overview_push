@@ -1,0 +1,13 @@
+{
+    "ticker": "BIBL",
+    "close_price": 31.770000457763672,
+    "daily_return": -0.03727271340110083,
+    "return_5_days": -0.036688875114235464,
+    "return_30_days": 0.07789914685723254,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

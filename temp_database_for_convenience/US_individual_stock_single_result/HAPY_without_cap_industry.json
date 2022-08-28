@@ -1,0 +1,13 @@
+{
+    "ticker": "HAPY",
+    "close_price": 17.538000106811523,
+    "daily_return": -0.03409150714580822,
+    "return_5_days": -0.03605584964968678,
+    "return_30_days": 0.07919516950533123,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

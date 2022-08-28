@@ -1,0 +1,13 @@
+{
+    "ticker": "CSTM",
+    "close_price": 14.039999961853027,
+    "daily_return": -0.03172414056186024,
+    "return_5_days": -0.004960999045176773,
+    "return_30_days": 0.06605921644033108,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

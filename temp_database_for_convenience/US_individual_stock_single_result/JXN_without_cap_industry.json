@@ -1,0 +1,13 @@
+{
+    "ticker": "JXN",
+    "close_price": 32.2599983215332,
+    "daily_return": -0.046126593358005175,
+    "return_5_days": -0.06139076741122995,
+    "return_30_days": 0.3050161495799635,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

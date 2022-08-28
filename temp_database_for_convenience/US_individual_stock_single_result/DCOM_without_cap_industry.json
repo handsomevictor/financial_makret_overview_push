@@ -1,0 +1,13 @@
+{
+    "ticker": "DCOM",
+    "close_price": 32.4900016784668,
+    "daily_return": -0.02226897002598427,
+    "return_5_days": -0.040460688339914896,
+    "return_30_days": 0.09026854061327816,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

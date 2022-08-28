@@ -1,0 +1,13 @@
+{
+    "ticker": "CMPO",
+    "close_price": 5.960000038146973,
+    "daily_return": -0.006666660308837891,
+    "return_5_days": 0.022298476182188054,
+    "return_30_days": 0.16862748031293573,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

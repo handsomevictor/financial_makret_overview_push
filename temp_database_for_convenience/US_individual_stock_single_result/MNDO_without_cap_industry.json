@@ -1,0 +1,13 @@
+{
+    "ticker": "MNDO",
+    "close_price": 2.390000104904175,
+    "daily_return": -0.004166662527455345,
+    "return_5_days": 0.012711953873680626,
+    "return_30_days": 0.017021362508463644,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

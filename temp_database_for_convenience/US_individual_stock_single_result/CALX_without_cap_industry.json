@@ -1,0 +1,13 @@
+{
+    "ticker": "CALX",
+    "close_price": 58.790000915527344,
+    "daily_return": -0.05284354431163918,
+    "return_5_days": 0.016600364068415585,
+    "return_30_days": 0.4864728710395989,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

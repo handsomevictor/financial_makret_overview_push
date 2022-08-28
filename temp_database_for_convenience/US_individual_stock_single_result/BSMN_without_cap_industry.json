@@ -1,0 +1,13 @@
+{
+    "ticker": "BSMN",
+    "close_price": 25.13599967956543,
+    "daily_return": 3.976330513189019e-05,
+    "return_5_days": -0.000397686666597008,
+    "return_30_days": -0.004865311569173358,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

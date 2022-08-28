@@ -1,0 +1,13 @@
+{
+    "ticker": "HCA",
+    "close_price": 204.97999572753906,
+    "daily_return": -0.040176071966383176,
+    "return_5_days": -0.04673767896949543,
+    "return_30_days": 0.194452508586348,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

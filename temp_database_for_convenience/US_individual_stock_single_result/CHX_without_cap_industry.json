@@ -1,0 +1,13 @@
+{
+    "ticker": "CHX",
+    "close_price": 22.530000686645508,
+    "daily_return": -0.029715704010040422,
+    "return_5_days": 0.01486486091734518,
+    "return_30_days": 0.20610280078009335,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

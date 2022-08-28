@@ -1,0 +1,13 @@
+{
+    "ticker": "FYC",
+    "close_price": 61.15999984741211,
+    "daily_return": -0.03258464621187651,
+    "return_5_days": -0.026424703207199807,
+    "return_30_days": 0.11382261914711189,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

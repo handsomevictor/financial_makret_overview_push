@@ -1,0 +1,13 @@
+{
+    "ticker": "ISUN",
+    "close_price": 3.200000047683716,
+    "daily_return": -0.04761900369272076,
+    "return_5_days": -0.08571427209036697,
+    "return_30_days": 0.09589039865545002,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SISI",
+    "close_price": 0.8289999961853027,
+    "daily_return": -0.0632768303744734,
+    "return_5_days": -0.04712644638891106,
+    "return_30_days": -0.41205672637586754,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

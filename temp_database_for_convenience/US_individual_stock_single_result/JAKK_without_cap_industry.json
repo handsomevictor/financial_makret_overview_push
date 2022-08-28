@@ -1,0 +1,13 @@
+{
+    "ticker": "JAKK",
+    "close_price": 24.049999237060547,
+    "daily_return": -0.05277669101221849,
+    "return_5_days": 0.004175301500441986,
+    "return_30_days": 0.7631963806242743,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "VKTX",
+    "close_price": 3.3299999237060547,
+    "daily_return": -0.05932204531353924,
+    "return_5_days": -0.0646067479691892,
+    "return_30_days": -0.10000003221872644,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

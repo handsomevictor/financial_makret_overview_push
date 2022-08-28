@@ -1,0 +1,13 @@
+{
+    "ticker": "MFGP",
+    "close_price": 6.010000228881836,
+    "daily_return": 0.9201277984474914,
+    "return_5_days": 0.8212122168860609,
+    "return_30_days": 0.8435583578108521,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

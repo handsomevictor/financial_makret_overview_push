@@ -1,0 +1,13 @@
+{
+    "ticker": "GDXD",
+    "close_price": 21.639999389648438,
+    "daily_return": 0.14315895619566876,
+    "return_5_days": 0.023167838295791388,
+    "return_30_days": -0.04078014619117487,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

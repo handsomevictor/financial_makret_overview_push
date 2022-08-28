@@ -1,0 +1,13 @@
+{
+    "ticker": "FPRO",
+    "close_price": 23.075000762939453,
+    "daily_return": -0.023528405215727854,
+    "return_5_days": -0.03633321958541569,
+    "return_30_days": 0.038852911664906786,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

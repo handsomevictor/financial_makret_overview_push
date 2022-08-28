@@ -1,0 +1,13 @@
+{
+    "ticker": "BSCN",
+    "close_price": 20.959999084472656,
+    "daily_return": -0.0004768826518495306,
+    "return_5_days": -0.0014292847533418085,
+    "return_30_days": 0.0004772468338465341,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PEPLU",
+    "close_price": 9.930000305175781,
+    "daily_return": -0.0020100004495208212,
+    "return_5_days": -0.006999969482421875,
+    "return_30_days": -0.008982050746131232,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

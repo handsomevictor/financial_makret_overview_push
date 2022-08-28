@@ -1,0 +1,13 @@
+{
+    "ticker": "HURN",
+    "close_price": 68.87999725341797,
+    "daily_return": -0.014028104041962752,
+    "return_5_days": -0.038525993296271155,
+    "return_30_days": 0.08592143972916655,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

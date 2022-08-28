@@ -1,0 +1,13 @@
+{
+    "ticker": "EWD",
+    "close_price": 30.389999389648438,
+    "daily_return": -0.03950695398587645,
+    "return_5_days": -0.05767443753028101,
+    "return_30_days": 0.0023086970820840325,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

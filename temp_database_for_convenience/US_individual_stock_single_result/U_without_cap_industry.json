@@ -1,0 +1,13 @@
+{
+    "ticker": "U",
+    "close_price": 44.58000183105469,
+    "daily_return": -0.08815703850277223,
+    "return_5_days": -0.06482056758088173,
+    "return_30_days": 0.32245633467219315,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

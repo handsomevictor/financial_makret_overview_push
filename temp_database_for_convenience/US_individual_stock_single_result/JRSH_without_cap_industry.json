@@ -1,0 +1,13 @@
+{
+    "ticker": "JRSH",
+    "close_price": 5.300000190734863,
+    "daily_return": -0.006001423357187674,
+    "return_5_days": 0.007604555154464343,
+    "return_30_days": 0.08384464937499625,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

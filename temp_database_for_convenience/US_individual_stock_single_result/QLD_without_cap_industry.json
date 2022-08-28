@@ -1,0 +1,13 @@
+{
+    "ticker": "QLD",
+    "close_price": 48.959999084472656,
+    "daily_return": -0.08211475544779745,
+    "return_5_days": -0.0970122098452113,
+    "return_30_days": 0.09383380072467351,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

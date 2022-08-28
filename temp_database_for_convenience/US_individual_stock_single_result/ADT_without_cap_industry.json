@@ -1,0 +1,13 @@
+{
+    "ticker": "ADT",
+    "close_price": 7.559999942779541,
+    "daily_return": -0.033248110380360574,
+    "return_5_days": -0.039390082247443114,
+    "return_30_days": 0.11013215951568434,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

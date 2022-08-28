@@ -1,0 +1,13 @@
+{
+    "ticker": "SPBC",
+    "close_price": 22.045000076293945,
+    "daily_return": -0.037378237968257566,
+    "return_5_days": -0.04235449009910419,
+    "return_30_days": 0.04682083956126748,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

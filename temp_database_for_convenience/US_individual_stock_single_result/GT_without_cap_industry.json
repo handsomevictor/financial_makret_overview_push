@@ -1,0 +1,13 @@
+{
+    "ticker": "GT",
+    "close_price": 14.619999885559082,
+    "daily_return": -0.035620050612679144,
+    "return_5_days": -0.014160488147493822,
+    "return_30_days": 0.3242753565286398,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

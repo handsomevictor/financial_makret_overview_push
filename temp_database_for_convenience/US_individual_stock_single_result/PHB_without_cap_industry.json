@@ -1,0 +1,13 @@
+{
+    "ticker": "PHB",
+    "close_price": 17.290000915527344,
+    "daily_return": -0.013127827410210346,
+    "return_5_days": -0.014253134945887425,
+    "return_30_days": -0.0005779376863660479,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

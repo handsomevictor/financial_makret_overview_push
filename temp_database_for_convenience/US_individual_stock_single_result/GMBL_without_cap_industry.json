@@ -1,0 +1,13 @@
+{
+    "ticker": "GMBL",
+    "close_price": 0.4440000057220459,
+    "daily_return": -0.08453609767787684,
+    "return_5_days": -0.12426039398550359,
+    "return_30_days": 0.1127819998150612,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

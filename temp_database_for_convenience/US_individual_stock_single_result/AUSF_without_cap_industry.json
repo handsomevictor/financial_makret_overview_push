@@ -1,0 +1,13 @@
+{
+    "ticker": "AUSF",
+    "close_price": 30.729999542236328,
+    "daily_return": -0.016010246792472316,
+    "return_5_days": -0.01474834831499916,
+    "return_30_days": 0.057467312697344175,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

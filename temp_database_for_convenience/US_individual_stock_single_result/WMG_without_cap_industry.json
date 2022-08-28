@@ -1,0 +1,13 @@
+{
+    "ticker": "WMG",
+    "close_price": 27.399999618530273,
+    "daily_return": -0.04927134251666776,
+    "return_5_days": -0.03282740231840153,
+    "return_30_days": 0.06449105913647757,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

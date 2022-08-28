@@ -1,0 +1,13 @@
+{
+    "ticker": "FAS",
+    "close_price": 75.26000213623047,
+    "daily_return": -0.09172095604802155,
+    "return_5_days": -0.10977050720131276,
+    "return_30_days": 0.1742862605179465,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

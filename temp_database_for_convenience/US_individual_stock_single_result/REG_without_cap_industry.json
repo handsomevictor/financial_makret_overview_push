@@ -1,0 +1,13 @@
+{
+    "ticker": "REG",
+    "close_price": 62.849998474121094,
+    "daily_return": -0.015199016379528363,
+    "return_5_days": -0.030242233579790834,
+    "return_30_days": 0.044019894976695895,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "KTN",
+    "close_price": 28.18000030517578,
+    "daily_return": -0.0007092360717222412,
+    "return_5_days": -0.0014173993321032752,
+    "return_30_days": 0.01769591049720276,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

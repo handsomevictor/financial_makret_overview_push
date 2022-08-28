@@ -1,0 +1,13 @@
+{
+    "ticker": "FLNT",
+    "close_price": 1.6200000047683716,
+    "daily_return": -0.024096363046584468,
+    "return_5_days": -0.04705884745376687,
+    "return_30_days": 0.2857142992300781,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

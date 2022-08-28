@@ -1,0 +1,13 @@
+{
+    "ticker": "KFS",
+    "close_price": 7.099999904632568,
+    "daily_return": -0.01388887601134181,
+    "return_5_days": -0.041835350764252266,
+    "return_30_days": 0.1853088774504572,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "GBT",
+    "close_price": 67.33999633789062,
+    "daily_return": -0.003108907540777972,
+    "return_5_days": 0.004774689806811949,
+    "return_30_days": 0.8710751096791667,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

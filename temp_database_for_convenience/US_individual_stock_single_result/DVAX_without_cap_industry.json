@@ -1,0 +1,13 @@
+{
+    "ticker": "DVAX",
+    "close_price": 11.300000190734863,
+    "daily_return": -0.02837488568003499,
+    "return_5_days": -0.07148725391167121,
+    "return_30_days": -0.21853387545475145,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PSCU",
+    "close_price": 59.91999816894531,
+    "daily_return": -0.01609200874185779,
+    "return_5_days": -0.03417154602348571,
+    "return_30_days": 0.04463036142527077,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

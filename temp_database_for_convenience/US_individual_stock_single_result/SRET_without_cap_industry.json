@@ -1,0 +1,13 @@
+{
+    "ticker": "SRET",
+    "close_price": 8.399999618530273,
+    "daily_return": -0.01176475076114425,
+    "return_5_days": -0.012926040821742202,
+    "return_30_days": 0.03321027063822202,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

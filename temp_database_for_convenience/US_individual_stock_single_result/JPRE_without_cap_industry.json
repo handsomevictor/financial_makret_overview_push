@@ -1,0 +1,13 @@
+{
+    "ticker": "JPRE",
+    "close_price": 50.66999816894531,
+    "daily_return": -0.022757962196753634,
+    "return_5_days": -0.03577547279561866,
+    "return_30_days": 0.04603632546361669,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

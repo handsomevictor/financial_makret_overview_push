@@ -1,0 +1,13 @@
+{
+    "ticker": "WDFC",
+    "close_price": 191.0500030517578,
+    "daily_return": -0.05635682744115933,
+    "return_5_days": -0.07112986262638143,
+    "return_30_days": 0.1364582853971723,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

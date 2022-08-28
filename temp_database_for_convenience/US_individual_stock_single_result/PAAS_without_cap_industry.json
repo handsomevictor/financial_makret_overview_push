@@ -1,0 +1,13 @@
+{
+    "ticker": "PAAS",
+    "close_price": 15.890000343322754,
+    "daily_return": -0.045645603160356485,
+    "return_5_days": -0.014879034713628392,
+    "return_30_days": -0.1302682022336542,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

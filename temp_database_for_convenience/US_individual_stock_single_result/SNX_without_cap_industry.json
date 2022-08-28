@@ -1,0 +1,13 @@
+{
+    "ticker": "SNX",
+    "close_price": 98.25,
+    "daily_return": -0.050541198176170754,
+    "return_5_days": -0.060168364840650024,
+    "return_30_days": 0.06596508573115312,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

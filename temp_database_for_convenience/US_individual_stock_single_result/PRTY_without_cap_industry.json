@@ -1,0 +1,13 @@
+{
+    "ticker": "PRTY",
+    "close_price": 1.7799999713897705,
+    "daily_return": -0.09183676696627929,
+    "return_5_days": -0.13592231998413018,
+    "return_30_days": 0.37984497986564203,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

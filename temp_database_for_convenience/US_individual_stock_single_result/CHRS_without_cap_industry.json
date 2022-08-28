@@ -1,0 +1,13 @@
+{
+    "ticker": "CHRS",
+    "close_price": 11.890000343322754,
+    "daily_return": -0.07398752320681745,
+    "return_5_days": -0.0600789958992759,
+    "return_30_days": 0.4918444989114401,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

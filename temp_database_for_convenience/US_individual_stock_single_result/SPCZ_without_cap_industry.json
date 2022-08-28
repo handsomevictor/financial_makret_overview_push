@@ -1,0 +1,13 @@
+{
+    "ticker": "SPCZ",
+    "close_price": 25.059999465942383,
+    "daily_return": 0.0,
+    "return_5_days": -0.0003988922618096691,
+    "return_30_days": 0.0013985953225028602,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

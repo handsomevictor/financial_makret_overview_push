@@ -1,0 +1,13 @@
+{
+    "ticker": "BPTS",
+    "close_price": 1.0700000524520874,
+    "daily_return": 0.05004906415448218,
+    "return_5_days": 2.220446049250313e-16,
+    "return_30_days": 0.21590915710226666,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

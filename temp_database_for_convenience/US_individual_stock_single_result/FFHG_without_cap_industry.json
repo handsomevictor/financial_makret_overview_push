@@ -1,0 +1,13 @@
+{
+    "ticker": "FFHG",
+    "close_price": 32.867000579833984,
+    "daily_return": -0.02277521641060498,
+    "return_5_days": -0.028695568162486862,
+    "return_30_days": 0.04522184445254851,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

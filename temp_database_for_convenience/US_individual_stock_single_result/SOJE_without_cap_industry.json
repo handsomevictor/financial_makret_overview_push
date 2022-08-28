@@ -1,0 +1,13 @@
+{
+    "ticker": "SOJE",
+    "close_price": 19.389999389648438,
+    "daily_return": -0.0056410569411057265,
+    "return_5_days": -0.03291769937787148,
+    "return_30_days": -0.0015448345276850572,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

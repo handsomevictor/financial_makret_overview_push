@@ -1,0 +1,13 @@
+{
+    "ticker": "LIVE",
+    "close_price": 26.25,
+    "daily_return": -0.0205223601760397,
+    "return_5_days": -0.03528111417763591,
+    "return_30_days": -0.117647058823529,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

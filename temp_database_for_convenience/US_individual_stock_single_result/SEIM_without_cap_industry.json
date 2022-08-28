@@ -1,0 +1,13 @@
+{
+    "ticker": "SEIM",
+    "close_price": 26.357999801635742,
+    "daily_return": -0.031667874116949046,
+    "return_5_days": -0.022655644041174483,
+    "return_30_days": 0.10841038858497654,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

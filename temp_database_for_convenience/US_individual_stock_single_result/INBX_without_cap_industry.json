@@ -1,0 +1,13 @@
+{
+    "ticker": "INBX",
+    "close_price": 19.65999984741211,
+    "daily_return": -0.09609196103852369,
+    "return_5_days": 0.021298693372057587,
+    "return_30_days": 0.1377314274417787,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

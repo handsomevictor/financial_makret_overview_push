@@ -1,0 +1,13 @@
+{
+    "ticker": "MATX",
+    "close_price": 78.31999969482422,
+    "daily_return": -0.05967104293519809,
+    "return_5_days": -0.04673811825858132,
+    "return_30_days": 0.03066195415917483,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "USIG",
+    "close_price": 51.31999969482422,
+    "daily_return": -0.004461678867901386,
+    "return_5_days": -0.0033016503806730935,
+    "return_30_days": -0.0025267456984933157,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

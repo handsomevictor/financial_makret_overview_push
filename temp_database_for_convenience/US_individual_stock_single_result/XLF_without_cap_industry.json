@@ -1,0 +1,13 @@
+{
+    "ticker": "XLF",
+    "close_price": 33.720001220703125,
+    "daily_return": -0.02991936568034348,
+    "return_5_days": -0.035469047375355056,
+    "return_30_days": 0.061044697675946225,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

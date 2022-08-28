@@ -1,0 +1,13 @@
+{
+    "ticker": "ASND",
+    "close_price": 90.30999755859375,
+    "daily_return": -0.038334639155893746,
+    "return_5_days": -0.02462467728129536,
+    "return_30_days": 0.05836160342992858,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

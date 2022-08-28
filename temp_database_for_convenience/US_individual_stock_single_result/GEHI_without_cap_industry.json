@@ -1,0 +1,13 @@
+{
+    "ticker": "GEHI",
+    "close_price": 0.7200000286102295,
+    "daily_return": 0.028571486959652947,
+    "return_5_days": 0.34579438002872376,
+    "return_30_days": -0.013698616715036471,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

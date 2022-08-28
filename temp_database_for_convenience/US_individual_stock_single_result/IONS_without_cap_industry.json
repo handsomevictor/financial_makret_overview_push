@@ -1,0 +1,13 @@
+{
+    "ticker": "IONS",
+    "close_price": 42.349998474121094,
+    "daily_return": -0.0364050571340957,
+    "return_5_days": -0.03750003467906604,
+    "return_30_days": 0.07733393524874321,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

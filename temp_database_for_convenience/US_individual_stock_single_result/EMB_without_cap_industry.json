@@ -1,0 +1,13 @@
+{
+    "ticker": "EMB",
+    "close_price": 86.54000091552734,
+    "daily_return": -0.015584150716768996,
+    "return_5_days": -0.00299541621070476,
+    "return_30_days": 0.04643293964918027,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

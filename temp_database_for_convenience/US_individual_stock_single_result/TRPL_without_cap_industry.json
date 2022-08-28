@@ -1,0 +1,13 @@
+{
+    "ticker": "TRPL",
+    "close_price": 36.52399826049805,
+    "daily_return": -0.02820352766122436,
+    "return_5_days": -0.035873642015382234,
+    "return_30_days": 0.05405319416897769,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

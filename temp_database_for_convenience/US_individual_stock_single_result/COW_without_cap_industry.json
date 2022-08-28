@@ -1,0 +1,13 @@
+{
+    "ticker": "COW",
+    "close_price": 38.16299819946289,
+    "daily_return": -0.005005901318340666,
+    "return_5_days": -0.01791098431339666,
+    "return_30_days": 0.01389476137872303,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

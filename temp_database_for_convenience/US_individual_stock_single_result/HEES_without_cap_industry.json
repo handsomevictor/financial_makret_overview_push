@@ -1,0 +1,13 @@
+{
+    "ticker": "HEES",
+    "close_price": 33.540000915527344,
+    "daily_return": -0.0447165954865103,
+    "return_5_days": -0.017318810014142705,
+    "return_30_days": 0.2440787364273278,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

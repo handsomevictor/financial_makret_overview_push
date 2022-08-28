@@ -1,0 +1,13 @@
+{
+    "ticker": "ITEQ",
+    "close_price": 49.04999923706055,
+    "daily_return": -0.03216260967442752,
+    "return_5_days": -0.025432198438831266,
+    "return_30_days": 0.06839467218655337,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

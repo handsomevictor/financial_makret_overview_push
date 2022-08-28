@@ -1,0 +1,13 @@
+{
+    "ticker": "EFSCP",
+    "close_price": 20.700000762939453,
+    "daily_return": 0.0,
+    "return_5_days": -0.0024096017860504304,
+    "return_30_days": 0.0029070433655682404,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

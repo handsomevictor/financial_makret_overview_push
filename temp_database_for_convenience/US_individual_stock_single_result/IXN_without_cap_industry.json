@@ -1,0 +1,13 @@
+{
+    "ticker": "IXN",
+    "close_price": 49.709999084472656,
+    "daily_return": -0.041642565874130844,
+    "return_5_days": -0.053142874581473265,
+    "return_30_days": 0.04961989957422963,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

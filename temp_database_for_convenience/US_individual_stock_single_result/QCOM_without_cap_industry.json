@@ -1,0 +1,13 @@
+{
+    "ticker": "QCOM",
+    "close_price": 138.3800048828125,
+    "daily_return": -0.05381193242521365,
+    "return_5_days": -0.06246613034851023,
+    "return_30_days": -0.04149054815381015,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

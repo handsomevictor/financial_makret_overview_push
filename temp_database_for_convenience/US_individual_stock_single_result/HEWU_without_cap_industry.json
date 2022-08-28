@@ -1,0 +1,13 @@
+{
+    "ticker": "HEWU",
+    "close_price": 24.430999755859375,
+    "daily_return": -0.012968691110555097,
+    "return_5_days": -0.018756564698055866,
+    "return_30_days": 0.03696945287185138,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

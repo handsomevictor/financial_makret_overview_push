@@ -1,0 +1,13 @@
+{
+    "ticker": "WPC",
+    "close_price": 85.7300033569336,
+    "daily_return": -0.011073930758296102,
+    "return_5_days": -0.02579541639848193,
+    "return_30_days": 0.024498124334149107,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "PCRX",
+    "close_price": 54.060001373291016,
+    "daily_return": -0.07017540521481058,
+    "return_5_days": -0.07209057791355722,
+    "return_30_days": -0.017090884121982453,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

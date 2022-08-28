@@ -1,0 +1,13 @@
+{
+    "ticker": "QQEW",
+    "close_price": 94.19999694824219,
+    "daily_return": -0.037695397532063524,
+    "return_5_days": -0.03975536785464595,
+    "return_30_days": 0.04446162987345592,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

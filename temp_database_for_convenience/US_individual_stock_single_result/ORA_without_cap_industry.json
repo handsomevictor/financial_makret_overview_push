@@ -1,0 +1,13 @@
+{
+    "ticker": "ORA",
+    "close_price": 94.66000366210938,
+    "daily_return": -0.01835524875520922,
+    "return_5_days": 0.0027542598731760126,
+    "return_30_days": 0.18651297456116245,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

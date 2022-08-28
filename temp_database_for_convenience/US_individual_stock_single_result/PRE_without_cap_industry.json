@@ -1,0 +1,13 @@
+{
+    "ticker": "PRE",
+    "close_price": 3.9100000858306885,
+    "daily_return": 0.0426666895548502,
+    "return_5_days": -2.220446049250313e-16,
+    "return_30_days": -0.015113335603815115,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

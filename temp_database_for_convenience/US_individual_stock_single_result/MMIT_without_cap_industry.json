@@ -1,0 +1,13 @@
+{
+    "ticker": "MMIT",
+    "close_price": 24.3700008392334,
+    "daily_return": -0.00041010344041736424,
+    "return_5_days": -0.005711929348881428,
+    "return_30_days": -0.00854349410595967,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

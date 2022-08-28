@@ -1,0 +1,13 @@
+{
+    "ticker": "ACGLN",
+    "close_price": 19.049999237060547,
+    "daily_return": -0.004702202479513473,
+    "return_5_days": -0.009875287750410244,
+    "return_30_days": -0.011416772987905999,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

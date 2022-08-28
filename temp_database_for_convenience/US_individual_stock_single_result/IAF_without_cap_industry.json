@@ -1,0 +1,13 @@
+{
+    "ticker": "IAF",
+    "close_price": 4.71999979019165,
+    "daily_return": -0.03080084166166497,
+    "return_5_days": -0.07812502037268187,
+    "return_30_days": 0.019438374411703707,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IBML",
+    "close_price": 25.384000778198242,
+    "daily_return": 0.0003941132129479108,
+    "return_5_days": 0.0009463788355306146,
+    "return_30_days": -0.00649700445475998,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

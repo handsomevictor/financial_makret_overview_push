@@ -1,0 +1,13 @@
+{
+    "ticker": "TAGS",
+    "close_price": 30.93000030517578,
+    "daily_return": 0.026211046168722607,
+    "return_5_days": 0.04528557437235081,
+    "return_30_days": 0.04528557437235081,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

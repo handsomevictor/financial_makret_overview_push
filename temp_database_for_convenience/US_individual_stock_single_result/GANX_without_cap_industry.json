@@ -1,0 +1,13 @@
+{
+    "ticker": "GANX",
+    "close_price": 3.5999999046325684,
+    "daily_return": 0.02272725117600638,
+    "return_5_days": -0.016393491746190203,
+    "return_30_days": -0.10224446405171284,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

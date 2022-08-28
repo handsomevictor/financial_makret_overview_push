@@ -1,0 +1,13 @@
+{
+    "ticker": "ACRX",
+    "close_price": 0.28999999165534973,
+    "daily_return": -0.06451616314521791,
+    "return_5_days": -0.09375000582076609,
+    "return_30_days": 0.2608695060634443,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

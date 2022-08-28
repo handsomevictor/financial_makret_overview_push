@@ -1,0 +1,13 @@
+{
+    "ticker": "NTST",
+    "close_price": 20.530000686645508,
+    "daily_return": -0.013455011363893599,
+    "return_5_days": -0.02051519163212623,
+    "return_30_days": -0.007733196872022119,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

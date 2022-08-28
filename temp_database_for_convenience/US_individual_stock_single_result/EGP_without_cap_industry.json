@@ -1,0 +1,13 @@
+{
+    "ticker": "EGP",
+    "close_price": 168.42999267578125,
+    "daily_return": -0.021154265668036465,
+    "return_5_days": -0.0345084802394523,
+    "return_30_days": 0.08573446383254946,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

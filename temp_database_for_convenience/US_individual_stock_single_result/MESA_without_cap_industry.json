@@ -1,0 +1,13 @@
+{
+    "ticker": "MESA",
+    "close_price": 2.4800000190734863,
+    "daily_return": -0.031249970896168877,
+    "return_5_days": -0.049808383619711405,
+    "return_30_days": 0.22167490346102725,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BIOX",
+    "close_price": 14.359999656677246,
+    "daily_return": 0.013408580053656083,
+    "return_5_days": 0.1515637008160835,
+    "return_30_days": 0.4217820905257834,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

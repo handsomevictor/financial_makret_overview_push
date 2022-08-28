@@ -1,0 +1,13 @@
+{
+    "ticker": "FTEK",
+    "close_price": 1.2999999523162842,
+    "daily_return": -0.0298508060193573,
+    "return_5_days": 0.048387050256521125,
+    "return_30_days": 0.0743800920098645,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

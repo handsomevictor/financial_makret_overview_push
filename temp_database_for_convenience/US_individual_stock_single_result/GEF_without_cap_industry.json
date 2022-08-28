@@ -1,0 +1,13 @@
+{
+    "ticker": "GEF",
+    "close_price": 68.62000274658203,
+    "daily_return": -0.030517039700015403,
+    "return_5_days": -0.03987684938356373,
+    "return_30_days": 0.0823344021304544,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

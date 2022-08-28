@@ -1,0 +1,13 @@
+{
+    "ticker": "SOS",
+    "close_price": 6.269999980926514,
+    "daily_return": -0.05143723838430836,
+    "return_5_days": -0.06278027992550506,
+    "return_30_days": 0.24404762467919916,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

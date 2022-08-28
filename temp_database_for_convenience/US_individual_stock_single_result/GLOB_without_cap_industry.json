@@ -1,0 +1,13 @@
+{
+    "ticker": "GLOB",
+    "close_price": 213.7899932861328,
+    "daily_return": -0.06396672942545312,
+    "return_5_days": -0.04762118070592436,
+    "return_30_days": 0.2406568256690509,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

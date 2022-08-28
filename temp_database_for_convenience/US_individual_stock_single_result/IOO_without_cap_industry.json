@@ -1,0 +1,13 @@
+{
+    "ticker": "IOO",
+    "close_price": 67.44000244140625,
+    "daily_return": -0.032146926721571045,
+    "return_5_days": -0.03999996524688609,
+    "return_30_days": 0.04025914756493676,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

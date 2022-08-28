@@ -1,0 +1,13 @@
+{
+    "ticker": "SBTX",
+    "close_price": 5.239999771118164,
+    "daily_return": -0.05072467586518947,
+    "return_5_days": -0.013182706669622846,
+    "return_30_days": 0.18820860599192946,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

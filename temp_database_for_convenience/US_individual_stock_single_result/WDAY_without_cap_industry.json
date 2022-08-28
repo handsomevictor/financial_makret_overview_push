@@ -1,0 +1,13 @@
+{
+    "ticker": "WDAY",
+    "close_price": 166.4600067138672,
+    "daily_return": 0.025252562750078145,
+    "return_5_days": -0.010227054565461136,
+    "return_30_days": 0.18300048874535513,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BOXL",
+    "close_price": 0.6299999952316284,
+    "daily_return": -0.07759887367297857,
+    "return_5_days": -0.0935251773881417,
+    "return_30_days": -0.08430236360997911,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

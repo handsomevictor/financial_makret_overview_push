@@ -1,0 +1,13 @@
+{
+    "ticker": "TMFC",
+    "close_price": 35.060001373291016,
+    "daily_return": -0.032293629139612534,
+    "return_5_days": -0.044634596032228746,
+    "return_30_days": 0.05870274724774727,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

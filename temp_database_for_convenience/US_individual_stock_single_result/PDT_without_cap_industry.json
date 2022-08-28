@@ -1,0 +1,13 @@
+{
+    "ticker": "PDT",
+    "close_price": 15.100000381469727,
+    "daily_return": -0.004614350327763472,
+    "return_5_days": -0.028314001381170684,
+    "return_30_days": 0.09499640487603522,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

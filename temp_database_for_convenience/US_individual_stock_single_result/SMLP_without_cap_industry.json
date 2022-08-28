@@ -1,0 +1,13 @@
+{
+    "ticker": "SMLP",
+    "close_price": 16.850000381469727,
+    "daily_return": -0.004137097784195243,
+    "return_5_days": 0.01383872025405597,
+    "return_30_days": 0.28136888747324407,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

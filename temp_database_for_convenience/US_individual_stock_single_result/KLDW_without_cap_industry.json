@@ -1,0 +1,13 @@
+{
+    "ticker": "KLDW",
+    "close_price": 36.564998626708984,
+    "daily_return": -0.02995175916907733,
+    "return_5_days": -0.0391539000530281,
+    "return_30_days": 0.022339646935176205,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

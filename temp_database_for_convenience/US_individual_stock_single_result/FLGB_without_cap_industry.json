@@ -1,0 +1,13 @@
+{
+    "ticker": "FLGB",
+    "close_price": 22.290000915527344,
+    "daily_return": -0.022368348184162223,
+    "return_5_days": -0.02706237171602599,
+    "return_30_days": 0.030037039935862042,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

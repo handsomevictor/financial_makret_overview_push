@@ -1,0 +1,13 @@
+{
+    "ticker": "CVRX",
+    "close_price": 7.559999942779541,
+    "daily_return": -0.052631588382215266,
+    "return_5_days": -0.038167962549477186,
+    "return_30_days": 0.11504420484276623,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "EMBK",
+    "close_price": 9.670000076293945,
+    "daily_return": -0.15986100052116514,
+    "return_5_days": -0.12330006252057246,
+    "return_30_days": 0.1792683294172599,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

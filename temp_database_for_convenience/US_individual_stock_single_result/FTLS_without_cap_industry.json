@@ -1,0 +1,13 @@
+{
+    "ticker": "FTLS",
+    "close_price": 49.689998626708984,
+    "daily_return": -0.019534366071534803,
+    "return_5_days": -0.015649780560444748,
+    "return_30_days": 0.02538174918435776,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

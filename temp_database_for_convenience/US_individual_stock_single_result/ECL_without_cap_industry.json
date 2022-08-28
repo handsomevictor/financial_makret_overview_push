@@ -1,0 +1,13 @@
+{
+    "ticker": "ECL",
+    "close_price": 165.25999450683594,
+    "daily_return": -0.03322807917074455,
+    "return_5_days": -0.03795554964951331,
+    "return_30_days": 0.06495683919843209,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "NFRA",
+    "close_price": 52.88999938964844,
+    "daily_return": -0.021823567816456557,
+    "return_5_days": -0.024169766694666972,
+    "return_30_days": 0.03159740427970781,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

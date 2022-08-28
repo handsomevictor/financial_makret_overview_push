@@ -1,0 +1,13 @@
+{
+    "ticker": "INFN",
+    "close_price": 5.78000020980835,
+    "daily_return": -0.030201313286331244,
+    "return_5_days": 0.03398927585583311,
+    "return_30_days": -0.010273962536277659,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

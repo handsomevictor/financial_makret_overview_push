@@ -1,0 +1,13 @@
+{
+    "ticker": "FCT",
+    "close_price": 10.460000038146973,
+    "daily_return": -0.00190834971020315,
+    "return_5_days": -0.000955131674000631,
+    "return_30_days": 0.06085196778515112,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

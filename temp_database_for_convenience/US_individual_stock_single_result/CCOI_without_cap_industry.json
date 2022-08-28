@@ -1,0 +1,13 @@
+{
+    "ticker": "CCOI",
+    "close_price": 55.0099983215332,
+    "daily_return": -0.018554878317280865,
+    "return_5_days": -0.044135550811469804,
+    "return_30_days": -0.09224422926305964,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "WFRD",
+    "close_price": 27.600000381469727,
+    "daily_return": 0.0043668428396062,
+    "return_5_days": 0.10135678250828839,
+    "return_30_days": 0.5401785861586739,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

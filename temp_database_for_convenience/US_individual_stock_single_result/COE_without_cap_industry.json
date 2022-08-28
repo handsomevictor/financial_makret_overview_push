@@ -1,0 +1,13 @@
+{
+    "ticker": "COE",
+    "close_price": 1.5299999713897705,
+    "daily_return": 0.04794515850262693,
+    "return_5_days": 0.033783751129669026,
+    "return_30_days": 0.047945158502626484,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

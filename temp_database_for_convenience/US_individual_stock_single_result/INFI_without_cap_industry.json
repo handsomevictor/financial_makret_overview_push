@@ -1,0 +1,13 @@
+{
+    "ticker": "INFI",
+    "close_price": 1.4700000286102295,
+    "daily_return": -0.08695651208134314,
+    "return_5_days": 0.006849308357518069,
+    "return_30_days": 1.1940298387961272,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

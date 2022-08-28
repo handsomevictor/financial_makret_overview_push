@@ -1,0 +1,13 @@
+{
+    "ticker": "DPZ",
+    "close_price": 390.2799987792969,
+    "daily_return": -0.041010399762500205,
+    "return_5_days": -0.036821354832811015,
+    "return_30_days": -0.04013774490712596,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

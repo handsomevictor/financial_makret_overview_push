@@ -1,0 +1,13 @@
+{
+    "ticker": "RAD",
+    "close_price": 8.199999809265137,
+    "daily_return": 0.08322319990984828,
+    "return_5_days": 0.06493506654355619,
+    "return_30_days": 0.2238806033883336,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

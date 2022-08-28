@@ -1,0 +1,13 @@
+{
+    "ticker": "ADP",
+    "close_price": 250.47999572753906,
+    "daily_return": -0.029936857532036565,
+    "return_5_days": -0.03594800759521455,
+    "return_30_days": 0.16975664323465556,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ADM",
+    "close_price": 89.55999755859375,
+    "daily_return": -0.014849918041289212,
+    "return_5_days": 0.02671092642431927,
+    "return_30_days": 0.2438888549804692,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

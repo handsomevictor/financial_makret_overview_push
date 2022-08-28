@@ -1,0 +1,13 @@
+{
+    "ticker": "ETN",
+    "close_price": 141.0800018310547,
+    "daily_return": -0.04707869690665545,
+    "return_5_days": -0.06470428761462566,
+    "return_30_days": 0.09372816360203395,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

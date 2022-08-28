@@ -1,0 +1,13 @@
+{
+    "ticker": "BFEB",
+    "close_price": 30.243000030517578,
+    "daily_return": -0.021072023311463295,
+    "return_5_days": -0.02473396300235764,
+    "return_30_days": 0.03820806391405629,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

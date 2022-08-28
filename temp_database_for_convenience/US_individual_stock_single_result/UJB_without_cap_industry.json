@@ -1,0 +1,13 @@
+{
+    "ticker": "UJB",
+    "close_price": 62.439998626708984,
+    "daily_return": -0.03028421775778034,
+    "return_5_days": -0.025745011787528416,
+    "return_30_days": 0.01644145070023928,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

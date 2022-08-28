@@ -1,0 +1,13 @@
+{
+    "ticker": "RODE",
+    "close_price": 24.31599998474121,
+    "daily_return": -0.017852792866001277,
+    "return_5_days": -0.01765443663712074,
+    "return_30_days": 0.01702286090004801,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

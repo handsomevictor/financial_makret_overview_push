@@ -1,0 +1,13 @@
+{
+    "ticker": "ZIP",
+    "close_price": 16.440000534057617,
+    "daily_return": -0.031231514480957845,
+    "return_5_days": -0.002427124350106835,
+    "return_30_days": -0.014979028879589018,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BWAC",
+    "close_price": 10.350000381469727,
+    "daily_return": -0.0019285925082029864,
+    "return_5_days": 0.0,
+    "return_30_days": 0.0019361527503765075,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

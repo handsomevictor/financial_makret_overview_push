@@ -1,0 +1,13 @@
+{
+    "ticker": "DINO",
+    "close_price": 54.34000015258789,
+    "daily_return": -0.015401313558100704,
+    "return_5_days": 0.0320987384184277,
+    "return_30_days": 0.23052537002606832,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

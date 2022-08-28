@@ -1,0 +1,13 @@
+{
+    "ticker": "WIT",
+    "close_price": 5.059999942779541,
+    "daily_return": -0.026923052234761657,
+    "return_5_days": -0.05065665755934534,
+    "return_30_days": 0.0019801488449489035,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

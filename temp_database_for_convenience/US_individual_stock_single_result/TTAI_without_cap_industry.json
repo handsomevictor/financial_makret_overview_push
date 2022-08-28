@@ -1,0 +1,13 @@
+{
+    "ticker": "TTAI",
+    "close_price": 28.158000946044922,
+    "daily_return": -0.01956818874463717,
+    "return_5_days": -0.023546102217933407,
+    "return_30_days": 0.032374017960196344,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

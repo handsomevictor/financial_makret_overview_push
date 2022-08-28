@@ -1,0 +1,13 @@
+{
+    "ticker": "MRND",
+    "close_price": 21.281999588012695,
+    "daily_return": -0.04027056053086142,
+    "return_5_days": -0.043720494695376644,
+    "return_30_days": 0.01998561329829296,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

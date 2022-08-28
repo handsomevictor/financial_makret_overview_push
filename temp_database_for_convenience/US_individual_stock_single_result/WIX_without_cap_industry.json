@@ -1,0 +1,13 @@
+{
+    "ticker": "WIX",
+    "close_price": 64.08999633789062,
+    "daily_return": -0.08469009696479313,
+    "return_5_days": -0.07731072296806973,
+    "return_30_days": 0.050139236765506245,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

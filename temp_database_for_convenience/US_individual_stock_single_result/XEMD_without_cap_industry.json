@@ -1,0 +1,13 @@
+{
+    "ticker": "XEMD",
+    "close_price": 40.422000885009766,
+    "daily_return": -0.010550014664729601,
+    "return_5_days": -0.0031319860424732227,
+    "return_30_days": 0.0376055683200649,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

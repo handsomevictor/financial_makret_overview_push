@@ -1,0 +1,13 @@
+{
+    "ticker": "TD",
+    "close_price": 66.5999984741211,
+    "daily_return": -0.00015015967780840356,
+    "return_5_days": -0.01040125625400623,
+    "return_30_days": 0.10028084945047633,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

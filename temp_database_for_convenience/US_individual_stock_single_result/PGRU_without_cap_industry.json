@@ -1,0 +1,13 @@
+{
+    "ticker": "PGRU",
+    "close_price": 4.75,
+    "daily_return": -0.010416705989173769,
+    "return_5_days": 0.004228325760225138,
+    "return_30_days": 0.030368733716037433,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

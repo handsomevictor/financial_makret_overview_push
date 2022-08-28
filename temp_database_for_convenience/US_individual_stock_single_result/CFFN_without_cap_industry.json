@@ -1,0 +1,13 @@
+{
+    "ticker": "CFFN",
+    "close_price": 9.40999984741211,
+    "daily_return": -0.01774531081918629,
+    "return_5_days": -0.05045408755788916,
+    "return_30_days": 0.03863128163190721,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

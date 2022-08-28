@@ -1,0 +1,13 @@
+{
+    "ticker": "UDR",
+    "close_price": 46.36000061035156,
+    "daily_return": -0.027684557180695513,
+    "return_5_days": -0.05058368068977348,
+    "return_30_days": 0.03876315260660568,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

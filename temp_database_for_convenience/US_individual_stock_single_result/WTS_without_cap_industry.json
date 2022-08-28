@@ -1,0 +1,13 @@
+{
+    "ticker": "WTS",
+    "close_price": 142.41000366210938,
+    "daily_return": -0.046468042569720924,
+    "return_5_days": -0.079384566458639,
+    "return_30_days": 0.13891556797345617,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

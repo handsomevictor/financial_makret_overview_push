@@ -1,0 +1,13 @@
+{
+    "ticker": "UST",
+    "close_price": 53.630001068115234,
+    "daily_return": -0.0033451087266673785,
+    "return_5_days": -0.011428551739811277,
+    "return_30_days": -0.015421335299486083,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

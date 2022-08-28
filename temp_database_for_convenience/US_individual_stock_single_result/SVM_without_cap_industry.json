@@ -1,0 +1,13 @@
+{
+    "ticker": "SVM",
+    "close_price": 2.4100000858306885,
+    "daily_return": -0.0658914119777062,
+    "return_5_days": 0.004166662527455456,
+    "return_30_days": 0.0432901062892761,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

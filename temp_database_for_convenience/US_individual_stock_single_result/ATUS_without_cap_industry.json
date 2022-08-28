@@ -1,0 +1,13 @@
+{
+    "ticker": "ATUS",
+    "close_price": 10.130000114440918,
+    "daily_return": -0.0287632005711439,
+    "return_5_days": -0.048826246264327966,
+    "return_30_days": 0.2045184659020034,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

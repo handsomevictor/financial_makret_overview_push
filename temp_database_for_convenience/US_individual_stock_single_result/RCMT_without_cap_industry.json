@@ -1,0 +1,13 @@
+{
+    "ticker": "RCMT",
+    "close_price": 17.75,
+    "daily_return": -0.034801490532331836,
+    "return_5_days": 0.006235862480591381,
+    "return_30_days": -0.014983376853763941,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

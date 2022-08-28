@@ -1,0 +1,13 @@
+{
+    "ticker": "KCCA",
+    "close_price": 23.3799991607666,
+    "daily_return": -0.0008547204311847301,
+    "return_5_days": -0.09973046673343744,
+    "return_30_days": -0.008061117374529969,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

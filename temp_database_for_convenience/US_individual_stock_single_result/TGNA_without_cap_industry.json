@@ -1,0 +1,13 @@
+{
+    "ticker": "TGNA",
+    "close_price": 21.43000030517578,
+    "daily_return": -0.008788183472815958,
+    "return_5_days": -0.016069805805117854,
+    "return_30_days": 0.06089106414753109,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BLDE",
+    "close_price": 5.289999961853027,
+    "daily_return": -0.029357771194799986,
+    "return_5_days": -0.027573546652510994,
+    "return_30_days": 0.08624231748739186,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

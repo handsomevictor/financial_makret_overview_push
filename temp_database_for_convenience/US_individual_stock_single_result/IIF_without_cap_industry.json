@@ -1,0 +1,13 @@
+{
+    "ticker": "IIF",
+    "close_price": 24.959999084472656,
+    "daily_return": 0.004830874844912847,
+    "return_5_days": 0.006857529756637781,
+    "return_30_days": 0.08568940117299806,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

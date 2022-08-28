@@ -1,0 +1,13 @@
+{
+    "ticker": "TRGP",
+    "close_price": 70.20999908447266,
+    "daily_return": -0.02756229844713287,
+    "return_5_days": 0.019160977014358593,
+    "return_30_days": 0.1928304172005899,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

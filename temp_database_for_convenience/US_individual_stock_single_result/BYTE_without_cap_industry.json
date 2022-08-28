@@ -1,0 +1,13 @@
+{
+    "ticker": "BYTE",
+    "close_price": 12.005000114440918,
+    "daily_return": -0.020159952948330284,
+    "return_5_days": -0.03574294792302368,
+    "return_30_days": -0.01014183231593957,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

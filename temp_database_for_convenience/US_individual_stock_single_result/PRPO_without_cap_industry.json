@@ -1,0 +1,13 @@
+{
+    "ticker": "PRPO",
+    "close_price": 1.2050000429153442,
+    "daily_return": -0.004132227333881411,
+    "return_5_days": -0.06225675158295563,
+    "return_30_days": 0.021186522439583744,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

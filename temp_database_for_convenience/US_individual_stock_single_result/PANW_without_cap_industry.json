@@ -1,0 +1,13 @@
+{
+    "ticker": "PANW",
+    "close_price": 560.6900024414062,
+    "daily_return": -0.025869582345339315,
+    "return_5_days": 0.0918774547302692,
+    "return_30_days": 0.10163865894141466,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

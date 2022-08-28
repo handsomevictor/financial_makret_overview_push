@@ -1,0 +1,13 @@
+{
+    "ticker": "IVZ",
+    "close_price": 17.260000228881836,
+    "daily_return": -0.03951024549817417,
+    "return_5_days": -0.04640884723117811,
+    "return_30_days": 0.06280791084601334,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

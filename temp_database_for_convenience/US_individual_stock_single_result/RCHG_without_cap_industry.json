@@ -1,0 +1,13 @@
+{
+    "ticker": "RCHG",
+    "close_price": 10.079999923706055,
+    "daily_return": 0.0004962892839281974,
+    "return_5_days": -3.3306690738754696e-16,
+    "return_30_days": 0.004985064014557894,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

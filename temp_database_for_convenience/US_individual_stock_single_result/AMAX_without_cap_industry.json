@@ -1,0 +1,13 @@
+{
+    "ticker": "AMAX",
+    "close_price": 8.152999877929688,
+    "daily_return": -0.014743171749203587,
+    "return_5_days": -0.011757590553977182,
+    "return_30_days": -0.008874295613074845,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

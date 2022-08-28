@@ -1,0 +1,13 @@
+{
+    "ticker": "EWL",
+    "close_price": 41.279998779296875,
+    "daily_return": -0.02641515816687967,
+    "return_5_days": -0.0361896564439077,
+    "return_30_days": 0.0002422660872862803,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

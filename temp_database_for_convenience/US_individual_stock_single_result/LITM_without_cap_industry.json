@@ -1,0 +1,13 @@
+{
+    "ticker": "LITM",
+    "close_price": 2.490000009536743,
+    "daily_return": -0.07434945852394259,
+    "return_5_days": -0.027343724534147906,
+    "return_30_days": 0.13181816162156657,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

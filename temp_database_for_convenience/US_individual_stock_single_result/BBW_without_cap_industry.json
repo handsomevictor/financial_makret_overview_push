@@ -1,0 +1,13 @@
+{
+    "ticker": "BBW",
+    "close_price": 16.860000610351562,
+    "daily_return": -0.07464318080440913,
+    "return_5_days": -0.07969427449745747,
+    "return_30_days": 0.058380432351505585,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

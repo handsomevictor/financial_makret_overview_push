@@ -1,0 +1,13 @@
+{
+    "ticker": "IQSI",
+    "close_price": 23.740999221801758,
+    "daily_return": -0.025890387555997818,
+    "return_5_days": -0.03165154669347647,
+    "return_30_days": 0.019583396065185665,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

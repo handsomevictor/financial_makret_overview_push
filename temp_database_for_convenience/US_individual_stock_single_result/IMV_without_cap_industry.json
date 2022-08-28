@@ -1,0 +1,13 @@
+{
+    "ticker": "IMV",
+    "close_price": 0.6899999976158142,
+    "daily_return": -0.08000000317891443,
+    "return_5_days": 0.014705868173635617,
+    "return_30_days": 0.2321428476395655,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

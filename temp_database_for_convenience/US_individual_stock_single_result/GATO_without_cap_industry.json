@@ -1,0 +1,13 @@
+{
+    "ticker": "GATO",
+    "close_price": 3.2699999809265137,
+    "daily_return": -0.06837607127886847,
+    "return_5_days": -0.05217393167227691,
+    "return_30_days": 0.15957448877179492,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

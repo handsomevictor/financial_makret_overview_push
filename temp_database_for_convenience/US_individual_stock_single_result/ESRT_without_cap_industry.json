@@ -1,0 +1,13 @@
+{
+    "ticker": "ESRT",
+    "close_price": 7.199999809265137,
+    "daily_return": -0.0322580975953628,
+    "return_5_days": -0.05013194172370461,
+    "return_30_days": -0.02834008670328314,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

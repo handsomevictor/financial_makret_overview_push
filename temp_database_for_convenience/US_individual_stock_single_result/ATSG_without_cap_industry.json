@@ -1,0 +1,13 @@
+{
+    "ticker": "ATSG",
+    "close_price": 30.969999313354492,
+    "daily_return": -0.02610062715783812,
+    "return_5_days": 0.0003230048183964218,
+    "return_30_days": 0.09589522514239168,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

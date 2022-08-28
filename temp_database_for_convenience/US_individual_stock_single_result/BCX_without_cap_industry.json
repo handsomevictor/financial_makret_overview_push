@@ -1,0 +1,13 @@
+{
+    "ticker": "BCX",
+    "close_price": 9.649999618530273,
+    "daily_return": -0.009240262289817114,
+    "return_5_days": 0.019007322748253674,
+    "return_30_days": 0.17396585219556826,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

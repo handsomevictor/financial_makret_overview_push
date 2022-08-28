@@ -1,0 +1,13 @@
+{
+    "ticker": "FSRD",
+    "close_price": 0.5989999771118164,
+    "daily_return": 0.018707444893833358,
+    "return_5_days": -0.07561732199275262,
+    "return_30_days": -0.04313100729852237,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

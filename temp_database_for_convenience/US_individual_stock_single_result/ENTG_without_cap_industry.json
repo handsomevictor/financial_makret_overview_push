@@ -1,0 +1,13 @@
+{
+    "ticker": "ENTG",
+    "close_price": 100.11000061035156,
+    "daily_return": -0.061761916835736064,
+    "return_5_days": -0.027113711119097106,
+    "return_30_days": 0.03945595626711529,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FTDS",
+    "close_price": 44.36899948120117,
+    "daily_return": -0.030990625798494986,
+    "return_5_days": -0.03419676082868761,
+    "return_30_days": 0.07280327017257093,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

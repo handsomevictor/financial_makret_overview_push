@@ -1,0 +1,13 @@
+{
+    "ticker": "VIRT",
+    "close_price": 23.3799991607666,
+    "daily_return": -0.02542728704341002,
+    "return_5_days": -0.06179778935844904,
+    "return_30_days": 0.09456921782277905,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

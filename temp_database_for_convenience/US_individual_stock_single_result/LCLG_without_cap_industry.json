@@ -1,0 +1,13 @@
+{
+    "ticker": "LCLG",
+    "close_price": 32.191001892089844,
+    "daily_return": -0.041335261111773214,
+    "return_5_days": -0.04777252190240633,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

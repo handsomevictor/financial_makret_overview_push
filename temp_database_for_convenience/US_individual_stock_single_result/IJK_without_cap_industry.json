@@ -1,0 +1,13 @@
+{
+    "ticker": "IJK",
+    "close_price": 71.48999786376953,
+    "daily_return": -0.03313503511956506,
+    "return_5_days": -0.03064409676244728,
+    "return_30_days": 0.09849409730127112,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

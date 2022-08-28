@@ -1,0 +1,13 @@
+{
+    "ticker": "JPC",
+    "close_price": 7.940000057220459,
+    "daily_return": -0.002512560405862674,
+    "return_5_days": -0.022167466856587326,
+    "return_30_days": 0.027166887144735252,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

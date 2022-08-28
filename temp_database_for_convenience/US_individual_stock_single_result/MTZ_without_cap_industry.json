@@ -1,0 +1,13 @@
+{
+    "ticker": "MTZ",
+    "close_price": 83.75,
+    "daily_return": -0.017710557100593882,
+    "return_5_days": 0.01984896735145103,
+    "return_30_days": 0.17116483705946073,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

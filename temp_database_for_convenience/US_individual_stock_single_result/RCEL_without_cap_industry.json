@@ -1,0 +1,13 @@
+{
+    "ticker": "RCEL",
+    "close_price": 6.670000076293945,
+    "daily_return": -0.016224207980889416,
+    "return_5_days": -0.01185184054904509,
+    "return_30_days": 0.20614825013272542,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

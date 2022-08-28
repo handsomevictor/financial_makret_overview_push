@@ -1,0 +1,13 @@
+{
+    "ticker": "MSFT",
+    "close_price": 268.0899963378906,
+    "daily_return": -0.03858708814813738,
+    "return_5_days": -0.06311374434320982,
+    "return_30_days": 0.04428947905548153,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

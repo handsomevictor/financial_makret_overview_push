@@ -1,0 +1,13 @@
+{
+    "ticker": "JIDA",
+    "close_price": 39.3129997253418,
+    "daily_return": -0.025241167440527512,
+    "return_5_days": -0.026448101328242934,
+    "return_30_days": 0.031052428799207332,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "NVDS",
+    "close_price": 43.13999938964844,
+    "daily_return": 0.16942261055590557,
+    "return_5_days": 0.10928259364105952,
+    "return_30_days": -0.06766658436156325,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "KODK",
+    "close_price": 5.829999923706055,
+    "daily_return": -0.01520272828175917,
+    "return_5_days": -0.061191644461616956,
+    "return_30_days": 0.17540320138467336,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

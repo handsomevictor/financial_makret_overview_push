@@ -1,0 +1,13 @@
+{
+    "ticker": "IWDL",
+    "close_price": 28.856000900268555,
+    "daily_return": -0.05016452608945998,
+    "return_5_days": -0.05779398492007526,
+    "return_30_days": 0.09639426393837769,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

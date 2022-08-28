@@ -1,0 +1,13 @@
+{
+    "ticker": "DFS",
+    "close_price": 102.69999694824219,
+    "daily_return": -0.03459297236499548,
+    "return_5_days": -0.03937897829629655,
+    "return_30_days": -0.012594992414984296,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

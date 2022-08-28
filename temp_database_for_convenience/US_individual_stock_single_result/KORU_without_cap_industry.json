@@ -1,0 +1,13 @@
+{
+    "ticker": "KORU",
+    "close_price": 8.84000015258789,
+    "daily_return": -0.08203530139821724,
+    "return_5_days": -0.0555555046114129,
+    "return_30_days": 0.032710247575399976,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

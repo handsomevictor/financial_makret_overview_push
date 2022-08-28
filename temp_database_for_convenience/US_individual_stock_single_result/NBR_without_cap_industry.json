@@ -1,0 +1,13 @@
+{
+    "ticker": "NBR",
+    "close_price": 140.75,
+    "daily_return": -0.045956746664382986,
+    "return_5_days": 0.1089662939692555,
+    "return_30_days": 0.3558424362793773,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

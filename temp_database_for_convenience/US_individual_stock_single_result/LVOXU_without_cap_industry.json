@@ -1,0 +1,13 @@
+{
+    "ticker": "LVOXU",
+    "close_price": 2.559999942779541,
+    "daily_return": 0.0,
+    "return_5_days": 0.0,
+    "return_30_days": 0.08936172198688119,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

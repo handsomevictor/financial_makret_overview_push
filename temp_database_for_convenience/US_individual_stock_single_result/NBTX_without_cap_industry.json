@@ -1,0 +1,13 @@
+{
+    "ticker": "NBTX",
+    "close_price": 4.205999851226807,
+    "daily_return": -0.02863743063836277,
+    "return_5_days": -0.05163474509747412,
+    "return_30_days": 0.19488632784586746,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "GNRC",
+    "close_price": 234.8800048828125,
+    "daily_return": -0.060367229124295596,
+    "return_5_days": -0.0825358543681819,
+    "return_30_days": 0.09216036245336068,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

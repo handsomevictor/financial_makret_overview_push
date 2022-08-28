@@ -1,0 +1,13 @@
+{
+    "ticker": "FMX",
+    "close_price": 64.7699966430664,
+    "daily_return": -0.013855110503671275,
+    "return_5_days": -0.01129606882969103,
+    "return_30_days": 0.06459560290305766,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

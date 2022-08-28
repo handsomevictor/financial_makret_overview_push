@@ -1,0 +1,13 @@
+{
+    "ticker": "ABG",
+    "close_price": 184.27999877929688,
+    "daily_return": -0.023216393500432142,
+    "return_5_days": -0.010045636199307983,
+    "return_30_days": 0.14260912806351334,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

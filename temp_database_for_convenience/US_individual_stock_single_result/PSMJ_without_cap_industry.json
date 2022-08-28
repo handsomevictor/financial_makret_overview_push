@@ -1,0 +1,13 @@
+{
+    "ticker": "PSMJ",
+    "close_price": 21.065000534057617,
+    "daily_return": -0.013256466383739118,
+    "return_5_days": -0.015332076864911892,
+    "return_30_days": 0.02851421356958128,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

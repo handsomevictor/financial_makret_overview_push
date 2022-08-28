@@ -1,0 +1,13 @@
+{
+    "ticker": "EPC",
+    "close_price": 41.279998779296875,
+    "daily_return": -0.02017570062350782,
+    "return_5_days": -0.034837541793767635,
+    "return_30_days": 0.15403964917582957,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CSH",
+    "close_price": 24.829999923706055,
+    "daily_return": 0.0,
+    "return_5_days": -0.0010058185069684589,
+    "return_30_days": 0.004043687154094755,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

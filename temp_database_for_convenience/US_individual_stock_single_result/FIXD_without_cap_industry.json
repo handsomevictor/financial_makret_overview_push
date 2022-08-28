@@ -1,0 +1,13 @@
+{
+    "ticker": "FIXD",
+    "close_price": 46.52000045776367,
+    "daily_return": -0.0010736361904272185,
+    "return_5_days": -0.003418793221154681,
+    "return_30_days": 0.005590683376294203,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

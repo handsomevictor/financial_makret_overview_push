@@ -1,0 +1,13 @@
+{
+    "ticker": "SBOW",
+    "close_price": 44.66999816894531,
+    "daily_return": -0.02509824385723003,
+    "return_5_days": -0.04693835743706054,
+    "return_30_days": 0.5271794245793273,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

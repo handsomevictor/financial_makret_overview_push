@@ -1,0 +1,13 @@
+{
+    "ticker": "TOI",
+    "close_price": 6.059999942779541,
+    "daily_return": 0.013377913620550297,
+    "return_5_days": -0.09552237085149895,
+    "return_30_days": 0.03767119596634938,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

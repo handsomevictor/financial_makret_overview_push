@@ -1,0 +1,13 @@
+{
+    "ticker": "GJH",
+    "close_price": 10.149999618530273,
+    "daily_return": 0.02941176186113137,
+    "return_5_days": 0.014999961853027433,
+    "return_30_days": 0.04209444117523242,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ESG",
+    "close_price": 96.93199920654297,
+    "daily_return": -0.03231538253490218,
+    "return_5_days": -0.039278433702151117,
+    "return_30_days": 0.055065123022147944,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

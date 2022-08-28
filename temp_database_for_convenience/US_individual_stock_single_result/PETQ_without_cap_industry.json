@@ -1,0 +1,13 @@
+{
+    "ticker": "PETQ",
+    "close_price": 10.770000457763672,
+    "daily_return": -0.051936550769768774,
+    "return_5_days": -0.19866065520691634,
+    "return_30_days": -0.3859749204329004,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "LIN",
+    "close_price": 286.25,
+    "daily_return": -0.03658452913241417,
+    "return_5_days": -0.057613168724279795,
+    "return_30_days": 0.03346807944971042,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

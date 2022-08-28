@@ -1,0 +1,13 @@
+{
+    "ticker": "PFO",
+    "close_price": 9.8100004196167,
+    "daily_return": -0.009090828523378836,
+    "return_5_days": -0.030632358641104585,
+    "return_30_days": 0.004094161717386635,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

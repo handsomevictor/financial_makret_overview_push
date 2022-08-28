@@ -1,0 +1,13 @@
+{
+    "ticker": "SPUC",
+    "close_price": 28.632999420166016,
+    "daily_return": -0.03576360618192931,
+    "return_5_days": -0.04724986191349101,
+    "return_30_days": 0.056178486740163125,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

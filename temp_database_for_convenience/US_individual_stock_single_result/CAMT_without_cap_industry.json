@@ -1,0 +1,13 @@
+{
+    "ticker": "CAMT",
+    "close_price": 28.1200008392334,
+    "daily_return": -0.05287974626417602,
+    "return_5_days": -0.04158143514007051,
+    "return_30_days": 0.05003734571433838,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

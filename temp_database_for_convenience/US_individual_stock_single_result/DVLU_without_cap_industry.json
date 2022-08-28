@@ -1,0 +1,13 @@
+{
+    "ticker": "DVLU",
+    "close_price": 23.1200008392334,
+    "daily_return": -0.02652628045333061,
+    "return_5_days": -0.022823288743079928,
+    "return_30_days": 0.07685149411498005,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

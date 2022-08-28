@@ -1,0 +1,13 @@
+{
+    "ticker": "SEIC",
+    "close_price": 54.529998779296875,
+    "daily_return": -0.02850529589117079,
+    "return_5_days": -0.054939375073260965,
+    "return_30_days": 0.02906203155407483,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

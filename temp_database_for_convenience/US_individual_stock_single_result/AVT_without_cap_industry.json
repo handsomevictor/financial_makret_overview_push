@@ -1,0 +1,13 @@
+{
+    "ticker": "AVT",
+    "close_price": 44.66999816894531,
+    "daily_return": -0.024033259292479903,
+    "return_5_days": -0.008435095994466235,
+    "return_30_days": 0.033071147894766284,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IGRO",
+    "close_price": 56.540000915527344,
+    "daily_return": -0.020443525298342147,
+    "return_5_days": -0.02416288823549062,
+    "return_30_days": 0.01253583024761129,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

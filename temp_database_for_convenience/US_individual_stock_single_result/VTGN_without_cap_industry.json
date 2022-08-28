@@ -1,0 +1,13 @@
+{
+    "ticker": "VTGN",
+    "close_price": 0.1899999976158142,
+    "daily_return": -0.09523807834335418,
+    "return_5_days": -0.13636364252114108,
+    "return_30_days": -0.7564102505320862,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

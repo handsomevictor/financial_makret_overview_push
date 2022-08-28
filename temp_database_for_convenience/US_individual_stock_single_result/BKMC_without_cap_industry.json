@@ -1,0 +1,13 @@
+{
+    "ticker": "BKMC",
+    "close_price": 81.72200012207031,
+    "daily_return": -0.030581291060033267,
+    "return_5_days": -0.03191338410317457,
+    "return_30_days": 0.07485107422732429,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

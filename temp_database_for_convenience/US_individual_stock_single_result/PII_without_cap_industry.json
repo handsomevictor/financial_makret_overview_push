@@ -1,0 +1,13 @@
+{
+    "ticker": "PII",
+    "close_price": 116.97000122070312,
+    "daily_return": -0.04012801054616977,
+    "return_5_days": -0.037600787069275166,
+    "return_30_days": 0.08446134395327709,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

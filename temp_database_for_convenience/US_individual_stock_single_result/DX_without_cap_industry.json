@@ -1,0 +1,13 @@
+{
+    "ticker": "DX",
+    "close_price": 15.930000305175781,
+    "daily_return": -0.006857893022005901,
+    "return_5_days": -0.010559010699751625,
+    "return_30_days": -0.03746217283783282,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

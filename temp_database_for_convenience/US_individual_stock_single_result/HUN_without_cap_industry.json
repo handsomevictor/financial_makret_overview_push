@@ -1,0 +1,13 @@
+{
+    "ticker": "HUN",
+    "close_price": 29.3799991607666,
+    "daily_return": -0.03418806419852072,
+    "return_5_days": -0.0408096648465176,
+    "return_30_days": 0.020138886773291675,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AVIV",
+    "close_price": 42.83000183105469,
+    "daily_return": -0.023038282801501775,
+    "return_5_days": -0.019459671890624253,
+    "return_30_days": 0.05991243066042795,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "SSO",
+    "close_price": 51.22999954223633,
+    "daily_return": -0.06786753283062064,
+    "return_5_days": -0.08074645679100645,
+    "return_30_days": 0.09723711820651548,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

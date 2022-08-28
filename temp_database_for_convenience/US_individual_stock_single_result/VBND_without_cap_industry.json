@@ -1,0 +1,13 @@
+{
+    "ticker": "VBND",
+    "close_price": 44.70000076293945,
+    "daily_return": -0.0008940749670690584,
+    "return_5_days": -0.0024548227400217337,
+    "return_30_days": 0.0013441168035710493,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

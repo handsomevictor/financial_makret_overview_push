@@ -1,0 +1,13 @@
+{
+    "ticker": "MCO",
+    "close_price": 292.9100036621094,
+    "daily_return": -0.0429341109457847,
+    "return_5_days": -0.0578339931781352,
+    "return_30_days": 0.04012648307353173,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "RCRT",
+    "close_price": 1.2899999618530273,
+    "daily_return": -0.030075247948591954,
+    "return_5_days": -0.04979376335901864,
+    "return_30_days": 0.036144543704663024,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

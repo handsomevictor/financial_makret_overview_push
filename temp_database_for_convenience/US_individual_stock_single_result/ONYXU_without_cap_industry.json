@@ -1,0 +1,13 @@
+{
+    "ticker": "ONYXU",
+    "close_price": 10.109999656677246,
+    "daily_return": 0.0009900272108767094,
+    "return_5_days": -0.0009881649204468435,
+    "return_30_days": 0.0019821113763038856,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

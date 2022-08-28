@@ -1,0 +1,13 @@
+{
+    "ticker": "AGS",
+    "close_price": 7.429999828338623,
+    "daily_return": -0.0522959587078492,
+    "return_5_days": -0.031290775171841645,
+    "return_30_days": 0.6152173874734264,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

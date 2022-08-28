@@ -1,0 +1,13 @@
+{
+    "ticker": "SPHB",
+    "close_price": 66.41000366210938,
+    "daily_return": -0.04528456019324878,
+    "return_5_days": -0.03851159757445577,
+    "return_30_days": 0.09677959535732095,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

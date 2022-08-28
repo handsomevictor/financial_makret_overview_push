@@ -1,0 +1,13 @@
+{
+    "ticker": "ECAT",
+    "close_price": 14.680000305175781,
+    "daily_return": -0.026525173776789313,
+    "return_5_days": -0.04489262104885183,
+    "return_30_days": 0.04113474524924743,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

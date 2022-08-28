@@ -1,0 +1,13 @@
+{
+    "ticker": "GPN",
+    "close_price": 125.12999725341797,
+    "daily_return": -0.036498021421286886,
+    "return_5_days": -0.05782697422148131,
+    "return_30_days": 0.08998252549699659,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

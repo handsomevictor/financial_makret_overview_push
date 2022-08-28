@@ -1,0 +1,13 @@
+{
+    "ticker": "DIAL",
+    "close_price": 18.014999389648438,
+    "daily_return": -0.009075957797446743,
+    "return_5_days": -0.009620733329914755,
+    "return_30_days": 0.009809374190793418,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

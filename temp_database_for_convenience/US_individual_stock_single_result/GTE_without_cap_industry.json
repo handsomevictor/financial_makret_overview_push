@@ -1,0 +1,13 @@
+{
+    "ticker": "GTE",
+    "close_price": 1.2799999713897705,
+    "daily_return": -0.022900742519207262,
+    "return_5_days": 0.057851182674338864,
+    "return_30_days": 0.1851851115992056,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

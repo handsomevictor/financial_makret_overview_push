@@ -1,0 +1,13 @@
+{
+    "ticker": "BHP",
+    "close_price": 58.880001068115234,
+    "daily_return": -0.017520427694205476,
+    "return_5_days": 0.03753305846899102,
+    "return_30_days": 0.19504770694267903,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

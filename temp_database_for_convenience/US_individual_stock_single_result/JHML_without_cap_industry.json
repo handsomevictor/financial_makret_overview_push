@@ -1,0 +1,13 @@
+{
+    "ticker": "JHML",
+    "close_price": 51.27000045776367,
+    "daily_return": -0.03209365157188282,
+    "return_5_days": -0.03718308999504838,
+    "return_30_days": 0.057331381379007285,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

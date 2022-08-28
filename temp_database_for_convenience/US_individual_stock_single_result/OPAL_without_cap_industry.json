@@ -1,0 +1,13 @@
+{
+    "ticker": "OPAL",
+    "close_price": 9.9399995803833,
+    "daily_return": 0.015321717989249306,
+    "return_5_days": 0.04411755277565321,
+    "return_30_days": -0.03307394566338373,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

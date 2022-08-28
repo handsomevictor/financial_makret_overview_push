@@ -1,0 +1,13 @@
+{
+    "ticker": "AMR",
+    "close_price": 165.33999633789062,
+    "daily_return": -0.016067585432741116,
+    "return_5_days": 0.06801885501814176,
+    "return_30_days": 0.2870931628251441,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

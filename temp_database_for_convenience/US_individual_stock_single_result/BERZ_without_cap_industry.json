@@ -1,0 +1,13 @@
+{
+    "ticker": "BERZ",
+    "close_price": 27.829999923706055,
+    "daily_return": 0.16006670234365372,
+    "return_5_days": 0.18576909833443023,
+    "return_30_days": -0.20440250749280486,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

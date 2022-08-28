@@ -1,0 +1,13 @@
+{
+    "ticker": "AYLA",
+    "close_price": 1.659999966621399,
+    "daily_return": -0.03207000914679303,
+    "return_5_days": 0.2671756023891365,
+    "return_30_days": 0.3949578880682929,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

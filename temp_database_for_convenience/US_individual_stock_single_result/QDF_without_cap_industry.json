@@ -1,0 +1,13 @@
+{
+    "ticker": "QDF",
+    "close_price": 53.880001068115234,
+    "daily_return": -0.030935205992971948,
+    "return_5_days": -0.0400855150041699,
+    "return_30_days": 0.04641676659039473,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

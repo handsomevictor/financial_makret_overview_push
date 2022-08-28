@@ -1,0 +1,13 @@
+{
+    "ticker": "RH",
+    "close_price": 266.9100036621094,
+    "daily_return": -0.09411488463104845,
+    "return_5_days": -0.10522958570365482,
+    "return_30_days": -0.0015337559886127172,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

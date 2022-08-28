@@ -1,0 +1,13 @@
+{
+    "ticker": "RBND",
+    "close_price": 21.14299964904785,
+    "daily_return": -0.004941620210499598,
+    "return_5_days": -0.0036286365126404485,
+    "return_30_days": -0.005970888856725698,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

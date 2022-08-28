@@ -1,0 +1,13 @@
+{
+    "ticker": "BAND",
+    "close_price": 17.15999984741211,
+    "daily_return": -0.04454338963481286,
+    "return_5_days": -0.0482529565225025,
+    "return_30_days": 0.03623190826205658,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

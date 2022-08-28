@@ -1,0 +1,13 @@
+{
+    "ticker": "ECOZ",
+    "close_price": 34.233001708984375,
+    "daily_return": -0.033757631224764495,
+    "return_5_days": -0.04219242249865485,
+    "return_30_days": 0.07529216086073398,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

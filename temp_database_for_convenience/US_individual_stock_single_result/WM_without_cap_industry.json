@@ -1,0 +1,13 @@
+{
+    "ticker": "WM",
+    "close_price": 171.50999450683594,
+    "daily_return": -0.017866404906019873,
+    "return_5_days": -0.016119852566070958,
+    "return_30_days": 0.12828103877816477,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

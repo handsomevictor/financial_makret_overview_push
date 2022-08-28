@@ -1,0 +1,13 @@
+{
+    "ticker": "BSX",
+    "close_price": 40.52000045776367,
+    "daily_return": -0.03015793102793407,
+    "return_5_days": -0.0356972866173032,
+    "return_30_days": 0.0790945747282954,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

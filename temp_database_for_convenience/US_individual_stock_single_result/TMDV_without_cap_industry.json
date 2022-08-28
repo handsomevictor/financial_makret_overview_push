@@ -1,0 +1,13 @@
+{
+    "ticker": "TMDV",
+    "close_price": 47.00299835205078,
+    "daily_return": -0.024813853558018906,
+    "return_5_days": -0.032282654691941914,
+    "return_30_days": 0.05584383845432961,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

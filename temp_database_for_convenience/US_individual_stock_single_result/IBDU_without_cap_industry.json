@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDU",
+    "close_price": 23.100000381469727,
+    "daily_return": -0.003880989672928825,
+    "return_5_days": -0.005596175778232015,
+    "return_30_days": -1.1102230246251565e-16,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

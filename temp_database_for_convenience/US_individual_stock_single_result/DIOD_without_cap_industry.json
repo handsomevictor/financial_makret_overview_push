@@ -1,0 +1,13 @@
+{
+    "ticker": "DIOD",
+    "close_price": 75.38999938964844,
+    "daily_return": -0.05455227728439094,
+    "return_5_days": -0.053008430955273855,
+    "return_30_days": 0.0866244216510752,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

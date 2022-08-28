@@ -1,0 +1,13 @@
+{
+    "ticker": "FLUX",
+    "close_price": 2.700000047683716,
+    "daily_return": -0.028776951269557483,
+    "return_5_days": -0.018181800842285156,
+    "return_30_days": 0.2272727223467237,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

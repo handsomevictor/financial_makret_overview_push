@@ -1,0 +1,13 @@
+{
+    "ticker": "NUDM",
+    "close_price": 25.059999465942383,
+    "daily_return": -0.027173942419248087,
+    "return_5_days": -0.03317903579553261,
+    "return_30_days": 0.014985780635135226,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

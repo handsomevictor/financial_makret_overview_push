@@ -1,0 +1,13 @@
+{
+    "ticker": "WKLY",
+    "close_price": 45.52799987792969,
+    "daily_return": -0.021239981662947605,
+    "return_5_days": -0.0234862877742813,
+    "return_30_days": 0.0478250650978731,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

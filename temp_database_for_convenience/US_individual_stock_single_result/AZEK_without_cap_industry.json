@@ -1,0 +1,13 @@
+{
+    "ticker": "AZEK",
+    "close_price": 18.969999313354492,
+    "daily_return": -0.06413424346575491,
+    "return_5_days": -0.0723717063261482,
+    "return_30_days": 0.0383141126465254,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

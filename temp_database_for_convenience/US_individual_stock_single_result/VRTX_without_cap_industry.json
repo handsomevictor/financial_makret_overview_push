@@ -1,0 +1,13 @@
+{
+    "ticker": "VRTX",
+    "close_price": 281.67999267578125,
+    "daily_return": -0.032758768302084795,
+    "return_5_days": -0.05805248586505707,
+    "return_30_days": -0.03810956085804851,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

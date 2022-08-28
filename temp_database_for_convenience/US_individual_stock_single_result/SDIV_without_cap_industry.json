@@ -1,0 +1,13 @@
+{
+    "ticker": "SDIV",
+    "close_price": 9.149999618530273,
+    "daily_return": -0.012945073711716715,
+    "return_5_days": -0.004352553175128504,
+    "return_30_days": 0.028089888844431643,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

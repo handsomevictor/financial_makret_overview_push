@@ -1,0 +1,13 @@
+{
+    "ticker": "IEFA",
+    "close_price": 59.15999984741211,
+    "daily_return": -0.02665348740409279,
+    "return_5_days": -0.03095822134754589,
+    "return_30_days": 0.023175374604988752,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FNGO",
+    "close_price": 21.78499984741211,
+    "daily_return": -0.08177030570557309,
+    "return_5_days": -0.05884129906373692,
+    "return_30_days": 0.13110070553082576,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

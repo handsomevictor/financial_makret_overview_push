@@ -1,0 +1,13 @@
+{
+    "ticker": "HOM",
+    "close_price": 8.6899995803833,
+    "daily_return": -0.01250006908720036,
+    "return_5_days": -0.01529747669117243,
+    "return_30_days": 0.008237515016303654,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

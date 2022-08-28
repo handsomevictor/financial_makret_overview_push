@@ -1,0 +1,13 @@
+{
+    "ticker": "VEA",
+    "close_price": 41.13999938964844,
+    "daily_return": -0.02650257871198447,
+    "return_5_days": -0.027882805143784162,
+    "return_30_days": 0.02849998474121085,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

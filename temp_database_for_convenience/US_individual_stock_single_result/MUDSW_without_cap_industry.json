@@ -1,0 +1,13 @@
+{
+    "ticker": "MUDSW",
+    "close_price": 0.032999999821186066,
+    "daily_return": -0.26666669978035684,
+    "return_5_days": -0.17499998603016087,
+    "return_30_days": -0.8565217425106603,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

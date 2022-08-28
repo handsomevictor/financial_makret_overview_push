@@ -1,0 +1,13 @@
+{
+    "ticker": "TYNE",
+    "close_price": 17.118999481201172,
+    "daily_return": -0.05815366853459358,
+    "return_5_days": -0.02003551343644072,
+    "return_30_days": 0.041745201305766866,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

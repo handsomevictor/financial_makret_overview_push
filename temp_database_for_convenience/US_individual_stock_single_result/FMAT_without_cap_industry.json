@@ -1,0 +1,13 @@
+{
+    "ticker": "FMAT",
+    "close_price": 44.150001525878906,
+    "daily_return": -0.030735405809679373,
+    "return_5_days": -0.01075508695381222,
+    "return_30_days": 0.09634966535907385,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

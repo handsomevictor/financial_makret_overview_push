@@ -1,0 +1,13 @@
+{
+    "ticker": "AJRD",
+    "close_price": 43.97999954223633,
+    "daily_return": -0.030209459271901662,
+    "return_5_days": -0.0027210643092241416,
+    "return_30_days": 0.09812735031313391,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

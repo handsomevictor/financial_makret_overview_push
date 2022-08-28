@@ -1,0 +1,13 @@
+{
+    "ticker": "XB",
+    "close_price": 39.64799880981445,
+    "daily_return": -0.01598334681839364,
+    "return_5_days": -0.015078927889572769,
+    "return_30_days": 0.014534210648588619,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

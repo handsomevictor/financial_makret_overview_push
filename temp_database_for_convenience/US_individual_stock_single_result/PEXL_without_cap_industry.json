@@ -1,0 +1,13 @@
+{
+    "ticker": "PEXL",
+    "close_price": 38.27000045776367,
+    "daily_return": -0.039889616865057764,
+    "return_5_days": -0.037716871579949296,
+    "return_30_days": 0.07409484452726978,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

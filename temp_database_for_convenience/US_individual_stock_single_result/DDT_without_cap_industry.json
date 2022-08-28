@@ -1,0 +1,13 @@
+{
+    "ticker": "DDT",
+    "close_price": 26.420000076293945,
+    "daily_return": 0.0018960650538226709,
+    "return_5_days": -0.015281395772567818,
+    "return_30_days": 0.010711579693317708,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

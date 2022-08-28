@@ -1,0 +1,13 @@
+{
+    "ticker": "FCVT",
+    "close_price": 33.77000045776367,
+    "daily_return": -0.019454070721876104,
+    "return_5_days": -0.010837695913871404,
+    "return_30_days": 0.06295246997742066,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

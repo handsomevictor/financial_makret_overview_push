@@ -1,0 +1,13 @@
+{
+    "ticker": "AZAJ",
+    "close_price": 25.959999084472656,
+    "daily_return": -0.017968617025383105,
+    "return_5_days": -0.02000757611267956,
+    "return_30_days": 0.04002237988292423,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

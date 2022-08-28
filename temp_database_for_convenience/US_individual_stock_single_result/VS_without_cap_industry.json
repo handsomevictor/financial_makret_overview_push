@@ -1,0 +1,13 @@
+{
+    "ticker": "VS",
+    "close_price": 0.421099990606308,
+    "daily_return": -0.08456525441885832,
+    "return_5_days": 0.07974360526195912,
+    "return_30_days": 0.10815788392214865,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

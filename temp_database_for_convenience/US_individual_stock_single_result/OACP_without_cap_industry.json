@@ -1,0 +1,13 @@
+{
+    "ticker": "OACP",
+    "close_price": 23.69300079345703,
+    "daily_return": -0.000801244088100006,
+    "return_5_days": -0.0028198415311194713,
+    "return_30_days": -0.0021899365735316145,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

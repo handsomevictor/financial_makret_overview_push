@@ -1,0 +1,13 @@
+{
+    "ticker": "CHNA",
+    "close_price": 17.888999938964844,
+    "daily_return": 0.005000039647136134,
+    "return_5_days": 0.023984009277553398,
+    "return_30_days": -0.0921593500011384,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

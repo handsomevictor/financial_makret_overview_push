@@ -1,0 +1,13 @@
+{
+    "ticker": "PHG",
+    "close_price": 16.770000457763672,
+    "daily_return": -0.04661737849408587,
+    "return_5_days": -0.10080424660699028,
+    "return_30_days": -0.1979913639339801,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

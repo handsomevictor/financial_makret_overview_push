@@ -1,0 +1,13 @@
+{
+    "ticker": "USEQ",
+    "close_price": 34.233001708984375,
+    "daily_return": -0.028354813202499773,
+    "return_5_days": -0.03364848422718214,
+    "return_30_days": 0.061850658954996085,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

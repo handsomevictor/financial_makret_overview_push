@@ -1,0 +1,13 @@
+{
+    "ticker": "STEW",
+    "close_price": 12.460000038146973,
+    "daily_return": -0.02274509504729627,
+    "return_5_days": -0.034856685870166215,
+    "return_30_days": 0.02805281813517224,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

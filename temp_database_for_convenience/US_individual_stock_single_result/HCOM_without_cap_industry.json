@@ -1,0 +1,13 @@
+{
+    "ticker": "HCOM",
+    "close_price": 25.576000213623047,
+    "daily_return": 0.0033738894969441713,
+    "return_5_days": 0.021120266296228873,
+    "return_30_days": 0.08727625871991873,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

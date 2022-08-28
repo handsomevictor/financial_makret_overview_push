@@ -1,0 +1,13 @@
+{
+    "ticker": "NTRB",
+    "close_price": 4.199999809265137,
+    "daily_return": -0.08695654427396826,
+    "return_5_days": -0.08893716103576477,
+    "return_30_days": 0.0014724127831351463,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

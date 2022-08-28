@@ -1,0 +1,13 @@
+{
+    "ticker": "BIIB",
+    "close_price": 198.58999633789062,
+    "daily_return": -0.030464314003721293,
+    "return_5_days": -0.07239945941022341,
+    "return_30_days": -0.08488087477632289,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

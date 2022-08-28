@@ -1,0 +1,13 @@
+{
+    "ticker": "NGMS",
+    "close_price": 16.15999984741211,
+    "daily_return": -0.04548142019396595,
+    "return_5_days": -0.024154567115350467,
+    "return_30_days": 0.25174283798705743,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

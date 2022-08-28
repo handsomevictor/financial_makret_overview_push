@@ -1,0 +1,13 @@
+{
+    "ticker": "SAA",
+    "close_price": 23.969999313354492,
+    "daily_return": -0.06403753447526983,
+    "return_5_days": -0.07236845310336104,
+    "return_30_days": 0.1501918972096512,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

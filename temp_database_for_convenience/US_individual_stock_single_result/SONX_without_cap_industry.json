@@ -1,0 +1,13 @@
+{
+    "ticker": "SONX",
+    "close_price": 0.9179999828338623,
+    "daily_return": -0.22203387827134802,
+    "return_5_days": -0.25365856211501703,
+    "return_30_days": -0.4899999960263567,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

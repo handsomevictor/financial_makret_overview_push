@@ -1,0 +1,13 @@
+{
+    "ticker": "WSO",
+    "close_price": 284.5,
+    "daily_return": -0.024749764124814888,
+    "return_5_days": -0.03434931533809227,
+    "return_30_days": 0.12144742505455985,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

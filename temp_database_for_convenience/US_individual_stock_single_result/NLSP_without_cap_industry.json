@@ -1,0 +1,13 @@
+{
+    "ticker": "NLSP",
+    "close_price": 0.5080000162124634,
+    "daily_return": -0.05576202989051138,
+    "return_5_days": 0.022132811259017338,
+    "return_30_days": -0.20500779757479048,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

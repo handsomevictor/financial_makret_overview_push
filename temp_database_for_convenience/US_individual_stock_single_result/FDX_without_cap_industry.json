@@ -1,0 +1,13 @@
+{
+    "ticker": "FDX",
+    "close_price": 218.16000366210938,
+    "daily_return": -0.043283757268886225,
+    "return_5_days": -0.05855949732716037,
+    "return_30_days": 0.0015149512384913244,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

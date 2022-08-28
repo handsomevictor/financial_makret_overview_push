@@ -1,0 +1,13 @@
+{
+    "ticker": "TERN",
+    "close_price": 4.510000228881836,
+    "daily_return": 0.02267582424711634,
+    "return_5_days": -0.00660787075402236,
+    "return_30_days": 0.7755906679587565,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

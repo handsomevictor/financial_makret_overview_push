@@ -1,0 +1,13 @@
+{
+    "ticker": "PHVS",
+    "close_price": 9.25,
+    "daily_return": -0.0561224673500359,
+    "return_5_days": -0.4997295773659918,
+    "return_30_days": -0.5995671061797847,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

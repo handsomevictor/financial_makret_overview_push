@@ -1,0 +1,13 @@
+{
+    "ticker": "SKYY",
+    "close_price": 70.5999984741211,
+    "daily_return": -0.041932472043845204,
+    "return_5_days": -0.04010883011875288,
+    "return_30_days": 0.07197081414883111,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

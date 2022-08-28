@@ -1,0 +1,13 @@
+{
+    "ticker": "GDV",
+    "close_price": 21.860000610351562,
+    "daily_return": -0.028444417317708304,
+    "return_5_days": -0.036155188879652744,
+    "return_30_days": 0.06168044916716764,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IBMM",
+    "close_price": 25.860000610351562,
+    "daily_return": 0.00038685604387866945,
+    "return_5_days": -0.0006955579591709782,
+    "return_30_days": -0.008055200879590219,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

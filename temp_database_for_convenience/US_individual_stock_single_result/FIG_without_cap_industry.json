@@ -1,0 +1,13 @@
+{
+    "ticker": "FIG",
+    "close_price": 24.839000701904297,
+    "daily_return": -0.008423095472357756,
+    "return_5_days": -0.01627719992458221,
+    "return_30_days": 0.023866466098922956,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

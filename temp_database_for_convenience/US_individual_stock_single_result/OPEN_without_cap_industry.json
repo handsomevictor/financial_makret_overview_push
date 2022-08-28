@@ -1,0 +1,13 @@
+{
+    "ticker": "OPEN",
+    "close_price": 4.610000133514404,
+    "daily_return": -0.04158000242086557,
+    "return_5_days": -0.029473656102230628,
+    "return_30_days": -0.09960932879766793,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

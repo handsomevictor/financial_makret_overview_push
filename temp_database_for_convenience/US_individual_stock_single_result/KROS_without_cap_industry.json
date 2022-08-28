@@ -1,0 +1,13 @@
+{
+    "ticker": "KROS",
+    "close_price": 36.349998474121094,
+    "daily_return": -0.08067785451551512,
+    "return_5_days": 0.0022056249061970234,
+    "return_30_days": 0.18907421776243827,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "MGA",
+    "close_price": 58.97999954223633,
+    "daily_return": -0.03406488346337522,
+    "return_5_days": -0.05115830619340278,
+    "return_30_days": 0.0547210563928513,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

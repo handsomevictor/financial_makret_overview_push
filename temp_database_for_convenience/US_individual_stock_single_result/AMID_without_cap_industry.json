@@ -1,0 +1,13 @@
+{
+    "ticker": "AMID",
+    "close_price": 23.743000030517578,
+    "daily_return": -0.030700174850018747,
+    "return_5_days": -0.03318676257517694,
+    "return_30_days": -1,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

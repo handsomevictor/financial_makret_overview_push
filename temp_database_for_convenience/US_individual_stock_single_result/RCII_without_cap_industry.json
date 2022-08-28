@@ -1,0 +1,13 @@
+{
+    "ticker": "RCII",
+    "close_price": 27.049999237060547,
+    "daily_return": -0.0614157000869624,
+    "return_5_days": -0.06691964640822057,
+    "return_30_days": 0.26995306131257424,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

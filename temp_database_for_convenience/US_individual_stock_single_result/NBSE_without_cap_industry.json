@@ -1,0 +1,13 @@
+{
+    "ticker": "NBSE",
+    "close_price": 0.7182999849319458,
+    "daily_return": 0.026142853092174123,
+    "return_5_days": -0.09829274515833841,
+    "return_30_days": -0.281700015068054,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

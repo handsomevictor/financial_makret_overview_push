@@ -1,0 +1,13 @@
+{
+    "ticker": "IBDX",
+    "close_price": 25.594999313354492,
+    "daily_return": -0.005246802614987667,
+    "return_5_days": -0.005130795396355303,
+    "return_30_days": -0.002727512163480661,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "WFH",
+    "close_price": 49.141998291015625,
+    "daily_return": -0.034822794709427396,
+    "return_5_days": -0.02946637858170309,
+    "return_30_days": 0.042690370831788504,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

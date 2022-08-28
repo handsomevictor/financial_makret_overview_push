@@ -1,0 +1,13 @@
+{
+    "ticker": "HNW",
+    "close_price": 11.510000228881836,
+    "daily_return": -0.011168394382006341,
+    "return_5_days": -0.005185779388501066,
+    "return_30_days": 0.051141591723396385,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

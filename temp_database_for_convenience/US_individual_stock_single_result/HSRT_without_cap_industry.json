@@ -1,0 +1,13 @@
+{
+    "ticker": "HSRT",
+    "close_price": 38.35499954223633,
+    "daily_return": -0.003377967157424666,
+    "return_5_days": -0.002989385880365125,
+    "return_30_days": 0.006798584268299157,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

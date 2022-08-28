@@ -1,0 +1,13 @@
+{
+    "ticker": "CULL",
+    "close_price": 11.350000381469727,
+    "daily_return": 0.007992908593113635,
+    "return_5_days": 0.008888922797309018,
+    "return_30_days": 0.027149338059414996,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

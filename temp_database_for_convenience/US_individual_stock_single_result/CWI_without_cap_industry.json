@@ -1,0 +1,13 @@
+{
+    "ticker": "CWI",
+    "close_price": 23.860000610351562,
+    "daily_return": -0.022531718168726567,
+    "return_5_days": -0.018914436276516566,
+    "return_30_days": 0.0293356469466457,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

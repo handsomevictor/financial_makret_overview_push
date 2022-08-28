@@ -1,0 +1,13 @@
+{
+    "ticker": "META",
+    "close_price": 161.77999877929688,
+    "daily_return": -0.041474108606633364,
+    "return_5_days": -0.03679452064501543,
+    "return_30_days": -0.017729193825443468,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

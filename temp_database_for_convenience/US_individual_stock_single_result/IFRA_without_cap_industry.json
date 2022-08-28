@@ -1,0 +1,13 @@
+{
+    "ticker": "IFRA",
+    "close_price": 37.79999923706055,
+    "daily_return": -0.022498033956035557,
+    "return_5_days": -0.02224523056766481,
+    "return_30_days": 0.10688133376555342,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

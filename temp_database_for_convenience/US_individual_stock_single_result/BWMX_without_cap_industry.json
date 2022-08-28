@@ -1,0 +1,13 @@
+{
+    "ticker": "BWMX",
+    "close_price": 8.319999694824219,
+    "daily_return": -0.05239180548258471,
+    "return_5_days": -0.22962967149187596,
+    "return_30_days": -0.11300643994500426,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CLNR",
+    "close_price": 19.549999237060547,
+    "daily_return": -0.03265709437459541,
+    "return_5_days": -0.040726200092484954,
+    "return_30_days": 0.05311355875885493,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

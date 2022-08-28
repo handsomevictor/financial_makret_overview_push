@@ -1,0 +1,13 @@
+{
+    "ticker": "TOTL",
+    "close_price": 42.27000045776367,
+    "daily_return": -0.005645680386864749,
+    "return_5_days": -0.009838327066203023,
+    "return_30_days": 0.0007101983452848515,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

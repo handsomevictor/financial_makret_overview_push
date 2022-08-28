@@ -1,0 +1,13 @@
+{
+    "ticker": "TJX",
+    "close_price": 62.88999938964844,
+    "daily_return": -0.033799309756014084,
+    "return_5_days": -0.05286147674051578,
+    "return_30_days": 0.03847420679526303,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

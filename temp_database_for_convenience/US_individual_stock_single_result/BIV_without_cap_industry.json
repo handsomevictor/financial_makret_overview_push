@@ -1,0 +1,13 @@
+{
+    "ticker": "BIV",
+    "close_price": 77.80000305175781,
+    "daily_return": -0.0033307009347621763,
+    "return_5_days": -0.005623655726292753,
+    "return_30_days": -0.0035860498556686826,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

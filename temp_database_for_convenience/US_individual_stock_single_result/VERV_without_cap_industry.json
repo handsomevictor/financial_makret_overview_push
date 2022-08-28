@@ -1,0 +1,13 @@
+{
+    "ticker": "VERV",
+    "close_price": 39.220001220703125,
+    "daily_return": -0.05059307874870178,
+    "return_5_days": 0.17144569166512524,
+    "return_30_days": 0.6541544806042499,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

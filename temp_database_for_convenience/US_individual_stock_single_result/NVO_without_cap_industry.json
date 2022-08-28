@@ -1,0 +1,13 @@
+{
+    "ticker": "NVO",
+    "close_price": 108.69000244140625,
+    "daily_return": -0.024326741897244153,
+    "return_5_days": 0.039598271341980684,
+    "return_30_days": -0.04849864967802375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

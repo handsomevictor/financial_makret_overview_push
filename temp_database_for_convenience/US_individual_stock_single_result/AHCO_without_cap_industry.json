@@ -1,0 +1,13 @@
+{
+    "ticker": "AHCO",
+    "close_price": 19.5,
+    "daily_return": -0.012658227848101222,
+    "return_5_days": -0.07582940059445986,
+    "return_30_days": -0.03177752775788978,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

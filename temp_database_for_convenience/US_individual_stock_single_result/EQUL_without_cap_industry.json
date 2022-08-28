@@ -1,0 +1,13 @@
+{
+    "ticker": "EQUL",
+    "close_price": 21.44499969482422,
+    "daily_return": -0.030164608883110677,
+    "return_5_days": -0.03639629281003676,
+    "return_30_days": 0.06337084789672409,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

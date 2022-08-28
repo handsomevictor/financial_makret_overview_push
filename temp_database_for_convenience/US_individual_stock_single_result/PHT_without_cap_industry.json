@@ -1,0 +1,13 @@
+{
+    "ticker": "PHT",
+    "close_price": 7.21999979019165,
+    "daily_return": -0.0068776053460857245,
+    "return_5_days": -0.0068776053460857245,
+    "return_30_days": 0.03586800681856617,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BCH",
+    "close_price": 19.530000686645508,
+    "daily_return": 0.024659036404641732,
+    "return_5_days": 0.08259421815415191,
+    "return_30_days": 0.12694753448498375,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

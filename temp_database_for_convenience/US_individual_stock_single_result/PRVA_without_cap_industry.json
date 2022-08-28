@@ -1,0 +1,13 @@
+{
+    "ticker": "PRVA",
+    "close_price": 39.0099983215332,
+    "daily_return": -0.08190169968143823,
+    "return_5_days": 0.0690599212702554,
+    "return_30_days": 0.11457138061523464,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

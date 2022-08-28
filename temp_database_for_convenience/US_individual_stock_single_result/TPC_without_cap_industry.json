@@ -1,0 +1,13 @@
+{
+    "ticker": "TPC",
+    "close_price": 7.179999828338623,
+    "daily_return": -0.011019338570397608,
+    "return_5_days": -0.04010697726870116,
+    "return_30_days": -0.1631701757361692,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

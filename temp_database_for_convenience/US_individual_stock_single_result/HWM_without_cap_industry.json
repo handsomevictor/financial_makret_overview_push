@@ -1,0 +1,13 @@
+{
+    "ticker": "HWM",
+    "close_price": 36.65999984741211,
+    "daily_return": -0.029645287667359965,
+    "return_5_days": -0.024999964490848514,
+    "return_30_days": 0.10024010153597684,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

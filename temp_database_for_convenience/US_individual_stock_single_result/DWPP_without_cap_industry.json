@@ -1,0 +1,13 @@
+{
+    "ticker": "DWPP",
+    "close_price": 29.92099952697754,
+    "daily_return": -0.03265333280055094,
+    "return_5_days": -0.039361731703824954,
+    "return_30_days": 0.0558613952910465,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

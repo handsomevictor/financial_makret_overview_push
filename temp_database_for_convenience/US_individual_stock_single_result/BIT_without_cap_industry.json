@@ -1,0 +1,13 @@
+{
+    "ticker": "BIT",
+    "close_price": 16.1200008392334,
+    "daily_return": -0.004938266662867674,
+    "return_5_days": 0.011927214715488077,
+    "return_30_days": 0.11095800034150871,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

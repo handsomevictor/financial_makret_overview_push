@@ -1,0 +1,13 @@
+{
+    "ticker": "BXMX",
+    "close_price": 13.5600004196167,
+    "daily_return": -0.022350358219190958,
+    "return_5_days": -0.018813262007877807,
+    "return_30_days": 0.041474649989818424,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

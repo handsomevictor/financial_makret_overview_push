@@ -1,0 +1,13 @@
+{
+    "ticker": "CLSE",
+    "close_price": 14.84000015258789,
+    "daily_return": -0.016958106114969174,
+    "return_5_days": -0.02400524649454916,
+    "return_30_days": 0.028484320091146653,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

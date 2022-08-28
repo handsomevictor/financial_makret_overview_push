@@ -1,0 +1,13 @@
+{
+    "ticker": "TDSC",
+    "close_price": 22.940000534057617,
+    "daily_return": -0.00649630218878372,
+    "return_5_days": -0.030431078529074562,
+    "return_30_days": -0.005203769933385893,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "AEYE",
+    "close_price": 6.809999942779541,
+    "daily_return": 0.008888880411783928,
+    "return_5_days": 0.024060127085347105,
+    "return_30_days": 0.16609585014510864,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

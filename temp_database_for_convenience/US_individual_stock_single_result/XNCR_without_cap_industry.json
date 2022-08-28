@@ -1,0 +1,13 @@
+{
+    "ticker": "XNCR",
+    "close_price": 27.850000381469727,
+    "daily_return": -0.06007420957519938,
+    "return_5_days": -0.06102493173479595,
+    "return_30_days": -0.10190260638788973,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BULL"
+}

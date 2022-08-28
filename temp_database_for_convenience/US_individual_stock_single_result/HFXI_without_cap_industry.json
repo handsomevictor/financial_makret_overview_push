@@ -1,0 +1,13 @@
+{
+    "ticker": "HFXI",
+    "close_price": 21.329999923706055,
+    "daily_return": -0.022904260272444188,
+    "return_5_days": -0.025671490478982872,
+    "return_30_days": 0.026961938064525404,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

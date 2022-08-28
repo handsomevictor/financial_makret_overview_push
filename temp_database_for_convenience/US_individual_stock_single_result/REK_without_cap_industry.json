@@ -1,0 +1,13 @@
+{
+    "ticker": "REK",
+    "close_price": 18.239999771118164,
+    "daily_return": 0.021276548028019482,
+    "return_5_days": 0.03460014971010583,
+    "return_30_days": -0.047519575223988864,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

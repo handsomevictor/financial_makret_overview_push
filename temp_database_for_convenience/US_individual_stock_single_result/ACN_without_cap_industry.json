@@ -1,0 +1,13 @@
+{
+    "ticker": "ACN",
+    "close_price": 298.1300048828125,
+    "daily_return": -0.03757621636596187,
+    "return_5_days": -0.054426094062744346,
+    "return_30_days": 0.09800389269977727,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

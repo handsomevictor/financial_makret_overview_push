@@ -1,0 +1,13 @@
+{
+    "ticker": "VEGN",
+    "close_price": 34.5,
+    "daily_return": -0.03539671423643875,
+    "return_5_days": -0.044876898622786765,
+    "return_30_days": 0.049716996735582164,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

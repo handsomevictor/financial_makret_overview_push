@@ -1,0 +1,13 @@
+{
+    "ticker": "TGH",
+    "close_price": 31.940000534057617,
+    "daily_return": -0.030063764407635363,
+    "return_5_days": -0.024434975668780945,
+    "return_30_days": 0.15223670004458056,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

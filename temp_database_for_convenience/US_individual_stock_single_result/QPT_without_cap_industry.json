@@ -1,0 +1,13 @@
+{
+    "ticker": "QPT",
+    "close_price": 21.426000595092773,
+    "daily_return": -0.019988119529502635,
+    "return_5_days": -0.026312137593994644,
+    "return_30_days": 0.025363738943703584,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

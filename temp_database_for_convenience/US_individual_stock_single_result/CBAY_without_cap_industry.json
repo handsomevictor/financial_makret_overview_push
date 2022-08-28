@@ -1,0 +1,13 @@
+{
+    "ticker": "CBAY",
+    "close_price": 3.859999895095825,
+    "daily_return": -0.03980101656463497,
+    "return_5_days": -0.0025839769403019908,
+    "return_30_days": 0.1386430016659066,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

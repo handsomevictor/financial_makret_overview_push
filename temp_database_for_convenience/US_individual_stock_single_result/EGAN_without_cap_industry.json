@@ -1,0 +1,13 @@
+{
+    "ticker": "EGAN",
+    "close_price": 9.0600004196167,
+    "daily_return": -0.05130887553212282,
+    "return_5_days": -0.022653724679279175,
+    "return_30_days": -0.09309303031118765,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

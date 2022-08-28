@@ -1,0 +1,13 @@
+{
+    "ticker": "BAL",
+    "close_price": 81.19400024414062,
+    "daily_return": 0.033660052064423684,
+    "return_5_days": 0.022208232811122164,
+    "return_30_days": 0.3294799926394427,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

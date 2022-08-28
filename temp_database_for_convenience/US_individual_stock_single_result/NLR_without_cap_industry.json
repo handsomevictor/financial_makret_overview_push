@@ -1,0 +1,13 @@
+{
+    "ticker": "NLR",
+    "close_price": 56.0099983215332,
+    "daily_return": -0.0199475620981302,
+    "return_5_days": 0.001251335297509204,
+    "return_30_days": 0.06706032635755088,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

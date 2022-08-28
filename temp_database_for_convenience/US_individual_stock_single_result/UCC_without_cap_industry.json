@@ -1,0 +1,13 @@
+{
+    "ticker": "UCC",
+    "close_price": 29.020000457763672,
+    "daily_return": -0.07225064511736745,
+    "return_5_days": -0.09623170644200307,
+    "return_30_days": 0.13581218490487657,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "GKOS",
+    "close_price": 49.88999938964844,
+    "daily_return": -0.05134057339999054,
+    "return_5_days": -0.0037939783238669644,
+    "return_30_days": -0.010511677876722691,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

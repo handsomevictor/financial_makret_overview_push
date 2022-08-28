@@ -1,0 +1,13 @@
+{
+    "ticker": "MINC",
+    "close_price": 45.709999084472656,
+    "daily_return": 0.0010950336668338334,
+    "return_5_days": -0.003705361370636928,
+    "return_30_days": 0.003953444102827719,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

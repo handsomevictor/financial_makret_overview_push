@@ -1,0 +1,13 @@
+{
+    "ticker": "DIV",
+    "close_price": 20.420000076293945,
+    "daily_return": -0.015903610781014654,
+    "return_5_days": -0.021093025943598076,
+    "return_30_days": 0.04825464867283569,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

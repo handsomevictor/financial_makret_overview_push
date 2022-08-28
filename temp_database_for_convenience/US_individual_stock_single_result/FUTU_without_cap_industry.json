@@ -1,0 +1,13 @@
+{
+    "ticker": "FUTU",
+    "close_price": 46.34000015258789,
+    "daily_return": 0.00936615784371475,
+    "return_5_days": 0.2077143977734175,
+    "return_30_days": 0.014892691796938529,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

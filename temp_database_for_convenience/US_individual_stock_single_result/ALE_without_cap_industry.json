@@ -1,0 +1,13 @@
+{
+    "ticker": "ALE",
+    "close_price": 60.029998779296875,
+    "daily_return": -0.01622421617567915,
+    "return_5_days": -0.052108052366100055,
+    "return_30_days": 0.020050982765864367,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

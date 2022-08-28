@@ -1,0 +1,13 @@
+{
+    "ticker": "RWGV",
+    "close_price": 96.24099731445312,
+    "daily_return": -0.041233313929224136,
+    "return_5_days": -0.05167269315031675,
+    "return_30_days": 0.07221553755019627,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

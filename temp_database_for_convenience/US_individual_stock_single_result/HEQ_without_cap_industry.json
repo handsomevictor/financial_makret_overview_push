@@ -1,0 +1,13 @@
+{
+    "ticker": "HEQ",
+    "close_price": 12.4399995803833,
+    "daily_return": -0.01737758844237114,
+    "return_5_days": 0.012205013750680171,
+    "return_30_days": -0.028883749189171803,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

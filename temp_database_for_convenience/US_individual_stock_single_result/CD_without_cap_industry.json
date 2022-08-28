@@ -1,0 +1,13 @@
+{
+    "ticker": "CD",
+    "close_price": 8.65999984741211,
+    "daily_return": 0.058679648450943755,
+    "return_5_days": 0.15159572731077842,
+    "return_30_days": 0.3201219394740997,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

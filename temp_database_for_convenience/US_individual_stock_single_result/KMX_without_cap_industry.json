@@ -1,0 +1,13 @@
+{
+    "ticker": "KMX",
+    "close_price": 90.0,
+    "daily_return": -0.034749012634077925,
+    "return_5_days": -0.06512929117794852,
+    "return_30_days": -0.016930671765040817,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BRID",
+    "close_price": 13.300000190734863,
+    "daily_return": 0.025443324357128372,
+    "return_5_days": 0.091058297667034,
+    "return_30_days": -0.13915855307913638,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

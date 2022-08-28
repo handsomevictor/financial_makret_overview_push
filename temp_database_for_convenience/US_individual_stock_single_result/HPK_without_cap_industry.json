@@ -1,0 +1,13 @@
+{
+    "ticker": "HPK",
+    "close_price": 28.010000228881836,
+    "daily_return": -0.005679795774894414,
+    "return_5_days": 0.24488889906141487,
+    "return_30_days": 0.23664462254411922,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

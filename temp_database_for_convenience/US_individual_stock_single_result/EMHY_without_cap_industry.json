@@ -1,0 +1,13 @@
+{
+    "ticker": "EMHY",
+    "close_price": 34.90999984741211,
+    "daily_return": -0.01661972260810962,
+    "return_5_days": -1.1102230246251565e-16,
+    "return_30_days": 0.061416859083294195,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

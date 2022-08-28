@@ -1,0 +1,13 @@
+{
+    "ticker": "VMEO",
+    "close_price": 5.900000095367432,
+    "daily_return": -0.06645570646931442,
+    "return_5_days": -0.10334344015548647,
+    "return_30_days": -0.015024988178577003,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

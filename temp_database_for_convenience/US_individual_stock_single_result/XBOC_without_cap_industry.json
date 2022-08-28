@@ -1,0 +1,13 @@
+{
+    "ticker": "XBOC",
+    "close_price": 23.649999618530273,
+    "daily_return": -0.02046054918908058,
+    "return_5_days": -0.027988975930687943,
+    "return_30_days": 0.03460345562287359,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

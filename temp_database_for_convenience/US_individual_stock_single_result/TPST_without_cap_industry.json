@@ -1,0 +1,13 @@
+{
+    "ticker": "TPST",
+    "close_price": 2.309999942779541,
+    "daily_return": -0.07228918315975852,
+    "return_5_days": -0.090909073849337,
+    "return_30_days": -0.07228918315975852,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

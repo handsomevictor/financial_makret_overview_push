@@ -1,0 +1,13 @@
+{
+    "ticker": "EGO",
+    "close_price": 5.829999923706055,
+    "daily_return": -0.0627009452798678,
+    "return_5_days": -0.026711160855727556,
+    "return_30_days": 0.06193081361798369,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

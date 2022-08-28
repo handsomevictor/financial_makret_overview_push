@@ -1,0 +1,13 @@
+{
+    "ticker": "PHIO",
+    "close_price": 0.6909999847412109,
+    "daily_return": -0.03356641945882477,
+    "return_5_days": -0.04027783710647259,
+    "return_30_days": -0.02263087982523615,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

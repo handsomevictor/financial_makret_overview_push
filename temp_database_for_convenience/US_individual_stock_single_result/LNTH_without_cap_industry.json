@@ -1,0 +1,13 @@
+{
+    "ticker": "LNTH",
+    "close_price": 81.51000213623047,
+    "daily_return": -0.05877594027223543,
+    "return_5_days": -0.01164058530693557,
+    "return_30_days": 0.15371550425761304,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

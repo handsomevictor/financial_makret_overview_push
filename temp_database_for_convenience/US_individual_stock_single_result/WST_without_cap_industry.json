@@ -1,0 +1,13 @@
+{
+    "ticker": "WST",
+    "close_price": 303.7699890136719,
+    "daily_return": -0.03467015354023506,
+    "return_5_days": -0.049292690728423016,
+    "return_30_days": 0.011083699058733298,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "JMM",
+    "close_price": 6.210000038146973,
+    "daily_return": 0.004854403016450348,
+    "return_5_days": -0.003210269801811272,
+    "return_30_days": 0.019704414212221577,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

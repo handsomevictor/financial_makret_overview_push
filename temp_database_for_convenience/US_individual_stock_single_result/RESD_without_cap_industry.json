@@ -1,0 +1,13 @@
+{
+    "ticker": "RESD",
+    "close_price": 24.530000686645508,
+    "daily_return": -0.027359184991873398,
+    "return_5_days": -0.03558084522504812,
+    "return_30_days": -0.0030481144883617306,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HVAL",
+    "close_price": 21.91900062561035,
+    "daily_return": -0.03154680390790321,
+    "return_5_days": -0.04550601133744481,
+    "return_30_days": 0.02458752793865071,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

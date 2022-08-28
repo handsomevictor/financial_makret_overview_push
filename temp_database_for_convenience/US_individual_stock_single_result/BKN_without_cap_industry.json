@@ -1,0 +1,13 @@
+{
+    "ticker": "BKN",
+    "close_price": 15.569999694824219,
+    "daily_return": -0.004475744690659256,
+    "return_5_days": 0.005164617487936729,
+    "return_30_days": 0.09339887254798929,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

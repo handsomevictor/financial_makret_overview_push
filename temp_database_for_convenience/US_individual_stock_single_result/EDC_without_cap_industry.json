@@ -1,0 +1,13 @@
+{
+    "ticker": "EDC",
+    "close_price": 36.220001220703125,
+    "daily_return": -0.04533467233166999,
+    "return_5_days": 0.0058317941949010965,
+    "return_30_days": 0.09195065481231524,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

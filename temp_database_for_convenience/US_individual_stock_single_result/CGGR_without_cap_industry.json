@@ -1,0 +1,13 @@
+{
+    "ticker": "CGGR",
+    "close_price": 21.770000457763672,
+    "daily_return": -0.03458974748056576,
+    "return_5_days": -0.035017687361709626,
+    "return_30_days": 0.06715690513979067,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

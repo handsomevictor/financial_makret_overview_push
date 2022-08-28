@@ -1,0 +1,13 @@
+{
+    "ticker": "SCJ",
+    "close_price": 63.099998474121094,
+    "daily_return": -0.0203385361513172,
+    "return_5_days": -0.013445913424979361,
+    "return_30_days": 0.046260935786773594,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

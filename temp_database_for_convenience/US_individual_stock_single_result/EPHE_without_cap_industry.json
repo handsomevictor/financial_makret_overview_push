@@ -1,0 +1,13 @@
+{
+    "ticker": "EPHE",
+    "close_price": 26.959999084472656,
+    "daily_return": -0.008459045423587441,
+    "return_5_days": -0.026363359895464344,
+    "return_30_days": 0.08797410562631658,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

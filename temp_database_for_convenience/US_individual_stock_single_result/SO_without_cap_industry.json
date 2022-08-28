@@ -1,0 +1,13 @@
+{
+    "ticker": "SO",
+    "close_price": 78.19999694824219,
+    "daily_return": -0.0116279798584763,
+    "return_5_days": -0.02445118044316741,
+    "return_30_days": 0.08115574407005255,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

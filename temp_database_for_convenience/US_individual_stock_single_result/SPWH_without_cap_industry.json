@@ -1,0 +1,13 @@
+{
+    "ticker": "SPWH",
+    "close_price": 9.069999694824219,
+    "daily_return": -0.062047608762757944,
+    "return_5_days": -0.0984096106857022,
+    "return_30_days": -0.07918788390230758,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

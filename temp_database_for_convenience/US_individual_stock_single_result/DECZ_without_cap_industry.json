@@ -1,0 +1,13 @@
+{
+    "ticker": "DECZ",
+    "close_price": 27.680999755859375,
+    "daily_return": -0.018404290533287848,
+    "return_5_days": -0.021354077949835792,
+    "return_30_days": 0.03631460062465286,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "UCTT",
+    "close_price": 31.360000610351562,
+    "daily_return": -0.06611081297351429,
+    "return_5_days": -0.04361086505790934,
+    "return_30_days": 0.006418509753493007,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

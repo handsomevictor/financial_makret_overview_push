@@ -1,0 +1,13 @@
+{
+    "ticker": "AMD",
+    "close_price": 91.18000030517578,
+    "daily_return": -0.06174109879767553,
+    "return_5_days": -0.04971335898675899,
+    "return_30_days": 0.12415238095238124,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

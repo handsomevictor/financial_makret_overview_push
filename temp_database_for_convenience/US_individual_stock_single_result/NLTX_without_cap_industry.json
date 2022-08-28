@@ -1,0 +1,13 @@
+{
+    "ticker": "NLTX",
+    "close_price": 1.100000023841858,
+    "daily_return": -0.08333334989017849,
+    "return_5_days": 0.009174302896359121,
+    "return_30_days": 0.01851850012202405,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

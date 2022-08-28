@@ -1,0 +1,13 @@
+{
+    "ticker": "TPG",
+    "close_price": 30.049999237060547,
+    "daily_return": -0.0568110903520489,
+    "return_5_days": -0.03655021729647778,
+    "return_30_days": 0.1953062834772321,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

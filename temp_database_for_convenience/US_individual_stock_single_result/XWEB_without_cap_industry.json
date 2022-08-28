@@ -1,0 +1,13 @@
+{
+    "ticker": "XWEB",
+    "close_price": 80.52999877929688,
+    "daily_return": -0.0437002772257995,
+    "return_5_days": -0.050980530371293575,
+    "return_30_days": 0.04367541416852472,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

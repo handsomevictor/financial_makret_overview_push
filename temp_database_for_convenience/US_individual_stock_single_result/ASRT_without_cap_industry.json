@@ -1,0 +1,13 @@
+{
+    "ticker": "ASRT",
+    "close_price": 2.640000104904175,
+    "daily_return": -0.07692300638503313,
+    "return_5_days": -0.2391930596146069,
+    "return_30_days": -0.06382972787224006,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

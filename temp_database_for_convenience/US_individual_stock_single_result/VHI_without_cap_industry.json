@@ -1,0 +1,13 @@
+{
+    "ticker": "VHI",
+    "close_price": 37.380001068115234,
+    "daily_return": -0.03535481114541328,
+    "return_5_days": -0.030350147655010207,
+    "return_30_days": -0.15448989273461067,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

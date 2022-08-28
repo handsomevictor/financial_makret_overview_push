@@ -1,0 +1,13 @@
+{
+    "ticker": "BL",
+    "close_price": 68.44000244140625,
+    "daily_return": -0.040784808618745894,
+    "return_5_days": -0.041322271655179876,
+    "return_30_days": -0.0008758767677925494,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

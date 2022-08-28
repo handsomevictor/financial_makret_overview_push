@@ -1,0 +1,13 @@
+{
+    "ticker": "AAXJ",
+    "close_price": 67.44000244140625,
+    "daily_return": -0.016192568357925152,
+    "return_5_days": 0.0031235917594372165,
+    "return_30_days": 0.01048853161586183,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

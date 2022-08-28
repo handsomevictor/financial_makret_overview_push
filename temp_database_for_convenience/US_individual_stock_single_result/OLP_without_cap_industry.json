@@ -1,0 +1,13 @@
+{
+    "ticker": "OLP",
+    "close_price": 25.299999237060547,
+    "daily_return": -0.013260536688045277,
+    "return_5_days": -0.038388454936658545,
+    "return_30_days": -0.020139444767999337,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

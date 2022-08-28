@@ -1,0 +1,13 @@
+{
+    "ticker": "BKCI",
+    "close_price": 40.487998962402344,
+    "daily_return": -0.02405633459876899,
+    "return_5_days": -0.03277595862265559,
+    "return_30_days": 0.01316243276527218,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

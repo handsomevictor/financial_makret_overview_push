@@ -1,0 +1,13 @@
+{
+    "ticker": "SPIP",
+    "close_price": 27.969999313354492,
+    "daily_return": -0.00035740632757119695,
+    "return_5_days": 0.001073685709501282,
+    "return_30_days": 0.009018759242160224,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

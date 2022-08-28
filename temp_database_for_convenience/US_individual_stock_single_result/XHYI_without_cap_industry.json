@@ -1,0 +1,13 @@
+{
+    "ticker": "XHYI",
+    "close_price": 36.82099914550781,
+    "daily_return": -0.015612876696905476,
+    "return_5_days": -0.013450223482193158,
+    "return_30_days": 0.016592984664538513,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

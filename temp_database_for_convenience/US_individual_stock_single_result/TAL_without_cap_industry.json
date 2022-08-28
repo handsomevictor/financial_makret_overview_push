@@ -1,0 +1,13 @@
+{
+    "ticker": "TAL",
+    "close_price": 5.989999771118164,
+    "daily_return": 0.10925919728351174,
+    "return_5_days": 0.36136355483827654,
+    "return_30_days": 0.4974999427795401,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

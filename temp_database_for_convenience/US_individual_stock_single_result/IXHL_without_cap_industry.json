@@ -1,0 +1,13 @@
+{
+    "ticker": "IXHL",
+    "close_price": 4.314000129699707,
+    "daily_return": 0.015058854046989811,
+    "return_5_days": -0.20844031547197528,
+    "return_30_days": 0.25589525518562173,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

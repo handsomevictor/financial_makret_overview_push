@@ -1,0 +1,13 @@
+{
+    "ticker": "SEAC",
+    "close_price": 0.5400000214576721,
+    "daily_return": -0.018181800448205276,
+    "return_5_days": -0.018181800448205165,
+    "return_30_days": -0.09999999999999998,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

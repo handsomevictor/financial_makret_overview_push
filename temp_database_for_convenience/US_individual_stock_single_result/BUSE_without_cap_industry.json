@@ -1,0 +1,13 @@
+{
+    "ticker": "BUSE",
+    "close_price": 23.719999313354492,
+    "daily_return": -0.005033592217505545,
+    "return_5_days": -0.03498781989507416,
+    "return_30_days": -0.0016835401995802801,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

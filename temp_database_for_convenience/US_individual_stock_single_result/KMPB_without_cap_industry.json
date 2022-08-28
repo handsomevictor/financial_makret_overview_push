@@ -1,0 +1,13 @@
+{
+    "ticker": "KMPB",
+    "close_price": 24.285999298095703,
+    "daily_return": -0.00548733733741158,
+    "return_5_days": -0.019935487282533915,
+    "return_30_days": 0.001484507137966995,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

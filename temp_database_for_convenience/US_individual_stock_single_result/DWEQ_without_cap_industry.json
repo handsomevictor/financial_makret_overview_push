@@ -1,0 +1,13 @@
+{
+    "ticker": "DWEQ",
+    "close_price": 21.570999145507812,
+    "daily_return": -0.02047953077593978,
+    "return_5_days": -0.0172665878933157,
+    "return_30_days": 0.03941593388348297,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

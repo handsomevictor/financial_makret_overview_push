@@ -1,0 +1,13 @@
+{
+    "ticker": "HSY",
+    "close_price": 228.6699981689453,
+    "daily_return": -0.020097713529051986,
+    "return_5_days": -0.019341258463399846,
+    "return_30_days": 0.05475089921633347,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

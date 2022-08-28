@@ -1,0 +1,13 @@
+{
+    "ticker": "AME",
+    "close_price": 122.66000366210938,
+    "daily_return": -0.03652497043167591,
+    "return_5_days": -0.048409546391337654,
+    "return_30_days": 0.0981200269767748,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

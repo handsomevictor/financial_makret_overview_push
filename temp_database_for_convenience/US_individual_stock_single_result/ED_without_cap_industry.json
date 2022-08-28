@@ -1,0 +1,13 @@
+{
+    "ticker": "ED",
+    "close_price": 98.52999877929688,
+    "daily_return": -0.009350495814763882,
+    "return_5_days": -0.020089549588786726,
+    "return_30_days": 0.05492502322921933,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

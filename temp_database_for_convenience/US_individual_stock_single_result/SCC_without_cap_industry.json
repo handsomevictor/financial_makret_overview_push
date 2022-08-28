@@ -1,0 +1,13 @@
+{
+    "ticker": "SCC",
+    "close_price": 24.540000915527344,
+    "daily_return": 0.07208394800679141,
+    "return_5_days": 0.099462421642323,
+    "return_30_days": -0.15115873244378253,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

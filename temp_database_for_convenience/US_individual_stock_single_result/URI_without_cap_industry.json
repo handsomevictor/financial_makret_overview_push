@@ -1,0 +1,13 @@
+{
+    "ticker": "URI",
+    "close_price": 306.4200134277344,
+    "daily_return": -0.041149023985668,
+    "return_5_days": -0.032429154487034983,
+    "return_30_days": 0.21672497571281113,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

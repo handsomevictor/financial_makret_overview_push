@@ -1,0 +1,13 @@
+{
+    "ticker": "PARA",
+    "close_price": 24.899999618530273,
+    "daily_return": -0.04009255567138048,
+    "return_5_days": -0.03861003917870898,
+    "return_30_days": -0.004000015258789458,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

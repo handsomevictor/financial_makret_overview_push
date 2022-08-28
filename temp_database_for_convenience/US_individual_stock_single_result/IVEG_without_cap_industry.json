@@ -1,0 +1,13 @@
+{
+    "ticker": "IVEG",
+    "close_price": 21.770999908447266,
+    "daily_return": -0.0284273924805456,
+    "return_5_days": -0.00973394114001247,
+    "return_30_days": 0.08925803974140867,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

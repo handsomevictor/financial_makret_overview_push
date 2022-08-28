@@ -1,0 +1,13 @@
+{
+    "ticker": "SRVR",
+    "close_price": 34.970001220703125,
+    "daily_return": -0.025090541900787078,
+    "return_5_days": -0.04165525864200337,
+    "return_30_days": 0.026416246960390577,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

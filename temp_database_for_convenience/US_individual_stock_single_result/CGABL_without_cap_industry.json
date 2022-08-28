@@ -1,0 +1,13 @@
+{
+    "ticker": "CGABL",
+    "close_price": 18.649999618530273,
+    "daily_return": -0.0021402308391833547,
+    "return_5_days": -0.033177878000094196,
+    "return_30_days": -0.012443770585300884,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

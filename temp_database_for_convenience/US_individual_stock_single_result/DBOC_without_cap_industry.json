@@ -1,0 +1,13 @@
+{
+    "ticker": "DBOC",
+    "close_price": 28.375,
+    "daily_return": -0.015030566373552823,
+    "return_5_days": -0.01969250996144034,
+    "return_30_days": 0.03433818452368742,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

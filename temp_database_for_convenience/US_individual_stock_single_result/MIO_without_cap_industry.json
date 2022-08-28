@@ -1,0 +1,13 @@
+{
+    "ticker": "MIO",
+    "close_price": 12.130000114440918,
+    "daily_return": -0.014622282619011107,
+    "return_5_days": -0.03423569194346454,
+    "return_30_days": -0.028044826973823378,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

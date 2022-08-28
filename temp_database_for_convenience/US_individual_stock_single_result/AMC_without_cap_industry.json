@@ -1,0 +1,13 @@
+{
+    "ticker": "AMC",
+    "close_price": 9.170000076293945,
+    "daily_return": -0.041797244648461906,
+    "return_5_days": -0.4911209853858146,
+    "return_30_days": -0.40338320464727884,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

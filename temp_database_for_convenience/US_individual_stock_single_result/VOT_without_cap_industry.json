@@ -1,0 +1,13 @@
+{
+    "ticker": "VOT",
+    "close_price": 194.27999877929688,
+    "daily_return": -0.03769379678715157,
+    "return_5_days": -0.03448962528230126,
+    "return_30_days": 0.08566639895215356,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

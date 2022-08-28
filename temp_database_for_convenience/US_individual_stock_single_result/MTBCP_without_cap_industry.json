@@ -1,0 +1,13 @@
+{
+    "ticker": "MTBCP",
+    "close_price": 26.906999588012695,
+    "daily_return": 0.0024962531685508438,
+    "return_5_days": 0.0021228754463000765,
+    "return_30_days": 0.03329487872515324,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

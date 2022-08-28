@@ -1,0 +1,13 @@
+{
+    "ticker": "CVLY",
+    "close_price": 20.56999969482422,
+    "daily_return": 0.014800159362879706,
+    "return_5_days": -0.008674713502447418,
+    "return_30_days": -0.09223301706361542,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

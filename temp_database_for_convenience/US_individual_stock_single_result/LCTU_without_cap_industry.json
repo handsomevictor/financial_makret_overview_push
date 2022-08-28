@@ -1,0 +1,13 @@
+{
+    "ticker": "LCTU",
+    "close_price": 45.18000030517578,
+    "daily_return": -0.033355402572633475,
+    "return_5_days": -0.04096795330441372,
+    "return_30_days": 0.057584246586595444,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

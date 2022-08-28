@@ -1,0 +1,13 @@
+{
+    "ticker": "WAFD",
+    "close_price": 33.189998626708984,
+    "daily_return": -0.018628062501480414,
+    "return_5_days": -0.04406689343898473,
+    "return_30_days": 0.047333482719234654,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

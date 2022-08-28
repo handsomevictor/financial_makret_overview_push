@@ -1,0 +1,13 @@
+{
+    "ticker": "LBAY",
+    "close_price": 27.819000244140625,
+    "daily_return": -0.012389911691001898,
+    "return_5_days": -0.006428811802004719,
+    "return_30_days": 0.048586487905519116,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

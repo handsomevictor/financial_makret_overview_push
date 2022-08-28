@@ -1,0 +1,13 @@
+{
+    "ticker": "ATRO",
+    "close_price": 10.069999694824219,
+    "daily_return": -0.05357148779193843,
+    "return_5_days": -0.12586811678138898,
+    "return_30_days": -0.0009920862061035818,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

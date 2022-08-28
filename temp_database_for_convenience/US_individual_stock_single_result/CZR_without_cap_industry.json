@@ -1,0 +1,13 @@
+{
+    "ticker": "CZR",
+    "close_price": 44.310001373291016,
+    "daily_return": -0.054215521527351096,
+    "return_5_days": -0.0513808126358849,
+    "return_30_days": 0.17689241905699093,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

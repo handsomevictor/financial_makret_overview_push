@@ -1,0 +1,13 @@
+{
+    "ticker": "SPXE",
+    "close_price": 86.302001953125,
+    "daily_return": -0.032792340712826995,
+    "return_5_days": -0.04309839236162194,
+    "return_30_days": 0.04782490973308029,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

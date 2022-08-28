@@ -1,0 +1,13 @@
+{
+    "ticker": "PGNY",
+    "close_price": 41.66999816894531,
+    "daily_return": -0.04971494597570736,
+    "return_5_days": -0.04052503163396726,
+    "return_30_days": 0.36131974315784676,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

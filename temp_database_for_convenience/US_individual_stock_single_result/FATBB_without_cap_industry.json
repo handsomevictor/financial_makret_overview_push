@@ -1,0 +1,13 @@
+{
+    "ticker": "FATBB",
+    "close_price": 8.520000457763672,
+    "daily_return": 0.045398878104502494,
+    "return_5_days": -0.01616621156064746,
+    "return_30_days": 0.10649359335202302,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

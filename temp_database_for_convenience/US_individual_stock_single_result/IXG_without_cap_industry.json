@@ -1,0 +1,13 @@
+{
+    "ticker": "IXG",
+    "close_price": 67.75,
+    "daily_return": -0.025179856115107868,
+    "return_5_days": -0.03103544373244993,
+    "return_30_days": 0.051528785955283096,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

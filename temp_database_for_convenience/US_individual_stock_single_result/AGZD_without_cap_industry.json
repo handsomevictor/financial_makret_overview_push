@@ -1,0 +1,13 @@
+{
+    "ticker": "AGZD",
+    "close_price": 45.95000076293945,
+    "daily_return": 0.0043716013757257866,
+    "return_5_days": -0.0019548251693787266,
+    "return_30_days": 0.002618348834615425,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

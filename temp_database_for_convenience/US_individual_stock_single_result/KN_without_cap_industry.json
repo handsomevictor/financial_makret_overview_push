@@ -1,0 +1,13 @@
+{
+    "ticker": "KN",
+    "close_price": 15.930000305175781,
+    "daily_return": -0.04724874644867527,
+    "return_5_days": -0.03337374103991708,
+    "return_30_days": -0.11154489492243136,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

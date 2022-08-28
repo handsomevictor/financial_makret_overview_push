@@ -1,0 +1,13 @@
+{
+    "ticker": "LILAK",
+    "close_price": 7.010000228881836,
+    "daily_return": -0.031767893578373174,
+    "return_5_days": -0.07397621269229615,
+    "return_30_days": 0.0014286041259767845,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

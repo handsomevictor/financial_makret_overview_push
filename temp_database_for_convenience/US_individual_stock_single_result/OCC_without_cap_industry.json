@@ -1,0 +1,13 @@
+{
+    "ticker": "OCC",
+    "close_price": 3.6700000762939453,
+    "daily_return": 0.013812207821973788,
+    "return_5_days": -0.041775417911049884,
+    "return_30_days": 0.07941175686859392,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

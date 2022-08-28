@@ -1,0 +1,13 @@
+{
+    "ticker": "KNG",
+    "close_price": 51.84000015258789,
+    "daily_return": -0.027392103290265868,
+    "return_5_days": -0.03355703313836955,
+    "return_30_days": 0.05173461533163093,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "FCRD",
+    "close_price": 3.2799999713897705,
+    "daily_return": 0.0,
+    "return_5_days": -0.006060600368335001,
+    "return_30_days": -0.040935702275154084,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

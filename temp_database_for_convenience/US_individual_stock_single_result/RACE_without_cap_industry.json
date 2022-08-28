@@ -1,0 +1,13 @@
+{
+    "ticker": "RACE",
+    "close_price": 197.7899932861328,
+    "daily_return": -0.044123356676999737,
+    "return_5_days": -0.04467735848124932,
+    "return_30_days": 0.022329002109745755,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

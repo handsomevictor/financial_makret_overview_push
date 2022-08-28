@@ -1,0 +1,13 @@
+{
+    "ticker": "FREQ",
+    "close_price": 2.1500000953674316,
+    "daily_return": -0.05286338615302688,
+    "return_5_days": 0.04878055872057829,
+    "return_30_days": -0.040178532940240874,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

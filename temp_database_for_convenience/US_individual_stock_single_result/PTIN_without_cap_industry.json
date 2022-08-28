@@ -1,0 +1,13 @@
+{
+    "ticker": "PTIN",
+    "close_price": 24.371000289916992,
+    "daily_return": -0.0005741209281705517,
+    "return_5_days": -0.0013112973065921851,
+    "return_30_days": 0.00024627616889816295,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

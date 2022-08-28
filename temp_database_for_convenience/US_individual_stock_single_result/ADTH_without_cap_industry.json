@@ -1,0 +1,13 @@
+{
+    "ticker": "ADTH",
+    "close_price": 3.049999952316284,
+    "daily_return": -0.10294121565703185,
+    "return_5_days": 0.1466164864290982,
+    "return_30_days": 0.07773852810643356,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

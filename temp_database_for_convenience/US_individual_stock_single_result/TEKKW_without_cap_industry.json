@@ -1,0 +1,13 @@
+{
+    "ticker": "TEKKW",
+    "close_price": 0.09399999678134918,
+    "daily_return": 0.0,
+    "return_5_days": 0.25333324061500084,
+    "return_30_days": -0.5300000230967996,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

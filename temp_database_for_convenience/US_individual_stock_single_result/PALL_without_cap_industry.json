@@ -1,0 +1,13 @@
+{
+    "ticker": "PALL",
+    "close_price": 195.83999633789062,
+    "daily_return": -0.017508681388173963,
+    "return_5_days": -0.006291888987432825,
+    "return_30_days": 0.14512917463086739,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

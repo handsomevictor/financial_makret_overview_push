@@ -1,0 +1,13 @@
+{
+    "ticker": "IDIV",
+    "close_price": 7.8460001945495605,
+    "daily_return": 0.013826121348312403,
+    "return_5_days": 0.03851758740210687,
+    "return_30_days": 0.002043457343474664,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

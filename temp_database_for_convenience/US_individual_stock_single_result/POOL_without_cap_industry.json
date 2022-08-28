@@ -1,0 +1,13 @@
+{
+    "ticker": "POOL",
+    "close_price": 352.75,
+    "daily_return": -0.04703372457820054,
+    "return_5_days": -0.07266230338349666,
+    "return_30_days": -0.05643976396692385,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

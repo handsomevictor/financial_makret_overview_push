@@ -1,0 +1,13 @@
+{
+    "ticker": "IDAI",
+    "close_price": 1.3509999513626099,
+    "daily_return": 0.01578940433808862,
+    "return_5_days": -0.22800002779279427,
+    "return_30_days": -0.09933336575826013,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "IPAC",
+    "close_price": 53.54999923706055,
+    "daily_return": -0.021739174368245684,
+    "return_5_days": -0.015262997696801173,
+    "return_30_days": 0.03839440670842276,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

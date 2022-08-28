@@ -1,0 +1,13 @@
+{
+    "ticker": "HILS",
+    "close_price": 1.0800000429153442,
+    "daily_return": -0.06086950842960004,
+    "return_5_days": -0.03571425150243601,
+    "return_30_days": -0.12195119823748546,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

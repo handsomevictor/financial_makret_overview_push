@@ -1,0 +1,13 @@
+{
+    "ticker": "BRSH",
+    "close_price": 1.8899999856948853,
+    "daily_return": -0.04545456187455765,
+    "return_5_days": -0.19915251283596203,
+    "return_30_days": -1,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

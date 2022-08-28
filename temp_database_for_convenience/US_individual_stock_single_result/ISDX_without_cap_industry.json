@@ -1,0 +1,13 @@
+{
+    "ticker": "ISDX",
+    "close_price": 26.540000915527344,
+    "daily_return": -0.020664186644266502,
+    "return_5_days": -0.021025440132471984,
+    "return_30_days": 0.035505336892625694,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HYB",
+    "close_price": 7.309999942779541,
+    "daily_return": -0.02010725128691704,
+    "return_5_days": -0.02272728286904513,
+    "return_30_days": 0.06559763855785805,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

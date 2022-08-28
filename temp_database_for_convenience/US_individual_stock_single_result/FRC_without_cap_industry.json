@@ -1,0 +1,13 @@
+{
+    "ticker": "FRC",
+    "close_price": 155.63999938964844,
+    "daily_return": -0.04097599464903423,
+    "return_5_days": -0.04830618943870435,
+    "return_30_days": -0.0010269811230761983,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

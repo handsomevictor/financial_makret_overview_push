@@ -1,0 +1,13 @@
+{
+    "ticker": "WTV",
+    "close_price": 57.77000045776367,
+    "daily_return": -0.027932018153927873,
+    "return_5_days": -0.032328312906385825,
+    "return_30_days": 0.06961677935715538,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

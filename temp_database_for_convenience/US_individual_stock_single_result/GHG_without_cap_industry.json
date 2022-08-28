@@ -1,0 +1,13 @@
+{
+    "ticker": "GHG",
+    "close_price": 4.46999979019165,
+    "daily_return": 0.018223217799343328,
+    "return_5_days": 0.04439242314705649,
+    "return_30_days": 0.10643560207891567,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

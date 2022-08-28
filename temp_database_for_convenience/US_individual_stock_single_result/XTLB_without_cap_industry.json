@@ -1,0 +1,13 @@
+{
+    "ticker": "XTLB",
+    "close_price": 1.6100000143051147,
+    "daily_return": -0.05294119462009894,
+    "return_5_days": -0.03592811037210075,
+    "return_30_days": 0.06622518177048398,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "FLAT"
+}

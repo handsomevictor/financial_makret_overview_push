@@ -1,0 +1,13 @@
+{
+    "ticker": "FDRV",
+    "close_price": 19.46500015258789,
+    "daily_return": -0.03928727800042153,
+    "return_5_days": -0.027673658627168085,
+    "return_30_days": 0.08247134760828922,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

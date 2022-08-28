@@ -1,0 +1,13 @@
+{
+    "ticker": "SPH",
+    "close_price": 16.399999618530273,
+    "daily_return": -0.007864553098310578,
+    "return_5_days": 0.004286570431797809,
+    "return_30_days": 0.045251756350246586,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

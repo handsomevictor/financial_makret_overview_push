@@ -1,0 +1,13 @@
+{
+    "ticker": "ARGT",
+    "close_price": 30.790000915527344,
+    "daily_return": -0.019426710522727153,
+    "return_5_days": 0.05300961547681671,
+    "return_30_days": 0.2738932899601567,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

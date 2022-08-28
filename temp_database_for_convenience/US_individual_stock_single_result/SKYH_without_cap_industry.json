@@ -1,0 +1,13 @@
+{
+    "ticker": "SKYH",
+    "close_price": 4.599999904632568,
+    "daily_return": -0.027484167847082297,
+    "return_5_days": 0.02222220102945993,
+    "return_30_days": -0.20552678153034243,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

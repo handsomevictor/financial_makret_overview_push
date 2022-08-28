@@ -1,0 +1,13 @@
+{
+    "ticker": "HDEF",
+    "close_price": 20.479999542236328,
+    "daily_return": -0.01774584328364015,
+    "return_5_days": -0.018687172080219083,
+    "return_30_days": 0.016881835297504866,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

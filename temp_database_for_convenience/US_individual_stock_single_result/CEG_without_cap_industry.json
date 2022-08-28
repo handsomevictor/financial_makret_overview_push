@@ -1,0 +1,13 @@
+{
+    "ticker": "CEG",
+    "close_price": 80.83000183105469,
+    "daily_return": -0.023084313294999492,
+    "return_5_days": -0.00012363319258656968,
+    "return_30_days": 0.4522098823687435,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

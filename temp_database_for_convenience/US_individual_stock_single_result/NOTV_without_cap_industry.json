@@ -1,0 +1,13 @@
+{
+    "ticker": "NOTV",
+    "close_price": 20.520000457763672,
+    "daily_return": -0.04779576871286095,
+    "return_5_days": -0.014882355596630648,
+    "return_30_days": 0.9213483025669218,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

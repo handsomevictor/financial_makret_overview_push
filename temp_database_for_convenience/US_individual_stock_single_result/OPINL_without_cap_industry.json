@@ -1,0 +1,13 @@
+{
+    "ticker": "OPINL",
+    "close_price": 24.350000381469727,
+    "daily_return": -0.015365918633261644,
+    "return_5_days": -0.009357182382027096,
+    "return_30_days": -0.004089995024511572,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

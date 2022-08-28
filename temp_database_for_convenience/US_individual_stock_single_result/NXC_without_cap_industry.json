@@ -1,0 +1,13 @@
+{
+    "ticker": "NXC",
+    "close_price": 13.569999694824219,
+    "daily_return": -0.01237264040217012,
+    "return_5_days": -0.018089725435640025,
+    "return_30_days": -0.020971482337075797,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

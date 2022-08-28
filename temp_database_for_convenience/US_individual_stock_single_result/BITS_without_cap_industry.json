@@ -1,0 +1,13 @@
+{
+    "ticker": "BITS",
+    "close_price": 7.340000152587891,
+    "daily_return": -0.061381075260451,
+    "return_5_days": -0.052903206117691615,
+    "return_30_days": 0.05611515885264318,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "KALV",
+    "close_price": 16.270000457763672,
+    "daily_return": -0.018697193448061866,
+    "return_5_days": 0.08394405127705351,
+    "return_30_days": 0.3195458684863772,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

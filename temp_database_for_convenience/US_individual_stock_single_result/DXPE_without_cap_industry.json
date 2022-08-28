@@ -1,0 +1,13 @@
+{
+    "ticker": "DXPE",
+    "close_price": 27.959999084472656,
+    "daily_return": -0.013060389701017527,
+    "return_5_days": -0.0216935213746845,
+    "return_30_days": -0.07447865171093182,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "HOOK",
+    "close_price": 1.600000023841858,
+    "daily_return": -0.05882354178643112,
+    "return_5_days": 0.025641078544558438,
+    "return_30_days": -0.03030300184167589,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

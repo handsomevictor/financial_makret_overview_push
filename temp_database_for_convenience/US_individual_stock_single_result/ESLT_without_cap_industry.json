@@ -1,0 +1,13 @@
+{
+    "ticker": "ESLT",
+    "close_price": 204.86000061035156,
+    "daily_return": -0.018493678553930026,
+    "return_5_days": -0.023313465504879116,
+    "return_30_days": -0.09349973171026638,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

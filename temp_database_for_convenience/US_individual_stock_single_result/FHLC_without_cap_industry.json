@@ -1,0 +1,13 @@
+{
+    "ticker": "FHLC",
+    "close_price": 60.959999084472656,
+    "daily_return": -0.028990119946042503,
+    "return_5_days": -0.04000001441775347,
+    "return_30_days": -0.015503861641812944,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

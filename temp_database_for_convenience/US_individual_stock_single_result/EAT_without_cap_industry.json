@@ -1,0 +1,13 @@
+{
+    "ticker": "EAT",
+    "close_price": 26.3799991607666,
+    "daily_return": -0.07794482355858845,
+    "return_5_days": -0.16624526960650754,
+    "return_30_days": 0.1479547296022008,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

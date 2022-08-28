@@ -1,0 +1,13 @@
+{
+    "ticker": "DWMF",
+    "close_price": 23.670000076293945,
+    "daily_return": -0.016209451301131272,
+    "return_5_days": -0.017026571790329625,
+    "return_30_days": 0.015008592883789973,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

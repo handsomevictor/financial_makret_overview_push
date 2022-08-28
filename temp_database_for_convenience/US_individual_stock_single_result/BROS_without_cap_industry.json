@@ -1,0 +1,13 @@
+{
+    "ticker": "BROS",
+    "close_price": 39.209999084472656,
+    "daily_return": -0.04085131947183618,
+    "return_5_days": -0.02656404486720565,
+    "return_30_days": 0.034291723616276526,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

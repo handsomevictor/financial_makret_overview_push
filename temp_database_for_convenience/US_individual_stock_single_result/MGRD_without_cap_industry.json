@@ -1,0 +1,13 @@
+{
+    "ticker": "MGRD",
+    "close_price": 18.06599998474121,
+    "daily_return": -0.00022134533207285312,
+    "return_5_days": -0.007907693957779016,
+    "return_30_days": 0.0311643557483805,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

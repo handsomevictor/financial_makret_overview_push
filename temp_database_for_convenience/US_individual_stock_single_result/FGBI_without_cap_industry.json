@@ -1,0 +1,13 @@
+{
+    "ticker": "FGBI",
+    "close_price": 23.399999618530273,
+    "daily_return": -0.01265827572791911,
+    "return_5_days": -0.07436712883905783,
+    "return_30_days": -0.019279169323312417,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

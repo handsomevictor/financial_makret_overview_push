@@ -1,0 +1,13 @@
+{
+    "ticker": "SPDV",
+    "close_price": 29.375,
+    "daily_return": -0.026382935250978123,
+    "return_5_days": -0.03212521809604385,
+    "return_30_days": 0.041241970090904134,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ENB",
+    "close_price": 43.56999969482422,
+    "daily_return": -0.018251495128353223,
+    "return_5_days": 0.006700575871227965,
+    "return_30_days": 0.04760758679903798,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

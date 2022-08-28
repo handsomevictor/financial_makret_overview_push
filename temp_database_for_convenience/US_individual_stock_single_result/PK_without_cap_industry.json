@@ -1,0 +1,13 @@
+{
+    "ticker": "PK",
+    "close_price": 14.220000267028809,
+    "daily_return": -0.04177896760000788,
+    "return_5_days": -0.04627763832627141,
+    "return_30_days": 0.025974070654332992,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

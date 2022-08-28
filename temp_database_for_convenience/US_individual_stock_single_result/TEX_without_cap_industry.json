@@ -1,0 +1,13 @@
+{
+    "ticker": "TEX",
+    "close_price": 34.88999938964844,
+    "daily_return": -0.04567838952168646,
+    "return_5_days": -0.04698173154951535,
+    "return_30_days": 0.20726643080221563,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

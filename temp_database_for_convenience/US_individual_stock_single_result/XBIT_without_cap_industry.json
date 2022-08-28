@@ -1,0 +1,13 @@
+{
+    "ticker": "XBIT",
+    "close_price": 4.300000190734863,
+    "daily_return": -0.0811965067397572,
+    "return_5_days": -0.061135313894202015,
+    "return_30_days": -0.17624514107940403,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

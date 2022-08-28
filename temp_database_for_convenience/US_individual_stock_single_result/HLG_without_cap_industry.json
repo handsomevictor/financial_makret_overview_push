@@ -1,0 +1,13 @@
+{
+    "ticker": "HLG",
+    "close_price": 14.260000228881836,
+    "daily_return": 0.015669534731236112,
+    "return_5_days": 0.02148998495093757,
+    "return_30_days": 0.0902140911359759,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

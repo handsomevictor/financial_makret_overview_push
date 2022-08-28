@@ -1,0 +1,13 @@
+{
+    "ticker": "BX",
+    "close_price": 98.55000305175781,
+    "daily_return": -0.06534521272870097,
+    "return_5_days": -0.04598257366575342,
+    "return_30_days": 0.05967745216943898,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

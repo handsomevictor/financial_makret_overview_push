@@ -1,0 +1,13 @@
+{
+    "ticker": "GSBC",
+    "close_price": 60.13999938964844,
+    "daily_return": -0.0046342070139417935,
+    "return_5_days": -0.040982295205623354,
+    "return_30_days": -0.0006646878584996019,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

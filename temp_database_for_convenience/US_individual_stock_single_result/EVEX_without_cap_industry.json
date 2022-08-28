@@ -1,0 +1,13 @@
+{
+    "ticker": "EVEX",
+    "close_price": 6.889999866485596,
+    "daily_return": -0.011477751235894229,
+    "return_5_days": -0.06639569652533028,
+    "return_30_days": 0.02682560764758679,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

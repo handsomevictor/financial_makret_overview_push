@@ -1,0 +1,13 @@
+{
+    "ticker": "DHI",
+    "close_price": 72.80999755859375,
+    "daily_return": -0.04960191908997791,
+    "return_5_days": -0.019790000603942537,
+    "return_30_days": -0.008848373726924152,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

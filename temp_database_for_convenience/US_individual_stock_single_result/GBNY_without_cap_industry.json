@@ -1,0 +1,13 @@
+{
+    "ticker": "GBNY",
+    "close_price": 11.109999656677246,
+    "daily_return": -0.011125946045375201,
+    "return_5_days": -0.0296943369652084,
+    "return_30_days": -0.021145437597016592,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ORGN",
+    "close_price": 6.210000038146973,
+    "daily_return": -0.03869969017395103,
+    "return_5_days": -0.0063999938964843794,
+    "return_30_days": 0.1716980782383586,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

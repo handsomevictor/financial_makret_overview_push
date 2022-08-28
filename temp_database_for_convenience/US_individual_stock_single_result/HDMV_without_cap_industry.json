@@ -1,0 +1,13 @@
+{
+    "ticker": "HDMV",
+    "close_price": 27.423999786376953,
+    "daily_return": -0.01727228368738487,
+    "return_5_days": -0.024577627258281498,
+    "return_30_days": -0.0012382692294332642,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

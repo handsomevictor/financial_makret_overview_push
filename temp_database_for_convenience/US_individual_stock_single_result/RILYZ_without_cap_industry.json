@@ -1,0 +1,13 @@
+{
+    "ticker": "RILYZ",
+    "close_price": 21.56999969482422,
+    "daily_return": -0.0025433667133308857,
+    "return_5_days": -0.019099594391336683,
+    "return_30_days": -0.0036951466566114144,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

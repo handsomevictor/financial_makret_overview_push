@@ -1,0 +1,13 @@
+{
+    "ticker": "UONEK",
+    "close_price": 4.070000171661377,
+    "daily_return": -0.01690813939171476,
+    "return_5_days": -0.04235290078555842,
+    "return_30_days": 0.09115285545557295,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

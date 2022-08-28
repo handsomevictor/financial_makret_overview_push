@@ -1,0 +1,13 @@
+{
+    "ticker": "HIVE",
+    "close_price": 4.329999923706055,
+    "daily_return": -0.11451941882812533,
+    "return_5_days": -0.18609026616744562,
+    "return_30_days": 0.22662888351280186,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

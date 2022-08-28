@@ -1,0 +1,13 @@
+{
+    "ticker": "KALA",
+    "close_price": 0.2930000126361847,
+    "daily_return": -0.07570974418419907,
+    "return_5_days": -0.05483867618469529,
+    "return_30_days": -0.13823526601684166,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

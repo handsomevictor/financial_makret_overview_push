@@ -1,0 +1,13 @@
+{
+    "ticker": "SBEV",
+    "close_price": 1.899999976158142,
+    "daily_return": -0.005235597192677299,
+    "return_5_days": -0.10798127977713567,
+    "return_30_days": -0.40625001629814506,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

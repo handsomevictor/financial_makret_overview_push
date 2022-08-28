@@ -1,0 +1,13 @@
+{
+    "ticker": "RESE",
+    "close_price": 28.445999145507812,
+    "daily_return": -0.013866793197286453,
+    "return_5_days": -0.0017196593185607734,
+    "return_30_days": 0.02785907605066118,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "BIPC",
+    "close_price": 48.849998474121094,
+    "daily_return": -0.01710266148430717,
+    "return_5_days": 0.0026682522611005677,
+    "return_30_days": 0.1502236183197434,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

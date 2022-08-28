@@ -1,0 +1,13 @@
+{
+    "ticker": "AATC",
+    "close_price": 5.289999961853027,
+    "daily_return": 0.027184439590890452,
+    "return_5_days": 0.0076190403529579065,
+    "return_30_days": 0.03522501441009407,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

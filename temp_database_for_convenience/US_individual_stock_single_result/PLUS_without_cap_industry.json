@@ -1,0 +1,13 @@
+{
+    "ticker": "PLUS",
+    "close_price": 49.13999938964844,
+    "daily_return": -0.03854433960433434,
+    "return_5_days": -0.07943052816833729,
+    "return_30_days": -0.03779127309004804,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

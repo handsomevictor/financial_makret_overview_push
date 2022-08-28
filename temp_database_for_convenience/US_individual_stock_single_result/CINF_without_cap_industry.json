@@ -1,0 +1,13 @@
+{
+    "ticker": "CINF",
+    "close_price": 100.83000183105469,
+    "daily_return": -0.02030699936915903,
+    "return_5_days": -0.029360757633856593,
+    "return_30_days": -0.10277625649267397,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

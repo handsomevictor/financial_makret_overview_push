@@ -1,0 +1,13 @@
+{
+    "ticker": "AUDC",
+    "close_price": 22.520000457763672,
+    "daily_return": -0.010979358584718879,
+    "return_5_days": -0.022145037502216414,
+    "return_30_days": 0.009865525929593444,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

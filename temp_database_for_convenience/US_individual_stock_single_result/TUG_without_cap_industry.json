@@ -1,0 +1,13 @@
+{
+    "ticker": "TUG",
+    "close_price": 24.47599983215332,
+    "daily_return": -0.020019218584247267,
+    "return_5_days": -0.022914148598376594,
+    "return_30_days": 0.022816528207877385,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

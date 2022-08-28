@@ -1,0 +1,13 @@
+{
+    "ticker": "USAK",
+    "close_price": 31.350000381469727,
+    "daily_return": -0.0015923324098080505,
+    "return_5_days": 0.0012775763720742628,
+    "return_30_days": 0.008687273437144816,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

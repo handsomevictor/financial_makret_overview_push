@@ -1,0 +1,13 @@
+{
+    "ticker": "IHIT",
+    "close_price": 8.550000190734863,
+    "daily_return": -0.001168250980329244,
+    "return_5_days": 0.0011709869937359674,
+    "return_30_days": 0.0227273375431134,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

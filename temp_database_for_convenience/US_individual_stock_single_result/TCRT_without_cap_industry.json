@@ -1,0 +1,13 @@
+{
+    "ticker": "TCRT",
+    "close_price": 2.680000066757202,
+    "daily_return": 0.10743800920098656,
+    "return_5_days": 0.4888889654183115,
+    "return_30_days": 1.0303030001996758,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

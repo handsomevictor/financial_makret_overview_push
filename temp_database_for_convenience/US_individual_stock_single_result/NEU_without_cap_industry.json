@@ -1,0 +1,13 @@
+{
+    "ticker": "NEU",
+    "close_price": 287.6400146484375,
+    "daily_return": -0.02435381757482047,
+    "return_5_days": -0.04748657466119455,
+    "return_30_days": -0.04745500054421681,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

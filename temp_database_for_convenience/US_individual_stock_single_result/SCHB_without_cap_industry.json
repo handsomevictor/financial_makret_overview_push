@@ -1,0 +1,13 @@
+{
+    "ticker": "SCHB",
+    "close_price": 47.709999084472656,
+    "daily_return": -0.03381939950424384,
+    "return_5_days": -0.03829876038103608,
+    "return_30_days": 0.05787141238705851,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

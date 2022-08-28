@@ -1,0 +1,13 @@
+{
+    "ticker": "BIP",
+    "close_price": 43.0099983215332,
+    "daily_return": -0.006008831372309786,
+    "return_5_days": 0.013191932827540498,
+    "return_30_days": 0.1396395444802878,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

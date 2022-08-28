@@ -1,0 +1,13 @@
+{
+    "ticker": "HSTM",
+    "close_price": 22.84000015258789,
+    "daily_return": -0.01974245062381763,
+    "return_5_days": -0.03588013348702701,
+    "return_30_days": 0.018279083452240608,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "VERY BULL"
+}

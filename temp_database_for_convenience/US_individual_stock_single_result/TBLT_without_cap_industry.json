@@ -1,0 +1,13 @@
+{
+    "ticker": "TBLT",
+    "close_price": 3.4100000858306885,
+    "daily_return": -0.07588074987746318,
+    "return_5_days": -0.2969071849726096,
+    "return_30_days": 0.29166664785206997,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

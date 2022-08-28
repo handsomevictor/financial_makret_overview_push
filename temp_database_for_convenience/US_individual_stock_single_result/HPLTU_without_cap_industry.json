@@ -1,0 +1,13 @@
+{
+    "ticker": "HPLTU",
+    "close_price": 9.800000190734863,
+    "daily_return": 0.0,
+    "return_5_days": -0.0030518548529022693,
+    "return_30_days": -0.006085138745593355,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

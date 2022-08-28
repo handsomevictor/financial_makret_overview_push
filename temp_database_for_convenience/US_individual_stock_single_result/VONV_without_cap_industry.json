@@ -1,0 +1,13 @@
+{
+    "ticker": "VONV",
+    "close_price": 67.26000213623047,
+    "daily_return": -0.027753659446018597,
+    "return_5_days": -0.03097538412971701,
+    "return_30_days": 0.05159479516876564,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ETPA",
+    "close_price": 27.468000411987305,
+    "daily_return": -0.03404136952940218,
+    "return_5_days": -0.05020745713956154,
+    "return_30_days": 0.06115511566962217,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

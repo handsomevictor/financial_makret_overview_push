@@ -1,0 +1,13 @@
+{
+    "ticker": "RETO",
+    "close_price": 0.5920000076293945,
+    "daily_return": -0.029508206973117956,
+    "return_5_days": -0.09062982055981128,
+    "return_30_days": -0.1834482921913314,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

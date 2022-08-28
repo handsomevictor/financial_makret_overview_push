@@ -1,0 +1,13 @@
+{
+    "ticker": "COHN",
+    "close_price": 11.859999656677246,
+    "daily_return": -0.05798256450065187,
+    "return_5_days": -0.01248963941265091,
+    "return_30_days": 0.1255192560633911,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

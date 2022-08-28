@@ -1,0 +1,13 @@
+{
+    "ticker": "NERV",
+    "close_price": 10.329999923706055,
+    "daily_return": 0.5819294933849983,
+    "return_5_days": 2.3268920644929545,
+    "return_30_days": 2.3868852738378106,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ALCO",
+    "close_price": 33.97999954223633,
+    "daily_return": -0.008751436631955989,
+    "return_5_days": -0.0061421202956295495,
+    "return_30_days": -0.03630172547442212,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

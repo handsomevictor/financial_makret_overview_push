@@ -1,0 +1,13 @@
+{
+    "ticker": "MUB",
+    "close_price": 106.16000366210938,
+    "daily_return": -0.002443098208131822,
+    "return_5_days": -0.006736467157661519,
+    "return_30_days": -0.012005521849890899,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

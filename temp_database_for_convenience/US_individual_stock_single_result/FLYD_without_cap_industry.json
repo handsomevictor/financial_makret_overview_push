@@ -1,0 +1,13 @@
+{
+    "ticker": "FLYD",
+    "close_price": 14.140000343322754,
+    "daily_return": 0.11443889103188343,
+    "return_5_days": 0.05483033383012614,
+    "return_30_days": -0.3869233069509893,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

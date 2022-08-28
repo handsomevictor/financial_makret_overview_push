@@ -1,0 +1,13 @@
+{
+    "ticker": "TYG",
+    "close_price": 35.150001525878906,
+    "daily_return": -0.01952571765790989,
+    "return_5_days": -0.024424015632318663,
+    "return_30_days": 0.20500519142764118,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

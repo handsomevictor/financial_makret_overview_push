@@ -1,0 +1,13 @@
+{
+    "ticker": "RLAY",
+    "close_price": 24.56999969482422,
+    "daily_return": -0.07248018470680795,
+    "return_5_days": 0.26453933653718154,
+    "return_30_days": 0.26649485453369426,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

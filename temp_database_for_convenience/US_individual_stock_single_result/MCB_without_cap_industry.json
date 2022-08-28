@@ -1,0 +1,13 @@
+{
+    "ticker": "MCB",
+    "close_price": 74.30999755859375,
+    "daily_return": -0.03254784636717245,
+    "return_5_days": -0.049258008228344585,
+    "return_30_days": 0.13502361651240036,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

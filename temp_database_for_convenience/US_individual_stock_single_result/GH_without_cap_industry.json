@@ -1,0 +1,13 @@
+{
+    "ticker": "GH",
+    "close_price": 50.27000045776367,
+    "daily_return": -0.06682752080008514,
+    "return_5_days": 0.05255448543637842,
+    "return_30_days": 0.03202630676682361,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

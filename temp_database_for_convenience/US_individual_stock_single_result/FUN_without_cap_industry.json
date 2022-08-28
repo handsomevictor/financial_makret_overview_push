@@ -1,0 +1,13 @@
+{
+    "ticker": "FUN",
+    "close_price": 42.900001525878906,
+    "daily_return": -0.016506130757366066,
+    "return_5_days": -0.01942853655133925,
+    "return_30_days": 0.06955873530471335,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

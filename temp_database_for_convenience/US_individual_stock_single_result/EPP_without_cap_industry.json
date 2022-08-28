@@ -1,0 +1,13 @@
+{
+    "ticker": "EPP",
+    "close_price": 42.61000061035156,
+    "daily_return": -0.017070308876972473,
+    "return_5_days": -0.00536880348779456,
+    "return_30_days": 0.039521806917509394,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

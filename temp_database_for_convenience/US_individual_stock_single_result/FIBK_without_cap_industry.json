@@ -1,0 +1,13 @@
+{
+    "ticker": "FIBK",
+    "close_price": 40.209999084472656,
+    "daily_return": -0.011553618907995111,
+    "return_5_days": -0.02331792876291139,
+    "return_30_days": 0.05871510187240503,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ZY",
+    "close_price": 2.4600000381469727,
+    "daily_return": -0.04651158492543972,
+    "return_5_days": -0.027667958116357805,
+    "return_30_days": 0.24873096569568198,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

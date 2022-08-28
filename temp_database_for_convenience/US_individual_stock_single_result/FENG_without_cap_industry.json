@@ -1,0 +1,13 @@
+{
+    "ticker": "FENG",
+    "close_price": 4.699999809265137,
+    "daily_return": -0.06930700361395337,
+    "return_5_days": -0.040816384124437,
+    "return_30_days": -0.060000038146972745,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

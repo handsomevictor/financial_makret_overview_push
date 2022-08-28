@@ -1,0 +1,13 @@
+{
+    "ticker": "ZEAL",
+    "close_price": 18.920000076293945,
+    "daily_return": -0.06567900857807674,
+    "return_5_days": -0.012010420199370042,
+    "return_30_days": 0.25797873166768803,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

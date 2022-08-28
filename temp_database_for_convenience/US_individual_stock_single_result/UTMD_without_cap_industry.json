@@ -1,0 +1,13 @@
+{
+    "ticker": "UTMD",
+    "close_price": 89.12999725341797,
+    "daily_return": -0.02802616990570672,
+    "return_5_days": -0.03934039204464179,
+    "return_30_days": 0.07827236032744556,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

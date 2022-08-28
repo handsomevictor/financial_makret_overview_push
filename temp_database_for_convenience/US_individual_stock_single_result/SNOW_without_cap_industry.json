@@ -1,0 +1,13 @@
+{
+    "ticker": "SNOW",
+    "close_price": 197.7100067138672,
+    "daily_return": 0.007285550965273169,
+    "return_5_days": 0.2843315809944915,
+    "return_30_days": 0.33632991410626856,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

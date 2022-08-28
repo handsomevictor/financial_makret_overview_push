@@ -1,0 +1,13 @@
+{
+    "ticker": "TSI",
+    "close_price": 4.909999847412109,
+    "daily_return": -0.006072916894909852,
+    "return_5_days": -0.019960155070101737,
+    "return_30_days": 0.02291659423046921,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

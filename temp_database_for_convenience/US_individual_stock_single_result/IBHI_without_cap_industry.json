@@ -1,0 +1,13 @@
+{
+    "ticker": "IBHI",
+    "close_price": 22.746999740600586,
+    "daily_return": -0.016473560814838972,
+    "return_5_days": -0.017365779270435255,
+    "return_30_days": 0.015037924831908578,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

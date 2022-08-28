@@ -1,0 +1,13 @@
+{
+    "ticker": "GRWG",
+    "close_price": 4.920000076293945,
+    "daily_return": -0.07344630333111613,
+    "return_5_days": -0.0120481812348876,
+    "return_30_days": 0.17142864279195913,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

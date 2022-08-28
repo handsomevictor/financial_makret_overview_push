@@ -1,0 +1,13 @@
+{
+    "ticker": "MSTR",
+    "close_price": 249.1999969482422,
+    "daily_return": -0.08654375140808623,
+    "return_5_days": -0.11943463975886137,
+    "return_30_days": 0.16459483093713478,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

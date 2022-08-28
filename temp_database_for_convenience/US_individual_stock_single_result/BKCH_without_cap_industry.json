@@ -1,0 +1,13 @@
+{
+    "ticker": "BKCH",
+    "close_price": 6.619999885559082,
+    "daily_return": -0.07541899069288438,
+    "return_5_days": -0.07412590248100026,
+    "return_30_days": 0.15532283831117755,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "FLAT"
+}

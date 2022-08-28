@@ -1,0 +1,13 @@
+{
+    "ticker": "CSGP",
+    "close_price": 70.31999969482422,
+    "daily_return": -0.030068969726562478,
+    "return_5_days": -0.019793674536230377,
+    "return_30_days": 0.17376063885704962,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

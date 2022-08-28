@@ -1,0 +1,13 @@
+{
+    "ticker": "AFGB",
+    "close_price": 25.170000076293945,
+    "daily_return": 0.012062695091963338,
+    "return_5_days": -0.017756094583650794,
+    "return_30_days": 0.02433662544764159,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

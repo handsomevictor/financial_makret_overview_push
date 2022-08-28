@@ -1,0 +1,13 @@
+{
+    "ticker": "BNE",
+    "close_price": 25.108999252319336,
+    "daily_return": -0.025385289895072494,
+    "return_5_days": 0.0027155019813087655,
+    "return_30_days": 0.15327025497954438,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

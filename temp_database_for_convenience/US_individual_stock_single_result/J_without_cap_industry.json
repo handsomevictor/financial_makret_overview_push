@@ -1,0 +1,13 @@
+{
+    "ticker": "J",
+    "close_price": 127.55999755859375,
+    "daily_return": -0.04578093546152817,
+    "return_5_days": -0.061506774006576115,
+    "return_30_days": 0.01681945525452755,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

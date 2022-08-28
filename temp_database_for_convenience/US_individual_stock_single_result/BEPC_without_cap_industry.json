@@ -1,0 +1,13 @@
+{
+    "ticker": "BEPC",
+    "close_price": 39.29999923706055,
+    "daily_return": -0.025539363928345327,
+    "return_5_days": -0.035582840808330074,
+    "return_30_days": 0.09807203776880535,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

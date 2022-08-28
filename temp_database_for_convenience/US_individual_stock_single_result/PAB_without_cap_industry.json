@@ -1,0 +1,13 @@
+{
+    "ticker": "PAB",
+    "close_price": 43.573001861572266,
+    "daily_return": -0.0007338076138051486,
+    "return_5_days": -0.002723598771949054,
+    "return_30_days": -0.0018325892053501214,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ZIONO",
+    "close_price": 25.420000076293945,
+    "daily_return": -0.0035280341740645538,
+    "return_5_days": 0.0023659094833732297,
+    "return_30_days": 0.002365909483373674,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

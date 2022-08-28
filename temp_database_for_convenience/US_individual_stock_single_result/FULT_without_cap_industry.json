@@ -1,0 +1,13 @@
+{
+    "ticker": "FULT",
+    "close_price": 16.6299991607666,
+    "daily_return": -0.02003536631379399,
+    "return_5_days": -0.04370329244141502,
+    "return_30_days": 0.1540596347579548,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "WFHY",
+    "close_price": 45.349998474121094,
+    "daily_return": -0.016268981015715722,
+    "return_5_days": -0.020306814059511957,
+    "return_30_days": 0.0016122544821026707,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

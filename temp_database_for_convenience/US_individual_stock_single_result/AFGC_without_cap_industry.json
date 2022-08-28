@@ -1,0 +1,13 @@
+{
+    "ticker": "AFGC",
+    "close_price": 22.913999557495117,
+    "daily_return": -0.01019438725373678,
+    "return_5_days": -0.08709166497019027,
+    "return_30_days": 0.009560693005282284,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

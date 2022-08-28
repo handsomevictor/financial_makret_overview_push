@@ -1,0 +1,13 @@
+{
+    "ticker": "PHDG",
+    "close_price": 34.93000030517578,
+    "daily_return": -0.0019999912806919484,
+    "return_5_days": -0.019371101836034743,
+    "return_30_days": 0.061057176428599425,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

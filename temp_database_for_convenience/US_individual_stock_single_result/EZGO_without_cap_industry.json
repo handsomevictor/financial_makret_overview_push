@@ -1,0 +1,13 @@
+{
+    "ticker": "EZGO",
+    "close_price": 0.6050000190734863,
+    "daily_return": 0.00833332505491069,
+    "return_5_days": -0.05468744906829581,
+    "return_30_days": -0.12318837512468428,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

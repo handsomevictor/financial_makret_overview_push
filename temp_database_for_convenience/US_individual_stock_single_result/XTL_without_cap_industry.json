@@ -1,0 +1,13 @@
+{
+    "ticker": "XTL",
+    "close_price": 88.41000366210938,
+    "daily_return": -0.025140574682087524,
+    "return_5_days": -0.021363656785668428,
+    "return_30_days": 0.11868916902058468,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

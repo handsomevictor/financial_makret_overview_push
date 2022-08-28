@@ -1,0 +1,13 @@
+{
+    "ticker": "HII",
+    "close_price": 236.1999969482422,
+    "daily_return": -0.02227007551136173,
+    "return_5_days": 0.0030149536647692265,
+    "return_30_days": 0.1542784113381097,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

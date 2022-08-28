@@ -1,0 +1,13 @@
+{
+    "ticker": "ASM",
+    "close_price": 0.5600000023841858,
+    "daily_return": -0.034482726727597,
+    "return_5_days": -0.06666669978035689,
+    "return_30_days": 0.07692312100935439,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BEAR"
+}

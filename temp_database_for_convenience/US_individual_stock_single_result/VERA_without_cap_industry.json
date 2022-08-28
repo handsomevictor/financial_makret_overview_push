@@ -1,0 +1,13 @@
+{
+    "ticker": "VERA",
+    "close_price": 19.639999389648438,
+    "daily_return": -0.04660198903126411,
+    "return_5_days": 0.05591392402415263,
+    "return_30_days": 0.2313479388407158,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

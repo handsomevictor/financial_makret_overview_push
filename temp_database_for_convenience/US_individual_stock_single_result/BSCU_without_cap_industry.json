@@ -1,0 +1,13 @@
+{
+    "ticker": "BSCU",
+    "close_price": 16.6299991607666,
+    "daily_return": -0.008348318018814194,
+    "return_5_days": -0.010119052619891211,
+    "return_30_days": -0.003236685114049176,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

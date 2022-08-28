@@ -1,0 +1,13 @@
+{
+    "ticker": "HYRM",
+    "close_price": 22.679000854492188,
+    "daily_return": -0.014941573728677993,
+    "return_5_days": -0.013742116686600081,
+    "return_30_days": 0.005052085873541445,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "CHIM",
+    "close_price": 19.31999969482422,
+    "daily_return": -0.0117646829264485,
+    "return_5_days": 0.004680195253786712,
+    "return_30_days": -0.013278867716798759,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

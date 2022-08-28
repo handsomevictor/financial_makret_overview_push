@@ -1,0 +1,13 @@
+{
+    "ticker": "DLO",
+    "close_price": 26.190000534057617,
+    "daily_return": -0.05417117988694364,
+    "return_5_days": -0.0903091454945898,
+    "return_30_days": 0.034360223132673395,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BULL"
+}

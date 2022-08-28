@@ -1,0 +1,13 @@
+{
+    "ticker": "SLNO",
+    "close_price": 1.9199999570846558,
+    "daily_return": -0.2000000496705353,
+    "return_5_days": -0.2558139481156799,
+    "return_30_days": -0.3081081473510967,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "ISRG",
+    "close_price": 211.08999633789062,
+    "daily_return": -0.0619056424765837,
+    "return_5_days": -0.060904006209413386,
+    "return_30_days": 0.0008059841191969674,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

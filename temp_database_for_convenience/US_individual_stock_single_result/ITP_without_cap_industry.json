@@ -1,0 +1,13 @@
+{
+    "ticker": "ITP",
+    "close_price": 0.9800000190734863,
+    "daily_return": 0.010309268214748757,
+    "return_5_days": -0.01999998092651356,
+    "return_30_days": 0.07692306684621442,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

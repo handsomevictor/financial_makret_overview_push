@@ -1,0 +1,13 @@
+{
+    "ticker": "SBBA",
+    "close_price": 25.299999237060547,
+    "daily_return": -0.00011857327032849252,
+    "return_5_days": -0.0003951098021669486,
+    "return_30_days": 0.011999969482422213,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

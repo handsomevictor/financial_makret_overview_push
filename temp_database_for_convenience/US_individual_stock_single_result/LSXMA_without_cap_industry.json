@@ -1,0 +1,13 @@
+{
+    "ticker": "LSXMA",
+    "close_price": 42.36000061035156,
+    "daily_return": -0.012126876045027268,
+    "return_5_days": -0.015799263260016683,
+    "return_30_days": 0.16054796192744036,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

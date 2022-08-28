@@ -1,0 +1,13 @@
+{
+    "ticker": "WNEB",
+    "close_price": 8.6899995803833,
+    "daily_return": -0.0344444910685221,
+    "return_5_days": -0.042951580021993396,
+    "return_30_days": 0.16331992295281528,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

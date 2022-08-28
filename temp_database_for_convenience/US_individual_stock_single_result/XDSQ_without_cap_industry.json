@@ -1,0 +1,13 @@
+{
+    "ticker": "XDSQ",
+    "close_price": 24.5,
+    "daily_return": -0.014718862432878232,
+    "return_5_days": -0.01685393559422521,
+    "return_30_days": 0.048352551141956246,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

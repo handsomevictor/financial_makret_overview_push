@@ -1,0 +1,13 @@
+{
+    "ticker": "SCTL",
+    "close_price": 1.2100000381469727,
+    "daily_return": 0.00833332505491069,
+    "return_5_days": -0.031999969482421786,
+    "return_30_days": 0.4938272031918649,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

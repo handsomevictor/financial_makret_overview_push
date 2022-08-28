@@ -1,0 +1,13 @@
+{
+    "ticker": "WDS",
+    "close_price": 24.56999969482422,
+    "daily_return": -0.005263200975697546,
+    "return_5_days": 0.0664061943793488,
+    "return_30_days": 0.17391301178090757,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

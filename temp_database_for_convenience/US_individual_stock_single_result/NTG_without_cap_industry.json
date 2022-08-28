@@ -1,0 +1,13 @@
+{
+    "ticker": "NTG",
+    "close_price": 38.400001525878906,
+    "daily_return": -0.018404842169334135,
+    "return_5_days": 0.002087730472124516,
+    "return_30_days": 0.21212124861012782,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

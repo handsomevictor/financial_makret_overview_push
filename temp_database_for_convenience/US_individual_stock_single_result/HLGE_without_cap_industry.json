@@ -1,0 +1,13 @@
+{
+    "ticker": "HLGE",
+    "close_price": 24.027999877929688,
+    "daily_return": -0.0331952175457958,
+    "return_5_days": -0.04236577825313903,
+    "return_30_days": 0.03882407046024783,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

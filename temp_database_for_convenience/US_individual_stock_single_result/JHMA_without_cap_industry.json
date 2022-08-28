@@ -1,0 +1,13 @@
+{
+    "ticker": "JHMA",
+    "close_price": 44.5099983215332,
+    "daily_return": -0.02774138251698699,
+    "return_5_days": -0.00500744025411981,
+    "return_30_days": 0.10537164950445943,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "BULL"
+}

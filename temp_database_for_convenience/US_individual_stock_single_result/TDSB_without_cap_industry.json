@@ -1,0 +1,13 @@
+{
+    "ticker": "TDSB",
+    "close_price": 21.780000686645508,
+    "daily_return": -0.002655859463739585,
+    "return_5_days": -0.022441651013938135,
+    "return_30_days": -0.005025066517587717,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "FLAT"
+}

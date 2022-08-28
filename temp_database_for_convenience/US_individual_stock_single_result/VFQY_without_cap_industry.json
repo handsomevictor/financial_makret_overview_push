@@ -1,0 +1,13 @@
+{
+    "ticker": "VFQY",
+    "close_price": 107.26000213623047,
+    "daily_return": -0.031424921389470284,
+    "return_5_days": -0.03512795166766758,
+    "return_30_days": 0.06662693655827523,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

@@ -1,0 +1,13 @@
+{
+    "ticker": "TSE",
+    "close_price": 28.8700008392334,
+    "daily_return": -0.045935207506103914,
+    "return_5_days": -0.03218233613570165,
+    "return_30_days": -0.28645572188574664,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

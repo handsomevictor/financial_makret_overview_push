@@ -1,0 +1,13 @@
+{
+    "ticker": "SARK",
+    "close_price": 55.939998626708984,
+    "daily_return": 0.06532089915853634,
+    "return_5_days": 0.037078236020007704,
+    "return_30_days": -0.017734892409127512,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

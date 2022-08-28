@@ -1,0 +1,13 @@
+{
+    "ticker": "SY",
+    "close_price": 0.9240000247955322,
+    "daily_return": -0.05521468429314591,
+    "return_5_days": 0.16080404568770845,
+    "return_30_days": 0.0347144657201206,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}

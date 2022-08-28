@@ -1,0 +1,13 @@
+{
+    "ticker": "DKL",
+    "close_price": 62.310001373291016,
+    "daily_return": -0.008118406940635814,
+    "return_5_days": 0.1055713395760085,
+    "return_30_days": 0.26159145866178135,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "VERY BULL",
+    "trend_60_days_first_method": "VERY BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

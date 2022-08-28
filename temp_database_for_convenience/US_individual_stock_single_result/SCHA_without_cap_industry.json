@@ -1,0 +1,13 @@
+{
+    "ticker": "SCHA",
+    "close_price": 43.33000183105469,
+    "daily_return": -0.03238045975366499,
+    "return_5_days": -0.028693090378480224,
+    "return_30_days": 0.09116098791343274,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_second_method": "VERY BULL"
+}

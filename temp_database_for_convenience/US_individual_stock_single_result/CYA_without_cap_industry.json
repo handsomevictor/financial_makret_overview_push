@@ -1,0 +1,13 @@
+{
+    "ticker": "CYA",
+    "close_price": 16.899999618530273,
+    "daily_return": 0.024863544760638234,
+    "return_5_days": 0.017459301476363542,
+    "return_30_days": -0.07952074854497138,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "BEAR",
+    "trend_60_days_first_method": "BEAR",
+    "trend_30_days_second_method": "BEAR",
+    "trend_60_days_second_method": "BEAR"
+}

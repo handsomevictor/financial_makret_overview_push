@@ -1,0 +1,13 @@
+{
+    "ticker": "HRZN",
+    "close_price": 12.850000381469727,
+    "daily_return": -0.015325655658390835,
+    "return_5_days": -0.013056841038172173,
+    "return_30_days": 0.0708333651224764,
+    "outlier_daily_return": false,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
+    "trend_60_days_second_method": "BULL"
+}

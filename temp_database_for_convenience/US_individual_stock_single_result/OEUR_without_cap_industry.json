@@ -1,0 +1,13 @@
+{
+    "ticker": "OEUR",
+    "close_price": 22.40999984741211,
+    "daily_return": -0.030835071954715243,
+    "return_5_days": -0.045773929529540736,
+    "return_30_days": -0.009283863131298031,
+    "outlier_daily_return": true,
+    "data_p_value": 0,
+    "trend_30_days_first_method": "FLAT",
+    "trend_60_days_first_method": "FLAT",
+    "trend_30_days_second_method": "FLAT",
+    "trend_60_days_second_method": "BEAR"
+}
