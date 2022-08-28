@@ -175,21 +175,25 @@ def judge_if_individual_processed_already_exists(ticker, platform_name, basic_or
 
     file_name = os.path.join(file_dir, f'{ticker}_{file_kind}.json')
 
-    m_time = os.path.getmtime(file_name)
-    dt_m = datetime.datetime.fromtimestamp(m_time)
-    days_diff = (datetime.datetime.now() - dt_m).seconds / 3600
+    try:
+        m_time = os.path.getmtime(file_name)
+        dt_m = datetime.datetime.fromtimestamp(m_time)
+        days_diff = (datetime.datetime.now() - dt_m).seconds / 3600
 
-    if days_diff < 8:
-        with open(file_name, 'rb') as f:
-            try:
-                basic_ticker_data = json.load(f)
-                print(f'{basic_or_cap} {ticker} json file exists, data loaded!')
-            except EOFError:  # EOFError: Ran out of input - means it is an empty file!
-                print(f'{basic_or_cap} {ticker} json file exists, but is empty!')
-                return False, None
-        return True, basic_ticker_data
+        # 8小时以内的数据默认自动获取，不再下载！
+        if days_diff < 8:
+            with open(file_name, 'rb') as f:
+                try:
+                    basic_ticker_data = json.load(f)
+                    print(f'{basic_or_cap} {ticker} json file exists, data loaded!')
+                except EOFError:  # EOFError: Ran out of input - means it is an empty file!
+                    print(f'{basic_or_cap} {ticker} json file exists, but is empty!')
+                    return False, None
+            return True, basic_ticker_data
 
-    else:
+        else:
+            return False, None
+    except FileNotFoundError:
         return False, None
 
 
