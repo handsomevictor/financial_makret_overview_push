@@ -46,6 +46,8 @@ web.get_quote_yahoo('tsla')的marketState来判断美股现在开盘了没！！
 22. 一定要比较财务数据，用yfinance.info来做！ yf.Ticker(ticker).info() 这里有非常多的财务数据！
 
 
+在commit的时候，一定要把temp for convenience给删掉，不然linux就不下载数据了！第一次一定要下载的！
+
 实时需求：
 1. 加入crypto价格过量变化的提醒，还有美股什么的实时提醒
 
