@@ -150,6 +150,9 @@ def save_individual_processed_basic_res(ticker, features, platform_name):
     else:
         file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
 
+    if not os.path.exists(file_dir):
+        os.makedirs(file_dir)
+
     file_name = os.path.join(file_dir, f'{ticker}_without_cap_industry.json')
 
     if not os.path.exists(file_dir):
@@ -166,6 +169,10 @@ def judge_if_individual_processed_already_exists(ticker, platform_name, file_kin
                                 'US_individual_stock_single_result')
     else:
         file_dir = os.path.join(os.getcwd(), 'temp_database_for_convenience', 'US_individual_stock_single_result')
+
+    if not os.path.exists(file_dir):
+        os.makedirs(file_dir)
+
     file_name = os.path.join(file_dir, f'{ticker}_{file_kind}.json')
 
     m_time = os.path.getmtime(file_name)
