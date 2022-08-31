@@ -50,7 +50,7 @@ def us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tick
                     with open(file_loc, 'rb') as f:
                         common_tickers = pickle.load(f)
                         print('Common tickers file exists, data loaded!')  # 在多线程的时候，这句话会被打印n多次！
-                    return common_tickers
+                    return common_tickers.ticker.to_list()
                 else:
                     raise FileNotFoundError
 
@@ -76,7 +76,7 @@ def us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tick
             continue
 
 
-us_common_total_ticker_list = us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tickers).ticker.to_list()
+us_common_total_ticker_list = us_common_tickers(us_nasdaq_ticker_list, us_other_ticker_list, us_sp500_tickers)
 
 
 if __name__ == '__main__':

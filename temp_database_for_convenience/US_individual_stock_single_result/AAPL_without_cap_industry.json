@@ -1,13 +1,13 @@
 {
     "ticker": "AAPL",
-    "close_price": 163.6199951171875,
-    "daily_return": -0.03769925135640162,
-    "return_5_days": -0.046058820886712426,
-    "return_30_days": 0.08956514025598272,
-    "outlier_daily_return": true,
+    "close_price": 157.22000122070312,
+    "daily_return": -0.010634965719336975,
+    "return_5_days": -0.061541202374006176,
+    "return_30_days": 0.028740129139032566,
+    "outlier_daily_return": false,
     "data_p_value": 0,
     "trend_30_days_first_method": "BULL",
-    "trend_60_days_first_method": "VERY BULL",
-    "trend_30_days_second_method": "VERY BULL",
+    "trend_60_days_first_method": "BULL",
+    "trend_30_days_second_method": "BULL",
     "trend_60_days_second_method": "VERY BULL"
 }
